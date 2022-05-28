@@ -8,6 +8,10 @@
 
 ## 2022
 
+* [Signatures of Dissipation Driven Quantum Phase Transition in Rabi Model](https://arxiv.org/abs/2205.11555),  G. De Filippis,  A. de Candia,  G. Di Bello,  C. A. Perroni,  L. M. Cangemi,  A. Nocera,  M. Sassetti,  R. Fazio,  V. Cataudella,  arxiv:2205.11555
+
+* [Kondo nanomechanical dissipation in the driven Anderson impurity model](https://arxiv.org/abs/2205.09789),  Lucas Kohn,  Giuseppe E. Santoro,  Michele Fabrizio,  Erio Tosatti,  arxiv:2205.09789
+
 * [Excitonic effects on high-harmonic generation in Mott insulators](https://arxiv.org/abs/2205.06390),  Mina Udono,  Koudai Sugimoto,  Tatsuya Kaneko,  Yukinori Ohta,  arxiv:2205.06390
 
 * [Tensor network calculation of the logarithmic correction exponent in the XY model](https://arxiv.org/abs/2205.02773),  Seongpyo Hong,  Dong-Hee Kim,  arxiv:2205.02773
