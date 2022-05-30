@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [Learning of error statistics for the detection of quantum phases](https://arxiv.org/abs/https://arxiv.org/abs/2205.12966), Amit Jamadagni, Javad Kazemi, Hendrik Weimer, arxiv:2205.12966
+
 * [Signatures of Dissipation Driven Quantum Phase Transition in Rabi Model](https://arxiv.org/abs/2205.11555),  G. De Filippis,  A. de Candia,  G. Di Bello,  C. A. Perroni,  L. M. Cangemi,  A. Nocera,  M. Sassetti,  R. Fazio,  V. Cataudella,  arxiv:2205.11555
 
 * [Kondo nanomechanical dissipation in the driven Anderson impurity model](https://arxiv.org/abs/2205.09789),  Lucas Kohn,  Giuseppe E. Santoro,  Michele Fabrizio,  Erio Tosatti,  arxiv:2205.09789
