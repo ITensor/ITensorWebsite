@@ -5,7 +5,7 @@ from os.path import exists
 
 infile = None
 if len(sys.argv) < 2:
-    print("Usage: py papers_script.py input_file")
+    print("Usage: py papers_script.py [input_file] [arxiv_number1] [arxiv_number2] ...")
 
 lines = []
 for n in range(1,len(sys.argv)):
