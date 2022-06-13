@@ -8,6 +8,14 @@
 
 ## 2022
 
+* [Extracting electronic many-body correlations from local measurements with artificial neural networks](https://arxiv.org/abs/2206.02388),  Faluke Aikebaier,  Teemu Ojanen,  Jose L. Lado,  arxiv:2206.02388
+
+* [Reconstructing Quantum States Using Basis-Enhanced Born Machines](https://arxiv.org/abs/2206.01273),  Abigail McClain Gomez,  Susanne F. Yelin,  Kadijeh Najafi,  arxiv:2206.01273
+
+* [Finite-temperature optical conductivity with density-matrix renormalization group methods for the Holstein polaron and bipolaron with dispersive phonons](https://arxiv.org/abs/2206.00985),  David Jansen,  Janez Bonča,  Fabian Heidrich-Meisner,  arxiv:2206.00985
+
+* [Pinch-points to half-moons and up in the stars: the kagome skymap](https://arxiv.org/abs/2206.00264),  Dominik Kiese,  Francesco Ferrari,  Nikita Astrakhantsev,  Nils Niggemann,  Pratyay Ghosh,  Tobias Müller,  Ronny Thomale,  Titus Neupert,  Johannes Reuther,  Michel J. P. Gingras,  Simon Trebst,  Yasir Iqbal,  arxiv:2206.00264
+
 * [Gapless symmetry-protected topological phase of quantum antiferromagnets on anisotropic triangular strip](https://arxiv.org/abs/2205.15525),  Yuichiro Hidaka,  Shunsuke C. Furuya,  Atsushi Ueda,  Yasuhiro Tada,  arxiv:2205.15525
 
 * [Learning of error statistics for the detection of quantum phases](https://arxiv.org/abs/https://arxiv.org/abs/2205.12966), Amit Jamadagni, Javad Kazemi, Hendrik Weimer, arxiv:2205.12966
