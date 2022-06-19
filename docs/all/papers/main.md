@@ -8,6 +8,10 @@
 
 ## 2022
 
+* [Pairing Properties of the $t$-$t'$-$t''$-$J$ model](https://arxiv.org/abs/2206.07812),  Shengtao Jiang,  Douglas J. Scalapino,  Steven R. White,  arxiv:2206.07812
+
+* [A dynamical theory for one-dimensional fermions with strong two-body losses: universal non-Hermitian Zeno physics and spin-charge separation](https://arxiv.org/abs/2206.06837),  Lorenzo Rosso,  Alberto Biella,  Jacopo De Nardis,  Leonardo Mazza,  arxiv:2206.06837
+
 * [Extracting electronic many-body correlations from local measurements with artificial neural networks](https://arxiv.org/abs/2206.02388),  Faluke Aikebaier,  Teemu Ojanen,  Jose L. Lado,  arxiv:2206.02388
 
 * [Reconstructing Quantum States Using Basis-Enhanced Born Machines](https://arxiv.org/abs/2206.01273),  Abigail McClain Gomez,  Susanne F. Yelin,  Kadijeh Najafi,  arxiv:2206.01273
