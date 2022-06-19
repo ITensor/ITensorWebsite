@@ -12,6 +12,8 @@
 
 * [A dynamical theory for one-dimensional fermions with strong two-body losses: universal non-Hermitian Zeno physics and spin-charge separation](https://arxiv.org/abs/2206.06837),  Lorenzo Rosso,  Alberto Biella,  Jacopo De Nardis,  Leonardo Mazza,  arxiv:2206.06837
 
+* [Tensor-Network Approaches to Counting Statistics for the Current in a Boundary-Driven Diffusive System](https://arxiv.org/abs/2206.05322),  Jiayin Gu,  Fan Zhang,  arxiv:2206.05322
+
 * [Extracting electronic many-body correlations from local measurements with artificial neural networks](https://arxiv.org/abs/2206.02388),  Faluke Aikebaier,  Teemu Ojanen,  Jose L. Lado,  arxiv:2206.02388
 
 * [Reconstructing Quantum States Using Basis-Enhanced Born Machines](https://arxiv.org/abs/2206.01273),  Abigail McClain Gomez,  Susanne F. Yelin,  Kadijeh Najafi,  arxiv:2206.01273
