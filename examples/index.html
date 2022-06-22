@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/img/favicon.ico"/>
+    <title>ITensor</title>
+    <link rel="stylesheet" href="/css/mystyles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  </head>
+  <body>
+
+  <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item">
+      <a href="/" class="navbar-item has-text-weight-bold">ITensor</a>
+    </a>
+
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start">
+
+      <div onclick="" class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Documentation
+        </a>
+
+        <div class="navbar-dropdown">
+          <a href="https://itensor.github.io/ITensors.jl/stable" class="navbar-item">
+            Julia
+          </a>
+          <a href="/docs.cgi" class="navbar-item">
+            C++
+          </a>
+          <a href="https://arxiv.org/abs/2007.14822" class="navbar-item">
+            ITensor Paper
+          </a>
+        </div>
+      </div>
+
+      <a href="/codes/" class="navbar-item">
+        Codes
+      </a>
+
+      <a href="https://itensor.discourse.group" class="navbar-item">
+        Discuss
+      </a>
+
+      <a href="/about/" class="navbar-item is-active">
+        About
+      </a>
+
+    </div>
+
+  </div>
+  </nav>
+
+  <section class="section"><div class="container is-max-desktop">
+
+    <p class="title is-4">Additional Code Examples</p>
+
+    <p>Constructing an ITensor</p>
+
+    <div class="block"><div class="columns is-vcentered">
+      <div class="column has-text-centered">
+        <img width="320px" src="/img/constructing.png"/>
+      </div>
+      <div class="column">
+        <pre class="has-background-black-ter"><code class="has-text-white-ter">i = Index(3,"index_i")
+j = Index(2,"index_j")
+k = Index(4,"index_k")
+
+T = ITensor(i,j,k)</code></pre>
+      </div>
+    </div></div>
+
+    <p>Setting an element of an ITensor</p>
+
+    <div class="block"><div class="columns is-vcentered">
+      <div class="column has-text-centered">
+        <img width="320px" src="/img/set_element.png"/>
+      </div>
+      <div class="column">
+        <pre class="has-background-black-ter"><code class="has-text-white-ter">T = ITensor(i,j,k)
+
+T[j=>1,k=>3,i=>2] = -3.2</code></pre>
+      </div>
+    </div></div>
+
+    <p>Adding ITensors</p>
+
+    <div class="block"><div class="columns is-vcentered">
+      <div class="column has-text-centered">
+        <img width="400px" src="/img/adding.png"/>
+      </div>
+      <div class="column">
+        <pre class="has-background-black-ter"><code class="has-text-white-ter">A = randomITensor(i,j,k)
+B = randomITensor(k,i,j)
+
+C = A + B</code></pre>
+      </div>
+    </div></div>
+
+    <p>Making an MPS from an ITensor</p>
+
+    <div class="block"><div class="columns is-vcentered">
+      <div class="column has-text-centered">
+        <img width="400px" src="/img/mps_from_itensor.png"/>
+      </div>
+      <div class="column">
+        <pre class="has-background-black-ter"><code class="has-text-white-ter">T = randomITensor(i,j,k,l,m)
+M = MPS(T,(i,j,k,l,m); maxdim=10)</code></pre>
+      </div>
+    </div></div>
+
+  </div></section>
+
+  <br/>
+  <br/>
+  <br/>
+  <footer class="footer">
+  <div class="content has-text-centered">
+    <p>
+      <a href="https://github.com/ITensor/ITensors.jl">ITensor Source on Github</a>
+      &middot; 
+      <a href="https://twitter.com/itensorlib">Twitter @ITensorLib</a>
+      &middot; 
+      <a href="https://github.com/ITensor/ITensorWebsite">Website Source on Github</a>
+      <br/>
+      &copy; 2022 ITensor Collaboration 
+    </p>
+  </div>
+</footer>
+
+
+  </body>
+
+<script>
+$(document).ready(function() {
+
+  // Check for click events on the navbar burger icon
+  $(".navbar-burger").click(function() {
+
+      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+      $(".navbar-burger").toggleClass("is-active");
+      $(".navbar-menu").toggleClass("is-active");
+
+  });
+});
+</script>
+
+
+
+</html>
