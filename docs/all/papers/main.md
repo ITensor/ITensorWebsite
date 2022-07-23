@@ -229,7 +229,7 @@
 
 * [Propagation of Many-body Localization in an Anderson Insulator](https://arxiv.org/abs/2109.07332), Pietro Brighi, Alexios A. Michailidis, Dmitry A. Abanin, Maksym Serbyn, arxiv:2109.07332
 
-* [Fast scrambling dynamics in an all-to-all disordered quantum spin model](https://arxiv.org/abs/2109.05537), Shang-Shu Li, Rui-Zhen Huang, Heng Fan, arxiv:2109.05537
+* [Fast scrambling dynamics in an all-to-all disordered quantum spin model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.024309), Shang-Shu Li, Rui-Zhen Huang, Heng Fan, PhysRev[B,106,024309] [arxiv:2109.05537]
 
 * [Exact hydrodynamic solution of a double domain wall melting in the spin-1/2 XXZ model](https://arxiv.org/abs/2109.05249), Stefano Scopa, Pasquale Calabrese, Jérôme Dubail, arxiv:2109.05249
 
