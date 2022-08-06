@@ -8,6 +8,12 @@
 
 ## 2022
 
+* [High fidelity state reconstruction of a qubit via dynamics of a dissipative resonator](https://arxiv.org/abs/2208.00708),  G. Di Bello,  L. M. Cangemi,  V. Cataudella,  G. De Filippis,  A. Nocera,  C. A. Perroni,  arxiv:2208.00708
+
+* [Dissipative prethermal discrete time crystal](https://arxiv.org/abs/2208.01055),  DinhDuy Vu,  Sankar Das Sarma,  arxiv:2208.01055
+
+* [Dimers, trimers, tetramers, and other multimers in a multiband Bose-Hubbard model](https://arxiv.org/abs/2208.01429),  M. Iskin,  A. Keleş,  arxiv:2208.01429
+
 * [Lattice control of non-ergodicity in a polar lattice gas](https://arxiv.org/abs/2207.06186),  H. Korbmacher,  P. Sierant,  W. Li,  X. Deng,  J. Zakrzewski,  L. Santos,  arxiv:2207.06186
 
 * [When do conservation laws improve the efficiency of the Density Matrix Renormalization Group?](https://arxiv.org/abs/2207.03465),  Thomas G. Kiely,  Erich J. Mueller,  arxiv:2207.03465
