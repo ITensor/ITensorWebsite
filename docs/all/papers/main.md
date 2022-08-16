@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [Quantum Simulation of the N flavor Gross-Neveu Model](https://arxiv.org/abs/2208.05906),  Muhammad Asaduzzaman,  Simon Catterall,  Goksu Can Toga,  Yannick Meurice,  Ryo Sakai,  arxiv:2208.05906
+
 * [Generalization and Overfitting in Matrix Product State Machine Learning Architectures](https://arxiv.org/abs/2208.04372),  Artem Strashko,  E. Miles Stoudenmire,  arxiv:2208.04372
 
 * [Dynamical quantum phase transitions in Stark quantum spin chains](https://arxiv.org/abs/2208.03104),  Mona Faridfar,  Ahmad A. Fouladi,  Javad Vahedi,  arxiv:2208.03104
