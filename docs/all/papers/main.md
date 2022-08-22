@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [Unsupervised Interpretable Learning of Phases From Many-Qubit Systems](https://arxiv.org/abs/2208.08850),  Nicolas Sadoune,  Giuliano Giudici,  Ke Liu,  Lode Pollet,  arxiv:2208.08850
+
 * [Easy-plane anisotropic-exchange magnets on a honeycomb lattice: quantum effects and dealing with them](https://arxiv.org/abs/2208.07617),  P. A. Maksimov,  A. L. Chernyshev,  arxiv:2208.07617
 
 * [Topological spin excitations in non-Hermitian spin chains with a generalized kernel polynomial algorithm](https://arxiv.org/abs/2208.06425),  Guangze Chen,  Fei Song,  Jose L. Lado,  arxiv:2208.06425
