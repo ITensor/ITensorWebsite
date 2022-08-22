@@ -8,6 +8,12 @@
 
 ## 2022
 
+* [Easy-plane anisotropic-exchange magnets on a honeycomb lattice: quantum effects and dealing with them](https://arxiv.org/abs/2208.07617),  P. A. Maksimov,  A. L. Chernyshev,  arxiv:2208.07617
+
+* [Topological spin excitations in non-Hermitian spin chains with a generalized kernel polynomial algorithm](https://arxiv.org/abs/2208.06425),  Guangze Chen,  Fei Song,  Jose L. Lado,  arxiv:2208.06425
+
+* [Multipartite nonlocality and topological quantum phase transitions in a spinless fermion quantum wire with uniform and incommensurate potentials](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.022208), Zhao-Yu Sun, Hai-Lin Huang, Hui-Xin Wen, Meng Li, Xu Zhao, Hong-Guang Cheng, Duo Zhang, and Bin Guo, PhysRev[A,106,022208]
+
 * [Quantum Simulation of the N flavor Gross-Neveu Model](https://arxiv.org/abs/2208.05906),  Muhammad Asaduzzaman,  Simon Catterall,  Goksu Can Toga,  Yannick Meurice,  Ryo Sakai,  arxiv:2208.05906
 
 * [Generalization and Overfitting in Matrix Product State Machine Learning Architectures](https://arxiv.org/abs/2208.04372),  Artem Strashko,  E. Miles Stoudenmire,  arxiv:2208.04372
