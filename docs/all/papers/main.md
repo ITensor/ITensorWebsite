@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [Synergy Between Quantum Circuits and Tensor Networks: Short-cutting the Race to Practical Quantum Advantage](https://arxiv.org/abs/2208.13673),  Manuel S. Rudolph,  Jacob Miller,  Jing Chen,  Atithi Acharya,  Alejandro Perdomo-Ortiz,  arxiv:2208.13673
+
 * [Unsupervised Interpretable Learning of Phases From Many-Qubit Systems](https://arxiv.org/abs/2208.08850),  Nicolas Sadoune,  Giuliano Giudici,  Ke Liu,  Lode Pollet,  arxiv:2208.08850
 
 * [Easy-plane anisotropic-exchange magnets on a honeycomb lattice: quantum effects and dealing with them](https://arxiv.org/abs/2208.07617),  P. A. Maksimov,  A. L. Chernyshev,  arxiv:2208.07617
