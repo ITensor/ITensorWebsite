@@ -8,6 +8,10 @@
 
 ## 2022
 
+* [Qubitization strategies for bosonic field theories](https://arxiv.org/abs/2209.00098),  Andrei Alexandru,  Paulo F. Bedaque,  Andrea Carosso,  Michael J. Cervia,  Andy Sheng,  arxiv:2209.00098
+
+* [Where Is The Quantum Spin Nematic?](https://arxiv.org/abs/2209.00010),  Shengtao Jiang,  Judit Romhányi,  Steven R. White,  M. E. Zhitomirsky,  A. L. Chernyshev,  arxiv:2209.00010
+
 * [Synergy Between Quantum Circuits and Tensor Networks: Short-cutting the Race to Practical Quantum Advantage](https://arxiv.org/abs/2208.13673),  Manuel S. Rudolph,  Jacob Miller,  Jing Chen,  Atithi Acharya,  Alejandro Perdomo-Ortiz,  arxiv:2208.13673
 
 * [Unsupervised Interpretable Learning of Phases From Many-Qubit Systems](https://arxiv.org/abs/2208.08850),  Nicolas Sadoune,  Giuliano Giudici,  Ke Liu,  Lode Pollet,  arxiv:2208.08850
