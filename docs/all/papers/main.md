@@ -8,6 +8,12 @@
 
 ## 2022
 
+* [Efficient Adiabatic Preparation of Tensor Network States](https://arxiv.org/abs/2209.01230),  Zhi-Yuan Wei,  Daniel Malz,  J. Ignacio Cirac,  arxiv:2209.01230
+
+* [Triangular lattice Hubbard model physics at intermediate temperatures](https://arxiv.org/abs/2209.00664),  Kyungmin Lee,  Prakash Sharma,  Oskar Vafek,  Hitesh J. Changlani,  arxiv:2209.00664
+
+* [Spectral function of the $J_1-J_2$ Heisenberg model on the triangular lattice](https://arxiv.org/abs/2209.00739),  Nicholas E. Sherman,  Maxime Dupont,  Joel E. Moore,  arxiv:2209.00739
+
 * [Qubitization strategies for bosonic field theories](https://arxiv.org/abs/2209.00098),  Andrei Alexandru,  Paulo F. Bedaque,  Andrea Carosso,  Michael J. Cervia,  Andy Sheng,  arxiv:2209.00098
 
 * [Where Is The Quantum Spin Nematic?](https://arxiv.org/abs/2209.00010),  Shengtao Jiang,  Judit Romhányi,  Steven R. White,  M. E. Zhitomirsky,  A. L. Chernyshev,  arxiv:2209.00010
