@@ -1,4 +1,5 @@
-#!/usr/bin/python3
+#!/opt/homebrew/bin/python3
+# !/usr/bin/python3
 import arxiv
 import sys
 from os.path import exists

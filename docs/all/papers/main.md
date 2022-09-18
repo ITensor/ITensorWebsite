@@ -8,6 +8,14 @@
 
 ## 2022
 
+* [Tensor-network approach to work statistics for one-dimensional quantum lattice systems](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033193), Jiayin Gu, Fan Zhang, and H. T. Quan, PhysRev[Research,4,033193] (2022)
+
+* [Pseudogap metal and magnetization plateau from doping moiré Mott insulator](https://arxiv.org/abs/2209.05430),  Yang Zhang,  Liang Fu,  arxiv:2209.05430
+
+* [State Space Geometry of the Spin-1 Antiferromagnetic Heisenberg Chain](https://arxiv.org/abs/2209.05005),  J. Lambert,  Erik S. Sørensen,  arxiv:2209.05005
+
+* [The one-dimensional Holstein model revisited](https://arxiv.org/abs/2209.05498),  Sijia Zhao,  Zhaoyu Han,  Ilya Esterlis,  Steven A. Kivelson,  arxiv:2209.05498
+
 * [Rydberg dressed spin-1/2 Fermi gases in one dimension](https://arxiv.org/abs/2209.03368),  Junhyun Lee,  Pavel A. Volkov,  B. J. DeSalvo,  J. H. Pixley,  arxiv:2209.03368
 
 * [Efficient Adiabatic Preparation of Tensor Network States](https://arxiv.org/abs/2209.01230),  Zhi-Yuan Wei,  Daniel Malz,  J. Ignacio Cirac,  arxiv:2209.01230
