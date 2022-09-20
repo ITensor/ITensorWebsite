@@ -8,6 +8,16 @@
 
 ## 2022
 
+* [Solid-state $S=1$ spin centers with zero-field splitting as quantum simulators for $S=1/2$ critical behavior](https://arxiv.org/abs/2209.07516),  Troy Losey,  Denis R. Candido,  Y. Meurice,  M. E. Flatté,  S. -W. Tsai,  Jin Zhang,  arxiv:2209.07516
+
+* [Robust $π$-Modes and a Bulk-Boundary Correspondence in Non-Unitary Floquet Models](https://arxiv.org/abs/2209.06945),  Vikram Ravindranath,  Xiao Chen,  arxiv:2209.06945
+
+* [Field Induced Chiral Soliton Phase in the Kitaev Spin Chain](https://arxiv.org/abs/2209.06221),  Erik S. Sørensen,  Jacob Gordon,  Jonathon Riddell,  Tianyi Wang,  Hae-Young Kee,  arxiv:2209.06221
+
+* [Quantum critical behaviors and decoherence of weakly coupled quantum Ising models within an isolated global system](https://arxiv.org/abs/2209.06523),  Alessio Franchi,  Andrea Pelissetto,  Ettore Vicari,  arxiv:2209.06523
+
+* [A multi-fragment real-time extension of projected density matrix embedding theory: Non-equilibrium electron dynamics in extended systems](https://arxiv.org/abs/2209.06368),  Dariia Yehorova,  Joshua S. Kretchmer,  arxiv:2209.06368
+
 * [Tensor-network approach to work statistics for one-dimensional quantum lattice systems](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033193), Jiayin Gu, Fan Zhang, and H. T. Quan, PhysRev[Research,4,033193] (2022)
 
 * [Pseudogap metal and magnetization plateau from doping moiré Mott insulator](https://arxiv.org/abs/2209.05430),  Yang Zhang,  Liang Fu,  arxiv:2209.05430
