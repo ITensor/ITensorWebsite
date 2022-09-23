@@ -1174,7 +1174,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 * [Guaranteed Convergence of the Kohn-Sham Equations](http://prl.aps.org/abstract/PRL/v111/i9/e093003), <br/>Lucas&nbsp;O.&nbsp;Wagner, E.M.&nbsp;Stoudenmire, Kieron&nbsp;Burke, and Steven&nbsp;R.&nbsp;White, <br/> <i style="color:#CC0000">Phys. Rev. Lett.</i> <b>111</b>,  <a href="http://prl.aps.org/abstract/PRL/v111/i9/e093003/" target="_blank">093003</a> (2013) [arxiv:1301.3494]
 
-* [Real-space parallel density matrix renormalization group](http://link.aps.org/doi/10.1103/PhysRevB.87.155137), <br/>E.M.&nbsp;Stoudenmire and Steven&nbsp;R.&nbsp;White, </br> <i style="color:#CC0000">Phys. Rev. B</i>&nbsp; <b>87</b>, <a href="http://link.aps.org/doi/10.1103/PhysRevB.87.155137">155137</a> (2013) [arxiv:1301.3494]
+* [Real-space parallel density matrix renormalization group](http://link.aps.org/doi/10.1103/PhysRevB.87.155137), <br/>E.M.&nbsp;Stoudenmire and Steven&nbsp;R.&nbsp;White, <br/> <i style="color:#CC0000">Phys. Rev. B</i>&nbsp; <b>87</b>, <a href="http://link.aps.org/doi/10.1103/PhysRevB.87.155137">155137</a> (2013) [arxiv:1301.3494]
 
 * [Topological phases in ultracold polar-molecule quantum magnets](http://link.aps.org/doi/10.1103/PhysRevB.87.081106), Salvatore&nbsp;R.&nbsp;Manmana, E.M.&nbsp;Stoudenmire, Kaden&nbsp;R.A.&nbsp;Hazzard, Ana&nbsp;Maria&nbsp;Rey, and Alexey&nbsp;Gorshkov, <br/> <i style="color:#CC0000">Phys. Rev. B</i>&nbsp; <b>87</b>, <a href="(http://link.aps.org/doi/10.1103/PhysRevB.87.081106" target="_blank">081106(R)</a> (2013) [arxiv:1210.5518]
 
