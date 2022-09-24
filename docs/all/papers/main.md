@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [Genuine multipartite entanglement in 1D Bose-Hubbard model with frustrated hopping](https://arxiv.org/abs/2209.08815),  Sudipto Singha Roy,  Leon Carl,  Philipp Hauke,  arxiv:2209.08815
+
 * [Solid-state $S=1$ spin centers with zero-field splitting as quantum simulators for $S=1/2$ critical behavior](https://arxiv.org/abs/2209.07516),  Troy Losey,  Denis R. Candido,  Y. Meurice,  M. E. Flatté,  S. -W. Tsai,  Jin Zhang,  arxiv:2209.07516
 
 * [Robust $π$-Modes and a Bulk-Boundary Correspondence in Non-Unitary Floquet Models](https://arxiv.org/abs/2209.06945),  Vikram Ravindranath,  Xiao Chen,  arxiv:2209.06945
