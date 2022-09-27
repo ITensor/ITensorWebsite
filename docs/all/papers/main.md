@@ -8,6 +8,12 @@
 
 ## 2022
 
+* [Quantum Melting of Spin-1 Dimer Solid Induced by Inter-chain Couplings](https://arxiv.org/abs/2209.09986),  Yi Xu,  Tianfu Fu,  Juraj Hasik,  Andriy H. Nevidomskyy,  arxiv:2209.09986
+
+* [Microscopic design of a topologically protected singlet-triplet qubit in an InAsP quantum dot array](https://arxiv.org/abs/2209.10076),  Jacob Manalo,  Daniel Miravet,  Pawel Hawrylak,  arxiv:2209.10076
+
+* [Extracting Off-Diagonal Order from Diagonal Basis Measurements](https://arxiv.org/abs/2209.10565),  Bo Xiao,  Javier Robledo Moreno,  Matthew Fishman,  Dries Sels,  Ehsan Khatami,  Richard Scalettar,  arxiv:2209.10565
+
 * [Genuine multipartite entanglement in 1D Bose-Hubbard model with frustrated hopping](https://arxiv.org/abs/2209.08815),  Sudipto Singha Roy,  Leon Carl,  Philipp Hauke,  arxiv:2209.08815
 
 * [Solid-state $S=1$ spin centers with zero-field splitting as quantum simulators for $S=1/2$ critical behavior](https://arxiv.org/abs/2209.07516),  Troy Losey,  Denis R. Candido,  Y. Meurice,  M. E. Flatté,  S. -W. Tsai,  Jin Zhang,  arxiv:2209.07516
