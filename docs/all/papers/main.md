@@ -8,6 +8,12 @@
 
 ## 2022
 
+* [Magnetic Phases of Spatially-Modulated Spin-1 Chains in Rydberg Excitons: Classical and Quantum Simulations](https://arxiv.org/abs/2209.11881),  Manas Sajjan,  Hadiseh Alaeian,  Sabre Kais,  arxiv:2209.11881
+
+* [Measurement-induced skin effect and the absence of entanglement phase transition](https://arxiv.org/abs/2209.11241),  Jie Ren,  Yupeng Wang,  Chen Fang,  arxiv:2209.11241
+
+* [Characterizing a non-equilibrium phase transition on a quantum computer](https://arxiv.org/abs/2209.12889),  Eli Chertkov,  Zihan Cheng,  Andrew C. Potter,  Sarang Gopalakrishnan,  Thomas M. Gatterman,  Justin A. Gerber,  Kevin Gilmore,  Dan Gresh,  Alex Hall,  Aaron Hankin,  Mitchell Matheny,  Tanner Mengle,  David Hayes,  Brian Neyenhuis,  Russell Stutz,  Michael Foss-Feig,  arxiv:2209.12889
+
 * [Quantum Melting of Spin-1 Dimer Solid Induced by Inter-chain Couplings](https://arxiv.org/abs/2209.09986),  Yi Xu,  Tianfu Fu,  Juraj Hasik,  Andriy H. Nevidomskyy,  arxiv:2209.09986
 
 * [Microscopic design of a topologically protected singlet-triplet qubit in an InAsP quantum dot array](https://arxiv.org/abs/2209.10076),  Jacob Manalo,  Daniel Miravet,  Pawel Hawrylak,  arxiv:2209.10076
