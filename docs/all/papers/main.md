@@ -8,6 +8,10 @@
 
 ## 2022
 
+* [Schwinger model on an interval: analytic results and DMRG](https://arxiv.org/abs/2210.00297),  Takuya Okuda,  arxiv:2210.00297
+
+* [Superdiffusive Energy Transport in Kinetically Constrained Models](https://arxiv.org/abs/2210.01146),  Marko Ljubotina,  Jean-Yves Desaules,  Maksym Serbyn,  Zlatko Papić,  arxiv:2210.01146
+
 * [Magnetic Phases of Spatially-Modulated Spin-1 Chains in Rydberg Excitons: Classical and Quantum Simulations](https://arxiv.org/abs/2209.11881),  Manas Sajjan,  Hadiseh Alaeian,  Sabre Kais,  arxiv:2209.11881
 
 * [Measurement-induced skin effect and the absence of entanglement phase transition](https://arxiv.org/abs/2209.11241),  Jie Ren,  Yupeng Wang,  Chen Fang,  arxiv:2209.11241
