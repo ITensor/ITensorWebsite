@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [Towards a Quantum Simulation of Nonlinear Sigma Models with a Topological Term](https://arxiv.org/abs/2210.03679),  Jack Y. Araz,  Sebastian Schenk,  Michael Spannowsky,  arxiv:2210.03679
+
 * [Schwinger model on an interval: analytic results and DMRG](https://arxiv.org/abs/2210.00297),  Takuya Okuda,  arxiv:2210.00297
 
 * [Superdiffusive Energy Transport in Kinetically Constrained Models](https://arxiv.org/abs/2210.01146),  Marko Ljubotina,  Jean-Yves Desaules,  Maksym Serbyn,  Zlatko Papić,  arxiv:2210.01146
