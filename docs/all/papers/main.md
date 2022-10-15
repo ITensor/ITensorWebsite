@@ -8,6 +8,12 @@
 
 ## 2022
 
+* [Fractional Topology in interacting 1D Superconductors](https://arxiv.org/abs/2210.05024),  Frederick del Pozo,  Loïc Herviou,  Karyn Le Hur,  arxiv:2210.05024
+
+* [DMRG study of the higher-charge Schwinger model and its 't Hooft anomaly](https://arxiv.org/abs/2210.04237),  Masazumi Honda,  Etsuko Itou,  Yuya Tanizaki,  arxiv:2210.04237
+
+* [Measurement-based quantum computation in finite one-dimensional systems: string order implies computational power](https://arxiv.org/abs/2210.05089),  Robert Raussendorf,  Wang Yang,  Arnab Adhikary,  arxiv:2210.05089
+
 * [Towards a Quantum Simulation of Nonlinear Sigma Models with a Topological Term](https://arxiv.org/abs/2210.03679),  Jack Y. Araz,  Sebastian Schenk,  Michael Spannowsky,  arxiv:2210.03679
 
 * [Schwinger model on an interval: analytic results and DMRG](https://arxiv.org/abs/2210.00297),  Takuya Okuda,  arxiv:2210.00297
