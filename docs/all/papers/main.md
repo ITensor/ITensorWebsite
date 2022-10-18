@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [Abundance of hard-hexagon crystals in the quantum pyrochlore antiferromagnet](https://arxiv.org/abs/2210.07235),  Robin Schäfer,  Benedikt Placke,  Owen Benton,  Roderich Moessner,  arxiv:2210.07235
+
 * [Fractional Topology in interacting 1D Superconductors](https://arxiv.org/abs/2210.05024),  Frederick del Pozo,  Loïc Herviou,  Karyn Le Hur,  arxiv:2210.05024
 
 * [DMRG study of the higher-charge Schwinger model and its 't Hooft anomaly](https://arxiv.org/abs/2210.04237),  Masazumi Honda,  Etsuko Itou,  Yuya Tanizaki,  arxiv:2210.04237
