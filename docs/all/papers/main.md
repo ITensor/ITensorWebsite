@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [The Quantum Fourier Transform Has Small Entanglement](https://arxiv.org/abs/2210.08468),  Jielun Chen,  E. M. Stoudenmire,  Steven R. White,  arxiv:2210.08468
+
 * [Abundance of hard-hexagon crystals in the quantum pyrochlore antiferromagnet](https://arxiv.org/abs/2210.07235),  Robin Schäfer,  Benedikt Placke,  Owen Benton,  Roderich Moessner,  arxiv:2210.07235
 
 * [Fractional Topology in interacting 1D Superconductors](https://arxiv.org/abs/2210.05024),  Frederick del Pozo,  Loïc Herviou,  Karyn Le Hur,  arxiv:2210.05024
