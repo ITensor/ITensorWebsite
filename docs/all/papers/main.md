@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [Symmetry-resolved entanglement of 2D symmetry-protected topological states](https://arxiv.org/abs/2210.12750),  Daniel Azses,  David F. Mross,  Eran Sela,  arxiv:2210.12750
+
 * [The Quantum Fourier Transform Has Small Entanglement](https://arxiv.org/abs/2210.08468),  Jielun Chen,  E. M. Stoudenmire,  Steven R. White,  arxiv:2210.08468
 
 * [Abundance of hard-hexagon crystals in the quantum pyrochlore antiferromagnet](https://arxiv.org/abs/2210.07235),  Robin Schäfer,  Benedikt Placke,  Owen Benton,  Roderich Moessner,  arxiv:2210.07235
