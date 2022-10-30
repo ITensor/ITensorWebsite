@@ -8,6 +8,10 @@
 
 ## 2022
 
+* [Bose-Hubbard triangular ladder in an artificial gauge field](https://arxiv.org/abs/2210.14594),  Catalin-Mihai Halati,  Thierry Giamarchi,  arxiv:2210.14594
+
+* [Hunting for quantum-classical crossover in condensed matter problems](https://arxiv.org/abs/2210.14109),  Nobuyuki Yoshioka,  Tsuyoshi Okubo,  Yasunari Suzuki,  Yuki Koizumi,  Wataru Mizukami,  arxiv:2210.14109
+
 * [Symmetry-resolved entanglement of 2D symmetry-protected topological states](https://arxiv.org/abs/2210.12750),  Daniel Azses,  David F. Mross,  Eran Sela,  arxiv:2210.12750
 
 * [The Quantum Fourier Transform Has Small Entanglement](https://arxiv.org/abs/2210.08468),  Jielun Chen,  E. M. Stoudenmire,  Steven R. White,  arxiv:2210.08468
