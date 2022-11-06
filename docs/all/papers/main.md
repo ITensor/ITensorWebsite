@@ -8,6 +8,10 @@
 
 ## 2022
 
+* [Revealing microcanonical phase diagrams of strongly correlated systems via time-averaged classical shadows](https://arxiv.org/abs/2211.01259),  Gaurav Gyawali,  Mabrur Ahmed,  Eric Aspling,  Luke Ellert-Beck,  Michael J. Lawler,  arxiv:2211.01259
+
+* [Trimer quantum spin liquid in a honeycomb array of Rydberg atoms](https://arxiv.org/abs/2211.00653),  Milan Kornjača,  Rhine Samajdar,  Tommaso Macrì,  Nathan Gemelke,  Sheng-Tao Wang,  Fangli Liu,  arxiv:2211.00653
+
 * [Bose-Hubbard triangular ladder in an artificial gauge field](https://arxiv.org/abs/2210.14594),  Catalin-Mihai Halati,  Thierry Giamarchi,  arxiv:2210.14594
 
 * [Hunting for quantum-classical crossover in condensed matter problems](https://arxiv.org/abs/2210.14109),  Nobuyuki Yoshioka,  Tsuyoshi Okubo,  Yasunari Suzuki,  Yuki Koizumi,  Wataru Mizukami,  arxiv:2210.14109
