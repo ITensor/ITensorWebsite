@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [Growing Schrödinger's cat states by local unitary time evolution of product states](https://arxiv.org/abs/2210.15585),  Saverio Bocini,  Maurizio Fagotti,  arxiv:2210.15585
+
 * [Revealing microcanonical phase diagrams of strongly correlated systems via time-averaged classical shadows](https://arxiv.org/abs/2211.01259),  Gaurav Gyawali,  Mabrur Ahmed,  Eric Aspling,  Luke Ellert-Beck,  Michael J. Lawler,  arxiv:2211.01259
 
 * [Trimer quantum spin liquid in a honeycomb array of Rydberg atoms](https://arxiv.org/abs/2211.00653),  Milan Kornjača,  Rhine Samajdar,  Tommaso Macrì,  Nathan Gemelke,  Sheng-Tao Wang,  Fangli Liu,  arxiv:2211.00653
