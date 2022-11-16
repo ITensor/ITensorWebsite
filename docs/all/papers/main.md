@@ -8,6 +8,14 @@
 
 ## 2022
 
+* [Extracting Quantum Many-body Scarred Eigenstates with Matrix Product States](https://arxiv.org/abs/2211.05140),  Shun-Yao Zhang,  Dong Yuan,  Thomas Iadecola,  Shenglong Xu,  Dong-Ling Deng,  arxiv:2211.05140
+
+* [Phase diagram of a one-dimensional Ising model with an anomalous Z_2 symmetry](https://arxiv.org/abs/2211.05618),  Jin-Xiang Hao,  Wei Li,  Yang Qi,  arxiv:2211.05618
+
+* [Transformer variational wave functions for frustrated quantum spin systems](https://arxiv.org/abs/2211.05504),  Luciano Loris Viteritti,  Riccardo Rende,  Federico Becca,  arxiv:2211.05504
+
+* [Entanglement Steering in Adaptive Circuits with Feedback](https://arxiv.org/abs/2211.05162),  Vikram Ravindranath,  Yiqiu Han,  Zhi-Cheng Yang,  Xiao Chen,  arxiv:2211.05162
+
 * [Growing Schrödinger's cat states by local unitary time evolution of product states](https://arxiv.org/abs/2210.15585),  Saverio Bocini,  Maurizio Fagotti,  arxiv:2210.15585
 
 * [Revealing microcanonical phase diagrams of strongly correlated systems via time-averaged classical shadows](https://arxiv.org/abs/2211.01259),  Gaurav Gyawali,  Mabrur Ahmed,  Eric Aspling,  Luke Ellert-Beck,  Michael J. Lawler,  arxiv:2211.01259
