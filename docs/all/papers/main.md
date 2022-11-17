@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [Quantum correlations in the frustrated XY model on the honeycomb lattice](https://arxiv.org/abs/2211.06468),  Sahar Satoori,  Saeed Mahdavifar,  Javad Vahedi,  arxiv:2211.06468
+
 * [Extracting Quantum Many-body Scarred Eigenstates with Matrix Product States](https://arxiv.org/abs/2211.05140),  Shun-Yao Zhang,  Dong Yuan,  Thomas Iadecola,  Shenglong Xu,  Dong-Ling Deng,  arxiv:2211.05140
 
 * [Phase diagram of a one-dimensional Ising model with an anomalous Z_2 symmetry](https://arxiv.org/abs/2211.05618),  Jin-Xiang Hao,  Wei Li,  Yang Qi,  arxiv:2211.05618
