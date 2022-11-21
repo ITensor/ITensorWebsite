@@ -12,6 +12,9 @@
 
 * [Preparation for Quantum Simulation of the 1+1D O(3) Non-linear σ-Model using Cold Atoms](https://arxiv.org/abs/2211.07684),  Anthony N. Ciavarella,  Stephan Caspar,  Hersh Singh,  Martin J. Savage,  arxiv:2211.07684
 
+* [Universal features of entanglement entropy in the honeycomb Hubbard model](https://arxiv.org/abs/2211.04334),  Jonathan D'Emidio,  Roman Orus,  Nicolas Laflorencie,  Fernando de Juan,  arxiv:2211.04334
+
+
 * [Quantum correlations in the frustrated XY model on the honeycomb lattice](https://arxiv.org/abs/2211.06468),  Sahar Satoori,  Saeed Mahdavifar,  Javad Vahedi,  arxiv:2211.06468
 
 * [Extracting Quantum Many-body Scarred Eigenstates with Matrix Product States](https://arxiv.org/abs/2211.05140),  Shun-Yao Zhang,  Dong Yuan,  Thomas Iadecola,  Shenglong Xu,  Dong-Ling Deng,  arxiv:2211.05140
