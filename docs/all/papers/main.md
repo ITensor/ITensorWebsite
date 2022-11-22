@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [Frustrated mixed-spin ladders: Evidence for a bond-order wave phase between rung-singlet and Haldane phases](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.174419), PhysRev[B,106,174419]
+
 * [Symmetric Tensor Networks for Generative Modeling and Constrained Combinatorial Optimization](https://arxiv.org/abs/2211.09121),  Javier Lopez-Piqueres,  Jing Chen,  Alejandro Perdomo-Ortiz,  arxiv:2211.09121
 
 * [Preparation for Quantum Simulation of the 1+1D O(3) Non-linear σ-Model using Cold Atoms](https://arxiv.org/abs/2211.07684),  Anthony N. Ciavarella,  Stephan Caspar,  Hersh Singh,  Martin J. Savage,  arxiv:2211.07684
