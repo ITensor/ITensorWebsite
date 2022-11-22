@@ -61,6 +61,9 @@
 
       auto exsz = expect(psi,sites,"Sz");
 
+      //Measure only sites 3,5,8
+      auto exsz = expect(psi,sites,"Sz",{{3,5,8}});
+
 * `expect(MPS psi, SiteSet sites, vector<string> ops) -> vector<vector<Real>>` <br/>
   `expectC(MPS psi, SiteSet sites, vector<string> ops) -> vector<vector<Cplx>>`
   `expect(MPS psi, SiteSet sites, vector<string> ops, vector<int> site_list) -> vector<vector<Real>>` <br/>
@@ -77,6 +80,9 @@
   <div class="example_clicker">Show Example</div>
 
       auto ex = expect(psi,sites,{"Sz","Sx","Sy"});
+
+      //Measure only sites 3,5,8
+      auto ex = expect(psi,sites,{"Sz","Sx","Sy"},{{3,5,8}});
 
 
 * `correlationMatrix(MPS psi, SiteSet sites, string A, string B) -> vector<vector<Real>>`
