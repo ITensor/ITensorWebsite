@@ -43,7 +43,9 @@
 ## Measuring Properties of MPS
 
 * `expect(MPS psi, SiteSet sites, string A) -> vector<Real>` <br/>
-  `expectC(MPS psi, SiteSet sites, string A) -> vector<Cplx>`
+  `expectC(MPS psi, SiteSet sites, string A) -> vector<Cplx>` <br/>
+  `expect(MPS psi, SiteSet sites, string A, vector<int> site_list) -> vector<Real>` <br/>
+  `expectC(MPS psi, SiteSet sites, string A, vector<int> site_list) -> vector<Cplx>`
 
   Compute the expected value @@\langle\psi| \hat{A} |\psi\rangle@@ for 
   an operator `A` on every site, returning a `vector` of the results.
@@ -52,17 +54,25 @@
   returns a vector of complex values and should be used when complex
   results are expected.
 
+  You can pass a vector `site_list` of integers as an optional last argument
+  to obtain expectation values only for sites in that vector.
+
   <div class="example_clicker">Show Example</div>
 
       auto exsz = expect(psi,sites,"Sz");
 
 * `expect(MPS psi, SiteSet sites, vector<string> ops) -> vector<vector<Real>>` <br/>
   `expectC(MPS psi, SiteSet sites, vector<string> ops) -> vector<vector<Cplx>>`
+  `expect(MPS psi, SiteSet sites, vector<string> ops, vector<int> site_list) -> vector<vector<Real>>` <br/>
+  `expectC(MPS psi, SiteSet sites, vector<string> ops, vector<int> site_list) -> vector<vector<Cplx>>`
 
   Compute the expected value of a set of operators `ops` for each site
   of the MPS `psi`. Similar to calling the single-operator version of 
   `expect` above but is more efficient. The returned value is a vector of 
   vectors, one for each operator, containing the expected values on each site.
+
+  You can pass a vector `site_list` of integers as an optional last argument
+  to obtain expectation values only for sites in that vector.
 
   <div class="example_clicker">Show Example</div>
 
