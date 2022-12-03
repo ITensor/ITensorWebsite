@@ -8,6 +8,10 @@
 
 ## 2022
 
+* [Qubit seriation: Improving data-model alignment using spectral ordering](https://arxiv.org/abs/2211.15978),  Atithi Acharya,  Manuel Rudolph,  Jing Chen,  Jacob Miller,  Alejandro Perdomo-Ortiz,  arxiv:2211.15978
+
+* [Entanglement Entropy, Local IR/UV Connection and MPS in Weyl-deformed Geometries](https://arxiv.org/abs/2211.16430),  Leo Shaposhnik,  arxiv:2211.16430
+
 * [Frustrated mixed-spin ladders: Evidence for a bond-order wave phase between rung-singlet and Haldane phases](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.174419), PhysRev[B,106,174419]
 
 * [Symmetric Tensor Networks for Generative Modeling and Constrained Combinatorial Optimization](https://arxiv.org/abs/2211.09121),  Javier Lopez-Piqueres,  Jing Chen,  Alejandro Perdomo-Ortiz,  arxiv:2211.09121
@@ -67,7 +71,7 @@
 
 * [Extracting Off-Diagonal Order from Diagonal Basis Measurements](https://arxiv.org/abs/2209.10565),  Bo Xiao,  Javier Robledo Moreno,  Matthew Fishman,  Dries Sels,  Ehsan Khatami,  Richard Scalettar,  arxiv:2209.10565
 
-* [Genuine multipartite entanglement in 1D Bose-Hubbard model with frustrated hopping](https://arxiv.org/abs/2209.08815),  Sudipto Singha Roy,  Leon Carl,  Philipp Hauke,  arxiv:2209.08815
+* [Genuine multipartite entanglement in 1D Bose-Hubbard model with frustrated hopping](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.195158),  Sudipto Singha Roy,  Leon Carl,  Philipp Hauke, PhysRev[B,106,195158] [arxiv:2209.08815]
 
 * [Solid-state $S=1$ spin centers with zero-field splitting as quantum simulators for $S=1/2$ critical behavior](https://arxiv.org/abs/2209.07516),  Troy Losey,  Denis R. Candido,  Y. Meurice,  M. E. Flatté,  S. -W. Tsai,  Jin Zhang,  arxiv:2209.07516
 
