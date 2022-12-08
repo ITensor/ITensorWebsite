@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [Exploring Disordered Quantum Spin Models with a Multi-Layer Multi-Configurational Approach](https://arxiv.org/abs/2212.02254),  Fabian Köhler,  Rick Mukherjee,  Peter Schmelcher,  arxiv:2212.02254
+
 * [Qubit seriation: Improving data-model alignment using spectral ordering](https://arxiv.org/abs/2211.15978),  Atithi Acharya,  Manuel Rudolph,  Jing Chen,  Jacob Miller,  Alejandro Perdomo-Ortiz,  arxiv:2211.15978
 
 * [Entanglement Entropy, Local IR/UV Connection and MPS in Weyl-deformed Geometries](https://arxiv.org/abs/2211.16430),  Leo Shaposhnik,  arxiv:2211.16430
