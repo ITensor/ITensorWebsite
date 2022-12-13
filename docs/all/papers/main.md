@@ -8,6 +8,8 @@
 
 ## 2022
 
+* [Entanglement-based observables for quantum impurities](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043177), Lidia Stocker, Stefan H. Sack, Michael S. Ferguson, Oded Zilberberg, PhysRev[Research,4,043177] (2022)
+
 * [Shadow tomography from emergent state designs in analog quantum simulators](https://arxiv.org/abs/2212.02543),  Max McGinley,  Michele Fava,  arxiv:2212.02543
 
 * [Exploring Disordered Quantum Spin Models with a Multi-Layer Multi-Configurational Approach](https://arxiv.org/abs/2212.02254),  Fabian Köhler,  Rick Mukherjee,  Peter Schmelcher,  arxiv:2212.02254
