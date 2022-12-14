@@ -8,6 +8,10 @@
 
 ## 2022
 
+* [Quantum State Tomography Inspired by Language Modeling](https://arxiv.org/abs/2212.04940),  Lu Zhong,  Chu Guo,  Xiaoting Wang,  arxiv:2212.04940
+
+* [Frustrated magnets without geometrical frustration in bosonic flux ladders](https://arxiv.org/abs/2212.06112),  Luca Barbiero,  Josep Cabedo,  Maciej Lewenstein,  Leticia Tarruell,  Alessio Celi,  arxiv:2212.06112
+
 * [Entanglement-based observables for quantum impurities](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043177), Lidia Stocker, Stefan H. Sack, Michael S. Ferguson, Oded Zilberberg, PhysRev[Research,4,043177] (2022)
 
 * [Shadow tomography from emergent state designs in analog quantum simulators](https://arxiv.org/abs/2212.02543),  Max McGinley,  Michele Fava,  arxiv:2212.02543
