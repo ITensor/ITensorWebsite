@@ -8,6 +8,10 @@
 
 ## 2022
 
+* [Slow dynamics of a mobile impurity interacting with an Anderson insulator](https://arxiv.org/abs/2212.07107),  Piotr Sierant,  Titas Chanda,  Maciej Lewenstein,  Jakub Zakrzewski,  arxiv:2212.07107
+
+* [Spatiotemporal Quenches in Long-Range Hamiltonians](https://arxiv.org/abs/2212.07499),  Simon Bernier,  Kartiek Agarwal,  arxiv:2212.07499
+
 * [Quantum State Tomography Inspired by Language Modeling](https://arxiv.org/abs/2212.04940),  Lu Zhong,  Chu Guo,  Xiaoting Wang,  arxiv:2212.04940
 
 * [Frustrated magnets without geometrical frustration in bosonic flux ladders](https://arxiv.org/abs/2212.06112),  Luca Barbiero,  Josep Cabedo,  Maciej Lewenstein,  Leticia Tarruell,  Alessio Celi,  arxiv:2212.06112
