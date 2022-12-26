@@ -8,6 +8,10 @@
 
 ## 2022
 
+* [Spin Squeezing with Itinerant Dipoles: A Case for Shallow Lattices](https://arxiv.org/abs/2212.10470),  David Wellnitz,  Mikhail Mamaev,  Thomas Bilitewski,  Ana Maria Rey,  arxiv:2212.10470
+
+* [Disentangling Interacting Systems with Fermionic Gaussian Circuits: Application to the Single Impurity Anderson Model](https://arxiv.org/abs/2212.09798),  Ang-Kun Wu,  Matthew T. Fishman,  J. H. Pixley,  E. M. Stoudenmire,  arxiv:2212.09798
+
 * [Slow dynamics of a mobile impurity interacting with an Anderson insulator](https://arxiv.org/abs/2212.07107),  Piotr Sierant,  Titas Chanda,  Maciej Lewenstein,  Jakub Zakrzewski,  arxiv:2212.07107
 
 * [Spatiotemporal Quenches in Long-Range Hamiltonians](https://arxiv.org/abs/2212.07499),  Simon Bernier,  Kartiek Agarwal,  arxiv:2212.07499
@@ -33,7 +37,6 @@
 * [Preparation for Quantum Simulation of the 1+1D O(3) Non-linear σ-Model using Cold Atoms](https://arxiv.org/abs/2211.07684),  Anthony N. Ciavarella,  Stephan Caspar,  Hersh Singh,  Martin J. Savage,  arxiv:2211.07684
 
 * [Universal features of entanglement entropy in the honeycomb Hubbard model](https://arxiv.org/abs/2211.04334),  Jonathan D'Emidio,  Roman Orus,  Nicolas Laflorencie,  Fernando de Juan,  arxiv:2211.04334
-
 
 * [Quantum correlations in the frustrated XY model on the honeycomb lattice](https://arxiv.org/abs/2211.06468),  Sahar Satoori,  Saeed Mahdavifar,  Javad Vahedi,  arxiv:2211.06468
 
