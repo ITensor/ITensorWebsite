@@ -212,7 +212,6 @@
 
 * [Commensurate-Incommensurate Transitions of the 1D Disordered Chiral Clock Model](https://arxiv.org/abs/2203.16879),  Pengfei Liang,  Rosario Fazio,  Stefano Chesi,  arxiv:2203.16879
 
-
 * [Continuous Ferromagnetic Quantum Phase Transition on Anisotropic Kondo Lattice](https://arxiv.org/abs/2203.15475),  Jialin Chen,  Jiangfan Wang,  Danqing Hu,  Yi-feng Yang,  arxiv:2203.15475
 
 * [Long-Range Order and Quantum Criticality in Antiferromagnetic Chains with Long-Range Staggered Interactions](https://doi.org/10.1103/PhysRevE.105.034128),  Jie Ren,  Zhao Wang,  Weixia Chen,  Wen-Long You,  <i style="color:#CC0000;">Phys. Rev. E 105, 034128 (2022)</i>, arxiv:2203.11032
