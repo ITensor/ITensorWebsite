@@ -8,6 +8,10 @@
 
 ## 2022
 
+* [Boundary Quantum Phase Transitions in the Spin $\frac{1}{2}$ Heisenberg Chain with Boundary Magnetic Fields](https://arxiv.org/abs/2212.14832),  Parameshwar R. Pasnoori,  Junhyun Lee,  J. H. Pixley,  Natan Andrei,  Patrick Azaria,  arxiv:2212.14832
+
+* [Reduced basis emulation of pairing in finite systems](https://arxiv.org/abs/2212.14313),  Virgil V. Baran,  Denis R. Nichita,  arxiv:2212.14313
+
 * [Real space thermalization of locally driven quantum magnets](https://arxiv.org/abs/2212.13790),  Ronald Melendrez,  Bhaskar Mukherjee,  Prakash Sharma,  Arijeet Pal,  Hitesh J. Changlani,  arxiv:2212.13790
 
 * [Optimizing one-axis twists for realistic variational Bayesian quantum metrology](https://arxiv.org/abs/2212.12461),  Tyler G. Thurtell,  Akimasa Miyake,  arxiv:2212.12461
