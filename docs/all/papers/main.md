@@ -6,6 +6,12 @@
 * [](), , arxiv:
 -->
 
+## 2023
+
+* [Quantifying Rare Events in Stochastic Reaction-Diffusion Dynamics Using Tensor Networks](https://arxiv.org/abs/2301.03717),  Schuyler B. Nicholson,  Todd R. Gingrich,  arxiv:2301.03717
+
+* [Topological stripe state in an extended Fermi-Hubbard model](https://arxiv.org/abs/2301.03312),  Sergi Julià-Farré,  Lorenzo Cardarelli,  Maciej Lewenstein,  Markus Müller,  Alexandre Dauphin,  arxiv:2301.03312
+
 ## 2022
 
 * [Boundary Quantum Phase Transitions in the Spin $\frac{1}{2}$ Heisenberg Chain with Boundary Magnetic Fields](https://arxiv.org/abs/2212.14832),  Parameshwar R. Pasnoori,  Junhyun Lee,  J. H. Pixley,  Natan Andrei,  Patrick Azaria,  arxiv:2212.14832
