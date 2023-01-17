@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Effective spin-1 breathing kagome Hamiltonian induced by the exchange hierarchy in the maple leaf mineral bluebellite](https://arxiv.org/abs/2301.05224),  Pratyay Ghosh,  Tobias Müller,  Yasir Iqbal,  Ronny Thomale,  Harald O. Jeschke,  arxiv:2301.05224
+
+* [Efficient quantum information probes of nonequilibrium quantum criticality](https://www.nature.com/articles/s41534-022-00671-8), Miguel M. Oliveira, Pedro Ribeiro, Stefan Kirchner, <i style="color:#CC0000">npj Quantum Information</i> <b>9</b>, <a href="https://www.nature.com/articles/s41534-022-00671-8">6</a> (2023)
+
 * [Quantifying Rare Events in Stochastic Reaction-Diffusion Dynamics Using Tensor Networks](https://arxiv.org/abs/2301.03717),  Schuyler B. Nicholson,  Todd R. Gingrich,  arxiv:2301.03717
 
 * [Topological stripe state in an extended Fermi-Hubbard model](https://arxiv.org/abs/2301.03312),  Sergi Julià-Farré,  Lorenzo Cardarelli,  Maciej Lewenstein,  Markus Müller,  Alexandre Dauphin,  arxiv:2301.03312
