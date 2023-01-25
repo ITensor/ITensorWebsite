@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Wannier-Stark Ladders and Stark Shifts of Excitons in Mott Insulators](https://arxiv.org/abs/2301.06075),  Mina Udono,  Tatsuya Kaneko,  Koudai Sugimoto,  arxiv:2301.06075
+
+* [Building 1D lattice models with $G$-graded fusion category](https://arxiv.org/abs/2301.06416),  Shang-Qiang Ning,  Bin-Bin Mao,  Chenjie Wang,  arxiv:2301.06416
+
 * [Effective spin-1 breathing kagome Hamiltonian induced by the exchange hierarchy in the maple leaf mineral bluebellite](https://arxiv.org/abs/2301.05224),  Pratyay Ghosh,  Tobias Müller,  Yasir Iqbal,  Ronny Thomale,  Harald O. Jeschke,  arxiv:2301.05224
 
 * [Efficient quantum information probes of nonequilibrium quantum criticality](https://www.nature.com/articles/s41534-022-00671-8), Miguel M. Oliveira, Pedro Ribeiro, Stefan Kirchner, <i style="color:#CC0000">npj Quantum Information</i> <b>9</b>, <a href="https://www.nature.com/articles/s41534-022-00671-8">6</a> (2023)
