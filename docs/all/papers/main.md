@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Quantum criticality of a $\mathbb{Z}_{3}$ symmetric spin chain with long-range interactions](https://arxiv.org/abs/2301.08438),  Xue-Jia Yu,  Chengxiang Ding,  Limei Xu,  arxiv:2301.08438
+
 * [Wannier-Stark Ladders and Stark Shifts of Excitons in Mott Insulators](https://arxiv.org/abs/2301.06075),  Mina Udono,  Tatsuya Kaneko,  Koudai Sugimoto,  arxiv:2301.06075
 
 * [Building 1D lattice models with $G$-graded fusion category](https://arxiv.org/abs/2301.06416),  Shang-Qiang Ning,  Bin-Bin Mao,  Chenjie Wang,  arxiv:2301.06416
