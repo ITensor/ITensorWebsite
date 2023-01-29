@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [Relation between the noise correlations and the spin structure factor for Mott-insulating states in SU$(N)$ Hubbard models](https://arxiv.org/abs/2301.09807),  Mathias Mikkelsen,  Ippei Danshita,  arxiv:2301.09807
+
+* [Real-space imaging of dispersive triplon excitations in engineered quantum magnets](https://arxiv.org/abs/2301.09963),  Robert Drost,  Shawulienu Kezilebieke,  Jose Lado,  Peter Liljeroth,  arxiv:2301.09963
+
+* [Partially disordered Heisenberg antiferromagnet with short-range stripe correlations](https://arxiv.org/abs/2301.09446),  G. G. Blesio,  F. T. Lisandrini,  M. G. Gonzalez,  arxiv:2301.09446
+
 * [Quantum criticality of a $\mathbb{Z}_{3}$ symmetric spin chain with long-range interactions](https://arxiv.org/abs/2301.08438),  Xue-Jia Yu,  Chengxiang Ding,  Limei Xu,  arxiv:2301.08438
 
 * [Wannier-Stark Ladders and Stark Shifts of Excitons in Mott Insulators](https://arxiv.org/abs/2301.06075),  Mina Udono,  Tatsuya Kaneko,  Koudai Sugimoto,  arxiv:2301.06075
