@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Quantum-enhanced quantum Monte Carlo: an industrial view](https://arxiv.org/abs/2301.11838),  Maximilian Amsler,  Peter Deglmann,  Matthias Degroote,  Michael P. Kaicher,  Matthew Kiser,  Michael Kühn,  Chandan Kumar,  Andreas Maier,  Georgy Samsonidze,  Anna Schroeder,  Michael Streif,  Davide Vodola,  Christopher Wever,  arxiv:2301.11838
+
 * [Relation between the noise correlations and the spin structure factor for Mott-insulating states in SU$(N)$ Hubbard models](https://arxiv.org/abs/2301.09807),  Mathias Mikkelsen,  Ippei Danshita,  arxiv:2301.09807
 
 * [Real-space imaging of dispersive triplon excitations in engineered quantum magnets](https://arxiv.org/abs/2301.09963),  Robert Drost,  Shawulienu Kezilebieke,  Jose Lado,  Peter Liljeroth,  arxiv:2301.09963
