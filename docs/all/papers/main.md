@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Quantum Phase Transition in the One-Dimensional Water Chain](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.026201), Tobias Serwatka, Roger G. Melko, Anton Burkov, and Pierre-Nicholas Roy, PhysRev[Lett,130,026201]
+
 * [Quantum-enhanced quantum Monte Carlo: an industrial view](https://arxiv.org/abs/2301.11838),  Maximilian Amsler,  Peter Deglmann,  Matthias Degroote,  Michael P. Kaicher,  Matthew Kiser,  Michael Kühn,  Chandan Kumar,  Andreas Maier,  Georgy Samsonidze,  Anna Schroeder,  Michael Streif,  Davide Vodola,  Christopher Wever,  arxiv:2301.11838
 
 * [Exact quantum ground state of a two-dimensional quasicrystalline antiferromagnet](https://arxiv.org/abs/2301.11331),  Pratyay Ghosh,  arxiv:2301.11331
@@ -33,6 +35,8 @@
 * [Topological stripe state in an extended Fermi-Hubbard model](https://arxiv.org/abs/2301.03312),  Sergi Julià-Farré,  Lorenzo Cardarelli,  Maciej Lewenstein,  Markus Müller,  Alexandre Dauphin,  arxiv:2301.03312
 
 ## 2022
+
+* [Ferroelectric water chains in carbon nanotubes: Creation and manipulation of ordered quantum phases](https://doi.org/10.1063/5.0131149), Tobias Serwatka, Pierre-Nicholas Roy, <i style="color:#CC0000">J. Chem. Phys.</i> 157, 234301 (2022)
 
 * [Boundary Quantum Phase Transitions in the Spin $\frac{1}{2}$ Heisenberg Chain with Boundary Magnetic Fields](https://arxiv.org/abs/2212.14832),  Parameshwar R. Pasnoori,  Junhyun Lee,  J. H. Pixley,  Natan Andrei,  Patrick Azaria,  arxiv:2212.14832
 
@@ -306,7 +310,7 @@
 
 * [Quantum Information Scrambling in Quantum Many-body Scarred Systems](https://arxiv.org/abs/2201.01777),  Dong Yuan,  Shun-Yao Zhang,  Yu Wang,  L. -M. Duan,  Dong-Ling Deng,  arxiv:2201.01777
 
-* [Ground state of asymmetric tops with DMRG: water in one dimension](https://aip.scitation.org/doi/abs/10.1063/5.0078770), Tobias Serwatka and Pierre-Nicholas Roy, <i style="color:#CC0000">J. Chem. Phys.</i> 
+* [Ground state of asymmetric tops with DMRG: water in one dimension](https://doi.org/10.1063/5.0078770), Tobias Serwatka and Pierre-Nicholas Roy, <i style="color:#CC0000">J. Chem. Phys.</i> 156, 044116 (2022)
 
 * [Quantum dynamics of Gaudin magnets](https://arxiv.org/abs/2201.01025),  Wen-Bin He,  Stefano Chesi,  H. -Q. Lin,  Xi-Wen Guan,  arxiv:2201.01025
 
