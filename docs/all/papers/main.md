@@ -178,7 +178,7 @@
 
 * [Dynamical quantum phase transitions in Stark quantum spin chains](https://arxiv.org/abs/2208.03104),  Mona Faridfar,  Ahmad A. Fouladi,  Javad Vahedi,  arxiv:2208.03104
 
-* [High fidelity state reconstruction of a qubit via dynamics of a dissipative resonator](https://arxiv.org/abs/2208.00708),  G. Di Bello,  L. M. Cangemi,  V. Cataudella,  G. De Filippis,  A. Nocera,  C. A. Perroni,  arxiv:2208.00708
+* [Qubit-oscillator relationships in the open quantum Rabi model: the role of dissipation](https://arxiv.org/abs/2208.00708),  G. Di Bello,  L. M. Cangemi,  V. Cataudella,  G. De Filippis,  A. Nocera,  C. A. Perroni,  arxiv:2208.00708
 
 * [Dissipative prethermal discrete time crystal](https://arxiv.org/abs/2208.01055),  DinhDuy Vu,  Sankar Das Sarma,  arxiv:2208.01055
 
