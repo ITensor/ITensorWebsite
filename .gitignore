@@ -1,3 +1,4 @@
 bulma/
 *.swp
 docs.cgi
+*.pyc
