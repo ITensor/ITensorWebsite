@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Islands of Chiral Solitons in Integer Spin Kitaev Chains](https://arxiv.org/abs/2302.01347),  Erik S. Sørensen,  Jonathon Riddell,  Hae-Young Kee,  arxiv:2302.01347
+
 * [Quantum Phase Transition in the One-Dimensional Water Chain](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.026201), Tobias Serwatka, Roger G. Melko, Anton Burkov, and Pierre-Nicholas Roy, PhysRev[Lett,130,026201]
 
 * [Quantum-enhanced quantum Monte Carlo: an industrial view](https://arxiv.org/abs/2301.11838),  Maximilian Amsler,  Peter Deglmann,  Matthias Degroote,  Michael P. Kaicher,  Matthew Kiser,  Michael Kühn,  Chandan Kumar,  Andreas Maier,  Georgy Samsonidze,  Anna Schroeder,  Michael Streif,  Davide Vodola,  Christopher Wever,  arxiv:2301.11838
@@ -178,7 +180,7 @@
 
 * [Dynamical quantum phase transitions in Stark quantum spin chains](https://arxiv.org/abs/2208.03104),  Mona Faridfar,  Ahmad A. Fouladi,  Javad Vahedi,  arxiv:2208.03104
 
-* [Qubit-oscillator relationships in the open quantum Rabi model: the role of dissipation](https://arxiv.org/abs/2208.00708),  G. Di Bello,  L. M. Cangemi,  V. Cataudella,  G. De Filippis,  A. Nocera,  C. A. Perroni, Journal[The European Physical Journal Plus,138,135,https://link.springer.com/article/10.1140/epjp/s13360-023-03714-x]  [arxiv:2208.00708]
+* [Qubit-oscillator relationships in the open quantum Rabi model: the role of dissipation](https://link.springer.com/article/10.1140/epjp/s13360-023-03714-x),  G. Di Bello,  L. M. Cangemi,  V. Cataudella,  G. De Filippis,  A. Nocera,  C. A. Perroni, Journal[The European Physical Journal Plus,138,135,https://link.springer.com/article/10.1140/epjp/s13360-023-03714-x]  [arxiv:2208.00708]
 
 * [Dissipative prethermal discrete time crystal](https://arxiv.org/abs/2208.01055),  DinhDuy Vu,  Sankar Das Sarma,  arxiv:2208.01055
 
