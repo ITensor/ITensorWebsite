@@ -18,17 +18,17 @@
 
 * [Exact quantum ground state of a two-dimensional quasicrystalline antiferromagnet](https://arxiv.org/abs/2301.11331),  Pratyay Ghosh,  arxiv:2301.11331
 
-* [Relation between the noise correlations and the spin structure factor for Mott-insulating states in SU$(N)$ Hubbard models](https://arxiv.org/abs/2301.09807),  Mathias Mikkelsen,  Ippei Danshita,  arxiv:2301.09807
+* [Relation between the noise correlations and the spin structure factor for Mott-insulating states in SU(N) Hubbard models](https://arxiv.org/abs/2301.09807),  Mathias Mikkelsen,  Ippei Danshita,  arxiv:2301.09807
 
 * [Real-space imaging of dispersive triplon excitations in engineered quantum magnets](https://arxiv.org/abs/2301.09963),  Robert Drost,  Shawulienu Kezilebieke,  Jose Lado,  Peter Liljeroth,  arxiv:2301.09963
 
 * [Partially disordered Heisenberg antiferromagnet with short-range stripe correlations](https://arxiv.org/abs/2301.09446),  G. G. Blesio,  F. T. Lisandrini,  M. G. Gonzalez,  arxiv:2301.09446
 
-* [Quantum criticality of a $\mathbb{Z}_{3}$ symmetric spin chain with long-range interactions](https://arxiv.org/abs/2301.08438),  Xue-Jia Yu,  Chengxiang Ding,  Limei Xu,  arxiv:2301.08438
+* [Quantum criticality of a Z_3 symmetric spin chain with long-range interactions](https://arxiv.org/abs/2301.08438),  Xue-Jia Yu,  Chengxiang Ding,  Limei Xu,  arxiv:2301.08438
 
 * [Wannier-Stark Ladders and Stark Shifts of Excitons in Mott Insulators](https://arxiv.org/abs/2301.06075),  Mina Udono,  Tatsuya Kaneko,  Koudai Sugimoto,  arxiv:2301.06075
 
-* [Building 1D lattice models with $G$-graded fusion category](https://arxiv.org/abs/2301.06416),  Shang-Qiang Ning,  Bin-Bin Mao,  Chenjie Wang,  arxiv:2301.06416
+* [Building 1D lattice models with G-graded fusion category](https://arxiv.org/abs/2301.06416),  Shang-Qiang Ning,  Bin-Bin Mao,  Chenjie Wang,  arxiv:2301.06416
 
 * [Effective spin-1 breathing kagome Hamiltonian induced by the exchange hierarchy in the maple leaf mineral bluebellite](https://arxiv.org/abs/2301.05224),  Pratyay Ghosh,  Tobias Müller,  Yasir Iqbal,  Ronny Thomale,  Harald O. Jeschke,  arxiv:2301.05224
 
@@ -42,7 +42,7 @@
 
 * [Ferroelectric water chains in carbon nanotubes: Creation and manipulation of ordered quantum phases](https://doi.org/10.1063/5.0131149), Tobias Serwatka, Pierre-Nicholas Roy, <i style="color:#CC0000">J. Chem. Phys.</i> 157, 234301 (2022)
 
-* [Boundary Quantum Phase Transitions in the Spin $\frac{1}{2}$ Heisenberg Chain with Boundary Magnetic Fields](https://arxiv.org/abs/2212.14832),  Parameshwar R. Pasnoori,  Junhyun Lee,  J. H. Pixley,  Natan Andrei,  Patrick Azaria,  arxiv:2212.14832
+* [Boundary Quantum Phase Transitions in the Spin 1/2 Heisenberg Chain with Boundary Magnetic Fields](https://arxiv.org/abs/2212.14832),  Parameshwar R. Pasnoori,  Junhyun Lee,  J. H. Pixley,  Natan Andrei,  Patrick Azaria,  arxiv:2212.14832
 
 * [Reduced basis emulation of pairing in finite systems](https://arxiv.org/abs/2212.14313),  Virgil V. Baran,  Denis R. Nichita,  arxiv:2212.14313
 
@@ -134,9 +134,9 @@
 
 * [Genuine multipartite entanglement in 1D Bose-Hubbard model with frustrated hopping](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.195158),  Sudipto Singha Roy,  Leon Carl,  Philipp Hauke, PhysRev[B,106,195158] [arxiv:2209.08815]
 
-* [Solid-state $S=1$ spin centers with zero-field splitting as quantum simulators for $S=1/2$ critical behavior](https://arxiv.org/abs/2209.07516),  Troy Losey,  Denis R. Candido,  Y. Meurice,  M. E. Flatté,  S. -W. Tsai,  Jin Zhang,  arxiv:2209.07516
+* [Solid-state S=1 spin centers with zero-field splitting as quantum simulators for S=1/2 critical behavior](https://arxiv.org/abs/2209.07516),  Troy Losey,  Denis R. Candido,  Y. Meurice,  M. E. Flatté,  S. -W. Tsai,  Jin Zhang,  arxiv:2209.07516
 
-* [Robust $π$-Modes and a Bulk-Boundary Correspondence in Non-Unitary Floquet Models](https://arxiv.org/abs/2209.06945),  Vikram Ravindranath,  Xiao Chen,  arxiv:2209.06945
+* [Robust π-Modes and a Bulk-Boundary Correspondence in Non-Unitary Floquet Models](https://arxiv.org/abs/2209.06945),  Vikram Ravindranath,  Xiao Chen,  arxiv:2209.06945
 
 * [Field Induced Chiral Soliton Phase in the Kitaev Spin Chain](https://arxiv.org/abs/2209.06221),  Erik S. Sørensen,  Jacob Gordon,  Jonathon Riddell,  Tianyi Wang,  Hae-Young Kee,  arxiv:2209.06221
 
@@ -158,13 +158,13 @@
 
 * [Triangular lattice Hubbard model physics at intermediate temperatures](https://arxiv.org/abs/2209.00664),  Kyungmin Lee,  Prakash Sharma,  Oskar Vafek,  Hitesh J. Changlani,  arxiv:2209.00664
 
-* [Spectral function of the $J_1-J_2$ Heisenberg model on the triangular lattice](https://arxiv.org/abs/2209.00739),  Nicholas E. Sherman,  Maxime Dupont,  Joel E. Moore,  arxiv:2209.00739
+* [Spectral function of the J_1-J_2 Heisenberg model on the triangular lattice](https://arxiv.org/abs/2209.00739),  Nicholas E. Sherman,  Maxime Dupont,  Joel E. Moore,  arxiv:2209.00739
 
 * [Qubitization strategies for bosonic field theories](https://arxiv.org/abs/2209.00098),  Andrei Alexandru,  Paulo F. Bedaque,  Andrea Carosso,  Michael J. Cervia,  Andy Sheng,  arxiv:2209.00098
 
 * [Where Is The Quantum Spin Nematic?](https://arxiv.org/abs/2209.00010),  Shengtao Jiang,  Judit Romhányi,  Steven R. White,  M. E. Zhitomirsky,  A. L. Chernyshev,  arxiv:2209.00010
 
-* [Bose-Einstein condensation in honeycomb dimer magnets and $\rm Yb_2 \rm Si_2 \rm O_7$](https://arxiv.org/abs/2209.00032),  Chunhan Feng,  E. Miles Stoudenmire,  Alexander Wietek,  arxiv:2209.00032
+* [Bose-Einstein condensation in honeycomb dimer magnets and Yb2Si2O7](https://arxiv.org/abs/2209.00032),  Chunhan Feng,  E. Miles Stoudenmire,  Alexander Wietek,  arxiv:2209.00032
 
 * [Synergy Between Quantum Circuits and Tensor Networks: Short-cutting the Race to Practical Quantum Advantage](https://arxiv.org/abs/2208.13673),  Manuel S. Rudolph,  Jacob Miller,  Jing Chen,  Atithi Acharya,  Alejandro Perdomo-Ortiz,  arxiv:2208.13673
 
@@ -194,7 +194,7 @@
 
 * [One-axis twisting as a method of generating many-body Bell correlations](https://arxiv.org/abs/2206.10542),  Marcin Płodzień,  Maciej Lewenstein,  Emilia Witkowska,  Jan Chwedeńczuk,  arxiv:2206.10542
 
-* [Pairing Properties of the $t$-$t'$-$t''$-$J$ model](https://arxiv.org/abs/2206.07812),  Shengtao Jiang,  Douglas J. Scalapino,  Steven R. White,  arxiv:2206.07812
+* [Pairing Properties of the t-t'-t''-J model](https://arxiv.org/abs/2206.07812),  Shengtao Jiang,  Douglas J. Scalapino,  Steven R. White,  arxiv:2206.07812
 
 * [A dynamical theory for one-dimensional fermions with strong two-body losses: universal non-Hermitian Zeno physics and spin-charge separation](https://arxiv.org/abs/2206.06837),  Lorenzo Rosso,  Alberto Biella,  Jacopo De Nardis,  Leonardo Mazza,  arxiv:2206.06837
 
@@ -224,7 +224,7 @@
 
 * [Propagation of errors and quantitative quantum simulation with quantum advantage](https://arxiv.org/abs/2204.13644),  S. Flannigan,  N. Pearson,  G. H. Low,  A. Buyskikh,  I. Bloch,  P. Zoller,  M. Troyer,  A. J. Daley,  arxiv:2204.13644
 
-* [Ab initio guided minimal model for the "Kitaev" material BaCo$_2$(AsO$_4$)$_2$: Importance of direct hopping, third-neighbor exchange and quantum fluctuations](https://arxiv.org/abs/2204.09695),  Pavel A. Maksimov,  Alexey V. Ushakov,  Zlata V. Pchelkina,  Ying Li,  Stephen M. Winter,  Sergey V. Streltsov,  arxiv:2204.09695
+* [Ab initio guided minimal model for the "Kitaev" material BaCo_2(AsO_4)_2: Importance of direct hopping, third-neighbor exchange and quantum fluctuations](https://arxiv.org/abs/2204.09695),  Pavel A. Maksimov,  Alexey V. Ushakov,  Zlata V. Pchelkina,  Ying Li,  Stephen M. Winter,  Sergey V. Streltsov,  arxiv:2204.09695
 
 * [Photoinduced metallization of excitonic insulators](https://arxiv.org/abs/2204.09085),  Satoshi Ejima,  Florian Lange,  Holger Fehske,  arxiv:2204.09085
 
@@ -232,7 +232,7 @@
 
 * [Scalable measures of magic for quantum computers](https://arxiv.org/abs/2204.10061),  Tobias Haug,  M. S. Kim,  arxiv:2204.10061
 
-* [Entanglement and quantum correlations in the XX spin-$1/2$ honeycomb lattice](https://arxiv.org/abs/2204.07708),  S. Satoori,  S. Mahdavifar,  J. Vahedi,  arxiv:2204.07708
+* [Entanglement and quantum correlations in the XX spin-1/2 honeycomb lattice](https://arxiv.org/abs/2204.07708),  S. Satoori,  S. Mahdavifar,  J. Vahedi,  arxiv:2204.07708
 
 * [Lee-Yang theory of the two-dimensional quantum Ising model](https://arxiv.org/abs/2204.08223),  Pascal M. Vecsei,  Jose L. Lado,  Christian Flindt,  arxiv:2204.08223
 
@@ -268,7 +268,7 @@
 
 * [Symmetric Mass Generation in the 1+1 Dimensional Chiral Fermion 3-4-5-0 Model](https://arxiv.org/abs/2202.12355),  Meng Zeng,  Zheng Zhu,  Juven Wang,  Yi-Zhuang You,  arxiv:2202.12355
 
-* [Order, Disorder and Monopole Confinement in the Spin-$1/2$ XXZ Model on a Pyrochlore Tube](https://arxiv.org/abs/2203.00032),  Chunhan Feng,  Alexander Wietek,  E. Miles Stoudenmire,  Rajiv R. P. Singh,  arxiv:2203.00032
+* [Order, Disorder and Monopole Confinement in the Spin-1/2 XXZ Model on a Pyrochlore Tube](https://arxiv.org/abs/2203.00032),  Chunhan Feng,  Alexander Wietek,  E. Miles Stoudenmire,  Rajiv R. P. Singh,  arxiv:2203.00032
 
 * [Entanglement spectrum and quantum phase diagram of the long-range XXZ chain](https://arxiv.org/abs/2202.13343),  J. T. Schneider,  S. J. Thomson,  L. Sanchez-Palencia,  arxiv:2202.13343
 
