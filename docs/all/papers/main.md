@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Cloud on-demand emulation of quantum dynamics with tensor networks](https://arxiv.org/abs/2302.05253),  Kemal Bidzhiev,  Aleksander Wennersteen,  Mourad Beji,  Mario Dagrada,  Mauro D'Arcangelo,  Sebastian Grijalva,  Anne-Claire Le Henaff,  Anton Quelle,  Alvin Sashala Naik,  arxiv:2302.05253
+
 * [Islands of Chiral Solitons in Integer Spin Kitaev Chains](https://arxiv.org/abs/2302.01347),  Erik S. Sørensen,  Jonathon Riddell,  Hae-Young Kee,  arxiv:2302.01347
 
 * [Quantum Phase Transition in the One-Dimensional Water Chain](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.026201), Tobias Serwatka, Roger G. Melko, Anton Burkov, and Pierre-Nicholas Roy, PhysRev[Lett,130,026201]
