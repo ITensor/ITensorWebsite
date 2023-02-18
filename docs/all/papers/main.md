@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Singlet, Triplet and Pair Density Wave Superconductivity in the Doped Triangular-Lattice Moiré System](https://arxiv.org/abs/2302.06765),  Feng Chen,  Donna Sheng,  arxiv:2302.06765
+
+* [Proposal for observing Yang-Lee criticality in Rydberg atomic arrays](https://arxiv.org/abs/2302.06662),  Ruizhe Shen,  Tianqi Chen,  Fang Qin,  Yin Zhong,  Ching Hua Lee,  arxiv:2302.06662
+
 * [Cloud on-demand emulation of quantum dynamics with tensor networks](https://arxiv.org/abs/2302.05253),  Kemal Bidzhiev,  Aleksander Wennersteen,  Mourad Beji,  Mario Dagrada,  Mauro D'Arcangelo,  Sebastian Grijalva,  Anne-Claire Le Henaff,  Anton Quelle,  Alvin Sashala Naik,  arxiv:2302.05253
 
 * [Islands of Chiral Solitons in Integer Spin Kitaev Chains](https://arxiv.org/abs/2302.01347),  Erik S. Sørensen,  Jonathon Riddell,  Hae-Young Kee,  arxiv:2302.01347
