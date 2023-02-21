@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [Doping asymmetry in the three-band Hamiltonian for cuprate ladders: failure of the standard model of superconductivity in cuprates](https://arxiv.org/abs/2302.08356),  Jeong-Pil Song,  Sumit Mazumdar,  R. Torsten Clay,  arxiv:2302.08356
+
+* [Non-Fermi liquids from kinetic constraints in tilted optical lattices](https://arxiv.org/abs/2302.08499),  Ethan Lake,  T. Senthil,  arxiv:2302.08499
+
+* [Density Matrix Renormalization Group study of superconducting pairing near the quarter-filled Wigner crystal](https://arxiv.org/abs/2302.08367),  R. Torsten Clay,  Beau A. Thompson,  arxiv:2302.08367
+
 * [Singlet, Triplet and Pair Density Wave Superconductivity in the Doped Triangular-Lattice Moiré System](https://arxiv.org/abs/2302.06765),  Feng Chen,  Donna Sheng,  arxiv:2302.06765
 
 * [Proposal for observing Yang-Lee criticality in Rydberg atomic arrays](https://arxiv.org/abs/2302.06662),  Ruizhe Shen,  Tianqi Chen,  Fang Qin,  Yin Zhong,  Ching Hua Lee,  arxiv:2302.06662
