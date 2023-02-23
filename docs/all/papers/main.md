@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [First-order superradiant phase transition in magnetic cavities: A two-leg ladder model](https://arxiv.org/abs/2302.09901),  Zeno Bacciconi,  Gian Marcello Andolina,  Titas Chanda,  Giuliano Chiriacò,  Marco Schiró,  Marcello Dalmonte,  arxiv:2302.09901
+
+* [Matrix Product Study of Spin Fractionalization in the 1D Kondo Insulator](https://arxiv.org/abs/2302.09701),  Jing Chen,  E. Miles Stoudenmire,  Yashar Komijani,  Piers Coleman,  arxiv:2302.09701
+
+* [A Scaling Function for the Particle Entanglement Entropy of Fermions](https://arxiv.org/abs/2302.09093),  Harini Radhakrishnan,  Matthias Thamm,  Hatem Barghathi,  Bernd Rosenow,  Adrian Del Maestro,  arxiv:2302.09093
+
 * [Doping asymmetry in the three-band Hamiltonian for cuprate ladders: failure of the standard model of superconductivity in cuprates](https://arxiv.org/abs/2302.08356),  Jeong-Pil Song,  Sumit Mazumdar,  R. Torsten Clay,  arxiv:2302.08356
 
 * [Non-Fermi liquids from kinetic constraints in tilted optical lattices](https://arxiv.org/abs/2302.08499),  Ethan Lake,  T. Senthil,  arxiv:2302.08499
