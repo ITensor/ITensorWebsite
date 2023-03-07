@@ -14,6 +14,12 @@
 
 * [Exploring dynamical quantum phase transitions in a spin model with deconfined critical point via the quantum steering ellipsoid](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.085130), Chang-Xiao Li, Sheng Yang, Jing-Bo Xu, and Hai-Qing Lin, PhysRev[B,107,085130] (2023)
 
+* [Quantum $z=2$ Lifshitz criticality in interacting topological chains](https://arxiv.org/abs/2302.13243),  Ke Wang,  arxiv:2302.13243
+
+* [Vacuum Entanglement Harvesting in the Ising Model](https://arxiv.org/abs/2302.12858),  Hersh Singh,  Tanmoy Bhattacharya,  Shailesh Chandrasekharan,  Rajan Gupta,  arxiv:2302.12858
+
+* [Fractional quantum anomalous Hall phase for Raman superarray of Rydberg atoms](https://arxiv.org/abs/2302.13104),  Ting-Fung Jeffrey Poon,  Xin-Chi Zhou,  Bao-Zong Wang,  Tian-Hua Yang,  Xiong-Jun Liu,  arxiv:2302.13104
+
 * [First-order superradiant phase transition in magnetic cavities: A two-leg ladder model](https://arxiv.org/abs/2302.09901),  Zeno Bacciconi,  Gian Marcello Andolina,  Titas Chanda,  Giuliano Chiriacò,  Marco Schiró,  Marcello Dalmonte,  arxiv:2302.09901
 
 * [Matrix Product Study of Spin Fractionalization in the 1D Kondo Insulator](https://arxiv.org/abs/2302.09701),  Jing Chen,  E. Miles Stoudenmire,  Yashar Komijani,  Piers Coleman,  arxiv:2302.09701
