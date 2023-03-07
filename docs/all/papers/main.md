@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [A single-band model with enhanced pairing from DMRG-based downfolding of the three-band Hubbard model](https://arxiv.org/abs/2303.00756),  Shengtao Jiang,  Douglas J. Scalapino,  Steven R. White,  arxiv:2303.00756
+
 * [An Exact Continuous Theory for Spin Systems on Graphons](https://arxiv.org/abs/2303.00731),  Amy Searle,  Joseph Tindall,  arxiv:2303.00731
 
 * [Exploring dynamical quantum phase transitions in a spin model with deconfined critical point via the quantum steering ellipsoid](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.085130), Chang-Xiao Li, Sheng Yang, Jing-Bo Xu, and Hai-Qing Lin, PhysRev[B,107,085130] (2023)
@@ -1339,7 +1341,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-25  papers in 2023
+26  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1353,5 +1355,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-648 total (through 2023)
+649 total (through 2023)
 -->
