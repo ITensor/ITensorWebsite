@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Quantum order by disorder in Frustrated Spin Nanotubes](https://arxiv.org/abs/2303.04690),  João C. Getelina,  Zekun Zhuang,  Premala Chandra,  Piers Coleman,  Peter P. Orth,  S. L. Sondhi,  arxiv:2303.04690
+
 * [A single-band model with enhanced pairing from DMRG-based downfolding of the three-band Hubbard model](https://arxiv.org/abs/2303.00756),  Shengtao Jiang,  Douglas J. Scalapino,  Steven R. White,  arxiv:2303.00756
 
 * [An Exact Continuous Theory for Spin Systems on Graphons](https://arxiv.org/abs/2303.00731),  Amy Searle,  Joseph Tindall,  arxiv:2303.00731
