@@ -132,7 +132,7 @@
 
 * [Hunting for quantum-classical crossover in condensed matter problems](https://arxiv.org/abs/2210.14109),  Nobuyuki Yoshioka,  Tsuyoshi Okubo,  Yasunari Suzuki,  Yuki Koizumi,  Wataru Mizukami,  arxiv:2210.14109
 
-* [Symmetry-resolved entanglement of 2D symmetry-protected topological states](https://arxiv.org/abs/2210.12750),  Daniel Azses,  David F. Mross,  Eran Sela,  arxiv:2210.12750
+* [Symmetry-resolved entanglement of 2D symmetry-protected topological states](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.115113),  Daniel Azses,  David F. Mross,  Eran Sela, PhysRev[B,107,115113] [arxiv:2210.12750]
 
 * [The Quantum Fourier Transform Has Small Entanglement](https://arxiv.org/abs/2210.08468),  Jielun Chen,  E. M. Stoudenmire,  Steven R. White,  arxiv:2210.08468
 
