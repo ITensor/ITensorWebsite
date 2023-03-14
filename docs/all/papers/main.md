@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Asymptotic Quantum Many-Body Scars](https://arxiv.org/abs/2303.05407),  Lorenzo Gotta,  Sanjay Moudgalya,  Leonardo Mazza,  arxiv:2303.05407
+
 * [Many-body delocalization from planted thermal inclusion](https://arxiv.org/abs/2303.02748),  J. Clayton Peacock,  Dries Sels,  arxiv:2303.02748
 
 * [Quantum order by disorder in Frustrated Spin Nanotubes](https://arxiv.org/abs/2303.04690),  João C. Getelina,  Zekun Zhuang,  Premala Chandra,  Piers Coleman,  Peter P. Orth,  S. L. Sondhi,  arxiv:2303.04690
@@ -1351,7 +1353,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-26  papers in 2023
+32  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1365,5 +1367,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-649 total (through 2023)
+655 total (through 2023)
 -->
