@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Coexistence of superconductivity with partially filled stripes in the Hubbard model](https://arxiv.org/abs/2303.08376),  Hao Xu,  Chia-Min Chung,  Mingpu Qin,  Ulrich Schollwöck,  Steven R. White,  Shiwei Zhang,  arxiv:2303.08376
+
 * [Asymptotic Quantum Many-Body Scars](https://arxiv.org/abs/2303.05407),  Lorenzo Gotta,  Sanjay Moudgalya,  Leonardo Mazza,  arxiv:2303.05407
 
 * [Many-body delocalization from planted thermal inclusion](https://arxiv.org/abs/2303.02748),  J. Clayton Peacock,  Dries Sels,  arxiv:2303.02748
