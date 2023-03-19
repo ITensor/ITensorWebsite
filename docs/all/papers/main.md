@@ -1157,7 +1157,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 * [Rényi Entropies from Random Quenches in Atomic Hubbard and Spin Models](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.050406), Andreas&nbsp;Elben, Benoît&nbsp;Vermersch, Marcello&nbsp;Dalmonte, J.&nbsp;Ignacio&nbsp;Cirac, Peter&nbsp;Zoller, PhysRev[Lett,120,050406] [arxiv:1709.05060]
 
-* [Chemical accuracy from small, system-adapted basis functions](https://arxiv.org/abs/1709.03460), Thomas&nbsp;E.&nbsp;Baker, Kieron&nbsp;Burke, Steven&nbsp;R.&nbsp;White, arxiv:1709.03460
+* [Chemical accuracy from small, system-adapted basis functions](https://doi.org/10.1103/PhysRevB.97.085139), Thomas&nbsp;E.&nbsp;Baker, Kieron&nbsp;Burke, Steven&nbsp;R.&nbsp;White, PhysRev[B,97,085139] arxiv:1709.03460
 
 * [Rényi entropies after releasing the Néel state in the XXZ spin-chain](http://iopscience.iop.org/article/10.1088/1742-5468/aa934c/meta), Vincenzo&nbsp;Alba, Pasquale&nbsp;Calabrese, <i style="color:#CC0000">J. Stat. Mech.</i> 113105 [arxiv:1709.02193]
 
