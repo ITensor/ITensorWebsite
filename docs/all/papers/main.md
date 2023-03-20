@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Squeezed ensembles and anomalous dynamic roughening in interacting integrable chains](https://arxiv.org/abs/2303.08832),  Guillaume Cecile,  Jacopo De Nardis,  Enej Ilievski,  arxiv:2303.08832
+
+* [Comparing bipartite entropy growth in open-system matrix product simulation methods](https://arxiv.org/abs/2303.09426),  Guillermo Preisser,  David Wellnitz,  Thomas Botzung,  Johannes Schachenmayer,  arxiv:2303.09426
+
 * [Coexistence of superconductivity with partially filled stripes in the Hubbard model](https://arxiv.org/abs/2303.08376),  Hao Xu,  Chia-Min Chung,  Mingpu Qin,  Ulrich Schollwöck,  Steven R. White,  Shiwei Zhang,  arxiv:2303.08376
 
 * [Asymptotic Quantum Many-Body Scars](https://arxiv.org/abs/2303.05407),  Lorenzo Gotta,  Sanjay Moudgalya,  Leonardo Mazza,  arxiv:2303.05407
@@ -1355,7 +1359,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-32  papers in 2023
+35  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1369,5 +1373,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-655 total (through 2023)
+658 total (through 2023)
 -->
