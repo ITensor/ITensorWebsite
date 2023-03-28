@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Classification and emergence of quantum spin liquids in chiral Rydberg models](https://arxiv.org/abs/2303.12829),  Poetri Sonya Tarabunga,  Giuliano Giudici,  Titas Chanda,  Marcello Dalmonte,  arxiv:2303.12829
+
 * [QuantumDynamics.jl: A modular approach to simulations of dynamics of open quantum systems](https://arxiv.org/abs/2303.11781),  Amartya Bose,  arxiv:2303.11781
 
 * [Quantics Tensor Cross Interpolation for High-Resolution, Parsimonious Representations of Multivariate Functions in Physics and Beyond](https://arxiv.org/abs/2303.11819),  Marc K. Ritter,  Yuriel Núñez Fernández,  Markus Wallerberger,  Jan von Delft,  Hiroshi Shinaoka,  Xavier Waintal,  arxiv:2303.11819
@@ -1363,7 +1365,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-37  papers in 2023
+38  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1377,5 +1379,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-660 total (through 2023)
+661 total (through 2023)
 -->
