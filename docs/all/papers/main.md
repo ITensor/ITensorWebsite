@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Many-body localization proximity effect in two-species bosonic Hubbard model](https://arxiv.org/abs/2303.16876),  Pietro Brighi,  Marko Ljubotina,  Dmitry A. Abanin,  Maksym Serbyn,  arxiv:2303.16876
+
+* [Reexamining the doped two-legged Hubbard ladders](https://arxiv.org/abs/2303.16487),  Yang Shen,  Guang-Ming Zhang,  Mingpu Qin,  arxiv:2303.16487
+
 * [Robust superconducting correlation against inter-site interactions in the extended two-leg Hubbard ladder](https://arxiv.org/abs/2303.14723),  Zongsheng Zhou,  Weinan Ye,  Hong-Gang Luo,  Jize Zhao,  Jun Chang,  arxiv:2303.14723
 
 * [Classification and emergence of quantum spin liquids in chiral Rydberg models](https://arxiv.org/abs/2303.12829),  Poetri Sonya Tarabunga,  Giuliano Giudici,  Titas Chanda,  Marcello Dalmonte,  arxiv:2303.12829
@@ -1367,7 +1371,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-39  papers in 2023
+41  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1381,5 +1385,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-662 total (through 2023)
+664 total (through 2023)
 -->
