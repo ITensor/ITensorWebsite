@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Efficient separation of quantum from classical correlations for mixed states with a fixed charge](https://quantum-journal.org/papers/q-2023-03-20-954/), Christian Carisch, Oded Zilberberg, Journal[Quantum,7,954,https://quantum-journal.org/papers/q-2023-03-20-954/] (2023)
+
 * [Nonthermal entanglement dynamics in a dipole-facilitated glassy model with disconnected subspaces](https://arxiv.org/abs/2303.10582),  Guanhua Chen,  Yao Yao,  arxiv:2303.10582
 
 * [Computing the Mass Shift of Wilson and Staggered Fermions in the Lattice Schwinger Model with Matrix Product States](https://arxiv.org/abs/2303.11016),  Takis Angelides,  Lena Funcke,  Karl Jansen,  Stefan Kühn,  arxiv:2303.11016
@@ -1379,7 +1381,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-45  papers in 2023
+46  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1393,5 +1395,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-668 total (through 2023)
+669 total (through 2023)
 -->
