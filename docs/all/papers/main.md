@@ -8,6 +8,14 @@
 
 ## 2023
 
+* [Nonthermal entanglement dynamics in a dipole-facilitated glassy model with disconnected subspaces](https://arxiv.org/abs/2303.10582),  Guanhua Chen,  Yao Yao,  arxiv:2303.10582
+
+* [Computing the Mass Shift of Wilson and Staggered Fermions in the Lattice Schwinger Model with Matrix Product States](https://arxiv.org/abs/2303.11016),  Takis Angelides,  Lena Funcke,  Karl Jansen,  Stefan Kühn,  arxiv:2303.11016
+
+* [Scaling of fronts and entanglement spreading during a domain wall melting](https://arxiv.org/abs/2303.10054),  Stefano Scopa,  Dragi Karevski,  arxiv:2303.10054
+
+* [Grover's Algorithm Offers No Quantum Advantage](https://arxiv.org/abs/2303.11317),  E. M. Stoudenmire,  Xavier Waintal,  arxiv:2303.11317
+
 * [Many-body localization proximity effect in two-species bosonic Hubbard model](https://arxiv.org/abs/2303.16876),  Pietro Brighi,  Marko Ljubotina,  Dmitry A. Abanin,  Maksym Serbyn,  arxiv:2303.16876
 
 * [Reexamining the doped two-legged Hubbard ladders](https://arxiv.org/abs/2303.16487),  Yang Shen,  Guang-Ming Zhang,  Mingpu Qin,  arxiv:2303.16487
@@ -1371,7 +1379,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-41  papers in 2023
+45  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1385,5 +1393,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-664 total (through 2023)
+668 total (through 2023)
 -->
