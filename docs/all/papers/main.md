@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Preparation for quantum simulation of the (1+1)-dimensional O(3) nonlinear sigma model using cold atoms](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.042404), Anthony N. Ciavarella, Stephan Caspar, Hersh Singh, and Martin J. Savage, PhysRev[A,107,042404] (2023)
+
+* [Tensor-Network Simulations of Noisy Quantum Computers](https://arxiv.org/abs/2304.01751),  Marcel Niedermeier,  Jose L. Lado,  Christian Flindt,  arxiv:2304.01751
+
 * [Efficient separation of quantum from classical correlations for mixed states with a fixed charge](https://quantum-journal.org/papers/q-2023-03-20-954/), Christian Carisch, Oded Zilberberg, Journal[Quantum,7,954,https://quantum-journal.org/papers/q-2023-03-20-954/] (2023)
 
 * [Nonthermal entanglement dynamics in a dipole-facilitated glassy model with disconnected subspaces](https://arxiv.org/abs/2303.10582),  Guanhua Chen,  Yao Yao,  arxiv:2303.10582
@@ -1381,7 +1385,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-46  papers in 2023
+48  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1395,5 +1399,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-669 total (through 2023)
+671 total (through 2023)
 -->
