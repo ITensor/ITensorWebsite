@@ -1387,7 +1387,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-48  papers in 2023
+49  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1401,5 +1401,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-671 total (through 2023)
+672 total (through 2023)
 -->
