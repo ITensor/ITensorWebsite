@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Learning Energy-Based Representations of Quantum Many-Body States](https://arxiv.org/abs/2304.04058),  Abhijith Jayakumar,  Marc Vuffray,  Andrey Y. Lokhov,  arxiv:2304.04058
+
 * [Preparation for quantum simulation of the (1+1)-dimensional O(3) nonlinear sigma model using cold atoms](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.042404), Anthony N. Ciavarella, Stephan Caspar, Hersh Singh, and Martin J. Savage, PhysRev[A,107,042404] (2023)
 
 * [Tensor-Network Simulations of Noisy Quantum Computers](https://arxiv.org/abs/2304.01751),  Marcel Niedermeier,  Jose L. Lado,  Christian Flindt,  arxiv:2304.01751
