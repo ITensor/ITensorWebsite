@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Tree tensor network state approach for solving hierarchical equations of motions](https://arxiv.org/abs/2304.05151),  Yaling Ke,  arxiv:2304.05151
+
+* [Dimensional crossover on multileg attractive-$U$ Hubbard ladders](https://arxiv.org/abs/2304.04867),  Anastasia Potapova,  Ian Pilé,  Tian-Cheng Yi,  Rubem Mondaini,  Evgeni Burovski,  arxiv:2304.04867
+
 * [Learning Energy-Based Representations of Quantum Many-Body States](https://arxiv.org/abs/2304.04058),  Abhijith Jayakumar,  Marc Vuffray,  Andrey Y. Lokhov,  arxiv:2304.04058
 
 * [Preparation for quantum simulation of the (1+1)-dimensional O(3) nonlinear sigma model using cold atoms](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.042404), Anthony N. Ciavarella, Stephan Caspar, Hersh Singh, and Martin J. Savage, PhysRev[A,107,042404] (2023)
@@ -1387,7 +1391,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-49  papers in 2023
+51  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1401,5 +1405,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-672 total (through 2023)
+674 total (through 2023)
 -->
