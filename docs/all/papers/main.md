@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Anderson impurity solver integrating tensor network methods with quantum computing](https://arxiv.org/abs/2304.06587),  Francois Jamet,  Connor Lenihan,  Lachlan P. Lindoy,  Abhishek Agarwal,  Enrico Fontana,  Baptiste Anselme Martin,  Ivan Rungger,  arxiv:2304.06587
+
+* [Quantum Phases in the Honeycomb-Lattice $J_1$--$J_3$ Ferro-Antiferromagnetic Model](https://arxiv.org/abs/2304.06062),  Shengtao Jiang,  Steven R. White,  A. L. Chernyshev,  arxiv:2304.06062
+
 * [Tree tensor network state approach for solving hierarchical equations of motions](https://arxiv.org/abs/2304.05151),  Yaling Ke,  arxiv:2304.05151
 
 * [Dimensional crossover on multileg attractive-$U$ Hubbard ladders](https://arxiv.org/abs/2304.04867),  Anastasia Potapova,  Ian Pilé,  Tian-Cheng Yi,  Rubem Mondaini,  Evgeni Burovski,  arxiv:2304.04867
@@ -1391,7 +1395,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-51  papers in 2023
+53  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1405,5 +1409,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-674 total (through 2023)
+676 total (through 2023)
 -->
