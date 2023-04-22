@@ -8,6 +8,14 @@
 
 ## 2023
 
+* [Short-range interactions are irrelevant at the quasiperiodic-driven Luttinger Liquid to Anderson Glass transition](https://arxiv.org/abs/2304.09197),  Miguel Gonçalves,  Jedediah H. Pixley,  Bruno Amorim,  Eduardo V. Castro,  Pedro Ribeiro,  arxiv:2304.09197
+
+* [Optimized basis sets for DMRG calculations of quantum chains of rotating water molecules](https://arxiv.org/abs/2304.09410),  Tobias Serwatka,  Pierre-Nicholas Roy,  arxiv:2304.09410
+
+* [Repulsion driven metallic phase in the ground state of the half-filled $t-t^{\prime}$ ionic Hubbard chain](https://arxiv.org/abs/2304.09027),  Gerardo L. Rossini,  George I. Japaridze,  arxiv:2304.09027
+
+* [Quantum Criticality and Universal Behavior in Molecular Dipolar Lattices of Endofullerenes](https://arxiv.org/abs/2304.09404),  Tobias Serwatka,  Pierre-Nicholas Roy,  arxiv:2304.09404
+
 * [Anderson impurity solver integrating tensor network methods with quantum computing](https://arxiv.org/abs/2304.06587),  Francois Jamet,  Connor Lenihan,  Lachlan P. Lindoy,  Abhishek Agarwal,  Enrico Fontana,  Baptiste Anselme Martin,  Ivan Rungger,  arxiv:2304.06587
 
 * [Quantum Phases in the Honeycomb-Lattice $J_1$--$J_3$ Ferro-Antiferromagnetic Model](https://arxiv.org/abs/2304.06062),  Shengtao Jiang,  Steven R. White,  A. L. Chernyshev,  arxiv:2304.06062
@@ -1395,7 +1403,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-53  papers in 2023
+57  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1409,5 +1417,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-676 total (through 2023)
+680 total (through 2023)
 -->
