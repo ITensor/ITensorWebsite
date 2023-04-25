@@ -12,6 +12,8 @@
 
 * [Fractional topology in interacting one-dimensional superconductors](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.155134), Frederick del Pozo, Loic Herviou, and Karyn Le Hur, PhysRev[B,107,155134]
 
+* [Critical lines and ordered phases in a Rydberg-blockade ladder](https://arxiv.org/abs/2304.08484),  Luisa Eck,  Paul Fendley,  arxiv:2304.08484
+
 * [Short-range interactions are irrelevant at the quasiperiodic-driven Luttinger Liquid to Anderson Glass transition](https://arxiv.org/abs/2304.09197),  Miguel Gonçalves,  Jedediah H. Pixley,  Bruno Amorim,  Eduardo V. Castro,  Pedro Ribeiro,  arxiv:2304.09197
 
 * [Optimized basis sets for DMRG calculations of quantum chains of rotating water molecules](https://arxiv.org/abs/2304.09410),  Tobias Serwatka,  Pierre-Nicholas Roy,  arxiv:2304.09410
@@ -1407,7 +1409,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-59  papers in 2023
+60  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1421,5 +1423,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-682 total (through 2023)
+683 total (through 2023)
 -->
