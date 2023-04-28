@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Enhanced estimation of quantum properties with common randomized measurements](https://arxiv.org/abs/2304.12292),  Benoît Vermersch,  Aniket Rath,  Bharathan Sundar,  Cyril Branciard,  John Preskill,  Andreas Elben,  arxiv:2304.12292
+
 * [Slow heterogeneous relaxation due to constraints in dual XXZ models](https://arxiv.org/abs/2304.10394),  Lenart Zadnik,  Juan P. Garrahan,  arxiv:2304.10394
 
 * [Fractional topology in interacting one-dimensional superconductors](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.155134), Frederick del Pozo, Loic Herviou, and Karyn Le Hur, PhysRev[B,107,155134]
@@ -1409,7 +1411,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-60  papers in 2023
+61  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1423,5 +1425,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-683 total (through 2023)
+684 total (through 2023)
 -->
