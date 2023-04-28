@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [Thermal and optical conductivity in the Holstein model at half-filling and at finite temperatures in the Luttinger-liquid and charge-density-wave regime](https://arxiv.org/abs/2304.13193),  David Jansen,  Fabian Heidrich-Meisner,  arxiv:2304.13193
+
+* [Reduced basis surrogates for quantum spin systems based on tensor networks](https://arxiv.org/abs/2304.13587),  Paul Brehmer,  Michael F. Herbst,  Stefan Wessel,  Matteo Rizzi,  Benjamin Stamm,  arxiv:2304.13587
+
+* [Symmetry-projected cluster mean-field theory applied to spin systems](https://arxiv.org/abs/2304.12822),  Athanasios Papastathopoulos-Katsaros,  Thomas M. Henderson,  Gustavo E. Scuseria,  arxiv:2304.12822
+
 * [Enhanced estimation of quantum properties with common randomized measurements](https://arxiv.org/abs/2304.12292),  Benoît Vermersch,  Aniket Rath,  Bharathan Sundar,  Cyril Branciard,  John Preskill,  Andreas Elben,  arxiv:2304.12292
 
 * [Slow heterogeneous relaxation due to constraints in dual XXZ models](https://arxiv.org/abs/2304.10394),  Lenart Zadnik,  Juan P. Garrahan,  arxiv:2304.10394
@@ -1411,7 +1417,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-61  papers in 2023
+64  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1425,5 +1431,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-684 total (through 2023)
+687 total (through 2023)
 -->
