@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Nagaoka ferromagnetism in doped Hubbard models in optical lattices](https://arxiv.org/abs/2305.05683),  Rhine Samajdar,  R. N. Bhatt,  arxiv:2305.05683
+
 * [Simulations of the dynamics of quantum impurity problems with matrix product states](https://arxiv.org/abs/2304.13756),  Matteo M. Wauters,  Chia-Min Chung,  Lorenzo Maffi,  Michele Burrello,  arxiv:2304.13756
 
 * [Stable Quantum-Correlated Many Body States via Engineered Dissipation](https://arxiv.org/abs/2304.13878), Google Quantum AI and collaborators, arxiv:2304.13878
@@ -1421,7 +1423,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-66  papers in 2023
+67  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1435,5 +1437,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-689 total (through 2023)
+690 total (through 2023)
 -->
