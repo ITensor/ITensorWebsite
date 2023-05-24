@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [Protecting Hilbert space fragmentation through quantum Zeno dynamics](https://arxiv.org/abs/2305.06371),  Pranay Patil,  Ayushi Singhania,  Jad C. Halimeh,  arxiv:2305.06371
+
+* [Thermal Drude weight in an integrable chiral clock model](https://arxiv.org/abs/2305.06413),  Sandipan Manna,  G J Sreejith,  arxiv:2305.06413
+
+* [Emergence of non-Abelian SU(2) invariance in Abelian frustrated fermionic ladders](https://arxiv.org/abs/2305.06911),  Bachana Beradze,  Mikheil Tsitsishvili,  Emanuele Tirrito,  Marcello Dalmonte,  Titas Chanda,  Alexander Nersesyan,  arxiv:2305.06911
+
 * [Pump-probe spectroscopy of the one-dimensional extended Hubbard model at half filling](https://arxiv.org/abs/2305.09909),  Koudai Sugimoto,  Satoshi Ejima,  arxiv:2305.09909
 
 * [Nagaoka ferromagnetism in doped Hubbard models in optical lattices](https://arxiv.org/abs/2305.05683),  Rhine Samajdar,  R. N. Bhatt,  arxiv:2305.05683
@@ -1425,7 +1431,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-68  papers in 2023
+71  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1439,5 +1445,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-691 total (through 2023)
+694 total (through 2023)
 -->
