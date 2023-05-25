@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Scrambling and operator entanglement in local non-Hermitian quantum systems](https://arxiv.org/abs/2305.12054),  Brian Barch,  Namit Anand,  Jeffrey Marshall,  Eleanor Rieffel,  Paolo Zanardi,  arxiv:2305.12054
+
 * [Protecting Hilbert space fragmentation through quantum Zeno dynamics](https://arxiv.org/abs/2305.06371),  Pranay Patil,  Ayushi Singhania,  Jad C. Halimeh,  arxiv:2305.06371
 
 * [Thermal Drude weight in an integrable chiral clock model](https://arxiv.org/abs/2305.06413),  Sandipan Manna,  G J Sreejith,  arxiv:2305.06413
@@ -1431,7 +1433,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-71  papers in 2023
+72  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1445,5 +1447,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-694 total (through 2023)
+695 total (through 2023)
 -->
