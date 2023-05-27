@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Deep learning non-local and scalable energy functionals for quantum Ising models](https://arxiv.org/abs/2305.15370),  Emanuele Costa,  Rosario Fazio,  Sebastiano Pilati,  arxiv:2305.15370
+
+* [Transverse Field Dependence of the Ground State in the Z2 Bose-Hubbard Model](https://journals.jps.jp/doi/pdf/10.7566/JPSCP.38.011012), Yuma Watanabe, Shohei Watabe, and Tetsuro Nikuni, Journal[JPS Conf. Proc.,38,011012,https://journals.jps.jp/doi/pdf/10.7566/JPSCP.38.011012] (2023)
+
 * [Scrambling and operator entanglement in local non-Hermitian quantum systems](https://arxiv.org/abs/2305.12054),  Brian Barch,  Namit Anand,  Jeffrey Marshall,  Eleanor Rieffel,  Paolo Zanardi,  arxiv:2305.12054
 
 * [Protecting Hilbert space fragmentation through quantum Zeno dynamics](https://arxiv.org/abs/2305.06371),  Pranay Patil,  Ayushi Singhania,  Jad C. Halimeh,  arxiv:2305.06371
@@ -1433,7 +1437,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-72  papers in 2023
+74  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1447,5 +1451,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-695 total (through 2023)
+697 total (through 2023)
 -->
