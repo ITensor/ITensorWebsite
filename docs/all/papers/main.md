@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Multipartite nonlocality and symmetry breaking in one-dimensional quantum chains](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.052216), Zhao-Yu Sun, Liang-Fu Liu, Hui-Xin Wen, Shu Qu, Fan-Qin Xu, and Bin Guo, PhysRev[A,107,052216] (2023)
+
 * [Deep learning non-local and scalable energy functionals for quantum Ising models](https://arxiv.org/abs/2305.15370),  Emanuele Costa,  Rosario Fazio,  Sebastiano Pilati,  arxiv:2305.15370
 
 * [Transverse Field Dependence of the Ground State in the Z2 Bose-Hubbard Model](https://journals.jps.jp/doi/pdf/10.7566/JPSCP.38.011012), Yuma Watanabe, Shohei Watabe, and Tetsuro Nikuni, Journal[JPS Conf. Proc.,38,011012,https://journals.jps.jp/doi/pdf/10.7566/JPSCP.38.011012] (2023)
