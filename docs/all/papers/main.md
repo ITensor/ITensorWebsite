@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Localization spectrum of a bath-coupled generalized Aubry-André model in the presence of interactions](https://arxiv.org/abs/2305.15471),  Yi-Ting Tu,  DinhDuy Vu,  Sankar Das Sarma,  arxiv:2305.15471
+
+* [Excitonic phases in a spatially separated electron-hole ladder model](https://arxiv.org/abs/2305.16305),  DinhDuy Vu,  Sankar Das Sarma,  arxiv:2305.16305
+
 * [Multipartite nonlocality and symmetry breaking in one-dimensional quantum chains](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.052216), Zhao-Yu Sun, Liang-Fu Liu, Hui-Xin Wen, Shu Qu, Fan-Qin Xu, and Bin Guo, PhysRev[A,107,052216] (2023)
 
 * [Deep learning non-local and scalable energy functionals for quantum Ising models](https://arxiv.org/abs/2305.15370),  Emanuele Costa,  Rosario Fazio,  Sebastiano Pilati,  arxiv:2305.15370
@@ -1439,7 +1443,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-75  papers in 2023
+77  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1453,5 +1457,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-698 total (through 2023)
+700 total (through 2023)
 -->
