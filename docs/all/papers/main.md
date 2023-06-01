@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Validating phase-space methods with tensor networks in two-dimensional spin models with power-law interactions](https://arxiv.org/abs/2305.17242),  Sean R. Muleady,  Mingru Yang,  Steven R. White,  Ana Maria Rey,  arxiv:2305.17242
+
+* [A solvable model for graph state decoherence dynamics](https://arxiv.org/abs/2305.17231),  Jérôme Houdayer,  Haggai Landa,  Grégoire Misguich,  arxiv:2305.17231
+
 * [Localization spectrum of a bath-coupled generalized Aubry-André model in the presence of interactions](https://arxiv.org/abs/2305.15471),  Yi-Ting Tu,  DinhDuy Vu,  Sankar Das Sarma,  arxiv:2305.15471
 
 * [Excitonic phases in a spatially separated electron-hole ladder model](https://arxiv.org/abs/2305.16305),  DinhDuy Vu,  Sankar Das Sarma,  arxiv:2305.16305
@@ -1443,7 +1447,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-77  papers in 2023
+79  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1457,5 +1461,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-700 total (through 2023)
+702 total (through 2023)
 -->
