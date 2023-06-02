@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Many-body magic via Pauli-Markov chains -- from criticality to gauge theories](https://arxiv.org/abs/2305.18541),  Poetri Sonya Tarabunga,  Emanuele Tirrito,  Titas Chanda,  Marcello Dalmonte,  arxiv:2305.18541
+
+* [Maximum-likelihood-estimate Hamiltonian learning via efficient and robust quantum likelihood gradient](https://doi.org/10.1103/PhysRevResearch.5.023136), Tian-Lun Zhao, Shi-Xin Hu, and Yi Zhang, PhysRev[Research,5,023136] (2023)
+
 * [Validating phase-space methods with tensor networks in two-dimensional spin models with power-law interactions](https://arxiv.org/abs/2305.17242),  Sean R. Muleady,  Mingru Yang,  Steven R. White,  Ana Maria Rey,  arxiv:2305.17242
 
 * [A solvable model for graph state decoherence dynamics](https://arxiv.org/abs/2305.17231),  Jérôme Houdayer,  Haggai Landa,  Grégoire Misguich,  arxiv:2305.17231
@@ -1447,7 +1451,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-79  papers in 2023
+81  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1461,5 +1465,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-702 total (through 2023)
+704 total (through 2023)
 -->
