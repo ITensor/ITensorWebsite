@@ -292,7 +292,7 @@
 
 * [Where Is The Quantum Spin Nematic?](https://arxiv.org/abs/2209.00010),  Shengtao Jiang,  Judit Romhányi,  Steven R. White,  M. E. Zhitomirsky,  A. L. Chernyshev,  arxiv:2209.00010
 
-* [Bose-Einstein condensation in honeycomb dimer magnets and Yb2Si2O7](https://arxiv.org/abs/2209.00032),  Chunhan Feng,  E. Miles Stoudenmire,  Alexander Wietek,  arxiv:2209.00032
+* [Bose-Einstein condensation in honeycomb dimer magnets and Yb2Si2O7](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.205150),  Chunhan Feng,  E. Miles Stoudenmire,  Alexander Wietek, PhysRev[B,107,205150]  [arxiv:2209.00032]
 
 * [Synergy Between Quantum Circuits and Tensor Networks: Short-cutting the Race to Practical Quantum Advantage](https://arxiv.org/abs/2208.13673),  Manuel S. Rudolph,  Jacob Miller,  Jing Chen,  Atithi Acharya,  Alejandro Perdomo-Ortiz,  arxiv:2208.13673
 
