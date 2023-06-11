@@ -8,6 +8,14 @@
 
 ## 2023
 
+* [Exploring Large-Scale Entanglement in Quantum Simulation](https://arxiv.org/abs/2306.00057),  Manoj K. Joshi,  Christian Kokail,  Rick van Bijnen,  Florian Kranzl,  Torsten V. Zache,  Rainer Blatt,  Christian F. Roos,  Peter Zoller,  arxiv:2306.00057
+
+* [Monte Carlo matrix-product-state approach to the false vacuum decay in the monitored quantum Ising chain](https://arxiv.org/abs/2306.01067),  Jeff Maki,  Anna Berti,  Iacopo Carusotto,  Alberto Biella,  arxiv:2306.01067
+
+* [Magnetic field-induced partially polarized chiral spin liquid in a transition-metal dichalcogenide Moiré system](https://arxiv.org/abs/2306.03056),  Yixuan Huang,  D. N. Sheng,  Jian-Xin Zhu,  arxiv:2306.03056
+
+* [Machine learning feature discovery of spinon Fermi surface](https://arxiv.org/abs/2306.03143),  Kevin Zhang,  Shi Feng,  Yuri D. Lensky,  Nandini Trivedi,  Eun-Ah Kim,  arxiv:2306.03143
+
 * [Many-body magic via Pauli-Markov chains -- from criticality to gauge theories](https://arxiv.org/abs/2305.18541),  Poetri Sonya Tarabunga,  Emanuele Tirrito,  Titas Chanda,  Marcello Dalmonte,  arxiv:2305.18541
 
 * [Maximum-likelihood-estimate Hamiltonian learning via efficient and robust quantum likelihood gradient](https://doi.org/10.1103/PhysRevResearch.5.023136), Tian-Lun Zhao, Shi-Xin Hu, and Yi Zhang, PhysRev[Research,5,023136] (2023)
@@ -1451,7 +1459,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-81  papers in 2023
+85  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1465,5 +1473,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-704 total (through 2023)
+708 total (through 2023)
 -->
