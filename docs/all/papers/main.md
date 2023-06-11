@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Extracting a function encoded in amplitudes of a quantum state by tensor network and orthogonal function expansion](https://doi.org/10.1007/s11128-023-03937-y), Koichi Miyamoto, Hiroshi Ueda, Journal[Quantum Information Processing,22,239] (2023)
+
 * [Exploring Large-Scale Entanglement in Quantum Simulation](https://arxiv.org/abs/2306.00057),  Manoj K. Joshi,  Christian Kokail,  Rick van Bijnen,  Florian Kranzl,  Torsten V. Zache,  Rainer Blatt,  Christian F. Roos,  Peter Zoller,  arxiv:2306.00057
 
 * [Monte Carlo matrix-product-state approach to the false vacuum decay in the monitored quantum Ising chain](https://arxiv.org/abs/2306.01067),  Jeff Maki,  Anna Berti,  Iacopo Carusotto,  Alberto Biella,  arxiv:2306.01067
@@ -1459,7 +1461,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-85  papers in 2023
+86  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1473,5 +1475,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-708 total (through 2023)
+709 total (through 2023)
 -->
