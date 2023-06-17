@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Effective bi-layer model Hamiltonian and density-matrix renormalization group study for the high-Tc superconductivity in La$_{3}$Ni$_{2}$O$_{7}$ under high pressure](https://arxiv.org/abs/2306.07837),  Yang Shen,  Mingpu Qin,  Guang-Ming Zhang,  arxiv:2306.07837
+
 * [Conformal four-point correlators of the 3D Ising transition via the quantum fuzzy sphere](https://arxiv.org/abs/2306.04681),  Chao Han,  Liangdong Hu,  W. Zhu,  Yin-Chen He,  arxiv:2306.04681
 
 * [Extracting a function encoded in amplitudes of a quantum state by tensor network and orthogonal function expansion](https://doi.org/10.1007/s11128-023-03937-y), Koichi Miyamoto, Hiroshi Ueda, Journal[Quantum Information Processing,22,239,https://doi.org/10.1007/s11128-023-03937-y] (2023)
@@ -1463,7 +1465,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-87  papers in 2023
+88  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1477,5 +1479,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-710 total (through 2023)
+711 total (through 2023)
 -->
