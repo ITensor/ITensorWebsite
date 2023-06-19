@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Quantum simulation of generic spin exchange models in Floquet-engineered Rydberg atom arrays](https://arxiv.org/abs/2306.07041),  Naveen Nishad,  Anna Keselman,  Thierry Lahaye,  Antoine Browaeys,  Shai Tsesses,  arxiv:2306.07041
+
 * [Effective bi-layer model Hamiltonian and density-matrix renormalization group study for the high-Tc superconductivity in La$_{3}$Ni$_{2}$O$_{7}$ under high pressure](https://arxiv.org/abs/2306.07837),  Yang Shen,  Mingpu Qin,  Guang-Ming Zhang,  arxiv:2306.07837
 
 * [Conformal four-point correlators of the 3D Ising transition via the quantum fuzzy sphere](https://arxiv.org/abs/2306.04681),  Chao Han,  Liangdong Hu,  W. Zhu,  Yin-Chen He,  arxiv:2306.04681
@@ -188,7 +190,7 @@
 
 * [Ferroelectric water chains in carbon nanotubes: Creation and manipulation of ordered quantum phases](https://doi.org/10.1063/5.0131149), Tobias Serwatka, Pierre-Nicholas Roy, <i style="color:#CC0000">J. Chem. Phys.</i> 157, 234301 (2022)
 
-* [Boundary Quantum Phase Transitions in the Spin 1/2 Heisenberg Chain with Boundary Magnetic Fields](https://arxiv.org/abs/2212.14832),  Parameshwar R. Pasnoori,  Junhyun Lee,  J. H. Pixley,  Natan Andrei,  Patrick Azaria,  arxiv:2212.14832
+* [Boundary Quantum Phase Transitions in the Spin 1/2 Heisenberg Chain with Boundary Magnetic Fields](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.224412),  Parameshwar R. Pasnoori,  Junhyun Lee,  J. H. Pixley,  Natan Andrei,  Patrick Azaria, PhysRev[B,107,224412] [arxiv:2212.14832]
 
 * [Reduced basis emulation of pairing in finite systems](https://arxiv.org/abs/2212.14313),  Virgil V. Baran,  Denis R. Nichita,  arxiv:2212.14313
 
@@ -1465,7 +1467,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-88  papers in 2023
+89  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1479,5 +1481,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-711 total (through 2023)
+712 total (through 2023)
 -->
