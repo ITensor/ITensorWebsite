@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Embedding quantum optimization problems using AC driven quantum ferromagnets](https://arxiv.org/abs/2306.10632),  Gianni Mossi,  Vadim Oganesyan,  Eliot Kapit,  arxiv:2306.10632
+
+* [Super-Tonks-Girardeau Quench in the Extended Bose-Hubbard Model](https://arxiv.org/abs/2306.10910),  Maciej Marciniak,  Maciej Łebek,  Jakub Kopyciński,  Wojciech Górecki,  Rafał Ołdziejewski,  Krzysztof Pawłowski,  arxiv:2306.10910
+
 * [Quantum simulation of generic spin exchange models in Floquet-engineered Rydberg atom arrays](https://arxiv.org/abs/2306.07041),  Naveen Nishad,  Anna Keselman,  Thierry Lahaye,  Antoine Browaeys,  Shai Tsesses,  arxiv:2306.07041
 
 * [Effective bi-layer model Hamiltonian and density-matrix renormalization group study for the high-Tc superconductivity in La$_{3}$Ni$_{2}$O$_{7}$ under high pressure](https://arxiv.org/abs/2306.07837),  Yang Shen,  Mingpu Qin,  Guang-Ming Zhang,  arxiv:2306.07837
@@ -1467,7 +1471,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-89  papers in 2023
+91  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1481,5 +1485,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-712 total (through 2023)
+714 total (through 2023)
 -->
