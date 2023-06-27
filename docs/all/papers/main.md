@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Efficient tensor network simulation of IBM's kicked Ising experiment](https://arxiv.org/abs/2306.14887),  Joseph Tindall,  Matt Fishman,  Miles Stoudenmire,  Dries Sels,  arxiv:2306.14887
+
+* [Incommensurability enabled quasi-fractal order in 1D narrow-band moiré systems](https://arxiv.org/abs/2305.03800),  Miguel Gonçalves,  Bruno Amorim,  Flavio Riche,  Eduardo V. Castro,  Pedro Ribeiro,  arxiv:2305.03800
+
 * [Embedding quantum optimization problems using AC driven quantum ferromagnets](https://arxiv.org/abs/2306.10632),  Gianni Mossi,  Vadim Oganesyan,  Eliot Kapit,  arxiv:2306.10632
 
 * [Super-Tonks-Girardeau Quench in the Extended Bose-Hubbard Model](https://arxiv.org/abs/2306.10910),  Maciej Marciniak,  Maciej Łebek,  Jakub Kopyciński,  Wojciech Górecki,  Rafał Ołdziejewski,  Krzysztof Pawłowski,  arxiv:2306.10910
@@ -1471,7 +1475,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-91  papers in 2023
+93  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1485,5 +1489,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-714 total (through 2023)
+716 total (through 2023)
 -->
