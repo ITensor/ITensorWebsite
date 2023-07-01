@@ -8,6 +8,14 @@
 
 ## 2023
 
+* [Repulsively bound magnon excitations of a spin-1/2 XXZ chain in a staggered transverse field](https://arxiv.org/abs/2306.14742),  Catalin-Mihai Halati,  Zhe Wang,  Thomas Lorenz,  Corinna Kollath,  Jean-Sébastien Bernier,  arxiv:2306.14742
+
+* [Mapping out phase diagrams with generative classifiers](https://arxiv.org/abs/2306.14894),  Julian Arnold,  Frank Schäfer,  Alan Edelman,  Christoph Bruder,  arxiv:2306.14894
+
+* [Circumventing superexponential runtimes for hard instances of quantum adiabatic optimization](https://arxiv.org/abs/2306.13131),  Benjamin F. Schiffer,  Dominik S. Wild,  Nishad Maskara,  Madelyn Cain,  Mikhail D. Lukin,  Rhine Samajdar,  arxiv:2306.13131
+
+* [Pressure-driven gapped-to-gapless phase transition in a quantum antiferromagnet with large planar anisotropy](https://arxiv.org/abs/2306.15450),  K. Yu. Povarov,  D. E. Graf,  V. O. Garlea,  T. Sakurai,  S. Kimura,  H. Nojiri,  A. Paduan-Filho,  A. Zheludev,  J. Wosnitza,  H. Ohta,  S. A. Zvyagin,  arxiv:2306.15450
+
 * [Efficient tensor network simulation of IBM's kicked Ising experiment](https://arxiv.org/abs/2306.14887),  Joseph Tindall,  Matt Fishman,  Miles Stoudenmire,  Dries Sels,  arxiv:2306.14887
 
 * [Incommensurability enabled quasi-fractal order in 1D narrow-band moiré systems](https://arxiv.org/abs/2305.03800),  Miguel Gonçalves,  Bruno Amorim,  Flavio Riche,  Eduardo V. Castro,  Pedro Ribeiro,  arxiv:2305.03800
@@ -1475,7 +1483,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-93  papers in 2023
+97  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1489,5 +1497,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-716 total (through 2023)
+720 total (through 2023)
 -->
