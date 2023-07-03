@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Gauging tensor networks with belief propagation](https://arxiv.org/abs/2306.17837),  Joseph Tindall,  Matt Fishman,  arxiv:2306.17837
+
+* [Equilibrium Quantum Impurity Problems via Matrix Product State Encoding of the Retarded Action](https://arxiv.org/abs/2306.17216),  Benedikt Kloss,  Julian Thoenniss,  Michael Sonner,  Alessio Lerose,  Matthew T. Fishman,  E. M. Stoudenmire,  Olivier Parcollet,  Antoine Georges,  Dmitry A. Abanin,  arxiv:2306.17216
+
 * [Repulsively bound magnon excitations of a spin-1/2 XXZ chain in a staggered transverse field](https://arxiv.org/abs/2306.14742),  Catalin-Mihai Halati,  Zhe Wang,  Thomas Lorenz,  Corinna Kollath,  Jean-Sébastien Bernier,  arxiv:2306.14742
 
 * [Mapping out phase diagrams with generative classifiers](https://arxiv.org/abs/2306.14894),  Julian Arnold,  Frank Schäfer,  Alan Edelman,  Christoph Bruder,  arxiv:2306.14894
@@ -1483,7 +1487,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-97  papers in 2023
+99  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1497,5 +1501,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-720 total (through 2023)
+722 total (through 2023)
 -->
