@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [Quantum Fisher Information and multipartite entanglement in spin-1 chains](https://arxiv.org/abs/2307.02407),  Federico Dell'Anna,  Sunny Pradhan,  Cristian Degli Esposti Boschi,  Elisa Ercolessi,  arxiv:2307.02407
+
+* [Preparation of matrix product states with log-depth quantum circuits](https://arxiv.org/abs/2307.01696),  Daniel Malz,  Georgios Styliaris,  Zhi-Yuan Wei,  J. Ignacio Cirac,  arxiv:2307.01696
+
+* [Validity of SLAC fermions for the (1 + 1)-dimensional helical Luttinger liquid](https://doi.org/10.1103/PhysRevB.108.045105), Zhenjiu Wang, Fakher Assaad, and Maksim Ulybyshev, PhysRev[B,108,045105] (2023)
+
 * [Gauging tensor networks with belief propagation](https://arxiv.org/abs/2306.17837),  Joseph Tindall,  Matt Fishman,  arxiv:2306.17837
 
 * [Equilibrium Quantum Impurity Problems via Matrix Product State Encoding of the Retarded Action](https://arxiv.org/abs/2306.17216),  Benedikt Kloss,  Julian Thoenniss,  Michael Sonner,  Alessio Lerose,  Matthew T. Fishman,  E. M. Stoudenmire,  Olivier Parcollet,  Antoine Georges,  Dmitry A. Abanin,  arxiv:2306.17216
@@ -1487,7 +1493,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-99  papers in 2023
+102  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1501,5 +1507,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-722 total (through 2023)
+725 total (through 2023)
 -->
