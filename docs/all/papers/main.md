@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [Magnetization plateaus and enhanced magnetocaloric effect of a spin-1/2 Ising-Heisenberg and Heisenberg double sawtooth ladder with four-spin interaction](https://arxiv.org/abs/2307.03855),  Hamid Arian Zad,  Vadim Ohanyan,  Azam Zoshki,  Jozef Strečka,  arxiv:2307.03855
+
+* [Decay of long-lived oscillations after quantum quenches in gapped interacting quantum systems](https://arxiv.org/abs/2307.04466),  Jacob H. Robertson,  Riccardo Senese,  Fabian H. L. Essler,  arxiv:2307.04466
+
+* [The topological Kondo model out of equilibrium](https://arxiv.org/abs/2307.03773),  Matteo M. Wauters,  Chia-Min Chung,  Lorenzo Maffi,  Michele Burrello,  arxiv:2307.03773
+
 * [Quantum Fisher Information and multipartite entanglement in spin-1 chains](https://arxiv.org/abs/2307.02407),  Federico Dell'Anna,  Sunny Pradhan,  Cristian Degli Esposti Boschi,  Elisa Ercolessi,  arxiv:2307.02407
 
 * [Preparation of matrix product states with log-depth quantum circuits](https://arxiv.org/abs/2307.01696),  Daniel Malz,  Georgios Styliaris,  Zhi-Yuan Wei,  J. Ignacio Cirac,  arxiv:2307.01696
@@ -1493,7 +1499,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-102  papers in 2023
+105  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1507,5 +1513,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-725 total (through 2023)
+728 total (through 2023)
 -->
