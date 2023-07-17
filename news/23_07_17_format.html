@@ -45,7 +45,7 @@
         </div>
       </div>
 
-      <a href="/news/" class="navbar-item">
+      <a href="/news/" class="navbar-item is-active">
         News
       </a>
 
@@ -58,7 +58,7 @@
       </a>
 
       <div onclick="" class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link is-active">
+        <a class="navbar-link">
           About
         </a>
 
@@ -82,68 +82,34 @@
 
   <section class="section"><div class="container is-max-desktop">
 
-    <!--
 
-      Citing
+    <a name="news"></a>
+    <p class="title is-4">ITensor News</p>
 
-    -->
-    <a name="citing"></a>
-    <p class="title is-4">Citing ITensor</p>
+    <br/>
+    <p class="title is-4">Changes Regarding the Format function in C++ 🖥️</p>
+    <p class="subtitle is-6"><i>Jul 17, 2023</i></p>
+    <br/>
 
     <div class="block">
-
       <p>
-      If you publish work using ITensor, please cite the paper:
+      We will soon be removing the function <code>format</code> from the <code>itensor::</code> 
+      namespace in the next version of the C++ ITensor library. The reason is to remove a conflict
+      with the <code><a href="https://en.cppreference.com/w/cpp/utility/format/format">std::format</a></code> function, available in C++20. 
       </p>
-      <br/>
-
+    </div> <!-- class block -->
+    <div class="block">
       <p>
-      <i>"The ITensor Software Library for Tensor Network Calculations",</i><br/>
-      Matthew Fishman, Steven R. White, E. Miles Stoudenmire,<br/>
-      <a href="https://scipost.org/10.21468/SciPostPhysCodeb.4">SciPost Phys. Codebases 4</a> (2022)
+      If your code uses the <code>format</code> function, please call
+      <code>tfm::format</code> from now on instead if you'd like to call exactly the same function 
+      (<code>tfm::</code>
+      stands for "tinyformat", the underlying library supplying this function). Or else
+      update your code to use 
+      <code><a href="https://en.cppreference.com/w/cpp/utility/format/format">std::format</a></code> instead.
       </p>
-      <br/>
-
-      <p>
-      Also please cite the second DOI using the BibTeX shown below, which refers to the <i>codebase</i>      that includes version number that you used,
-      assuming you used the Julia version. (If you 
-      used the C++ version you can omit this step and just note the C++ version yourself.)
-      </p>
-      <br/>
-
-      <p>
-      You can use the following BibTex for LaTeX documents:
-      <pre>
-@article{itensor,
-	title={{The ITensor Software Library for Tensor Network Calculations}},
-	author={Matthew Fishman and Steven R. White and E. Miles Stoudenmire},
-	journal={SciPost Phys. Codebases},
-	pages={4},
-	year={2022},
-	publisher={SciPost},
-	doi={10.21468/SciPostPhysCodeb.4},
-	url={https://scipost.org/10.21468/SciPostPhysCodeb.4}
-}</pre>
-      and additionally to cite the v0.3 release:
-      <pre>
-@article{itensor-r0.3,
-	title={{Codebase release 0.3 for ITensor}},
-	author={Matthew Fishman and Steven R. White and E. Miles Stoudenmire},
-	journal={SciPost Phys. Codebases},
-	pages={4-r0.3},
-	year={2022},
-	publisher={SciPost},
-	doi={10.21468/SciPostPhysCodeb.4-r0.3},
-	url={https://scipost.org/10.21468/SciPostPhysCodeb.4-r0.3}
-}</pre>
-
-      </p>
-      <br/>
-
-      
-
-    </div>
+    </div> <!-- class block -->
     <br/>
+
 
   </div></section>
 

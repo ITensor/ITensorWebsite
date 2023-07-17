@@ -6,20 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="/img/favicon.ico"/>
     <title>ITensor</title>
-
-    <link rel="stylesheet" href="css/mystyles.css">
-
+    <link rel="stylesheet" href="/css/mystyles.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
-    <link rel="stylesheet" href="/css/code_highlighting.css" type="text/css"/>
-
-    <script type="text/x-mathjax-config">
-      MathJax.Hub.Config({tex2jax: {inlineMath: [ ['@@','@@'], ["\\(","\\)"] ]}});
-    </script>
-    <script type="text/javascript" async
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML">
-    </script>
-
   </head>
   <body>
 
@@ -39,8 +27,8 @@
   <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-start">
 
-      <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link is-active">
+      <div onclick="" class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
           Documentation
         </a>
 
@@ -48,7 +36,7 @@
           <a href="https://itensor.github.io/ITensors.jl/dev" class="navbar-item">
             Julia (Recommended)
           </a>
-          <a href="/docs.cgi" class="navbar-item is-active">
+          <a href="/docs.cgi" class="navbar-item">
             C++
           </a>
           <a href="https://www.scipost.org/SciPostPhysCodeb.4" class="navbar-item">
@@ -57,7 +45,7 @@
         </div>
       </div>
 
-      <a href="/news/" class="navbar-item">
+      <a href="/news/" class="navbar-item is-active">
         News
       </a>
 
@@ -94,3 +82,78 @@
 
   <section class="section"><div class="container is-max-desktop">
 
+
+    <a name="news"></a>
+    <p class="title is-4">ITensor News</p>
+
+    <div class="block">
+
+      <!--
+        Begin news entry
+      -->
+      <div class="columns is-vcentered">
+        <div class="column">
+          <a href="/news/23_07_17_format.html">
+          <div class="card">
+            <div class="card-content">
+              <span class="icon-text">
+                <span class="title is-4">Changes Regarding the format Function in C++ 🖥️</span>
+              </span><br/><br/>
+              <p class="subtitle">
+              We will be removing the format function from the itensor:: namespace. Click to read more
+              if you rely on this in your C++ code.
+              </p>
+            </div>
+          </div>
+          </a>
+        </div> <!-- column -->
+      </div> <!-- class columns -->
+      <!--
+        End news entry
+      -->
+
+
+
+    </div> <!-- class block -->
+    <br/>
+
+
+  </div></section>
+
+  <br/>
+  <br/>
+  <br/>
+  <footer class="footer">
+  <div class="content has-text-centered">
+    <p>
+      <a href="https://github.com/ITensor/ITensors.jl">ITensor Source on Github</a>
+      &middot; 
+      <a href="https://twitter.com/itensorlib">Twitter @ITensorLib</a>
+      &middot; 
+      <a href="https://github.com/ITensor/ITensorWebsite">Website Source on Github</a>
+      <br/>
+      &copy; 2022 ITensor Collaboration.
+    </p>
+  </div>
+</footer>
+
+
+  </body>
+
+<script>
+$(document).ready(function() {
+
+  // Check for click events on the navbar burger icon
+  $(".navbar-burger").click(function() {
+
+      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+      $(".navbar-burger").toggleClass("is-active");
+      $(".navbar-menu").toggleClass("is-active");
+
+  });
+});
+</script>
+
+
+
+</html>
