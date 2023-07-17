@@ -87,14 +87,14 @@
     <p class="title is-4">ITensor News</p>
 
     <br/>
-    <p class="title is-4">Changes Regarding the Format function in C++ 🖥️</p>
+    <p class="title is-4">Changes regarding the format function in C++ 🖥️</p>
     <p class="subtitle is-6"><i>Jul 17, 2023</i></p>
     <br/>
 
     <div class="block">
       <p>
-      We will soon be removing the function <code>format</code> from the <code>itensor::</code> 
-      namespace in the next version of the C++ ITensor library. The reason is to remove a conflict
+      In v3.2.0 of the C++ ITensor library, we have removed the function <code>format</code> from the <code>itensor::</code> 
+      namespace in favor of explicitly calling it with <code>tinyformat::format</code>. The reason is to remove a conflict
       with the <code><a href="https://en.cppreference.com/w/cpp/utility/format/format">std::format</a></code> function, available in C++20. 
       </p>
     </div> <!-- class block -->
