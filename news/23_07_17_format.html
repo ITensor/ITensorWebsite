@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/img/favicon.ico"/>
+    <title>ITensor</title>
+    <link rel="stylesheet" href="/css/mystyles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  </head>
+  <body>
+
+  <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item">
+      <a href="/" class="navbar-item has-text-weight-bold">ITensor</a>
+    </a>
+
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start">
+
+      <div onclick="" class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Documentation
+        </a>
+
+        <div class="navbar-dropdown">
+          <a href="https://itensor.github.io/ITensors.jl/dev" class="navbar-item">
+            Julia (Recommended)
+          </a>
+          <a href="/docs.cgi" class="navbar-item">
+            C++
+          </a>
+          <a href="https://www.scipost.org/SciPostPhysCodeb.4" class="navbar-item">
+            ITensor Paper
+          </a>
+        </div>
+      </div>
+
+      <a href="/news/" class="navbar-item is-active">
+        News
+      </a>
+
+      <a href="/codes/" class="navbar-item">
+        Codes
+      </a>
+
+      <a href="https://itensor.discourse.group" class="navbar-item">
+        Discuss
+      </a>
+
+      <div onclick="" class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          About
+        </a>
+
+        <div class="navbar-dropdown">
+          <a href="/about/" class="navbar-item">
+            About ITensor
+          </a>
+          <a href="/citing/" class="navbar-item">
+            Citing ITensor
+          </a>
+          <a href="http://itensor.org/docs.cgi?page=papers" class="navbar-item">
+            Papers Using ITensor
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+  </nav>
+
+  <section class="section"><div class="container is-max-desktop">
+
+
+    <a name="news"></a>
+    <p class="title is-4">ITensor News</p>
+
+    <br/>
+    <p class="title is-4">Changes Regarding the Format function in C++ 🖥️</p>
+    <p class="subtitle is-6"><i>Jul 17, 2023</i></p>
+    <br/>
+
+    <div class="block">
+      <p>
+      We will soon be removing the function <code>format</code> from the <code>itensor::</code> 
+      namespace in the next version of the C++ ITensor library. The reason is to remove a conflict
+      with the <code><a href="https://en.cppreference.com/w/cpp/utility/format/format">std::format</a></code> function, available in C++20. 
+      </p>
+    </div> <!-- class block -->
+    <div class="block">
+      <p>
+      If your code uses the <code>format</code> function, please call
+      <code>tfm::format</code> from now on instead if you'd like to call exactly the same function 
+      (<code>tfm::</code>
+      stands for "tinyformat", the underlying library supplying this function). Or else
+      update your code to use 
+      <code><a href="https://en.cppreference.com/w/cpp/utility/format/format">std::format</a></code> instead.
+      </p>
+    </div> <!-- class block -->
+    <br/>
+
+
+  </div></section>
+
+  <br/>
+  <br/>
+  <br/>
+  <footer class="footer">
+  <div class="content has-text-centered">
+    <p>
+      <a href="https://github.com/ITensor/ITensors.jl">ITensor Source on Github</a>
+      &middot; 
+      <a href="https://twitter.com/itensorlib">Twitter @ITensorLib</a>
+      &middot; 
+      <a href="https://github.com/ITensor/ITensorWebsite">Website Source on Github</a>
+      <br/>
+      &copy; 2022 ITensor Collaboration.
+    </p>
+  </div>
+</footer>
+
+
+  </body>
+
+<script>
+$(document).ready(function() {
+
+  // Check for click events on the navbar burger icon
+  $(".navbar-burger").click(function() {
+
+      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+      $(".navbar-burger").toggleClass("is-active");
+      $(".navbar-menu").toggleClass("is-active");
+
+  });
+});
+</script>
+
+
+
+</html>
