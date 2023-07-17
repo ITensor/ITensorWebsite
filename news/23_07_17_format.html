@@ -101,11 +101,12 @@
     <div class="block">
       <p>
       If your code uses the <code>format</code> function, please call
-      <code>tfm::format</code> from now on instead if you'd like to call exactly the same function 
-      (<code>tfm::</code>
-      stands for "tinyformat", the underlying library supplying this function). Or else
-      update your code to use 
-      <code><a href="https://en.cppreference.com/w/cpp/utility/format/format">std::format</a></code> instead.
+      <code>tinyformat::format</code> from now on instead if you'd like to call exactly the same function 
+      (<code>tinyformat</code> is the underlying library supplying this function).
+      You can optionally use a shorthand such as <code>tfm::format</code> by adding <code>namespace tfm = tinyformat;</code>
+      to your code.
+      Alternatively, you can update your code to use 
+      <code><a href="https://en.cppreference.com/w/cpp/utility/format/format">std::format</a></code>.
       </p>
     </div> <!-- class block -->
     <br/>
