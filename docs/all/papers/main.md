@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Haldane phases and phase diagrams of the S = 3/2, 1 bilinear-biquadratic Heisenberg model on the orthogonal dimer chain](https://arxiv.org/abs/2307.06371),  Ke Ren,  Muwei Wu,  Shou-Shu Gong,  Dao-Xin Yao,  Han-Qing Wu,  arxiv:2307.06371
+
 * [Quantum Simulation of Lattice QCD with Improved Hamiltonians](https://arxiv.org/abs/2307.05593),  Anthony N. Ciavarella,  arxiv:2307.05593
 
 * [Magnetization plateaus and enhanced magnetocaloric effect of a spin-1/2 Ising-Heisenberg and Heisenberg double sawtooth ladder with four-spin interaction](https://arxiv.org/abs/2307.03855),  Hamid Arian Zad,  Vadim Ohanyan,  Azam Zoshki,  Jozef Strečka,  arxiv:2307.03855
@@ -1501,7 +1503,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-106  papers in 2023
+107  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1515,5 +1517,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-729 total (through 2023)
+730 total (through 2023)
 -->
