@@ -8,7 +8,7 @@
 
 ## 2023
 
-* [Many-body delocalization from embedded thermal inclusion](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L020201), J. Clayton Peacock and Dries Sels, PhysRev[B,108.L020201] (2023)
+* [Many-body delocalization from embedded thermal inclusion](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L020201), J. Clayton Peacock and Dries Sels, PhysRev[B,108,L020201] (2023)
 
 * [Twice Hidden String Order and Competing Phases in the Spin-1/2 Kitaev-Gamma Ladder](https://arxiv.org/abs/2307.08731),  Erik S. Sørensen,  Hae-Young Kee,  arxiv:2307.08731
 
