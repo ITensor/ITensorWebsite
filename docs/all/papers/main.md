@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [Many-body delocalization from embedded thermal inclusion](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L020201), J. Clayton Peacock and Dries Sels, PhysRev[B,108.L020201] (2023)
+
+* [Twice Hidden String Order and Competing Phases in the Spin-1/2 Kitaev-Gamma Ladder](https://arxiv.org/abs/2307.08731),  Erik S. Sørensen,  Hae-Young Kee,  arxiv:2307.08731
+
+* [Counter-intuitive yet efficient regimes for measurement based quantum computation on symmetry protected spin chains](https://arxiv.org/abs/2307.08903),  Arnab Adhikary,  Wang Yang,  Robert Raussendorf,  arxiv:2307.08903
+
 * [Haldane phases and phase diagrams of the S = 3/2, 1 bilinear-biquadratic Heisenberg model on the orthogonal dimer chain](https://arxiv.org/abs/2307.06371),  Ke Ren,  Muwei Wu,  Shou-Shu Gong,  Dao-Xin Yao,  Han-Qing Wu,  arxiv:2307.06371
 
 * [Quantum Simulation of Lattice QCD with Improved Hamiltonians](https://arxiv.org/abs/2307.05593),  Anthony N. Ciavarella,  arxiv:2307.05593
@@ -1503,7 +1509,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-107  papers in 2023
+110  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1517,5 +1523,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-730 total (through 2023)
+733 total (through 2023)
 -->
