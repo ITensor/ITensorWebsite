@@ -8,6 +8,14 @@
 
 ## 2023
 
+* [Integrability breaking and bound states in Google's decorated XXZ circuits](https://arxiv.org/abs/2307.13042),  Ana Hudomal,  Ryan Smith,  Andrew Hallam,  Zlatko Papić,  arxiv:2307.13042
+
+* [Surrogate model solver for impurity-induced superconducting subgap states](https://arxiv.org/abs/2307.11646),  Virgil V. Baran,  Emil J. P. Frost,  Jens Paaske,  arxiv:2307.11646
+
+* [Fragmented superconductivity in the Hubbard model as solitons in Ginzburg-Landau theory](https://arxiv.org/abs/2307.11820),  Niccolò Baldelli,  Benedikt Kloss,  Matthew Fishman,  Alexander Wietek,  arxiv:2307.11820
+
+* [Stark many-body localization with long-range interactions](https://arxiv.org/abs/2307.12376),  Xiang-Ping Jiang,  Rui Qi,  Sheng Yang,  Yayun Hu,  Guangwen Yang,  arxiv:2307.12376
+
 * [Many-body delocalization from embedded thermal inclusion](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L020201), J. Clayton Peacock and Dries Sels, PhysRev[B,108,L020201] (2023)
 
 * [Twice Hidden String Order and Competing Phases in the Spin-1/2 Kitaev-Gamma Ladder](https://arxiv.org/abs/2307.08731),  Erik S. Sørensen,  Hae-Young Kee,  arxiv:2307.08731
