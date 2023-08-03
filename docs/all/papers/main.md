@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Calculating composite-particle spectra in Hamiltonian formalism and demonstration in 2-flavor QED_{1+1d}](https://arxiv.org/abs/2307.16655),  Etsuko Itou,  Akira Matsumoto,  Yuya Tanizaki,  arxiv:2307.16655
+
+* [Bilayer t-J-J_perp Model and Magnetically Mediated Pairing in the Pressurized Nickelate La_3Ni_2O_7](https://arxiv.org/abs/2307.16873),  Xing-Zhou Qu,  Dai-Wei Qu,  Jialin Chen,  Congjun Wu,  Fan Yang,  Wei Li,  Gang Su,  arxiv:2307.16873
+
 * [Integrability breaking and bound states in Google's decorated XXZ circuits](https://arxiv.org/abs/2307.13042),  Ana Hudomal,  Ryan Smith,  Andrew Hallam,  Zlatko Papić,  arxiv:2307.13042
 
 * [Surrogate model solver for impurity-induced superconducting subgap states](https://arxiv.org/abs/2307.11646),  Virgil V. Baran,  Emil J. P. Frost,  Jens Paaske,  arxiv:2307.11646
