@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [CFT and Lattice Correlators Near an RG Domain Wall between Minimal Models](https://arxiv.org/abs/2308.00737),  Cameron V. Cogburn,  A. Liam Fitzpatrick,  Hao Geng,  arxiv:2308.00737
+
 * [Calculating composite-particle spectra in Hamiltonian formalism and demonstration in 2-flavor QED_{1+1d}](https://arxiv.org/abs/2307.16655),  Etsuko Itou,  Akira Matsumoto,  Yuya Tanizaki,  arxiv:2307.16655
 
 * [Bilayer t-J-J_perp Model and Magnetically Mediated Pairing in the Pressurized Nickelate La_3Ni_2O_7](https://arxiv.org/abs/2307.16873),  Xing-Zhou Qu,  Dai-Wei Qu,  Jialin Chen,  Congjun Wu,  Fan Yang,  Wei Li,  Gang Su,  arxiv:2307.16873
@@ -1521,7 +1523,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-110  papers in 2023
+117  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1535,5 +1537,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-733 total (through 2023)
+740 total (through 2023)
 -->
