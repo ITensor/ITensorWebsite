@@ -8,6 +8,20 @@
 
 ## 2023
 
+* [Dimensional reduction of Kitaev spin liquid at quantum criticality](https://arxiv.org/abs/2308.08116),  Shi Feng,  Adhip Agarwala,  Nandini Trivedi,  arxiv:2308.08116
+
+* [Physics inspired quantum simulation of resonating valence bond states -- a prototypical template for a spin-liquid ground state](https://arxiv.org/abs/2308.06360),  Manas Sajjan,  Rishabh Gupta,  Sumit Suresh Kale,  Vinit Singh,  Keerthi Kumaran,  Sabre Kais,  arxiv:2308.06360
+
+* [Quantum z = 2 Lifshitz criticality in one-dimensional interacting fermion systems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L081112), Ke Wang, PhysRev[B,108,L081112] (2023)
+
+* [Real-Space Imaging of Triplon Excitations in Engineered Quantum Magnets](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.086701), Robert Drost, Shawulienu Kezilebieke, Jose L. Lado, and Peter Liljeroth, PhysRev[Lett,131,086701] (2023)
+
+* [Hopping-induced quantum phase transition in the Ising-Rabi lattice model](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.023723), Gaoke Hu, Zhiguo Lü, Haiqing Lin, and Hang Zheng, PhysRev[A,108,023723] (2023)
+
+* [Hamiltonian Inference from Dynamical Excitations in Confined Quantum Magnets](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.20.024054), Netta Karjalainen, Zina Lippo, Guangze Chen, Rouven Koch, Adolfo O. Fumega, and Jose L. Lado, PhysRev[Applied,20,024054] (2023)
+
+* [Pair density wave, unconventional superconductivity, and non-Fermi liquid quantum critical phase in frustrated Kondo lattice](https://arxiv.org/abs/2308.11414),  Jialin Chen,  Jiangfan Wang,  Yi-feng Yang,  arxiv:2308.11414
+
 * [CFT and Lattice Correlators Near an RG Domain Wall between Minimal Models](https://arxiv.org/abs/2308.00737),  Cameron V. Cogburn,  A. Liam Fitzpatrick,  Hao Geng,  arxiv:2308.00737
 
 * [Calculating composite-particle spectra in Hamiltonian formalism and demonstration in 2-flavor QED_{1+1d}](https://arxiv.org/abs/2307.16655),  Etsuko Itou,  Akira Matsumoto,  Yuya Tanizaki,  arxiv:2307.16655
@@ -1523,7 +1537,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-117  papers in 2023
+124  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1537,5 +1551,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-740 total (through 2023)
+747 total (through 2023)
 -->
