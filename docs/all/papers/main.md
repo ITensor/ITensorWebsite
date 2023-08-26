@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Scalable Circuits for Preparing Ground States on Digital Quantum Computers: The Schwinger Model Vacuum on 100 Qubits](https://arxiv.org/abs/2308.04481),  Roland C. Farrell,  Marc Illa,  Anthony N. Ciavarella,  Martin J. Savage,  arxiv:2308.04481
+
 * [Dimensional reduction of Kitaev spin liquid at quantum criticality](https://arxiv.org/abs/2308.08116),  Shi Feng,  Adhip Agarwala,  Nandini Trivedi,  arxiv:2308.08116
 
 * [Physics inspired quantum simulation of resonating valence bond states -- a prototypical template for a spin-liquid ground state](https://arxiv.org/abs/2308.06360),  Manas Sajjan,  Rishabh Gupta,  Sumit Suresh Kale,  Vinit Singh,  Keerthi Kumaran,  Sabre Kais,  arxiv:2308.06360
@@ -1537,7 +1539,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-124  papers in 2023
+125  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1551,5 +1553,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-747 total (through 2023)
+748 total (through 2023)
 -->
