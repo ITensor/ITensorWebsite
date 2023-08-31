@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [Realtime dynamics of hyperon spin correlations from string fragmentation in a deformed four-flavor Schwinger model](https://arxiv.org/abs/2308.13596),  João Barata,  Wenjie Gong,  Raju Venugopalan,  arxiv:2308.13596
+
+* [Automatic Order Detection and Restoration Through Systematically Improvable Variational Wave Functions](https://arxiv.org/abs/2308.08594),  Ryan Levy,  Miguel Morales,  Shiwei Zhang,  arxiv:2308.08594
+
+* [Quantum correlation functions through tensor network path integral](https://arxiv.org/abs/2308.10540),  Amartya Bose,  arxiv:2308.10540
+
 * [Scalable Circuits for Preparing Ground States on Digital Quantum Computers: The Schwinger Model Vacuum on 100 Qubits](https://arxiv.org/abs/2308.04481),  Roland C. Farrell,  Marc Illa,  Anthony N. Ciavarella,  Martin J. Savage,  arxiv:2308.04481
 
 * [Dimensional reduction of Kitaev spin liquid at quantum criticality](https://arxiv.org/abs/2308.08116),  Shi Feng,  Adhip Agarwala,  Nandini Trivedi,  arxiv:2308.08116
@@ -1539,7 +1545,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-125  papers in 2023
+128  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
