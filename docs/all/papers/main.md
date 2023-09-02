@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Coherent exchange-coupled nonlocal Kondo impurities](https://arxiv.org/abs/2308.16009),  Lidia Stocker,  Oded Zilberberg,  arxiv:2308.16009
+
 * [Realtime dynamics of hyperon spin correlations from string fragmentation in a deformed four-flavor Schwinger model](https://arxiv.org/abs/2308.13596),  João Barata,  Wenjie Gong,  Raju Venugopalan,  arxiv:2308.13596
 
 * [Automatic Order Detection and Restoration Through Systematically Improvable Variational Wave Functions](https://arxiv.org/abs/2308.08594),  Ryan Levy,  Miguel Morales,  Shiwei Zhang,  arxiv:2308.08594
@@ -1545,7 +1547,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-128  papers in 2023
+129  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1559,5 +1561,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-748 total (through 2023)
+749 total (through 2023)
 -->
