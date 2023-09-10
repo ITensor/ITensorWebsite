@@ -8,6 +8,18 @@
 
 ## 2023
 
+* [Entanglement analysis of photoinduced $$$\backslash$eta $$-pairing states](https://doi.org/10.1140/epjs/s11734-023-00975-6), Satoshi Ejima, Florian Lange, Holger Fehske, <i style="color:#CC0000;">The European Physical Journal Special Topics</i> 
+
+* [Monotonicity conjecture for multi-party entanglement I](https://arxiv.org/abs/2308.16247),  Abhijit Gadde,  Shraiyance Jain,  Vineeth Krishna,  Harshal Kulkarni,  Trakshu Sharma,  arxiv:2308.16247
+
+* [Critical behaviours of non-stabilizerness in quantum spin chains](https://arxiv.org/abs/2309.00676),  Poetri Sonya Tarabunga,  arxiv:2309.00676
+
+* [Emergent self-duality in long range critical spin chain: from deconfined criticality to first order transition](https://arxiv.org/abs/2309.01652),  Sheng Yang,  Zhiming Pan,  Da-Chuan Lu,  Xue-Jia Yu,  arxiv:2309.01652
+
+* [Competing order in two-band Bose-Hubbard chains with extended-range interactions](https://arxiv.org/abs/2309.01121),  Yuma Watanabe,  Utso Bhattacharya,  Ravindra W. Chhajlany,  Javier Argüello-Luengo,  Maciej Lewenstein,  Tobias Graß,  arxiv:2309.01121
+
+* [Efficient Classical Shadow Tomography through Many-body Localization Dynamics](https://arxiv.org/abs/2309.01258),  Tian-Gang Zhou,  Pengfei Zhang,  arxiv:2309.01258
+
 * [Coherent exchange-coupled nonlocal Kondo impurities](https://arxiv.org/abs/2308.16009),  Lidia Stocker,  Oded Zilberberg,  arxiv:2308.16009
 
 * [Realtime dynamics of hyperon spin correlations from string fragmentation in a deformed four-flavor Schwinger model](https://arxiv.org/abs/2308.13596),  João Barata,  Wenjie Gong,  Raju Venugopalan,  arxiv:2308.13596
