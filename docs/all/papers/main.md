@@ -10,7 +10,7 @@
 
 * [Dynamical phase transition and scaling in the chiral clock Potts chain](https://arxiv.org/abs/2309.03454),  Xue-Jia Yu,  arxiv:2309.03454
 
-* [Entanglement analysis of photoinduced $$$\backslash$eta $$-pairing states](https://doi.org/10.1140/epjs/s11734-023-00975-6), Satoshi Ejima, Florian Lange, Holger Fehske, <i style="color:#CC0000;">The European Physical Journal Special Topics</i> 
+* [Entanglement analysis of photoinduced eta-pairing states](https://doi.org/10.1140/epjs/s11734-023-00975-6), Satoshi Ejima, Florian Lange, Holger Fehske, <i style="color:#CC0000;">The European Physical Journal Special Topics</i> 
 
 * [Monotonicity conjecture for multi-party entanglement I](https://arxiv.org/abs/2308.16247),  Abhijit Gadde,  Shraiyance Jain,  Vineeth Krishna,  Harshal Kulkarni,  Trakshu Sharma,  arxiv:2308.16247
 
