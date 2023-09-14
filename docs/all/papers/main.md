@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Quantum Ising model on two dimensional anti-de Sitter space](https://arxiv.org/abs/2309.04383),  Muhammad Asaduzzaman,  Simon Catterall,  Yannick Meurice,  Goksu Can Toga,  arxiv:2309.04383
+
 * [Dynamical phase transition and scaling in the chiral clock Potts chain](https://arxiv.org/abs/2309.03454),  Xue-Jia Yu,  arxiv:2309.03454
 
 * [Entanglement analysis of photoinduced eta-pairing states](https://doi.org/10.1140/epjs/s11734-023-00975-6), Satoshi Ejima, Florian Lange, Holger Fehske, <i style="color:#CC0000;">The European Physical Journal Special Topics</i> 
@@ -1561,7 +1563,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-136  papers in 2023
+137  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1575,5 +1577,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-756 total (through 2023)
+757 total (through 2023)
 -->
