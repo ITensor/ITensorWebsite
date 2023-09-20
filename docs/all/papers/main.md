@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [Particle-hole asymmetric ferromagnetism and spin textures in the triangular Hubbard-Hofstadter model](https://arxiv.org/abs/2309.07876),  Jixun K. Ding,  Luhang Yang,  Wen O. Wang,  Ziyan Zhu,  Cheng Peng,  Peizhi Mai,  Edwin W. Huang,  Brian Moritz,  Phillip W. Phillips,  Benjamin E. Feldman,  Thomas P. Devereaux,  arxiv:2309.07876
+
+* [Topological protection of Majorana polaritons in a cavity](https://arxiv.org/abs/2309.07278),  Zeno Bacciconi,  Gian Marcello Andolina,  Christophe Mora,  arxiv:2309.07278
+
+* [Eleven Competing Phases in the Heisenberg-Gamma (J$Γ$) Ladder](https://arxiv.org/abs/2309.07737),  Sebastien J. Avakian,  Erik S. Sørensen,  arxiv:2309.07737
+
 * [Quantum Ising model on two dimensional anti-de Sitter space](https://arxiv.org/abs/2309.04383),  Muhammad Asaduzzaman,  Simon Catterall,  Yannick Meurice,  Goksu Can Toga,  arxiv:2309.04383
 
 * [Dynamical phase transition and scaling in the chiral clock Potts chain](https://arxiv.org/abs/2309.03454),  Xue-Jia Yu,  arxiv:2309.03454
@@ -1563,7 +1569,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-137  papers in 2023
+140  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1577,5 +1583,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-757 total (through 2023)
+760 total (through 2023)
 -->
