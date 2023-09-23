@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [Charge and spin gaps of the ionic Hubbard model with density-dependent hopping](https://arxiv.org/abs/2309.10126),  Oscar A. Moreno Segura,  Karen Hallberg,  Armando A. Aligia,  arxiv:2309.10126
+
+* [Geometrically Taming Dynamical Entanglement Growth in Purified Quantum States](https://arxiv.org/abs/2309.07961),  Tim Pokart,  Carl Lehmann,  Jan Carl Budich,  arxiv:2309.07961
+
+* [Cellular automata in $d$ dimensions and ground states of spin models in $(d+1)$ dimensions](https://arxiv.org/abs/2309.08059),  Konstantinos Sfairopoulos,  Luke Causer,  Jamie F. Mair,  Juan P. Garrahan,  arxiv:2309.08059
+
 * [Particle-hole asymmetric ferromagnetism and spin textures in the triangular Hubbard-Hofstadter model](https://arxiv.org/abs/2309.07876),  Jixun K. Ding,  Luhang Yang,  Wen O. Wang,  Ziyan Zhu,  Cheng Peng,  Peizhi Mai,  Edwin W. Huang,  Brian Moritz,  Phillip W. Phillips,  Benjamin E. Feldman,  Thomas P. Devereaux,  arxiv:2309.07876
 
 * [Topological protection of Majorana polaritons in a cavity](https://arxiv.org/abs/2309.07278),  Zeno Bacciconi,  Gian Marcello Andolina,  Christophe Mora,  arxiv:2309.07278
@@ -1569,7 +1575,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-140  papers in 2023
+143  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1583,5 +1589,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-760 total (through 2023)
+763 total (through 2023)
 -->
