@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [A Robust Large-Period Discrete Time Crystal and its Signature in a Digital Quantum Computer](https://arxiv.org/abs/2309.11560),  Tianqi Chen,  Ruizhe Shen,  Ching Hua Lee,  Bo Yang,  Raditya Weda Bomantara,  arxiv:2309.11560
+
 * [Charge and spin gaps of the ionic Hubbard model with density-dependent hopping](https://arxiv.org/abs/2309.10126),  Oscar A. Moreno Segura,  Karen Hallberg,  Armando A. Aligia,  arxiv:2309.10126
 
 * [Geometrically Taming Dynamical Entanglement Growth in Purified Quantum States](https://arxiv.org/abs/2309.07961),  Tim Pokart,  Carl Lehmann,  Jan Carl Budich,  arxiv:2309.07961
@@ -1575,7 +1577,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-143  papers in 2023
+144  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1589,5 +1591,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-763 total (through 2023)
+764 total (through 2023)
 -->
