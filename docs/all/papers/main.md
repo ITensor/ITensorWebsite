@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [A Rydberg platform for non-ergodic chiral quantum dynamics](https://arxiv.org/abs/2309.12392),  Riccardo J. Valencia-Tortora,  Nicola Pancotti,  Michael Fleischhauer,  Hannes Bernien,  Jamir Marino,  arxiv:2309.12392
+
+* [Non-Abelian dynamical gauge field and topological superfluids in optical Raman lattice](https://arxiv.org/abs/2309.12923),  Xin-Chi Zhou,  Tian-Hua Yang,  Zhi-Yuan Wang,  Xiong-Jun Liu,  arxiv:2309.12923
+
+* [First-order photon condensation in magnetic cavities: A two-leg ladder model](https://scipost.org/10.21468/SciPostPhys.15.3.113), Zeno Bacciconi, Gian M. Andolina, Titas Chanda, Giuliano Chiriacò, Marco Schirò, Marcello Dalmonte, <i style="color:#CC0000">SciPost Phys.</i> <b>15</b>, <a href="https://scipost.org/10.21468/SciPostPhys.15.3.113">113</a> (2023) 
+
 * [A Robust Large-Period Discrete Time Crystal and its Signature in a Digital Quantum Computer](https://arxiv.org/abs/2309.11560),  Tianqi Chen,  Ruizhe Shen,  Ching Hua Lee,  Bo Yang,  Raditya Weda Bomantara,  arxiv:2309.11560
 
 * [Charge and spin gaps of the ionic Hubbard model with density-dependent hopping](https://arxiv.org/abs/2309.10126),  Oscar A. Moreno Segura,  Karen Hallberg,  Armando A. Aligia,  arxiv:2309.10126
@@ -1577,7 +1583,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-144  papers in 2023
+147  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1591,5 +1597,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-764 total (through 2023)
+767 total (through 2023)
 -->
