@@ -8,7 +8,7 @@
 
 ## 2023
 
-* [NaRuO2: Kitaev-Heisenberg exchange in triangular-lattice setting](https://www.nature.com/articles/s41535-023-00582-7), Pritam Bhattacharyya, Nikolay A. Bogdanov, Satoshi Nishimoto, Stephen D. Wilson & Liviu Hozoi, Journal[npj Quantum Materials,8,52] (2023)
+* [NaRuO2: Kitaev-Heisenberg exchange in triangular-lattice setting](https://www.nature.com/articles/s41535-023-00582-7), Pritam Bhattacharyya, Nikolay A. Bogdanov, Satoshi Nishimoto, Stephen D. Wilson & Liviu Hozoi, Journal[npj Quantum Materials,8,52,https://www.nature.com/articles/s41535-023-00582-7] (2023)
 
 * [A Rydberg platform for non-ergodic chiral quantum dynamics](https://arxiv.org/abs/2309.12392),  Riccardo J. Valencia-Tortora,  Nicola Pancotti,  Michael Fleischhauer,  Hannes Bernien,  Jamir Marino,  arxiv:2309.12392
 
