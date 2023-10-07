@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Solvable models for 2+1D quantum critical points: Loop soups of 1+1D conformal field theories](https://arxiv.org/abs/2310.00037),  Amin Moharramipour,  Dan Sehayek,  Thomas Scaffidi,  arxiv:2310.00037
+
+* [Emergent dipole moment conservation and subdiffusion in tilted chains](https://arxiv.org/abs/2310.01862),  S. Nandy,  J. Herbrych,  Z. Lenarčič,  A. Głódkowski,  P. Prelovšek,  M. Mierzejewski,  arxiv:2310.01862
+
 * [NaRuO2: Kitaev-Heisenberg exchange in triangular-lattice setting](https://www.nature.com/articles/s41535-023-00582-7), Pritam Bhattacharyya, Nikolay A. Bogdanov, Satoshi Nishimoto, Stephen D. Wilson & Liviu Hozoi, Journal[npj Quantum Materials,8,52,https://www.nature.com/articles/s41535-023-00582-7] (2023)
 
 * [A Rydberg platform for non-ergodic chiral quantum dynamics](https://arxiv.org/abs/2309.12392),  Riccardo J. Valencia-Tortora,  Nicola Pancotti,  Michael Fleischhauer,  Hannes Bernien,  Jamir Marino,  arxiv:2309.12392
@@ -1585,7 +1589,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-148  papers in 2023
+150  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1599,5 +1603,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-768 total (through 2023)
+770 total (through 2023)
 -->
