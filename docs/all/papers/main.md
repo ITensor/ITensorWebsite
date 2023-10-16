@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [Optimal encoding of two dissipative interacting qubits](https://arxiv.org/abs/2310.05561),  G. Di Bello,  G. De Filippis,  A. Hamma,  C. A. Perroni,  arxiv:2310.05561
+
+* [Exact Ground States and Phase Diagram of the Quantum Compass Model under an in-plane Field](https://arxiv.org/abs/2310.01384),  A. D. S. Richards,  Erik S. Sørensen,  arxiv:2310.01384
+
+* [Quantum Entanglement Phase Transitions and Computational Complexity: Insights from Ising Models](https://arxiv.org/abs/2310.01699),  Hanchen Liu,  Vikram Ravindranath,  Xiao Chen,  arxiv:2310.01699
+
 * [Solvable models for 2+1D quantum critical points: Loop soups of 1+1D conformal field theories](https://arxiv.org/abs/2310.00037),  Amin Moharramipour,  Dan Sehayek,  Thomas Scaffidi,  arxiv:2310.00037
 
 * [Emergent dipole moment conservation and subdiffusion in tilted chains](https://arxiv.org/abs/2310.01862),  S. Nandy,  J. Herbrych,  Z. Lenarčič,  A. Głódkowski,  P. Prelovšek,  M. Mierzejewski,  arxiv:2310.01862
@@ -1589,7 +1595,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-150  papers in 2023
+153  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1603,5 +1609,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-770 total (through 2023)
+773 total (through 2023)
 -->
