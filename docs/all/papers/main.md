@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Kondo Screening Cloud Scaling: Impurity Entanglement and Magnetization](https://arxiv.org/abs/2310.08547),  Erik S. Sørensen,  arxiv:2310.08547
+
+* [Macrostates vs. Microstates in the Classical Simulation of Critical Phenomena in Quench Dynamics of 1D Ising Models](https://arxiv.org/abs/2310.08567),  Anupam Mitra,  Tameem Albash,  Philip Daniel Blocher,  Jun Takahashi,  Akimasa Miyake,  Grant W. Biedermann,  Ivan H. Deutsch,  arxiv:2310.08567
+
 * [Optimal encoding of two dissipative interacting qubits](https://arxiv.org/abs/2310.05561),  G. Di Bello,  G. De Filippis,  A. Hamma,  C. A. Perroni,  arxiv:2310.05561
 
 * [Exact Ground States and Phase Diagram of the Quantum Compass Model under an in-plane Field](https://arxiv.org/abs/2310.01384),  A. D. S. Richards,  Erik S. Sørensen,  arxiv:2310.01384
@@ -1595,7 +1599,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-153  papers in 2023
+155  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1609,5 +1613,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-773 total (through 2023)
+775 total (through 2023)
 -->
