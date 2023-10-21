@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Corrections to diffusion in interacting quantum systems](https://arxiv.org/abs/2310.10564),  Alexios A. Michailidis,  Dmitry A. Abanin,  Luca V. Delacrétaz,  arxiv:2310.10564
+
 * [Kondo Screening Cloud Scaling: Impurity Entanglement and Magnetization](https://arxiv.org/abs/2310.08547),  Erik S. Sørensen,  arxiv:2310.08547
 
 * [Macrostates vs. Microstates in the Classical Simulation of Critical Phenomena in Quench Dynamics of 1D Ising Models](https://arxiv.org/abs/2310.08567),  Anupam Mitra,  Tameem Albash,  Philip Daniel Blocher,  Jun Takahashi,  Akimasa Miyake,  Grant W. Biedermann,  Ivan H. Deutsch,  arxiv:2310.08567
@@ -1599,7 +1601,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-155  papers in 2023
+156  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1613,5 +1615,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-775 total (through 2023)
+776 total (through 2023)
 -->
