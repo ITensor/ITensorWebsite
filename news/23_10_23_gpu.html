@@ -87,25 +87,23 @@
     <p class="title is-4">ITensor News</p>
 
     <br/>
-    <p class="title is-4">Changes regarding the format function in C++ 🖥️</p>
-    <p class="subtitle is-6"><i>Jul 17, 2023</i></p>
+    <p class="title is-4">New GPU Backends 🏎️</</p>
+    <p class="subtitle is-6"><i>Oct 23, 2023</i></p>
 
     <div class="block">
       <p>
-      In v3.2.0 of the C++ ITensor library, we have removed the function <code>format</code> from the <code>itensor::</code> 
-      namespace in favor of explicitly calling it with <code>tinyformat::format</code>. The reason is to remove a conflict
-      with the <code><a href="https://en.cppreference.com/w/cpp/utility/format/format">std::format</a></code> function, available in C++20. 
+      Graphical processing units (GPUs) can dramatically increase performance of linear algebra and tensor calculations.
+      Recently, Karl Pierce and Matt Fishman have revamped ITensor's GPU support, allowing many key operations to run on multiple GPU brands (NVIDIA, Apple Metal, etc.). See Matt's <a href="https://itensor.discourse.group/t/ann-initial-release-of-new-itensor-gpu-backends/1227">forum post with more details here</a>.
       </p>
     </div> <!-- class block -->
     <div class="block">
       <p>
-      If your code uses the <code>format</code> function, please call
-      <code>tinyformat::format</code> from now on instead if you'd like to call exactly the same function 
-      (<code>tinyformat</code> is the underlying library supplying this function).
-      You can optionally use a shorthand such as <code>tfm::format</code> by adding <code>namespace tfm = tinyformat;</code>
-      to your code.
-      Alternatively, you can update your code to use 
-      <code><a href="https://en.cppreference.com/w/cpp/utility/format/format">std::format</a></code>.
+      The new backends take advantage of Julia's "package extensions" feature, so all you have to do to use them is to load support for, say, CUDA by adding <code>using CUDA</code> to the top of your code. The ITensor CUDA extension will be automatically loaded in the background. Then a few lines of code transfer your initial tensors or tensor networks to GPU and the rest happens automatically.
+      </p>
+    </div> <!-- class block -->
+    <div class="block">
+      <p>
+      Currently, only dense tensor operations are fully supported and only CUDA supports all of the matrix factorizations needed to run full algorithms such as DMRG. But operations like tensor contraction already work for other backends and for block-sparse (quantum number) tensors. Support for more tensor types and backends will continue to improve and we will keep you posted.
       </p>
     </div> <!-- class block -->
     <br/>
