@@ -8,6 +8,12 @@
 
 ## 2023
 
+* [Reviving the Lieb-Schultz-Mattis Theorem in Open Quantum Systems](https://arxiv.org/abs/2310.01475),  Yi-Neng Zhou,  Xingyu Li,  Hui Zhai,  Chengshu Li,  Yingfei Gu,  arxiv:2310.01475
+
+* [Pair correlations in the two-orbital Hubbard ladder: Implications on superconductivity in the bilayer nickelate](https://arxiv.org/abs/2310.01952),  Tatsuya Kaneko,  Hirofumi Sakakibara,  Masayuki Ochi,  Kazuhiko Kuroki,  arxiv:2310.01952
+
+* [Redundant String Symmetry-Based Error Correction: Experiments on Quantum Devices](https://arxiv.org/abs/2310.12854),  Zhangjie Qin,  Daniel Azses,  Eran Sela,  Robert Raussendorf,  V. W. Scarola,  arxiv:2310.12854
+
 * [Corrections to diffusion in interacting quantum systems](https://arxiv.org/abs/2310.10564),  Alexios A. Michailidis,  Dmitry A. Abanin,  Luca V. Delacrétaz,  arxiv:2310.10564
 
 * [Kondo Screening Cloud Scaling: Impurity Entanglement and Magnetization](https://arxiv.org/abs/2310.08547),  Erik S. Sørensen,  arxiv:2310.08547
@@ -1601,7 +1607,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-156  papers in 2023
+159  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1615,5 +1621,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-776 total (through 2023)
+779 total (through 2023)
 -->
