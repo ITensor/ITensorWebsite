@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Pre-optimizing variational quantum eigensolvers with tensor networks](https://arxiv.org/abs/2310.12965),  Abid Khan,  Bryan K. Clark,  Norm M. Tubman,  arxiv:2310.12965
+
 * [Reviving the Lieb-Schultz-Mattis Theorem in Open Quantum Systems](https://arxiv.org/abs/2310.01475),  Yi-Neng Zhou,  Xingyu Li,  Hui Zhai,  Chengshu Li,  Yingfei Gu,  arxiv:2310.01475
 
 * [Pair correlations in the two-orbital Hubbard ladder: Implications on superconductivity in the bilayer nickelate](https://arxiv.org/abs/2310.01952),  Tatsuya Kaneko,  Hirofumi Sakakibara,  Masayuki Ochi,  Kazuhiko Kuroki,  arxiv:2310.01952
@@ -1607,7 +1609,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-159  papers in 2023
+160  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1621,5 +1623,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-779 total (through 2023)
+780 total (through 2023)
 -->
