@@ -58,13 +58,13 @@
 
 * [Geometrically Taming Dynamical Entanglement Growth in Purified Quantum States](https://arxiv.org/abs/2309.07961),  Tim Pokart,  Carl Lehmann,  Jan Carl Budich,  arxiv:2309.07961
 
-* [Cellular automata in $d$ dimensions and ground states of spin models in $(d+1)$ dimensions](https://arxiv.org/abs/2309.08059),  Konstantinos Sfairopoulos,  Luke Causer,  Jamie F. Mair,  Juan P. Garrahan,  arxiv:2309.08059
+* [Cellular automata in d dimensions and ground states of spin models in (d+1) dimensions](https://arxiv.org/abs/2309.08059),  Konstantinos Sfairopoulos,  Luke Causer,  Jamie F. Mair,  Juan P. Garrahan,  arxiv:2309.08059
 
 * [Particle-hole asymmetric ferromagnetism and spin textures in the triangular Hubbard-Hofstadter model](https://arxiv.org/abs/2309.07876),  Jixun K. Ding,  Luhang Yang,  Wen O. Wang,  Ziyan Zhu,  Cheng Peng,  Peizhi Mai,  Edwin W. Huang,  Brian Moritz,  Phillip W. Phillips,  Benjamin E. Feldman,  Thomas P. Devereaux,  arxiv:2309.07876
 
 * [Topological protection of Majorana polaritons in a cavity](https://arxiv.org/abs/2309.07278),  Zeno Bacciconi,  Gian Marcello Andolina,  Christophe Mora,  arxiv:2309.07278
 
-* [Eleven Competing Phases in the Heisenberg-Gamma (J$Γ$) Ladder](https://arxiv.org/abs/2309.07737),  Sebastien J. Avakian,  Erik S. Sørensen,  arxiv:2309.07737
+* [Eleven Competing Phases in the Heisenberg-Gamma (J Γ) Ladder](https://arxiv.org/abs/2309.07737),  Sebastien J. Avakian,  Erik S. Sørensen,  arxiv:2309.07737
 
 * [Quantum Ising model on two dimensional anti-de Sitter space](https://arxiv.org/abs/2309.04383),  Muhammad Asaduzzaman,  Simon Catterall,  Yannick Meurice,  Goksu Can Toga,  arxiv:2309.04383
 
@@ -164,7 +164,7 @@
 
 * [Quantum simulation of generic spin exchange models in Floquet-engineered Rydberg atom arrays](https://arxiv.org/abs/2306.07041),  Naveen Nishad,  Anna Keselman,  Thierry Lahaye,  Antoine Browaeys,  Shai Tsesses,  arxiv:2306.07041
 
-* [Effective bi-layer model Hamiltonian and density-matrix renormalization group study for the high-Tc superconductivity in La$_{3}$Ni$_{2}$O$_{7}$ under high pressure](https://arxiv.org/abs/2306.07837),  Yang Shen,  Mingpu Qin,  Guang-Ming Zhang,  arxiv:2306.07837
+* [Effective bi-layer model Hamiltonian and density-matrix renormalization group study for the high-Tc superconductivity in La3Ni2O7 under high pressure](https://arxiv.org/abs/2306.07837),  Yang Shen,  Mingpu Qin,  Guang-Ming Zhang,  arxiv:2306.07837
 
 * [Conformal four-point correlators of the 3D Ising transition via the quantum fuzzy sphere](https://arxiv.org/abs/2306.04681),  Chao Han,  Liangdong Hu,  W. Zhu,  Yin-Chen He,  arxiv:2306.04681
 
@@ -230,17 +230,17 @@
 
 * [Optimized basis sets for DMRG calculations of quantum chains of rotating water molecules](https://arxiv.org/abs/2304.09410),  Tobias Serwatka,  Pierre-Nicholas Roy,  arxiv:2304.09410
 
-* [Repulsion driven metallic phase in the ground state of the half-filled $t-t^{\prime}$ ionic Hubbard chain](https://arxiv.org/abs/2304.09027),  Gerardo L. Rossini,  George I. Japaridze,  arxiv:2304.09027
+* [Repulsion driven metallic phase in the ground state of the half-filled t-t' ionic Hubbard chain](https://arxiv.org/abs/2304.09027),  Gerardo L. Rossini,  George I. Japaridze,  arxiv:2304.09027
 
 * [Quantum Criticality and Universal Behavior in Molecular Dipolar Lattices of Endofullerenes](https://arxiv.org/abs/2304.09404),  Tobias Serwatka,  Pierre-Nicholas Roy,  arxiv:2304.09404
 
 * [Anderson impurity solver integrating tensor network methods with quantum computing](https://arxiv.org/abs/2304.06587),  Francois Jamet,  Connor Lenihan,  Lachlan P. Lindoy,  Abhishek Agarwal,  Enrico Fontana,  Baptiste Anselme Martin,  Ivan Rungger,  arxiv:2304.06587
 
-* [Quantum Phases in the Honeycomb-Lattice $J_1$--$J_3$ Ferro-Antiferromagnetic Model](https://arxiv.org/abs/2304.06062),  Shengtao Jiang,  Steven R. White,  A. L. Chernyshev,  arxiv:2304.06062
+* [Quantum Phases in the Honeycomb-Lattice J1--J3 Ferro-Antiferromagnetic Model](https://arxiv.org/abs/2304.06062),  Shengtao Jiang,  Steven R. White,  A. L. Chernyshev,  arxiv:2304.06062
 
 * [Tree tensor network state approach for solving hierarchical equations of motions](https://arxiv.org/abs/2304.05151),  Yaling Ke,  arxiv:2304.05151
 
-* [Dimensional crossover on multileg attractive-$U$ Hubbard ladders](https://arxiv.org/abs/2304.04867),  Anastasia Potapova,  Ian Pilé,  Tian-Cheng Yi,  Rubem Mondaini,  Evgeni Burovski,  arxiv:2304.04867
+* [Dimensional crossover on multileg attractive-U Hubbard ladders](https://arxiv.org/abs/2304.04867),  Anastasia Potapova,  Ian Pilé,  Tian-Cheng Yi,  Rubem Mondaini,  Evgeni Burovski,  arxiv:2304.04867
 
 * [Learning Energy-Based Representations of Quantum Many-Body States](https://arxiv.org/abs/2304.04058),  Abhijith Jayakumar,  Marc Vuffray,  Andrey Y. Lokhov,  arxiv:2304.04058
 
@@ -288,7 +288,7 @@
 
 * [Exploring dynamical quantum phase transitions in a spin model with deconfined critical point via the quantum steering ellipsoid](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.085130), Chang-Xiao Li, Sheng Yang, Jing-Bo Xu, and Hai-Qing Lin, PhysRev[B,107,085130] (2023)
 
-* [Quantum $z=2$ Lifshitz criticality in interacting topological chains](https://arxiv.org/abs/2302.13243),  Ke Wang,  arxiv:2302.13243
+* [Quantum z=2 Lifshitz criticality in interacting topological chains](https://arxiv.org/abs/2302.13243),  Ke Wang,  arxiv:2302.13243
 
 * [Vacuum Entanglement Harvesting in the Ising Model](https://arxiv.org/abs/2302.12858),  Hersh Singh,  Tanmoy Bhattacharya,  Shailesh Chandrasekharan,  Rajan Gupta,  arxiv:2302.12858
 
