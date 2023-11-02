@@ -8,6 +8,14 @@
 
 ## 2023
 
+* [Recovery of a Luther-Emery phase in the three-band Hubbard model with longer-range hopping](https://arxiv.org/abs/2310.17706),  Luhang Yang,  Thomas P. Devereaux,  Hong-Chen Jiang,  arxiv:2310.17706
+
+* [Mass gaps of a $\mathbb{Z}_3$ gauge theory with three fermion flavors in 1 + 1 dimensions](https://arxiv.org/abs/2310.18312),  Adrien Florio,  Andreas Weichselbaum,  Semeon Valgushev,  Robert D. Pisarski,  arxiv:2310.18312
+
+* [Work statistics and generalized Loschmidt echo for the Hatano-Nelson model](https://arxiv.org/abs/2310.19310),  Balázs Dóra,  Cătălin Paşcu Moca,  arxiv:2310.19310
+
+* [Quantum simulation of the tricritical Ising model in tunable Josephson junction ladders](https://arxiv.org/abs/2310.18300),  Lorenzo Maffi,  Niklas Tausendpfund,  Matteo Rizzi,  Michele Burrello,  arxiv:2310.18300
+
 * [Simulating Heisenberg interactions in the Ising model with strong drive fields](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042216), Anthony N. Ciavarella, Stephan Caspar, Hersh Singh, Martin J. Savage, and Pavel Lougovski, PhysRev[A,108,042216]
 
 * [Density matrix renormalization group based downfolding of the three-band Hubbard model: Importance of density-assisted hopping](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L161111), Shengtao Jiang (蒋晟韬), Douglas J. Scalapino, and Steven R. White, PhysRev[B,108,L161111]
@@ -1613,7 +1621,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-162  papers in 2023
+166  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1627,5 +1635,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-782 total (through 2023)
+786 total (through 2023)
 -->
