@@ -10,7 +10,7 @@
 
 * [Recovery of a Luther-Emery phase in the three-band Hubbard model with longer-range hopping](https://arxiv.org/abs/2310.17706),  Luhang Yang,  Thomas P. Devereaux,  Hong-Chen Jiang,  arxiv:2310.17706
 
-* [Mass gaps of a $\mathbb{Z}_3$ gauge theory with three fermion flavors in 1 + 1 dimensions](https://arxiv.org/abs/2310.18312),  Adrien Florio,  Andreas Weichselbaum,  Semeon Valgushev,  Robert D. Pisarski,  arxiv:2310.18312
+* [Mass gaps of a Z3 gauge theory with three fermion flavors in 1+1 dimensions](https://arxiv.org/abs/2310.18312),  Adrien Florio,  Andreas Weichselbaum,  Semeon Valgushev,  Robert D. Pisarski,  arxiv:2310.18312
 
 * [Work statistics and generalized Loschmidt echo for the Hatano-Nelson model](https://arxiv.org/abs/2310.19310),  Balázs Dóra,  Cătălin Paşcu Moca,  arxiv:2310.19310
 
