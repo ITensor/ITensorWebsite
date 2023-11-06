@@ -86,70 +86,53 @@
     <a name="news"></a>
     <p class="title is-4">ITensor News</p>
 
+    <br/>
+    <p class="title is-4">Stricter Keyword Argument Behavior</</p>
+    <p class="subtitle is-6"><i>Nov 6, 2023</i></p>
+
     <div class="block">
+      <p>
+      As of ITensors.jl v0.3.49, functions like dmrg, factorize, and svd are stricter about 
+      how they handle keyword arguments. Specifically, if you pass unsupported keyword arguments 
+      to them, they will now error instead of silently ignoring them, for example:
+      </p>
+    </div> <!-- class block -->
 
-      <!-- Begin news entry -->
-      <div class="columns is-vcentered">
-        <div class="column">
-          <a href="/news/23_11_06_keywords.html">
-          <div class="card">
-            <div class="card-content">
-              <span class="icon-text">
-                <span class="title is-4">Stricter Keyword Argument Behavior</span>
-              </span><br/><br/>
-              <p>
-              ITensor now supports multiple GPU types through Julia package extensions, with full support
-              for dense tensor operations on NVIDIA CUDA.
-              </p>
-            </div>
-          </div>
-          </a>
-        </div> <!-- column -->
-      </div> <!-- class columns -->
-      <!-- End news entry-->
+    <div class="block"><p><pre><code>julia> using ITensors
 
-      <!-- Begin news entry -->
-      <div class="columns is-vcentered">
-        <div class="column">
-          <a href="/news/23_10_23_gpu.html">
-          <div class="card">
-            <div class="card-content">
-              <span class="icon-text">
-                <span class="title is-4">New GPU Backends 🏎️</span>
-              </span><br/><br/>
-              <p>
-              ITensor now supports multiple GPU types through Julia package extensions, with full support
-              for dense tensor operations on NVIDIA CUDA.
-              </p>
-            </div>
-          </div>
-          </a>
-        </div> <!-- column -->
-      </div> <!-- class columns -->
-      <!-- End news entry-->
+julia> i, j = Index.((2, 2))
+((dim=2|id=219), (dim=2|id=59))
 
-      <!-- Begin news entry -->
-      <div class="columns is-vcentered">
-        <div class="column">
-          <a href="/news/23_07_17_format.html">
-          <div class="card">
-            <div class="card-content">
-              <span class="icon-text">
-                <span class="title is-4">Changes Regarding the format Function in C++ 🖥️</span>
-              </span><br/><br/>
-              <p>
-              We will be removing the format function from the itensor:: namespace. Click to read more
-              if you rely on this in your C++ code.
-              </p>
-            </div>
-          </div>
-          </a>
-        </div> <!-- column -->
-      </div> <!-- class columns -->
-      <!-- End news entry-->
+julia> A = randomITensor(i, j)
+ITensor ord=2 (dim=2|id=219) (dim=2|id=59)
+NDTensors.Dense{Float64, Vector{Float64}}
 
+julia> svd(A, i; bad_kwarg=true)
+ERROR: MethodError: no method matching svd(::ITensor, ::Index{Int64}; bad_kwarg::Bool)
 
+Closest candidates are:
+  svd(::ITensor, ::Any...; leftdir, rightdir, lefttags, righttags, mindim, maxdim, cutoff, alg, use_absolute_cutoff, use_relative_cutoff, min_blockdim, utags, vtags) got unsupported keyword argument "bad_kwarg"
+   @ ITensors ~/.julia/dev/ITensors/src/tensor_operations/matrix_decomposition.jl:109
+  svd(::ITensor; kwargs...)
+   @ ITensors ~/.julia/dev/ITensors/src/tensor_operations/matrix_decomposition.jl:201
 
+Stacktrace:
+ [1] kwerr(::NamedTuple{(:bad_kwarg,), Tuple{Bool}}, ::Function, ::ITensor, ::Index{Int64})
+   @ Base ./error.jl:165
+ [2] top-level scope
+   @ REPL[4]:1
+       </code> </pre>
+      </p>
+    </div> <!-- class block -->
+    <div class="block">
+      <p>
+      Most users should not be affected, but you may see errors show up in your codes if you 
+      update to that version, which you can fix by removing unsupported keyword arguments.
+
+      This has led us to catch a few issues in downstream packages like ITensorGaussianMPS.jl 
+      and ITensorNetworks.jl where we were passing unsupported keyword arguments to ITensors.jl 
+      functions which we have fixed or are fixing now.
+      </p>
     </div> <!-- class block -->
     <br/>
 
