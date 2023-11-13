@@ -8,6 +8,16 @@
 
 ## 2023
 
+* [Quantum error mitigation in quantum annealing](https://arxiv.org/abs/2311.01306),  Mohammad H. Amin,  Andrew D. King,  Jack Raymond,  Richard Harris,  William Bernoudy,  Andrew J. Berkley,  Kelly Boothby,  Anatoly Smirnov,  Fabio Altomare,  Michael Babcock,  Catia Baron,  Jake Connor,  Martin Dehn,  Colin Enderud,  Emile Hoskinson,  Shuiyuan Huang,  Mark W. Johnson,  Eric Ladizinsky,  Trevor Lanting,  Allison J. R. MacDonald,  Gaelen Marsden,  Reza Molavi,  Travis Oh,  Gabriel Poulin-Lamarre,  Hugh Ramp,  Chris Rich,  Berta Trullas Clavera,  Nicholas Tsai,  Mark Volkmann,  Jed D. Whittaker,  Jason Yao,  Niclas Heinsdorf,  Nitin Kaushal,  Alberto Nocera,  Marcel Franz,  arxiv:2311.01306
+
+* [Variational adiabatic transport of tensor networks](https://arxiv.org/abs/2311.00748),  Hyeongjin Kim,  Matthew T. Fishman,  Dries Sels,  arxiv:2311.00748
+
+* [Topological phases of strongly-interacting time-reversal invariant topological superconducting chains under a magnetic field](https://arxiv.org/abs/2311.01880),  Leandro M. Chinellato,  Claudio J. Gazza,  Alejandro M. Lobos,  Armando A. Aligia,  arxiv:2311.01880
+
+* [Numerical Investigations of the Extensive Entanglement Hamiltonian in Quantum Spin Ladders](https://arxiv.org/abs/2311.01699),  Chengshu Li,  Xingyu Li,  Yi-Neng Zhou,  arxiv:2311.01699
+
+* [Proximate spin liquid and fractionalization in the triangular antiferromagnet KYbSe2](https://www.nature.com/articles/s41567-023-02259-1), A. O. Scheie, E. A. Ghioldi, J. Xing, J. A. M. Paddison, N. E. Sherman, M. Dupont, L. D. Sanjeewa, Sangyun Lee, A. J. Woods, D. Abernathy, D. M. Pajerowski, T. J. Williams, Shang-Shun Zhang, L. O. Manuel, A. E. Trumper, C. D. Pemmaraju, A. S. Sefat, D. S. Parker, T. P. Devereaux, R. Movshovich, J. E. Moore, C. D. Batista, and D. A. Tennant, Nat. Phys. (2023) 
+
 * [Recovery of a Luther-Emery phase in the three-band Hubbard model with longer-range hopping](https://arxiv.org/abs/2310.17706),  Luhang Yang,  Thomas P. Devereaux,  Hong-Chen Jiang,  arxiv:2310.17706
 
 * [Mass gaps of a Z3 gauge theory with three fermion flavors in 1+1 dimensions](https://arxiv.org/abs/2310.18312),  Adrien Florio,  Andreas Weichselbaum,  Semeon Valgushev,  Robert D. Pisarski,  arxiv:2310.18312
@@ -1621,7 +1631,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-166  papers in 2023
+171  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1635,5 +1645,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-786 total (through 2023)
+791 total (through 2023)
 -->
