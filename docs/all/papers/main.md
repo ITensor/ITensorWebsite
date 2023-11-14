@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Towards adiabatic quantum computing using compressed quantum circuits](https://arxiv.org/abs/2311.05544),  Conor Mc Keever,  Michael Lubasch,  arxiv:2311.05544
+
 * [Quantum error mitigation in quantum annealing](https://arxiv.org/abs/2311.01306),  Mohammad H. Amin,  Andrew D. King,  Jack Raymond,  Richard Harris,  William Bernoudy,  Andrew J. Berkley,  Kelly Boothby,  Anatoly Smirnov,  Fabio Altomare,  Michael Babcock,  Catia Baron,  Jake Connor,  Martin Dehn,  Colin Enderud,  Emile Hoskinson,  Shuiyuan Huang,  Mark W. Johnson,  Eric Ladizinsky,  Trevor Lanting,  Allison J. R. MacDonald,  Gaelen Marsden,  Reza Molavi,  Travis Oh,  Gabriel Poulin-Lamarre,  Hugh Ramp,  Chris Rich,  Berta Trullas Clavera,  Nicholas Tsai,  Mark Volkmann,  Jed D. Whittaker,  Jason Yao,  Niclas Heinsdorf,  Nitin Kaushal,  Alberto Nocera,  Marcel Franz,  arxiv:2311.01306
 
 * [Variational adiabatic transport of tensor networks](https://arxiv.org/abs/2311.00748),  Hyeongjin Kim,  Matthew T. Fishman,  Dries Sels,  arxiv:2311.00748
@@ -1631,7 +1633,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-171  papers in 2023
+172  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1645,5 +1647,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-791 total (through 2023)
+792 total (through 2023)
 -->
