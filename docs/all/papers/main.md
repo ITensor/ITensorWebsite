@@ -8,6 +8,16 @@
 
 ## 2023
 
+* [Mott Transition and Volume Law Entanglement with Neural Quantum States](https://arxiv.org/abs/2311.05749),  Chloé Gauvin-Ndiaye,  Joseph Tindall,  Javier Robledo Moreno,  Antoine Georges,  arxiv:2311.05749
+
+* [Six-component pairing instability in the SU(4) $t$-$J$ chain](https://arxiv.org/abs/2311.06601),  Jia-Cheng He,  Jun-Hao Zhang,  Jie Lou,  Yan Chen,  arxiv:2311.06601
+
+* [Machine learning the Kondo entanglement cloud from local measurements](https://arxiv.org/abs/2311.07253),  Faluke Aikebaier,  Teemu Ojanen,  Jose L. Lado,  arxiv:2311.07253
+
+* [Symmetry, topology, duality, chirality, and criticality in a spin-1/2 XXZ ladder with a four-spin interaction](https://arxiv.org/abs/2311.07053),  Mateo Fontaine,  Koudai Sugimoto,  Shunsuke Furukawa,  arxiv:2311.07053
+
+* [A simple electronic ladder model harboring $\mathbb{Z}_4$ parafermions](https://arxiv.org/abs/2311.07359),  Botond Osváth,  Gergely Barcza,  Örs Legeza,  Balázs Dóra,  László Oroszlány,  arxiv:2311.07359
+
 * [Towards adiabatic quantum computing using compressed quantum circuits](https://arxiv.org/abs/2311.05544),  Conor Mc Keever,  Michael Lubasch,  arxiv:2311.05544
 
 * [Quantum error mitigation in quantum annealing](https://arxiv.org/abs/2311.01306),  Mohammad H. Amin,  Andrew D. King,  Jack Raymond,  Richard Harris,  William Bernoudy,  Andrew J. Berkley,  Kelly Boothby,  Anatoly Smirnov,  Fabio Altomare,  Michael Babcock,  Catia Baron,  Jake Connor,  Martin Dehn,  Colin Enderud,  Emile Hoskinson,  Shuiyuan Huang,  Mark W. Johnson,  Eric Ladizinsky,  Trevor Lanting,  Allison J. R. MacDonald,  Gaelen Marsden,  Reza Molavi,  Travis Oh,  Gabriel Poulin-Lamarre,  Hugh Ramp,  Chris Rich,  Berta Trullas Clavera,  Nicholas Tsai,  Mark Volkmann,  Jed D. Whittaker,  Jason Yao,  Niclas Heinsdorf,  Nitin Kaushal,  Alberto Nocera,  Marcel Franz,  arxiv:2311.01306
@@ -1633,7 +1643,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-172  papers in 2023
+177  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1647,5 +1657,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-792 total (through 2023)
+797 total (through 2023)
 -->
