@@ -10,13 +10,13 @@
 
 * [Mott Transition and Volume Law Entanglement with Neural Quantum States](https://arxiv.org/abs/2311.05749),  Chloé Gauvin-Ndiaye,  Joseph Tindall,  Javier Robledo Moreno,  Antoine Georges,  arxiv:2311.05749
 
-* [Six-component pairing instability in the SU(4) $t$-$J$ chain](https://arxiv.org/abs/2311.06601),  Jia-Cheng He,  Jun-Hao Zhang,  Jie Lou,  Yan Chen,  arxiv:2311.06601
+* [Six-component pairing instability in the SU(4) t-J chain](https://arxiv.org/abs/2311.06601),  Jia-Cheng He,  Jun-Hao Zhang,  Jie Lou,  Yan Chen,  arxiv:2311.06601
 
 * [Machine learning the Kondo entanglement cloud from local measurements](https://arxiv.org/abs/2311.07253),  Faluke Aikebaier,  Teemu Ojanen,  Jose L. Lado,  arxiv:2311.07253
 
 * [Symmetry, topology, duality, chirality, and criticality in a spin-1/2 XXZ ladder with a four-spin interaction](https://arxiv.org/abs/2311.07053),  Mateo Fontaine,  Koudai Sugimoto,  Shunsuke Furukawa,  arxiv:2311.07053
 
-* [A simple electronic ladder model harboring $\mathbb{Z}_4$ parafermions](https://arxiv.org/abs/2311.07359),  Botond Osváth,  Gergely Barcza,  Örs Legeza,  Balázs Dóra,  László Oroszlány,  arxiv:2311.07359
+* [A simple electronic ladder model harboring Z4 parafermions](https://arxiv.org/abs/2311.07359),  Botond Osváth,  Gergely Barcza,  Örs Legeza,  Balázs Dóra,  László Oroszlány,  arxiv:2311.07359
 
 * [Towards adiabatic quantum computing using compressed quantum circuits](https://arxiv.org/abs/2311.05544),  Conor Mc Keever,  Michael Lubasch,  arxiv:2311.05544
 
