@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Dense QCD2 with matrix product states](https://arxiv.org/abs/2311.11643),  Tomoya Hayata,  Yoshimasa Hidaka,  Kentaro Nishimura,  arxiv:2311.11643
+
+* [Kondo effect in the isotropic Heisenberg spin chain](https://arxiv.org/abs/2311.10569),  Pradip Kattel,  Parameshwar R. Pasnoori,  J. H. Pixley,  Patrick Azaria,  Natan Andrei,  arxiv:2311.10569
+
 * [Many-body entropies and entanglement from polynomially-many local measurements](https://arxiv.org/abs/2311.08108),  Benoît Vermersch,  Marko Ljubotina,  J. Ignacio Cirac,  Peter Zoller,  Maksym Serbyn,  Lorenzo Piroli,  arxiv:2311.08108
 
 * [Mott Transition and Volume Law Entanglement with Neural Quantum States](https://arxiv.org/abs/2311.05749),  Chloé Gauvin-Ndiaye,  Joseph Tindall,  Javier Robledo Moreno,  Antoine Georges,  arxiv:2311.05749
@@ -1645,7 +1649,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-178  papers in 2023
+180  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1659,5 +1663,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-798 total (through 2023)
+800 total (through 2023)
 -->
