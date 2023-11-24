@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Polaronic mechanism of Nagaoka ferromagnetism in Hubbard models](https://arxiv.org/abs/2311.09279),  Rhine Samajdar,  R. N. Bhatt,  arxiv:2311.09279
+
 * [Dense QCD2 with matrix product states](https://arxiv.org/abs/2311.11643),  Tomoya Hayata,  Yoshimasa Hidaka,  Kentaro Nishimura,  arxiv:2311.11643
 
 * [Kondo effect in the isotropic Heisenberg spin chain](https://arxiv.org/abs/2311.10569),  Pradip Kattel,  Parameshwar R. Pasnoori,  J. H. Pixley,  Patrick Azaria,  Natan Andrei,  arxiv:2311.10569
@@ -1649,7 +1651,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-180  papers in 2023
+181  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1663,5 +1665,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-800 total (through 2023)
+801 total (through 2023)
 -->
