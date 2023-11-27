@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Roles of Hund's Rule and Hybridization in the Two-orbital Model for High-T_c Superconductivity in the Bilayer Nickelate](https://arxiv.org/abs/2311.12769),  Xing-Zhou Qu,  Dai-Wei Qu,  Wei Li,  Gang Su,  arxiv:2311.12769
+
+* [Site-selective doublon-holon dynamics in a pumped one-dimensional Hubbard superlattice with staggered Coulomb interactions](https://arxiv.org/abs/2311.13395),  Zhenyu Cheng,  Ying Li,  Hantao Lu,  Xiang Hu,  Zhongbing Huang,  Gregory A. Fiete,  Liang Du,  arxiv:2311.13395
+
 * [Polaronic mechanism of Nagaoka ferromagnetism in Hubbard models](https://arxiv.org/abs/2311.09279),  Rhine Samajdar,  R. N. Bhatt,  arxiv:2311.09279
 
 * [Dense QCD2 with matrix product states](https://arxiv.org/abs/2311.11643),  Tomoya Hayata,  Yoshimasa Hidaka,  Kentaro Nishimura,  arxiv:2311.11643
@@ -1651,7 +1655,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-181  papers in 2023
+183  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1665,5 +1669,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-801 total (through 2023)
+803 total (through 2023)
 -->
