@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Emergence of vortex state in the $S=1$ Kitaev-Heisenberg model with single-ion anisotropy](https://arxiv.org/abs/2311.14161),  Ayushi Singhania,  Jeroen van den Brink,  Satoshi Nishimoto,  arxiv:2311.14161
+
 * [Roles of Hund's Rule and Hybridization in the Two-orbital Model for High-T_c Superconductivity in the Bilayer Nickelate](https://arxiv.org/abs/2311.12769),  Xing-Zhou Qu,  Dai-Wei Qu,  Wei Li,  Gang Su,  arxiv:2311.12769
 
 * [Site-selective doublon-holon dynamics in a pumped one-dimensional Hubbard superlattice with staggered Coulomb interactions](https://arxiv.org/abs/2311.13395),  Zhenyu Cheng,  Ying Li,  Hantao Lu,  Xiang Hu,  Zhongbing Huang,  Gregory A. Fiete,  Liang Du,  arxiv:2311.13395
@@ -162,7 +164,7 @@
 
 * [Haldane phases and phase diagrams of the S = 3/2, 1 bilinear-biquadratic Heisenberg model on the orthogonal dimer chain](https://arxiv.org/abs/2307.06371),  Ke Ren,  Muwei Wu,  Shou-Shu Gong,  Dao-Xin Yao,  Han-Qing Wu,  arxiv:2307.06371
 
-* [Quantum Simulation of Lattice QCD with Improved Hamiltonians](https://arxiv.org/abs/2307.05593),  Anthony N. Ciavarella,  arxiv:2307.05593
+* [Quantum Simulation of Lattice QCD with Improved Hamiltonians](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.094513),  Anthony N. Ciavarella, PhysRev[D,108,094513] [arxiv:2307.05593]
 
 * [Magnetization plateaus and enhanced magnetocaloric effect of a spin-1/2 Ising-Heisenberg and Heisenberg double sawtooth ladder with four-spin interaction](https://arxiv.org/abs/2307.03855),  Hamid Arian Zad,  Vadim Ohanyan,  Azam Zoshki,  Jozef Strečka,  arxiv:2307.03855
 
@@ -1655,7 +1657,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-183  papers in 2023
+184  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1669,5 +1671,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-803 total (through 2023)
+804 total (through 2023)
 -->
