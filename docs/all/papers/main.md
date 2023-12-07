@@ -8,6 +8,10 @@
 
 ## 2023
 
+* [Entanglement-magic separation in hybrid quantum circuits](https://arxiv.org/abs/2312.02039),  Gerald E. Fux,  Emanuele Tirrito,  Marcello Dalmonte,  Rosario Fazio,  arxiv:2312.02039
+
+* [Energy diffusion in weakly interacting chains with fermionic dissipation-assisted operator evolution](https://arxiv.org/abs/2311.17148),  En-Jui Kuo,  Brayden Ware,  Peter Lunts,  Mohammad Hafezi,  Christopher David White,  arxiv:2311.17148
+
 * [Emergence of vortex state in the $S=1$ Kitaev-Heisenberg model with single-ion anisotropy](https://arxiv.org/abs/2311.14161),  Ayushi Singhania,  Jeroen van den Brink,  Satoshi Nishimoto,  arxiv:2311.14161
 
 * [Roles of Hund's Rule and Hybridization in the Two-orbital Model for High-T_c Superconductivity in the Bilayer Nickelate](https://arxiv.org/abs/2311.12769),  Xing-Zhou Qu,  Dai-Wei Qu,  Wei Li,  Gang Su,  arxiv:2311.12769
@@ -1657,7 +1661,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-184  papers in 2023
+186  papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1671,5 +1675,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-804 total (through 2023)
+806 total (through 2023)
 -->
