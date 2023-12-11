@@ -206,7 +206,7 @@
 
 * [Effective bi-layer model Hamiltonian and density-matrix renormalization group study for the high-Tc superconductivity in La3Ni2O7 under high pressure](https://arxiv.org/abs/2306.07837),  Yang Shen,  Mingpu Qin,  Guang-Ming Zhang,  arxiv:2306.07837
 
-* [Conformal four-point correlators of the 3D Ising transition via the quantum fuzzy sphere](https://arxiv.org/abs/2306.04681),  Chao Han,  Liangdong Hu,  W. Zhu,  Yin-Chen He,  arxiv:2306.04681
+* [Conformal four-point correlators of the 3D Ising transition via the quantum fuzzy sphere](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.235123),  Chao Han,  Liangdong Hu,  W. Zhu,  Yin-Chen He, PhysRev[B,108,235123] (2023) [arxiv:2306.04681]
 
 * [Extracting a function encoded in amplitudes of a quantum state by tensor network and orthogonal function expansion](https://doi.org/10.1007/s11128-023-03937-y), Koichi Miyamoto, Hiroshi Ueda, Journal[Quantum Information Processing,22,239,https://doi.org/10.1007/s11128-023-03937-y] (2023)
 
@@ -270,7 +270,7 @@
 
 * [Optimized basis sets for DMRG calculations of quantum chains of rotating water molecules](https://arxiv.org/abs/2304.09410),  Tobias Serwatka,  Pierre-Nicholas Roy,  arxiv:2304.09410
 
-* [Repulsion driven metallic phase in the ground state of the half-filled t-t' ionic Hubbard chain](https://arxiv.org/abs/2304.09027),  Gerardo L. Rossini,  George I. Japaridze,  arxiv:2304.09027
+* [Repulsion driven metallic phase in the ground state of the half-filled t-t' ionic Hubbard chain](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.063307),  Gerardo L. Rossini,  George I. Japaridze, PhysRev[A,108,063307] (2023) [arxiv:2304.09027]
 
 * [Quantum Criticality and Universal Behavior in Molecular Dipolar Lattices of Endofullerenes](https://arxiv.org/abs/2304.09404),  Tobias Serwatka,  Pierre-Nicholas Roy,  arxiv:2304.09404
 
