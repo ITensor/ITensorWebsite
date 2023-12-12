@@ -8,6 +8,14 @@
 
 ## 2023
 
+* [Quantum Melting of Generalized Wigner Crystals in Transition Metal Dichalcogenide Moiré Systems](https://arxiv.org/abs/2312.03828),  Yiqing Zhou,  D. N. Sheng,  Eun-Ah Kim,  arxiv:2312.03828
+
+* [Pair correlations of the hybridized orbitals in a ladder model for the bilayer nickelate La$_3$Ni$_2$O$_7$](https://arxiv.org/abs/2312.04304),  Masataka Kakoi,  Tatsuya Kaneko,  Hirofumi Sakakibara,  Masayuki Ochi,  Kazuhiko Kuroki,  arxiv:2312.04304
+
+* [Magnon interactions in the quantum paramagnetic phase of CoNb$_2$O$_6$](https://arxiv.org/abs/2312.03829),  Cesar A. Gallegos,  A. L. Chernyshev,  arxiv:2312.03829
+
+* [Nonequilibrium diagrammatic many-body simulations with quantics tensor trains](https://arxiv.org/abs/2312.03809),  Matthias Murray,  Hiroshi Shinaoka,  Philipp Werner,  arxiv:2312.03809
+
 * [Entanglement-magic separation in hybrid quantum circuits](https://arxiv.org/abs/2312.02039),  Gerald E. Fux,  Emanuele Tirrito,  Marcello Dalmonte,  Rosario Fazio,  arxiv:2312.02039
 
 * [Energy diffusion in weakly interacting chains with fermionic dissipation-assisted operator evolution](https://arxiv.org/abs/2311.17148),  En-Jui Kuo,  Brayden Ware,  Peter Lunts,  Mohammad Hafezi,  Christopher David White,  arxiv:2311.17148
@@ -1661,7 +1669,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-186  papers in 2023
+190 papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1675,5 +1683,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-806 total (through 2023)
+810 total (through 2023)
 -->
