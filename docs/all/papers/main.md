@@ -6,9 +6,9 @@
 
 * [Quantum Melting of Generalized Wigner Crystals in Transition Metal Dichalcogenide Moiré Systems](https://arxiv.org/abs/2312.03828),  Yiqing Zhou,  D. N. Sheng,  Eun-Ah Kim,  arxiv:2312.03828
 
-* [Pair correlations of the hybridized orbitals in a ladder model for the bilayer nickelate La$_3$Ni$_2$O$_7$](https://arxiv.org/abs/2312.04304),  Masataka Kakoi,  Tatsuya Kaneko,  Hirofumi Sakakibara,  Masayuki Ochi,  Kazuhiko Kuroki,  arxiv:2312.04304
+* [Pair correlations of the hybridized orbitals in a ladder model for the bilayer nickelate La3Ni2O7](https://arxiv.org/abs/2312.04304),  Masataka Kakoi,  Tatsuya Kaneko,  Hirofumi Sakakibara,  Masayuki Ochi,  Kazuhiko Kuroki,  arxiv:2312.04304
 
-* [Magnon interactions in the quantum paramagnetic phase of CoNb$_2$O$_6$](https://arxiv.org/abs/2312.03829),  Cesar A. Gallegos,  A. L. Chernyshev,  arxiv:2312.03829
+* [Magnon interactions in the quantum paramagnetic phase of CoNb2O6](https://arxiv.org/abs/2312.03829),  Cesar A. Gallegos,  A. L. Chernyshev,  arxiv:2312.03829
 
 * [Nonequilibrium diagrammatic many-body simulations with quantics tensor trains](https://arxiv.org/abs/2312.03809),  Matthias Murray,  Hiroshi Shinaoka,  Philipp Werner,  arxiv:2312.03809
 
@@ -16,7 +16,7 @@
 
 * [Energy diffusion in weakly interacting chains with fermionic dissipation-assisted operator evolution](https://arxiv.org/abs/2311.17148),  En-Jui Kuo,  Brayden Ware,  Peter Lunts,  Mohammad Hafezi,  Christopher David White,  arxiv:2311.17148
 
-* [Emergence of vortex state in the $S=1$ Kitaev-Heisenberg model with single-ion anisotropy](https://arxiv.org/abs/2311.14161),  Ayushi Singhania,  Jeroen van den Brink,  Satoshi Nishimoto,  arxiv:2311.14161
+* [Emergence of vortex state in the S=1 Kitaev-Heisenberg model with single-ion anisotropy](https://arxiv.org/abs/2311.14161),  Ayushi Singhania,  Jeroen van den Brink,  Satoshi Nishimoto,  arxiv:2311.14161
 
 * [Roles of Hund's Rule and Hybridization in the Two-orbital Model for High-T_c Superconductivity in the Bilayer Nickelate](https://arxiv.org/abs/2311.12769),  Xing-Zhou Qu,  Dai-Wei Qu,  Wei Li,  Gang Su,  arxiv:2311.12769
 
