@@ -4,6 +4,12 @@
 
 ## 2023
 
+* [The Cytnx Library for Tensor Networks](https://www.scipost.org/submissions/scipost_202312_00013v1/), Kai-Hsin Wu, Chang-Teng Lin, Ke Hsu, Hao-Ti Hung, Manuel Schneider, Chia-Min Chung, Ying-Jer Kao, Pochung Chen [SciPost Preprint]
+
+* [Environment induced dynamical quantum phase transition in two-qubit Rabi model](https://arxiv.org/abs/2312.05697),  G. Di Bello,  A. Ponticelli,  F. Pavan,  V. Cataudella,  G. De Filippis,  A. de Candia,  C. A. Perroni,  arxiv:2312.05697
+
+* [Two-fermion negativity and confinement in the Schwinger model](https://arxiv.org/abs/2312.05298),  Adrien Florio,  arxiv:2312.05298
+
 * [Quantum Melting of Generalized Wigner Crystals in Transition Metal Dichalcogenide Moiré Systems](https://arxiv.org/abs/2312.03828),  Yiqing Zhou,  D. N. Sheng,  Eun-Ah Kim,  arxiv:2312.03828
 
 * [Pair correlations of the hybridized orbitals in a ladder model for the bilayer nickelate La3Ni2O7](https://arxiv.org/abs/2312.04304),  Masataka Kakoi,  Tatsuya Kaneko,  Hirofumi Sakakibara,  Masayuki Ochi,  Kazuhiko Kuroki,  arxiv:2312.04304
@@ -1665,7 +1671,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-190 papers in 2023
+193 papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1679,5 +1685,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-810 total (through 2023)
+813 total (through 2023)
 -->
