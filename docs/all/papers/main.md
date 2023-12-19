@@ -4,6 +4,8 @@
 
 ## 2023
 
+* [Confinement and Kink Entanglement Asymmetry on a Quantum Ising Chain](https://arxiv.org/abs/2312.08601),  Brian J. J. Khor,  D. M. Kürkçüoglu,  T. J. Hobbs,  G. N. Perdue,  Israel Klich,  arxiv:2312.08601
+
 * [Local dynamics and detection of topology in spin-1 chains](https://arxiv.org/abs/2312.07147),  Alfonso Maiellaro,  Hervé Aubin,  Andrej Mesaros,  Pascal Simon,  arxiv:2312.07147
 
 * [The Cytnx Library for Tensor Networks](https://www.scipost.org/submissions/scipost_202312_00013v1/), Kai-Hsin Wu, Chang-Teng Lin, Ke Hsu, Hao-Ti Hung, Manuel Schneider, Chia-Min Chung, Ying-Jer Kao, Pochung Chen [SciPost Preprint]
@@ -1673,7 +1675,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-194 papers in 2023
+195 papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1687,5 +1689,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-814 total (through 2023)
+815 total (through 2023)
 -->
