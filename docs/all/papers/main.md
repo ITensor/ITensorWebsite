@@ -668,7 +668,7 @@
 
 * [Entanglement in the quantum phases of an unfrustrated Rydberg atom array](https://arxiv.org/abs/2201.03189),  Matthew J. O'Rourke,  Garnet Kin-Lic Chan,  arxiv:2201.03189
 
-* [Quantum Information Scrambling in Quantum Many-body Scarred Systems](https://arxiv.org/abs/2201.01777),  Dong Yuan,  Shun-Yao Zhang,  Yu Wang,  L. -M. Duan,  Dong-Ling Deng,  arxiv:2201.01777
+* [Quantum Information Scrambling in Quantum Many-body Scarred Systems](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023095),  Dong Yuan,  Shun-Yao Zhang,  Yu Wang,  L. -M. Duan,  Dong-Ling Deng, PhysRev[Research,4,023095]  [arxiv:2201.01777]
 
 * [Ground state of asymmetric tops with DMRG: water in one dimension](https://doi.org/10.1063/5.0078770), Tobias Serwatka and Pierre-Nicholas Roy, <i style="color:#CC0000">J. Chem. Phys.</i> 156, 044116 (2022)
 
