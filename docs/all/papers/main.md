@@ -122,7 +122,7 @@
 
 * [Quantum Ising model on two dimensional anti-de Sitter space](https://arxiv.org/abs/2309.04383),  Muhammad Asaduzzaman,  Simon Catterall,  Yannick Meurice,  Goksu Can Toga,  arxiv:2309.04383
 
-* [Dynamical phase transition and scaling in the chiral clock Potts chain](https://arxiv.org/abs/2309.03454),  Xue-Jia Yu,  arxiv:2309.03454
+* [Dynamical phase transition and scaling in the chiral clock Potts chain](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.062215),  Xue-Jia Yu, PhysRev[A,108,062215]  [arxiv:2309.03454]
 
 * [Entanglement analysis of photoinduced eta-pairing states](https://doi.org/10.1140/epjs/s11734-023-00975-6), Satoshi Ejima, Florian Lange, Holger Fehske, <i style="color:#CC0000;">The European Physical Journal Special Topics</i> 
 
