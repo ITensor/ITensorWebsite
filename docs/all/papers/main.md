@@ -4,6 +4,10 @@
 
 ## 2023
 
+* [Distinguishing Quantum Phases through Cusps in Full Counting Statistics](https://arxiv.org/abs/2312.11191),  Chang-Yan Wang,  Tian-Gang Zhou,  Yi-Neng Zhou,  Pengfei Zhang,  arxiv:2312.11191
+
+* [Non-invertible symmetry-protected topological order in a group-based cluster state](https://arxiv.org/abs/2312.09272),  Christopher Fechisin,  Nathanan Tantivasadakarn,  Victor V. Albert,  arxiv:2312.09272
+
 * [Confinement and Kink Entanglement Asymmetry on a Quantum Ising Chain](https://arxiv.org/abs/2312.08601),  Brian J. J. Khor,  D. M. Kürkçüoglu,  T. J. Hobbs,  G. N. Perdue,  Israel Klich,  arxiv:2312.08601
 
 * [Local dynamics and detection of topology in spin-1 chains](https://arxiv.org/abs/2312.07147),  Alfonso Maiellaro,  Hervé Aubin,  Andrej Mesaros,  Pascal Simon,  arxiv:2312.07147
@@ -1675,7 +1679,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-195 papers in 2023
+197 papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1689,5 +1693,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-815 total (through 2023)
+817 total (through 2023)
 -->
