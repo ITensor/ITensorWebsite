@@ -172,7 +172,7 @@
 
 * [Integrability breaking and bound states in Google's decorated XXZ circuits](https://arxiv.org/abs/2307.13042),  Ana Hudomal,  Ryan Smith,  Andrew Hallam,  Zlatko Papić,  arxiv:2307.13042
 
-* [Surrogate model solver for impurity-induced superconducting subgap states](https://arxiv.org/abs/2307.11646),  Virgil V. Baran,  Emil J. P. Frost,  Jens Paaske,  arxiv:2307.11646
+* [Surrogate model solver for impurity-induced superconducting subgap states](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L220506),  Virgil V. Baran,  Emil J. P. Frost,  Jens Paaske, PhysRev[B,108,L220506] [arxiv:2307.11646]
 
 * [Fragmented superconductivity in the Hubbard model as solitons in Ginzburg-Landau theory](https://arxiv.org/abs/2307.11820),  Niccolò Baldelli,  Benedikt Kloss,  Matthew Fishman,  Alexander Wietek,  arxiv:2307.11820
 
