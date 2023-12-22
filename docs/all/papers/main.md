@@ -380,13 +380,13 @@
 
 * [Relation between the noise correlations and the spin structure factor for Mott-insulating states in SU(N) Hubbard models](https://arxiv.org/abs/2301.09807),  Mathias Mikkelsen,  Ippei Danshita,  arxiv:2301.09807
 
-* [Real-space imaging of dispersive triplon excitations in engineered quantum magnets](https://arxiv.org/abs/2301.09963),  Robert Drost,  Shawulienu Kezilebieke,  Jose Lado,  Peter Liljeroth,  arxiv:2301.09963
+* [Real-space imaging of dispersive triplon excitations in engineered quantum magnets](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.086701),  Robert Drost,  Shawulienu Kezilebieke,  Jose Lado,  Peter Liljeroth, PhysRev[Lett,131,086701] [arxiv:2301.09963]
 
-* [Partially disordered Heisenberg antiferromagnet with short-range stripe correlations](https://arxiv.org/abs/2301.09446),  G. G. Blesio,  F. T. Lisandrini,  M. G. Gonzalez,  arxiv:2301.09446
+* [Partially disordered Heisenberg antiferromagnet with short-range stripe correlations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.134418),  G. G. Blesio,  F. T. Lisandrini,  M. G. Gonzalez, PhysRev[B,107,134418] [arxiv:2301.09446]
 
-* [Quantum criticality of a Z_3 symmetric spin chain with long-range interactions](https://arxiv.org/abs/2301.08438),  Xue-Jia Yu,  Chengxiang Ding,  Limei Xu,  arxiv:2301.08438
+* [Quantum criticality of a Z_3 symmetric spin chain with long-range interactions](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.054122),  Xue-Jia Yu,  Chengxiang Ding,  Limei Xu, PhysRev[E,107,054122] [arxiv:2301.08438]
 
-* [Wannier-Stark Ladders and Stark Shifts of Excitons in Mott Insulators](https://arxiv.org/abs/2301.06075),  Mina Udono,  Tatsuya Kaneko,  Koudai Sugimoto,  arxiv:2301.06075
+* [Wannier-Stark Ladders and Stark Shifts of Excitons in Mott Insulators](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L081304),  Mina Udono,  Tatsuya Kaneko,  Koudai Sugimoto, PhysRev[B,108,L081304]  [arxiv:2301.06075]
 
 * [Building 1D lattice models with G-graded fusion category](https://arxiv.org/abs/2301.06416),  Shang-Qiang Ning,  Bin-Bin Mao,  Chenjie Wang,  arxiv:2301.06416
 
