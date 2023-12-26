@@ -4,6 +4,8 @@
 
 ## 2023
 
+* [Divergent Nonlinear Response from Quasiparticle Interactions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.256505), Michele Fava, Sarang Gopalakrishnan, Romain Vasseur, Fabian Essler, and S. A. Parameswaran, PhysRev[Lett,131,256505]
+
 * [Finite Temperature Minimal Entangled Typical Thermal States Impurity Solver](https://arxiv.org/abs/2312.13668),  Xiaodong Cao,  E. Miles Stoudenmire,  Olivier Parcollet,  arxiv:2312.13668
 
 * [Entanglement of edge modes in (very) strongly correlated topological insulators](https://arxiv.org/abs/2312.13598),  Nisa Ara,  Emil Mathew,  Rudranil Basu,  Indrakshi Raychowdhury,  arxiv:2312.13598
@@ -1691,7 +1693,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-203 papers in 2023
+204 papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1705,5 +1707,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-823 total (through 2023)
+824 total (through 2023)
 -->
