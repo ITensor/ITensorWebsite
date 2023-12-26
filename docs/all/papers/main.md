@@ -4,6 +4,12 @@
 
 ## 2023
 
+* [Finite Temperature Minimal Entangled Typical Thermal States Impurity Solver](https://arxiv.org/abs/2312.13668),  Xiaodong Cao,  E. Miles Stoudenmire,  Olivier Parcollet,  arxiv:2312.13668
+
+* [Entanglement of edge modes in (very) strongly correlated topological insulators](https://arxiv.org/abs/2312.13598),  Nisa Ara,  Emil Mathew,  Rudranil Basu,  Indrakshi Raychowdhury,  arxiv:2312.13598
+
+* [Heisenberg spin chain with random-sign couplings](https://arxiv.org/abs/2312.13452),  Michele Fava,  Jesper Lykke Jacobsen,  Adam Nahum,  arxiv:2312.13452
+
 * [Distinguishing Quantum Phases through Cusps in Full Counting Statistics](https://arxiv.org/abs/2312.11191),  Chang-Yan Wang,  Tian-Gang Zhou,  Yi-Neng Zhou,  Pengfei Zhang,  arxiv:2312.11191
 
 * [Non-invertible symmetry-protected topological order in a group-based cluster state](https://arxiv.org/abs/2312.09272),  Christopher Fechisin,  Nathanan Tantivasadakarn,  Victor V. Albert,  arxiv:2312.09272
@@ -1679,7 +1685,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-197 papers in 2023
+200 papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1693,5 +1699,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-817 total (through 2023)
+820 total (through 2023)
 -->
