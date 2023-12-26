@@ -10,6 +10,12 @@
 
 * [Heisenberg spin chain with random-sign couplings](https://arxiv.org/abs/2312.13452),  Michele Fava,  Jesper Lykke Jacobsen,  Adam Nahum,  arxiv:2312.13452
 
+* [Enhancing quantum utility: simulating large-scale quantum spin chains on superconducting quantum computers](https://arxiv.org/abs/2312.12427),  Talal Ahmed Chowdhury,  Kwangmin Yu,  Mahmud Ashraf Shamim,  M. L. Kabir,  Raza Sabbir Sufian,  arxiv:2312.12427
+
+* [The entanglement membrane in exactly solvable lattice models](https://arxiv.org/abs/2312.12509),  Michael A. Rampp,  Suhail A. Rather,  Pieter W. Claeys,  arxiv:2312.12509
+
+* [First-Order Phase Transition of the Schwinger Model with a Quantum Computer](https://arxiv.org/abs/2312.12831),  Takis Angelides,  Pranay Naredi,  Arianna Crippa,  Karl Jansen,  Stefan Kühn,  Ivano Tavernelli,  Derek S. Wang,  arxiv:2312.12831
+
 * [Distinguishing Quantum Phases through Cusps in Full Counting Statistics](https://arxiv.org/abs/2312.11191),  Chang-Yan Wang,  Tian-Gang Zhou,  Yi-Neng Zhou,  Pengfei Zhang,  arxiv:2312.11191
 
 * [Non-invertible symmetry-protected topological order in a group-based cluster state](https://arxiv.org/abs/2312.09272),  Christopher Fechisin,  Nathanan Tantivasadakarn,  Victor V. Albert,  arxiv:2312.09272
@@ -1685,7 +1691,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-200 papers in 2023
+203 papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1699,5 +1705,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-820 total (through 2023)
+823 total (through 2023)
 -->
