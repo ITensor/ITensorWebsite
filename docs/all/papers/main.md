@@ -148,7 +148,7 @@
 
 * [Critical behaviours of non-stabilizerness in quantum spin chains](https://arxiv.org/abs/2309.00676),  Poetri Sonya Tarabunga,  arxiv:2309.00676
 
-* [Emergent self-duality in long range critical spin chain: from deconfined criticality to first order transition](https://arxiv.org/abs/2309.01652),  Sheng Yang,  Zhiming Pan,  Da-Chuan Lu,  Xue-Jia Yu,  arxiv:2309.01652
+* [Emergent self-duality in long range critical spin chain: from deconfined criticality to first order transition](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.245152),  Sheng Yang,  Zhiming Pan,  Da-Chuan Lu,  Xue-Jia Yu, PhysRev[B,108,245152] [arxiv:2309.01652]
 
 * [Competing order in two-band Bose-Hubbard chains with extended-range interactions](https://arxiv.org/abs/2309.01121),  Yuma Watanabe,  Utso Bhattacharya,  Ravindra W. Chhajlany,  Javier Argüello-Luengo,  Maciej Lewenstein,  Tobias Graß,  arxiv:2309.01121
 
