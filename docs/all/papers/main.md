@@ -4,7 +4,9 @@
 
 ## 2023
 
-* [Divergent Nonlinear Response from Quasiparticle Interactions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.256505), Michele Fava, Sarang Gopalakrishnan, Romain Vasseur, Fabian Essler, and S. A. Parameswaran, PhysRev[Lett,131,256505]
+* [Quantum bicritical point and phase separation in a frustrated Heisenberg ladder](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.224433), D. S. Almeida and R. R. Montenegro-Filho, PhysRev[B,108,224433] (2023)
+
+* [Divergent Nonlinear Response from Quasiparticle Interactions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.256505), Michele Fava, Sarang Gopalakrishnan, Romain Vasseur, Fabian Essler, and S. A. Parameswaran, PhysRev[Lett,131,256505] (2023)
 
 * [Finite Temperature Minimal Entangled Typical Thermal States Impurity Solver](https://arxiv.org/abs/2312.13668),  Xiaodong Cao,  E. Miles Stoudenmire,  Olivier Parcollet,  arxiv:2312.13668
 
@@ -88,9 +90,9 @@
 
 * [Quantum simulation of the tricritical Ising model in tunable Josephson junction ladders](https://arxiv.org/abs/2310.18300),  Lorenzo Maffi,  Niklas Tausendpfund,  Matteo Rizzi,  Michele Burrello,  arxiv:2310.18300
 
-* [Simulating Heisenberg interactions in the Ising model with strong drive fields](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042216), Anthony N. Ciavarella, Stephan Caspar, Hersh Singh, Martin J. Savage, and Pavel Lougovski, PhysRev[A,108,042216]
+* [Simulating Heisenberg interactions in the Ising model with strong drive fields](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.042216), Anthony N. Ciavarella, Stephan Caspar, Hersh Singh, Martin J. Savage, and Pavel Lougovski, PhysRev[A,108,042216] (2023)
 
-* [Density matrix renormalization group based downfolding of the three-band Hubbard model: Importance of density-assisted hopping](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L161111), Shengtao Jiang (蒋晟韬), Douglas J. Scalapino, and Steven R. White, PhysRev[B,108,L161111]
+* [Density matrix renormalization group based downfolding of the three-band Hubbard model: Importance of density-assisted hopping](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L161111), Shengtao Jiang (蒋晟韬), Douglas J. Scalapino, and Steven R. White, PhysRev[B,108,L161111] (2023)
 
 * [Pre-optimizing variational quantum eigensolvers with tensor networks](https://arxiv.org/abs/2310.12965),  Abid Khan,  Bryan K. Clark,  Norm M. Tubman,  arxiv:2310.12965
 
@@ -140,7 +142,7 @@
 
 * [Quantum Ising model on two dimensional anti-de Sitter space](https://arxiv.org/abs/2309.04383),  Muhammad Asaduzzaman,  Simon Catterall,  Yannick Meurice,  Goksu Can Toga,  arxiv:2309.04383
 
-* [Dynamical phase transition and scaling in the chiral clock Potts chain](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.062215),  Xue-Jia Yu, PhysRev[A,108,062215]  [arxiv:2309.03454]
+* [Dynamical phase transition and scaling in the chiral clock Potts chain](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.062215),  Xue-Jia Yu, PhysRev[A,108,062215]  [arxiv:2309.03454] (2023)
 
 * [Entanglement analysis of photoinduced eta-pairing states](https://doi.org/10.1140/epjs/s11734-023-00975-6), Satoshi Ejima, Florian Lange, Holger Fehske, <i style="color:#CC0000;">The European Physical Journal Special Topics</i> 
 
@@ -148,7 +150,7 @@
 
 * [Critical behaviours of non-stabilizerness in quantum spin chains](https://arxiv.org/abs/2309.00676),  Poetri Sonya Tarabunga,  arxiv:2309.00676
 
-* [Emergent self-duality in long range critical spin chain: from deconfined criticality to first order transition](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.245152),  Sheng Yang,  Zhiming Pan,  Da-Chuan Lu,  Xue-Jia Yu, PhysRev[B,108,245152] [arxiv:2309.01652]
+* [Emergent self-duality in long range critical spin chain: from deconfined criticality to first order transition](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.245152),  Sheng Yang,  Zhiming Pan,  Da-Chuan Lu,  Xue-Jia Yu, PhysRev[B,108,245152] [arxiv:2309.01652] (2023)
 
 * [Competing order in two-band Bose-Hubbard chains with extended-range interactions](https://arxiv.org/abs/2309.01121),  Yuma Watanabe,  Utso Bhattacharya,  Ravindra W. Chhajlany,  Javier Argüello-Luengo,  Maciej Lewenstein,  Tobias Graß,  arxiv:2309.01121
 
@@ -1693,7 +1695,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-204 papers in 2023
+205 papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1707,5 +1709,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-824 total (through 2023)
+825 total (through 2023)
 -->
