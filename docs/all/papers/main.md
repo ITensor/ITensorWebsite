@@ -4,6 +4,8 @@
 
 ## 2023
 
+* [Measurement-based quantum computation in finite one-dimensional systems: string order implies computational power](https://quantum-journal.org/papers/q-2023-12-28-1215/), Robert Raussendorf, Wang Yang, Arnab Adhikary, <i style="color:#CC0000">Quantum</i> <b>7</b>, <a href="https://quantum-journal.org/papers/q-2023-12-28-1215/">1215</a> (2023) 
+
 * [Quantum bicritical point and phase separation in a frustrated Heisenberg ladder](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.224433), D. S. Almeida and R. R. Montenegro-Filho, PhysRev[B,108,224433] (2023)
 
 * [Divergent Nonlinear Response from Quasiparticle Interactions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.256505), Michele Fava, Sarang Gopalakrishnan, Romain Vasseur, Fabian Essler, and S. A. Parameswaran, PhysRev[Lett,131,256505] (2023)
@@ -1695,7 +1697,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-205 papers in 2023
+206 papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1709,5 +1711,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-825 total (through 2023)
+826 total (through 2023)
 -->
