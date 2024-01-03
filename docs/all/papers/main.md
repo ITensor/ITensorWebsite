@@ -2,6 +2,15 @@
 
 <i style="font-size:90%; color:#999999">Please send any papers not listed here to support -at- itensor.org</i>
 
+## 2024
+
+* [Magnetic properties at various fillings of the quasiflat band in a fermionic two-leg ladder model](https://arxiv.org/abs/2401.00483),  Paban Kumar Patra,  Yixuan Huang,  Hridis K. Pal,  arxiv:2401.00483
+
+* [Fast emulation of fermionic circuits with matrix product states](https://arxiv.org/abs/2312.17657),  Justin Provazza,  Klaas Gunst,  Huanchen Zhai,  Garnet K. -L. Chan,  Toru Shiozaki,  Nicholas C. Rubin,  Alec F. White,  arxiv:2312.17657
+
+* [Phases of 2d massless QCD with qubit regularization](https://arxiv.org/abs/2312.17734),  Hanqing Liu,  Tanmoy Bhattacharya,  Shailesh Chandrasekharan,  Rajan Gupta,  arxiv:2312.17734
+
+
 ## 2023
 
 * [Measurement-based quantum computation in finite one-dimensional systems: string order implies computational power](https://quantum-journal.org/papers/q-2023-12-28-1215/), Robert Raussendorf, Wang Yang, Arnab Adhikary, <i style="color:#CC0000">Quantum</i> <b>7</b>, <a href="https://quantum-journal.org/papers/q-2023-12-28-1215/">1215</a> (2023) 
@@ -1697,6 +1706,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
+3 papers in 2024
 206 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1711,5 +1721,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-826 total (through 2023)
+829 total (through 2024)
 -->
