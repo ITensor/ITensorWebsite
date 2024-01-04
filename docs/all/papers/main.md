@@ -8,6 +8,8 @@
 
 ## 2023
 
+* [Time Scales in Many-Body Fast Neutrino Flavor Conversion](https://arxiv.org/abs/2312.16212),  Ramya Bhaskar,  Alessandro Roggero,  Martin J. Savage,  arxiv:2312.16212
+
 * [Fast emulation of fermionic circuits with matrix product states](https://arxiv.org/abs/2312.17657),  Justin Provazza,  Klaas Gunst,  Huanchen Zhai,  Garnet K. -L. Chan,  Toru Shiozaki,  Nicholas C. Rubin,  Alec F. White,  arxiv:2312.17657
 
 * [Phases of 2d massless QCD with qubit regularization](https://arxiv.org/abs/2312.17734),  Hanqing Liu,  Tanmoy Bhattacharya,  Shailesh Chandrasekharan,  Rajan Gupta,  arxiv:2312.17734
@@ -1706,7 +1708,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 <!--
 1 papers in 2024
-208 papers in 2023
+209 papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1720,5 +1722,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-829 total (through 2024)
+830 total (through 2024)
 -->
