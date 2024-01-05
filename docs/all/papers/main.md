@@ -370,7 +370,7 @@
 
 * [A single-band model with enhanced pairing from DMRG-based downfolding of the three-band Hubbard model](https://arxiv.org/abs/2303.00756),  Shengtao Jiang,  Douglas J. Scalapino,  Steven R. White,  arxiv:2303.00756
 
-* [An Exact Continuous Theory for Spin Systems on Graphons](https://arxiv.org/abs/2303.00731),  Amy Searle,  Joseph Tindall,  arxiv:2303.00731
+* [Thermodynamic limit of spin systems on random graphs](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013011), Amy Searle,  Joseph Tindall, PhysRev[Research,6,013011] [arxiv:2303.00731]
 
 * [Exploring dynamical quantum phase transitions in a spin model with deconfined critical point via the quantum steering ellipsoid](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.085130), Chang-Xiao Li, Sheng Yang, Jing-Bo Xu, and Hai-Qing Lin, PhysRev[B,107,085130] (2023)
 
