@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Spectral properties of the critical (1+1)-dimensional Abelian-Higgs model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.045103), Titas Chanda, Marcello Dalmonte, Maciej Lewenstein, Jakub Zakrzewski, and Luca Tagliacozzo, PhysRev[B,109,045103] 
+
 * [Magnetic properties at various fillings of the quasiflat band in a fermionic two-leg ladder model](https://arxiv.org/abs/2401.00483),  Paban Kumar Patra,  Yixuan Huang,  Hridis K. Pal,  arxiv:2401.00483
 
 ## 2023
@@ -1707,7 +1709,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-1 papers in 2024
+2 papers in 2024
 209 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1722,5 +1724,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-830 total (through 2024)
+831 total (through 2024)
 -->
