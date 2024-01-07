@@ -10,6 +10,8 @@
 
 ## 2023
 
+* [Three ways of calculating mass spectra for the 2-flavor Schwinger model in the Hamiltonian formalism](https://pos.sissa.it/453/205), A. Matsumoto, E. Itou and Y. Tanizaki,  <i style="color:#CC0000">Proceedings of Science</i> <b>LATTICE2023</b>, <a href="https://pos.sissa.it/453/205">205</a> (2023)
+
 * [Time Scales in Many-Body Fast Neutrino Flavor Conversion](https://arxiv.org/abs/2312.16212),  Ramya Bhaskar,  Alessandro Roggero,  Martin J. Savage,  arxiv:2312.16212
 
 * [Fast emulation of fermionic circuits with matrix product states](https://arxiv.org/abs/2312.17657),  Justin Provazza,  Klaas Gunst,  Huanchen Zhai,  Garnet K. -L. Chan,  Toru Shiozaki,  Nicholas C. Rubin,  Alec F. White,  arxiv:2312.17657
@@ -1710,7 +1712,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 <!--
 2 papers in 2024
-209 papers in 2023
+210 papers in 2023
 139 papers in 2022
 122 papers in 2021
 117 papers in 2020
@@ -1724,5 +1726,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-831 total (through 2024)
+832 total (through 2024)
 -->
