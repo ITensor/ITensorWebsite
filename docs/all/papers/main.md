@@ -398,11 +398,11 @@
 
 * [Singlet, Triplet and Pair Density Wave Superconductivity in the Doped Triangular-Lattice Moiré System](https://arxiv.org/abs/2302.06765),  Feng Chen,  Donna Sheng,  arxiv:2302.06765
 
-* [Proposal for observing Yang-Lee criticality in Rydberg atomic arrays](https://arxiv.org/abs/2302.06662),  Ruizhe Shen,  Tianqi Chen,  Fang Qin,  Yin Zhong,  Ching Hua Lee,  arxiv:2302.06662
+* [Proposal for observing Yang-Lee criticality in Rydberg atomic arrays](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.080403),  Ruizhe Shen,  Tianqi Chen,  Fang Qin,  Yin Zhong,  Ching Hua Lee,  PhysRev[Lett,131,080403] (2023) [arxiv:2302.06662]
 
 * [Cloud on-demand emulation of quantum dynamics with tensor networks](https://arxiv.org/abs/2302.05253),  Kemal Bidzhiev,  Aleksander Wennersteen,  Mourad Beji,  Mario Dagrada,  Mauro D'Arcangelo,  Sebastian Grijalva,  Anne-Claire Le Henaff,  Anton Quelle,  Alvin Sashala Naik,  arxiv:2302.05253
 
-* [Islands of Chiral Solitons in Integer Spin Kitaev Chains](https://arxiv.org/abs/2302.01347),  Erik S. Sørensen,  Jonathon Riddell,  Hae-Young Kee,  arxiv:2302.01347
+* [Islands of Chiral Solitons in Integer Spin Kitaev Chains](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013210),  Erik S. Sørensen,  Jonathon Riddell,  Hae-Young Kee,  PhysRev[Research,5,013210] (2023) [arxiv:2302.01347]
 
 * [Quantum Phase Transition in the One-Dimensional Water Chain](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.026201), Tobias Serwatka, Roger G. Melko, Anton Burkov, and Pierre-Nicholas Roy, PhysRev[Lett,130,026201]
 
@@ -410,7 +410,7 @@
 
 * [Exact quantum ground state of a two-dimensional quasicrystalline antiferromagnet](https://arxiv.org/abs/2301.11331),  Pratyay Ghosh,  arxiv:2301.11331
 
-* [Relation between the noise correlations and the spin structure factor for Mott-insulating states in SU(N) Hubbard models](https://arxiv.org/abs/2301.09807),  Mathias Mikkelsen,  Ippei Danshita,  arxiv:2301.09807
+* [Relation between the noise correlations and the spin structure factor for Mott-insulating states in SU(N) Hubbard models](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.043313),  Mathias Mikkelsen,  Ippei Danshita, PhysRev[A,107,043313] (2023) [arxiv:2301.09807]
 
 * [Real-space imaging of dispersive triplon excitations in engineered quantum magnets](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.086701),  Robert Drost,  Shawulienu Kezilebieke,  Jose Lado,  Peter Liljeroth, PhysRev[Lett,131,086701] [arxiv:2301.09963]
 
@@ -426,7 +426,7 @@
 
 * [Efficient quantum information probes of nonequilibrium quantum criticality](https://www.nature.com/articles/s41534-022-00671-8), Miguel M. Oliveira, Pedro Ribeiro, Stefan Kirchner, <i style="color:#CC0000">npj Quantum Information</i> <b>9</b>, <a href="https://www.nature.com/articles/s41534-022-00671-8">6</a> (2023)
 
-* [Quantifying Rare Events in Stochastic Reaction-Diffusion Dynamics Using Tensor Networks](https://arxiv.org/abs/2301.03717),  Schuyler B. Nicholson,  Todd R. Gingrich,  arxiv:2301.03717
+* [Quantifying Rare Events in Stochastic Reaction-Diffusion Dynamics Using Tensor Networks](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041006),  Schuyler B. Nicholson,  Todd R. Gingrich, PhysRev[X,13,041006] (2023) [arxiv:2301.03717]
 
 * [Topological stripe state in an extended Fermi-Hubbard model](https://arxiv.org/abs/2301.03312),  Sergi Julià-Farré,  Lorenzo Cardarelli,  Maciej Lewenstein,  Markus Müller,  Alexandre Dauphin,  arxiv:2301.03312
 
