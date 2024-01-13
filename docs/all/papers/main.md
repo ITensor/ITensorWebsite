@@ -4,7 +4,7 @@
 
 ## 2024
 
-* [Ground-state phase diagram and universality of sequential topological valence-bond-solid quantum transitions in a mixed tetramer chain](https://iopscience.iop.org/article/10.1088/1361-648X/ad1ca4/meta), Luan Martins Veríssimo, Maria Socorro Pereira, Jozef Strecka, and Marcelo L Lyra, <i style="color:#CC0000">Journal of Physics: Condensed Matter<i> <b></b>, <a href="https://iopscience.iop.org/article/10.1088/1361-648X/ad1ca4/meta">10.1088/1361-648X/ad1ca4</a> (2024)
+* [Ground-state phase diagram and universality of sequential topological valence-bond-solid quantum transitions in a mixed tetramer chain](https://iopscience.iop.org/article/10.1088/1361-648X/ad1ca4/meta), Luan Martins Veríssimo, Maria Socorro Pereira, Jozef Strecka, and Marcelo L Lyra, <i style="color:#CC0000">Journal of Physics: Condensed Matter</i> <b></b>, <a href="https://iopscience.iop.org/article/10.1088/1361-648X/ad1ca4/meta">10.1088/1361-648X/ad1ca4</a> (2024)
 
 * [Quantum criticality in chains of planar rotors with dipolar interactions](https://arxiv.org/abs/2401.02887),  Tobias Serwatka,  Pierre-Nicholas Roy,  arxiv:2401.02887
 
