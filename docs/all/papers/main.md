@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Ground-state phase diagram and universality of sequential topological valence-bond-solid quantum transitions in a mixed tetramer chain](https://iopscience.iop.org/article/10.1088/1361-648X/ad1ca4/meta), Luan Martins Veríssimo, Maria Socorro Pereira, Jozef Strecka, and Marcelo L Lyra, <i style="color:#CC0000">Journal of Physics: Condensed Matter<i> <b></b>, <a href="https://iopscience.iop.org/article/10.1088/1361-648X/ad1ca4/meta">10.1088/1361-648X/ad1ca4</a> (2024)
+
 * [Quantum criticality in chains of planar rotors with dipolar interactions](https://arxiv.org/abs/2401.02887),  Tobias Serwatka,  Pierre-Nicholas Roy,  arxiv:2401.02887
 
 * [Spectral properties of the critical (1+1)-dimensional Abelian-Higgs model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.045103), Titas Chanda, Marcello Dalmonte, Maciej Lewenstein, Jakub Zakrzewski, and Luca Tagliacozzo, PhysRev[B,109,045103] 
@@ -1713,7 +1715,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-3 papers in 2024
+4 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1728,5 +1730,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-833 total (through 2024)
+834 total (through 2024)
 -->
