@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Spatial inversion symmetry breaking of vortex current in a biased-ladder superfluid](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013037), Weijie Huang and Yao Yao, PhysRev[Research,6,013037] (2024)
+
 * [Ground-state phase diagram and universality of sequential topological valence-bond-solid quantum transitions in a mixed tetramer chain](https://iopscience.iop.org/article/10.1088/1361-648X/ad1ca4/meta), Luan Martins Veríssimo, Maria Socorro Pereira, Jozef Strecka, and Marcelo L Lyra, <i style="color:#CC0000">Journal of Physics: Condensed Matter</i> <b></b>, <a href="https://iopscience.iop.org/article/10.1088/1361-648X/ad1ca4/meta">10.1088/1361-648X/ad1ca4</a> (2024)
 
 * [Quantum criticality in chains of planar rotors with dipolar interactions](https://arxiv.org/abs/2401.02887),  Tobias Serwatka,  Pierre-Nicholas Roy,  arxiv:2401.02887
@@ -198,7 +200,7 @@
 
 * [Hamiltonian Inference from Dynamical Excitations in Confined Quantum Magnets](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.20.024054), Netta Karjalainen, Zina Lippo, Guangze Chen, Rouven Koch, Adolfo O. Fumega, and Jose L. Lado, PhysRev[Applied,20,024054] (2023)
 
-* [Pair density wave, unconventional superconductivity, and non-Fermi liquid quantum critical phase in frustrated Kondo lattice](https://arxiv.org/abs/2308.11414),  Jialin Chen,  Jiangfan Wang,  Yi-feng Yang,  arxiv:2308.11414
+* [Pair density wave, unconventional superconductivity, and non-Fermi liquid quantum critical phase in frustrated Kondo lattice](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.014103),  Jialin Chen,  Jiangfan Wang,  Yi-feng Yang, PhysRev[B,109,014103] (2024) [arxiv:2308.11414]
 
 * [CFT and Lattice Correlators Near an RG Domain Wall between Minimal Models](https://arxiv.org/abs/2308.00737),  Cameron V. Cogburn,  A. Liam Fitzpatrick,  Hao Geng,  arxiv:2308.00737
 
@@ -1715,7 +1717,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-4 papers in 2024
+5 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1730,5 +1732,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-834 total (through 2024)
+835 total (through 2024)
 -->
