@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Exact matrix product states at the quantum Lifshitz tricritical point in a spin-1/2 zigzag-chain antiferromagnet with anisotropic Gamma term](https://arxiv.org/abs/2401.06551),  Hidehiro Saito,  Chisa Hotta,  arxiv:2401.06551
+
 * [Spatial inversion symmetry breaking of vortex current in a biased-ladder superfluid](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013037), Weijie Huang and Yao Yao, PhysRev[Research,6,013037] (2024)
 
 * [Ground-state phase diagram and universality of sequential topological valence-bond-solid quantum transitions in a mixed tetramer chain](https://iopscience.iop.org/article/10.1088/1361-648X/ad1ca4/meta), Luan Martins Veríssimo, Maria Socorro Pereira, Jozef Strecka, and Marcelo L Lyra, <i style="color:#CC0000">Journal of Physics: Condensed Matter</i> <b></b>, <a href="https://iopscience.iop.org/article/10.1088/1361-648X/ad1ca4/meta">10.1088/1361-648X/ad1ca4</a> (2024)
@@ -1717,7 +1719,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-5 papers in 2024
+6 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1732,5 +1734,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-835 total (through 2024)
+836 total (through 2024)
 -->
