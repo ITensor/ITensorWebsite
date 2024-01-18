@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [A Multilevel Method for Many-Electron Schrödinger Equations Based on the Atomic Cluster Expansion](https://epubs.siam.org/doi/10.1137/23M1565887),  Dexuan Zhou, Huajie Chen, Cheuk Hin Ho, and Christoph Ortner, <i style="color:#CC0000">SIAM Journal on Scientific Computing</i> <b>46</b>, <a href="https://epubs.siam.org/doi/10.1137/23M1565887">10.1137/23M1565887</a> (2024)
+
 * [Exact matrix product states at the quantum Lifshitz tricritical point in a spin-1/2 zigzag-chain antiferromagnet with anisotropic Gamma term](https://arxiv.org/abs/2401.06551),  Hidehiro Saito,  Chisa Hotta,  arxiv:2401.06551
 
 * [Spatial inversion symmetry breaking of vortex current in a biased-ladder superfluid](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013037), Weijie Huang and Yao Yao, PhysRev[Research,6,013037] (2024)
@@ -1719,7 +1721,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-6 papers in 2024
+7 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1734,5 +1736,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-836 total (through 2024)
+837 total (through 2024)
 -->
