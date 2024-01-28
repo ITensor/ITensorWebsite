@@ -4,6 +4,14 @@
 
 ## 2024
 
+* [Kibble-Zurek mechanism and errors of gapped quantum phases](https://arxiv.org/abs/2401.13625),  Amit Jamadagni,  Javad Kazemi,  Arpan Bhattacharyya,  arxiv:2401.13625
+
+* [Spin Seebeck Effect as a Probe for Majorana Fermions in Kitaev Spin Liquids](https://arxiv.org/abs/2401.13175),  Yasuyuki Kato,  Joji Nasu,  Masahiro Sato,  Tsuyoshi Okubo,  Takahiro Misawa,  Yukitoshi Motome,  arxiv:2401.13175
+
+* [Exponentially slow thermalization and the robustness of Hilbert space fragmentation](https://arxiv.org/abs/2401.11294),  Yiqiu Han,  Xiao Chen,  Ethan Lake,  arxiv:2401.11294
+
+* [Gapless symmetry protected topological phases and generalized deconfined critical points from gauging a finite subgroup](https://arxiv.org/abs/2401.11702),  Lei Su,  Meng Zeng,  arxiv:2401.11702
+
 * [A Multilevel Method for Many-Electron Schrödinger Equations Based on the Atomic Cluster Expansion](https://epubs.siam.org/doi/10.1137/23M1565887),  Dexuan Zhou, Huajie Chen, Cheuk Hin Ho, and Christoph Ortner, <i style="color:#CC0000">SIAM Journal on Scientific Computing</i> <b>46</b>, <a href="https://epubs.siam.org/doi/10.1137/23M1565887">10.1137/23M1565887</a> (2024)
 
 * [Exact matrix product states at the quantum Lifshitz tricritical point in a spin-1/2 zigzag-chain antiferromagnet with anisotropic Gamma term](https://arxiv.org/abs/2401.06551),  Hidehiro Saito,  Chisa Hotta,  arxiv:2401.06551
@@ -1721,7 +1729,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-7 papers in 2024
+11 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1736,5 +1744,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-837 total (through 2024)
+841 total (through 2024)
 -->
