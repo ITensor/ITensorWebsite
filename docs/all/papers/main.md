@@ -246,7 +246,7 @@
 
 * [Quantum Fisher Information and multipartite entanglement in spin-1 chains](https://arxiv.org/abs/2307.02407),  Federico Dell'Anna,  Sunny Pradhan,  Cristian Degli Esposti Boschi,  Elisa Ercolessi,  arxiv:2307.02407
 
-* [Preparation of matrix product states with log-depth quantum circuits](https://arxiv.org/abs/2307.01696),  Daniel Malz,  Georgios Styliaris,  Zhi-Yuan Wei,  J. Ignacio Cirac,  arxiv:2307.01696
+* [Preparation of matrix product states with log-depth quantum circuits](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.040404),  Daniel Malz,  Georgios Styliaris,  Zhi-Yuan Wei,  J. Ignacio Cirac,  PhysRev[Lett,132,040404] [arxiv:2307.01696]
 
 * [Validity of SLAC fermions for the (1 + 1)-dimensional helical Luttinger liquid](https://doi.org/10.1103/PhysRevB.108.045105), Zhenjiu Wang, Fakher Assaad, and Maksim Ulybyshev, PhysRev[B,108,045105] (2023)
 
