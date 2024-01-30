@@ -4,6 +4,19 @@
 
 ## 2024
 
+* [Variational Neural and Tensor Network Approximations of Thermal States](https://arxiv.org/abs/2401.14243),  Sirui Lu,  Giacomo Giudice,  J. Ignacio Cirac,  arxiv:2401.14243
+
+* [Exact surface energy of the Hubbard model with unparallel boundary magnetic fields](https://arxiv.org/abs/2401.14356),  Pei Sun,  Yi Qiao,  Junpeng Cao,  Wen-Li Yang,  arxiv:2401.14356
+
+* [Where is the spin liquid in maple-leaf quantum magnet?](https://arxiv.org/abs/2401.09422),  Pratyay Ghosh,  arxiv:2401.09422
+
+* [Luttinger Liquid phase in the Aubry-André Hubbard chain](https://arxiv.org/abs/2401.08980),  Runze Chi,  Josephine J. Yu,  Chaitanya Murthy,  T. Xiang,  arxiv:2401.08980
+
+* [Probing quantum floating phases in Rydberg atom arrays](https://arxiv.org/abs/2401.08087),  Jin Zhang,  Sergio H. Cantú,  Fangli Liu,  Alexei Bylinskii,  Boris Braverman,  Florian Huber,  Jesse Amato-Grill,  Alexander Lukin,  Nathan Gemelke,  Alexander Keesling,  Sheng-Tao Wang,  Y. Meurice,  S. -W. Tsai,  arxiv:2401.08087
+
+* [Quantum Simulations of Hadron Dynamics in the Schwinger Model using 112 Qubits](https://arxiv.org/abs/2401.08044),  Roland C. Farrell,  Marc Illa,  Anthony N. Ciavarella,  Martin J. Savage,  arxiv:2401.08044
+
+
 * [Kibble-Zurek mechanism and errors of gapped quantum phases](https://arxiv.org/abs/2401.13625),  Amit Jamadagni,  Javad Kazemi,  Arpan Bhattacharyya,  arxiv:2401.13625
 
 * [Spin Seebeck Effect as a Probe for Majorana Fermions in Kitaev Spin Liquids](https://arxiv.org/abs/2401.13175),  Yasuyuki Kato,  Joji Nasu,  Masahiro Sato,  Tsuyoshi Okubo,  Takahiro Misawa,  Yukitoshi Motome,  arxiv:2401.13175
@@ -72,7 +85,7 @@
 
 * [Pair correlations of the hybridized orbitals in a ladder model for the bilayer nickelate La3Ni2O7](https://arxiv.org/abs/2312.04304),  Masataka Kakoi,  Tatsuya Kaneko,  Hirofumi Sakakibara,  Masayuki Ochi,  Kazuhiko Kuroki,  arxiv:2312.04304
 
-* [Magnon interactions in the quantum paramagnetic phase of CoNb2O6](https://arxiv.org/abs/2312.03829),  Cesar A. Gallegos,  A. L. Chernyshev,  arxiv:2312.03829
+* [Magnon interactions in the quantum paramagnetic phase of CoNb2O6](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.014424),  Cesar A. Gallegos,  A. L. Chernyshev, PhysRev[B,109,014424]  [arxiv:2312.03829]
 
 * [Nonequilibrium diagrammatic many-body simulations with quantics tensor trains](https://arxiv.org/abs/2312.03809),  Matthias Murray,  Hiroshi Shinaoka,  Philipp Werner,  arxiv:2312.03809
 
@@ -1729,7 +1742,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-11 papers in 2024
+17 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1744,5 +1757,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-841 total (through 2024)
+847 total (through 2024)
 -->
