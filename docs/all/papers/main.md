@@ -389,7 +389,7 @@
 
 * [QuantumDynamics.jl: A modular approach to simulations of dynamics of open quantum systems](https://arxiv.org/abs/2303.11781),  Amartya Bose,  arxiv:2303.11781
 
-* [Quantics Tensor Cross Interpolation for High-Resolution, Parsimonious Representations of Multivariate Functions in Physics and Beyond](https://arxiv.org/abs/2303.11819),  Marc K. Ritter,  Yuriel Núñez Fernández,  Markus Wallerberger,  Jan von Delft,  Hiroshi Shinaoka,  Xavier Waintal,  arxiv:2303.11819
+* [Quantics Tensor Cross Interpolation for High-Resolution, Parsimonious Representations of Multivariate Functions in Physics and Beyond](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.056501),  Marc K. Ritter,  Yuriel Núñez Fernández,  Markus Wallerberger,  Jan von Delft,  Hiroshi Shinaoka,  Xavier Waintal,  PhysRev[Lett,132,056501] (2024) [arxiv:2303.11819]
 
 * [Squeezed ensembles and anomalous dynamic roughening in interacting integrable chains](https://arxiv.org/abs/2303.08832),  Guillaume Cecile,  Jacopo De Nardis,  Enej Ilievski,  arxiv:2303.08832
 
