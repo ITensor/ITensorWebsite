@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Light-induced phase transitions in vanadium dioxide: a tensor network study](https://arxiv.org/abs/2402.01247),  Lin Zhang,  Utso Bhattacharya,  Maria Recasens,  Tobias Grass,  Ravindra W. Chhajlany,  Maciej Lewenstein,  Allan S. Johnson,  arxiv:2402.01247
+
+* [Confinement in the Transverse Field Ising model on the Heavy Hex lattice](https://arxiv.org/abs/2402.01558),  Joseph Tindall,  Dries Sels,  arxiv:2402.01558
+
 * [Quantum phase transitions and composite excitations of antiferromagnetic quantum spin trimer chains in a magnetic field](https://arxiv.org/abs/2402.00272),  Jun-Qing Cheng,  Zhi-Yao Ning,  Han-Qing Wu,  Dao-Xin Yao,  arxiv:2402.00272
 
 * [Variational Neural and Tensor Network Approximations of Thermal States](https://arxiv.org/abs/2401.14243),  Sirui Lu,  Giacomo Giudice,  J. Ignacio Cirac,  arxiv:2401.14243
@@ -1744,7 +1748,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-18 papers in 2024
+20 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1759,5 +1763,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-848 total (through 2024)
+850 total (through 2024)
 -->
