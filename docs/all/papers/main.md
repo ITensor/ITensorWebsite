@@ -481,7 +481,7 @@
 
 * [Controlled flow of excitations in a ring-shaped network of Rydberg atoms](https://arxiv.org/abs/2212.12490),  Francesco Perciavalle,  Davide Rossini,  Tobias Haug,  Oliver Morsch,  Luigi Amico,  arxiv:2212.12490
 
-* [Spin Squeezing with Itinerant Dipoles: A Case for Shallow Lattices](https://arxiv.org/abs/2212.10470),  David Wellnitz,  Mikhail Mamaev,  Thomas Bilitewski,  Ana Maria Rey,  arxiv:2212.10470
+* [Spin Squeezing with Itinerant Dipoles: A Case for Shallow Lattices](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.L012025),  David Wellnitz,  Mikhail Mamaev,  Thomas Bilitewski,  Ana Maria Rey, PhysRev[Research,6,L012025] [arxiv:2212.10470]
 
 * [Disentangling Interacting Systems with Fermionic Gaussian Circuits: Application to the Single Impurity Anderson Model](https://arxiv.org/abs/2212.09798),  Ang-Kun Wu,  Matthew T. Fishman,  J. H. Pixley,  E. M. Stoudenmire,  arxiv:2212.09798
 
