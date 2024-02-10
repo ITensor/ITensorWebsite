@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Universal entanglement spectrum in gapless symmetry protected topological states](https://arxiv.org/abs/2402.04042),  Xue-Jia Yu,  Sheng Yang,  Hai-Qing Lin,  Shao-Kai Jian,  arxiv:2402.04042
+
+* [Emergent flux in a one-dimensional Bose-Fermi mixture](https://arxiv.org/abs/2402.03875),  Qi Song,  Jie Lou,  Yan Chen,  arxiv:2402.03875
+
 * [Light-induced phase transitions in vanadium dioxide: a tensor network study](https://arxiv.org/abs/2402.01247),  Lin Zhang,  Utso Bhattacharya,  Maria Recasens,  Tobias Grass,  Ravindra W. Chhajlany,  Maciej Lewenstein,  Allan S. Johnson,  arxiv:2402.01247
 
 * [Confinement in the Transverse Field Ising model on the Heavy Hex lattice](https://arxiv.org/abs/2402.01558),  Joseph Tindall,  Dries Sels,  arxiv:2402.01558
@@ -1748,7 +1752,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-20 papers in 2024
+22 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1763,5 +1767,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-850 total (through 2024)
+852 total (through 2024)
 -->
