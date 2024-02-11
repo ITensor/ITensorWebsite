@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Emergent strong zero mode through local Floquet engineering](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064303), Bhaskar Mukherjee, Ronald Melendrez, Marcin Szyniszewski, Hitesh J. Changlani, and Arijeet Pal, PhysRev[B,109,064303] (2024)
+
 * [Universal entanglement spectrum in gapless symmetry protected topological states](https://arxiv.org/abs/2402.04042),  Xue-Jia Yu,  Sheng Yang,  Hai-Qing Lin,  Shao-Kai Jian,  arxiv:2402.04042
 
 * [Emergent flux in a one-dimensional Bose-Fermi mixture](https://arxiv.org/abs/2402.03875),  Qi Song,  Jie Lou,  Yan Chen,  arxiv:2402.03875
@@ -1752,7 +1754,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-22 papers in 2024
+23 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1767,5 +1769,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-852 total (through 2024)
+853 total (through 2024)
 -->
