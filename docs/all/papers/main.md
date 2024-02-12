@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Quantum phase transitions and composite excitations of antiferromagnetic quantum spin trimer chains in a magnetic field](https://www.researchsquare.com/article/rs-3913988/v1), Dao-Xin Yao, Jun-Qing Cheng, Zhi-Yao Ning, Han-Qing Wu
+
+* [Non-Markovian Quantum Mpemba effect](https://arxiv.org/abs/2402.05756),  David J. Strachan,  Archak Purkayastha,  Stephen R. Clark,  arxiv:2402.05756
+
 * [Emergent strong zero mode through local Floquet engineering](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.064303), Bhaskar Mukherjee, Ronald Melendrez, Marcin Szyniszewski, Hitesh J. Changlani, and Arijeet Pal, PhysRev[B,109,064303] (2024)
 
 * [Universal entanglement spectrum in gapless symmetry protected topological states](https://arxiv.org/abs/2402.04042),  Xue-Jia Yu,  Sheng Yang,  Hai-Qing Lin,  Shao-Kai Jian,  arxiv:2402.04042
@@ -1754,7 +1758,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-23 papers in 2024
+25 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1769,5 +1773,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-853 total (through 2024)
+855 total (through 2024)
 -->
