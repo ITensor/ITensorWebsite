@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Linear combinations of cluster mean-field states applied to spin systems](https://arxiv.org/abs/2402.06760),  Athanasios Papastathopoulos-Katsaros,  Thomas M. Henderson,  Gustavo E. Scuseria,  arxiv:2402.06760
+
+* [Quantum reservoir probing of quantum phase transitions](https://arxiv.org/abs/2402.07097),  Kaito Kobayashi,  Yukitoshi Motome,  arxiv:2402.07097
+
 * [Quantum phase transitions and composite excitations of antiferromagnetic quantum spin trimer chains in a magnetic field](https://www.researchsquare.com/article/rs-3913988/v1), Dao-Xin Yao, Jun-Qing Cheng, Zhi-Yao Ning, Han-Qing Wu
 
 * [Non-Markovian Quantum Mpemba effect](https://arxiv.org/abs/2402.05756),  David J. Strachan,  Archak Purkayastha,  Stephen R. Clark,  arxiv:2402.05756
@@ -1758,7 +1762,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-25 papers in 2024
+27 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1773,5 +1777,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-855 total (through 2024)
+857 total (through 2024)
 -->
