@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Digital quantum simulation of a (1+1)D SU(2) lattice gauge theory with ion qudits](https://arxiv.org/abs/2402.07987),  Giuseppe Calajò,  Giuseppe Magnifico,  Claire Edmunds,  Martin Ringbauer,  Simone Montangero,  Pietro Silvi,  arxiv:2402.07987
+
 * [Linear combinations of cluster mean-field states applied to spin systems](https://arxiv.org/abs/2402.06760),  Athanasios Papastathopoulos-Katsaros,  Thomas M. Henderson,  Gustavo E. Scuseria,  arxiv:2402.06760
 
 * [Quantum reservoir probing of quantum phase transitions](https://arxiv.org/abs/2402.07097),  Kaito Kobayashi,  Yukitoshi Motome,  arxiv:2402.07097
@@ -317,7 +319,7 @@
 
 * [Magnetic field-induced partially polarized chiral spin liquid in a transition-metal dichalcogenide Moiré system](https://arxiv.org/abs/2306.03056),  Yixuan Huang,  D. N. Sheng,  Jian-Xin Zhu,  arxiv:2306.03056
 
-* [Machine learning feature discovery of spinon Fermi surface](https://arxiv.org/abs/2306.03143),  Kevin Zhang,  Shi Feng,  Yuri D. Lensky,  Nandini Trivedi,  Eun-Ah Kim,  arxiv:2306.03143
+* [Machine learning feature discovery of spinon Fermi surface](https://www.nature.com/articles/s42005-024-01542-8),  Kevin Zhang,  Shi Feng,  Yuri D. Lensky,  Nandini Trivedi,  Eun-Ah Kim, <i style="color:#CC0000">Commun Phys</i> <b>7</b>, <a href="">https://www.nature.com/articles/s42005-024-01542-8</a> (2024)  [arxiv:2306.03143]
 
 * [Many-body magic via Pauli-Markov chains -- from criticality to gauge theories](https://arxiv.org/abs/2305.18541),  Poetri Sonya Tarabunga,  Emanuele Tirrito,  Titas Chanda,  Marcello Dalmonte,  arxiv:2305.18541
 
@@ -1762,7 +1764,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-27 papers in 2024
+28 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1777,5 +1779,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-857 total (through 2024)
+858 total (through 2024)
 -->
