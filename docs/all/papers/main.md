@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Quantum phase transitions in one-dimensional nanostructures: a comparison between DFT and DMRG methodologies](https://arxiv.org/abs/2402.12463),  T. Pauletti,  M. Sanino,  L. Gimenes,  I. M. Carvalho,  V. V. França,  arxiv:2402.12463
+
+* [Measurement-induced phase transitions by matrix product states scaling](https://arxiv.org/abs/2402.13160),  Guillaume Cecile,  Hugo Lóio,  Jacopo De Nardis,  arxiv:2402.13160
+
 * [Digital quantum simulation of a (1+1)D SU(2) lattice gauge theory with ion qudits](https://arxiv.org/abs/2402.07987),  Giuseppe Calajò,  Giuseppe Magnifico,  Claire Edmunds,  Martin Ringbauer,  Simone Montangero,  Pietro Silvi,  arxiv:2402.07987
 
 * [Linear combinations of cluster mean-field states applied to spin systems](https://arxiv.org/abs/2402.06760),  Athanasios Papastathopoulos-Katsaros,  Thomas M. Henderson,  Gustavo E. Scuseria,  arxiv:2402.06760
@@ -1764,7 +1768,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-28 papers in 2024
+30 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1779,5 +1783,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-858 total (through 2024)
+860 total (through 2024)
 -->
