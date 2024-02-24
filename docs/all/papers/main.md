@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Orbital-rotated Fermi-Hubbard model as a benchmarking problem for quantum chemistry with the exact solution](https://arxiv.org/abs/2402.11869),  Ryota Kojima,  Masahiko Kamoshita,  Keita Kanno,  arxiv:2402.11869
+
 * [Quantum phase transitions in one-dimensional nanostructures: a comparison between DFT and DMRG methodologies](https://arxiv.org/abs/2402.12463),  T. Pauletti,  M. Sanino,  L. Gimenes,  I. M. Carvalho,  V. V. França,  arxiv:2402.12463
 
 * [Measurement-induced phase transitions by matrix product states scaling](https://arxiv.org/abs/2402.13160),  Guillaume Cecile,  Hugo Lóio,  Jacopo De Nardis,  arxiv:2402.13160
@@ -1768,7 +1770,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-30 papers in 2024
+31 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1783,5 +1785,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-860 total (through 2024)
+861 total (through 2024)
 -->
