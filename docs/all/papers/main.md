@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Phase diagram of the one dimensional $t_1-t_2-J$ model: Ferromagnetism, triplet pairing, charge and pair density waves](https://arxiv.org/abs/2402.15927),  Luhang Yang,  Adrian E. Feiguin,  arxiv:2402.15927
+
+* [Tensor network simulations for non-orientable surfaces](https://arxiv.org/abs/2402.15507),  Haruki Shimizu,  Atsushi Ueda,  arxiv:2402.15507
+
 * [Orbital-rotated Fermi-Hubbard model as a benchmarking problem for quantum chemistry with the exact solution](https://arxiv.org/abs/2402.11869),  Ryota Kojima,  Masahiko Kamoshita,  Keita Kanno,  arxiv:2402.11869
 
 * [Quantum phase transitions in one-dimensional nanostructures: a comparison between DFT and DMRG methodologies](https://arxiv.org/abs/2402.12463),  T. Pauletti,  M. Sanino,  L. Gimenes,  I. M. Carvalho,  V. V. França,  arxiv:2402.12463
@@ -1770,7 +1774,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-31 papers in 2024
+33 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1785,5 +1789,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-861 total (through 2024)
+863 total (through 2024)
 -->
