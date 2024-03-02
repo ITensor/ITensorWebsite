@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [BCS surrogate models for floating superconductor-semiconductor hybrids](https://arxiv.org/abs/2402.18357),  Virgil V. Baran,  Jens Paaske,  arxiv:2402.18357
+
 * [Phase diagram of the one dimensional $t_1-t_2-J$ model: Ferromagnetism, triplet pairing, charge and pair density waves](https://arxiv.org/abs/2402.15927),  Luhang Yang,  Adrian E. Feiguin,  arxiv:2402.15927
 
 * [Tensor network simulations for non-orientable surfaces](https://arxiv.org/abs/2402.15507),  Haruki Shimizu,  Atsushi Ueda,  arxiv:2402.15507
@@ -1774,7 +1776,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-33 papers in 2024
+34 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1789,5 +1791,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-863 total (through 2024)
+864 total (through 2024)
 -->
