@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Magnon spectrum of altermagnets: Time-dependent matrix product states vs. linearized Holstein-Primakoff calculations unravelling spontaneous magnon decay](https://arxiv.org/abs/2402.19433),  Federico Garcia-Gaitan,  Ali Kefayati,  John Q. Xiao,  Branislav K. Nikolic,  arxiv:2402.19433
+
 * [BCS surrogate models for floating superconductor-semiconductor hybrids](https://arxiv.org/abs/2402.18357),  Virgil V. Baran,  Jens Paaske,  arxiv:2402.18357
 
 * [Phase diagram of the one dimensional $t_1-t_2-J$ model: Ferromagnetism, triplet pairing, charge and pair density waves](https://arxiv.org/abs/2402.15927),  Luhang Yang,  Adrian E. Feiguin,  arxiv:2402.15927
@@ -1776,7 +1778,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-34 papers in 2024
+35 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1791,5 +1793,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-864 total (through 2024)
+865 total (through 2024)
 -->
