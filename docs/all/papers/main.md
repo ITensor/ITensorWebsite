@@ -4,6 +4,12 @@
 
 ## 2024
 
+* [Charge-order melting in the one-dimensional Edwards model](https://arxiv.org/abs/2403.03108),  Florian Lange,  Gerhard Wellein,  Holger Fehske,  arxiv:2403.03108
+
+* [Comment on "Controlled Bond Expansion for Density Matrix Renormalization Group Ground State Search at Single-Site Costs" (Extended Version)](https://arxiv.org/abs/2403.00562),  Ian P McCulloch,  Jesse Osborne,  arxiv:2403.00562
+
+* [Computational supremacy in quantum simulation](https://arxiv.org/abs/2403.00910),  Andrew D. King,  Alberto Nocera,  Marek M. Rams,  Jacek Dziarmaga,  Roeland Wiersema,  William Bernoudy,  Jack Raymond,  Nitin Kaushal,  Niclas Heinsdorf,  Richard Harris,  Kelly Boothby,  Fabio Altomare,  Andrew J. Berkley,  Martin Boschnak,  Kevin Chern,  Holly Christiani,  Samantha Cibere,  Jake Connor,  Martin H. Dehn,  Rahul Deshpande,  Sara Ejtemaee,  Pau Farré,  Kelsey Hamer,  Emile Hoskinson,  Shuiyuan Huang,  Mark W. Johnson,  Samuel Kortas,  Eric Ladizinsky,  Tony Lai,  Trevor Lanting,  Ryan Li,  Allison J. R. MacDonald,  Gaelen Marsden,  Catherine C. McGeoch,  Reza Molavi,  Richard Neufeld,  Mana Norouzpour,  Travis Oh,  Joel Pasvolsky,  Patrick Poitras,  Gabriel Poulin-Lamarre,  Thomas Prescott,  Mauricio Reis,  Chris Rich,  Mohammad Samani,  Benjamin Sheldan,  Anatoly Smirnov,  Edward Sterpka,  Berta Trullas Clavera,  Nicholas Tsai,  Mark Volkmann,  Alexander Whiticar,  Jed D. Whittaker,  Warren Wilkinson,  Jason Yao,  T. J. Yi,  Anders W. Sandvik,  Gonzalo Alvarez,  Roger G. Melko,  Juan Carrasquilla,  Marcel Franz,  Mohammad H. Amin,  arxiv:2403.00910
+
 * [Magnon spectrum of altermagnets: Time-dependent matrix product states vs. linearized Holstein-Primakoff calculations unravelling spontaneous magnon decay](https://arxiv.org/abs/2402.19433),  Federico Garcia-Gaitan,  Ali Kefayati,  John Q. Xiao,  Branislav K. Nikolic,  arxiv:2402.19433
 
 * [BCS surrogate models for floating superconductor-semiconductor hybrids](https://arxiv.org/abs/2402.18357),  Virgil V. Baran,  Jens Paaske,  arxiv:2402.18357
@@ -1778,7 +1784,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-35 papers in 2024
+38 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1793,5 +1799,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-865 total (through 2024)
+868 total (through 2024)
 -->
