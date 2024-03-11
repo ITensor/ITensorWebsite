@@ -67,7 +67,7 @@
 
 * [Gapless symmetry protected topological phases and generalized deconfined critical points from gauging a finite subgroup](https://arxiv.org/abs/2401.11702),  Lei Su,  Meng Zeng,  arxiv:2401.11702
 
-* [A Multilevel Method for Many-Electron Schrödinger Equations Based on the Atomic Cluster Expansion](https://epubs.siam.org/doi/10.1137/23M1565887),  Dexuan Zhou, Huajie Chen, Cheuk Hin Ho, and Christoph Ortner, <i style="color:#CC0000">SIAM Journal on Scientific Computing</i> <b>46</b>, <a href="https://epubs.siam.org/doi/10.1137/23M1565887">10.1137/23M1565887</a> (2024)
+* [A Multilevel Method for Many-Electron Schrödinger Equations Based on the Atomic Cluster Expansion](https://epubs.siam.org/doi/10.1137/23M1565887),  Dexuan Zhou, Huajie Chen, Cheuk Hin Ho, and Christoph Ortner,  Journal[SIAM Journal on Scientific Computing,46,10.1137/23M1565887,https://epubs.siam.org/doi/10.1137/23M1565887] (2024)
 
 * [Exact matrix product states at the quantum Lifshitz tricritical point in a spin-1/2 zigzag-chain antiferromagnet with anisotropic Gamma term](https://arxiv.org/abs/2401.06551),  Hidehiro Saito,  Chisa Hotta,  arxiv:2401.06551
 
