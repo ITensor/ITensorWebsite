@@ -203,7 +203,7 @@
 
 * [Quantum Entanglement Phase Transitions and Computational Complexity: Insights from Ising Models](https://arxiv.org/abs/2310.01699),  Hanchen Liu,  Vikram Ravindranath,  Xiao Chen,  arxiv:2310.01699
 
-* [Solvable models for 2+1D quantum critical points: Loop soups of 1+1D conformal field theories](https://arxiv.org/abs/2310.00037),  Amin Moharramipour,  Dan Sehayek,  Thomas Scaffidi,  arxiv:2310.00037
+* [Solvable models for 2+1D quantum critical points: Loop soups of 1+1D conformal field theories](https://arxiv.org/abs/2310.00037),  Amin Moharramipour,  Dan Sehayek,  Thomas Scaffidi, Journal[SciPost Phys.,16,061,https://scipost.org/SciPostPhys.16.2.061] [arxiv:2310.00037]
 
 * [Emergent dipole moment conservation and subdiffusion in tilted chains](https://arxiv.org/abs/2310.01862),  S. Nandy,  J. Herbrych,  Z. Lenarčič,  A. Głódkowski,  P. Prelovšek,  M. Mierzejewski,  arxiv:2310.01862
 
