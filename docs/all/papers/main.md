@@ -6,6 +6,8 @@
 
 * [Compactness of quantics tensor train representations of local imaginary-time propagators](https://arxiv.org/abs/2403.09161),  Haruto Takahashi,  Rihito Sakurai,  Hiroshi Shinaoka,  arxiv:2403.09161
 
+* [Fine-tuning Neural Network Quantum States](https://arxiv.org/abs/2403.07795),  Riccardo Rende,  Sebastian Goldt,  Federico Becca,  Luciano Loris Viteritti,  arxiv:2403.07795
+
 * [Charge-order melting in the one-dimensional Edwards model](https://arxiv.org/abs/2403.03108),  Florian Lange,  Gerhard Wellein,  Holger Fehske,  arxiv:2403.03108
 
 * [Comment on "Controlled Bond Expansion for Density Matrix Renormalization Group Ground State Search at Single-Site Costs" (Extended Version)](https://arxiv.org/abs/2403.00562),  Ian P McCulloch,  Jesse Osborne,  arxiv:2403.00562
@@ -1786,7 +1788,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-39 papers in 2024
+40 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1801,5 +1803,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-869 total (through 2024)
+870 total (through 2024)
 -->
