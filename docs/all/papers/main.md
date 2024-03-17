@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Compactness of quantics tensor train representations of local imaginary-time propagators](https://arxiv.org/abs/2403.09161),  Haruto Takahashi,  Rihito Sakurai,  Hiroshi Shinaoka,  arxiv:2403.09161
+
 * [Charge-order melting in the one-dimensional Edwards model](https://arxiv.org/abs/2403.03108),  Florian Lange,  Gerhard Wellein,  Holger Fehske,  arxiv:2403.03108
 
 * [Comment on "Controlled Bond Expansion for Density Matrix Renormalization Group Ground State Search at Single-Site Costs" (Extended Version)](https://arxiv.org/abs/2403.00562),  Ian P McCulloch,  Jesse Osborne,  arxiv:2403.00562
@@ -315,7 +317,7 @@
 
 * [Circumventing superexponential runtimes for hard instances of quantum adiabatic optimization](https://arxiv.org/abs/2306.13131),  Benjamin F. Schiffer,  Dominik S. Wild,  Nishad Maskara,  Madelyn Cain,  Mikhail D. Lukin,  Rhine Samajdar,  arxiv:2306.13131
 
-* [Pressure-driven gapped-to-gapless phase transition in a quantum antiferromagnet with large planar anisotropy](https://arxiv.org/abs/2306.15450),  K. Yu. Povarov,  D. E. Graf,  V. O. Garlea,  T. Sakurai,  S. Kimura,  H. Nojiri,  A. Paduan-Filho,  A. Zheludev,  J. Wosnitza,  H. Ohta,  S. A. Zvyagin,  arxiv:2306.15450
+* [Pressure-tuned quantum criticality in the large-D antiferromagnet DTN](https://doi.org/10.1038/s41467-024-46527-x),  K. Yu. Povarov,  D. E. Graf,  V. O. Garlea,  T. Sakurai,  S. Kimura,  H. Nojiri,  A. Paduan-Filho,  A. Zheludev,  J. Wosnitza,  H. Ohta,  S. A. Zvyagin, Journal[Nature Communications,15,2295,https://doi.org/10.1038/s41467-024-46527-x] [arxiv:2306.15450]
 
 * [Efficient tensor network simulation of IBM's kicked Ising experiment](https://arxiv.org/abs/2306.14887),  Joseph Tindall,  Matt Fishman,  Miles Stoudenmire,  Dries Sels,  arxiv:2306.14887
 
@@ -1784,7 +1786,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-38 papers in 2024
+39 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1799,5 +1801,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-868 total (through 2024)
+869 total (through 2024)
 -->
