@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Non-reciprocal dynamics and non-Hermitian skin effect of repulsively bound pairs](https://arxiv.org/abs/2403.10449),  Pietro Brighi,  Andreas Nunnenkamp,  arxiv:2403.10449
+
+* [Sample complexity of matrix product states at finite temperature](https://arxiv.org/abs/2403.10018),  Atsushi Iwaki,  Chisa Hotta,  arxiv:2403.10018
+
 * [Compactness of quantics tensor train representations of local imaginary-time propagators](https://arxiv.org/abs/2403.09161),  Haruto Takahashi,  Rihito Sakurai,  Hiroshi Shinaoka,  arxiv:2403.09161
 
 * [Fine-tuning Neural Network Quantum States](https://arxiv.org/abs/2403.07795),  Riccardo Rende,  Sebastian Goldt,  Federico Becca,  Luciano Loris Viteritti,  arxiv:2403.07795
@@ -1788,7 +1792,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-40 papers in 2024
+42 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1803,5 +1807,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-870 total (through 2024)
+872 total (through 2024)
 -->
