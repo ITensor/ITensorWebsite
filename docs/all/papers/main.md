@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Topological Phase Diagram of an Interacting Kitaev Chain: Mean Field versus DMRG Study](https://www.mdpi.com/2410-3896/9/1/20), Giovanni Nunziante, Alfonso Maiellaro, Claudio Guarcello, and Roberta Citro, Journal[Condens. Matter,9,20,https://www.mdpi.com/2410-3896/9/1/20]
+
+* [Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932), X. Mi, A.A. Michailidis, et al., Journal[Science,383,1332-1337,https://doi.org/10.1126/science.adh9932] (2024)
+
 * [Non-reciprocal dynamics and non-Hermitian skin effect of repulsively bound pairs](https://arxiv.org/abs/2403.10449),  Pietro Brighi,  Andreas Nunnenkamp,  arxiv:2403.10449
 
 * [Sample complexity of matrix product states at finite temperature](https://arxiv.org/abs/2403.10018),  Atsushi Iwaki,  Chisa Hotta,  arxiv:2403.10018
@@ -65,7 +69,6 @@
 * [Probing quantum floating phases in Rydberg atom arrays](https://arxiv.org/abs/2401.08087),  Jin Zhang,  Sergio H. Cantú,  Fangli Liu,  Alexei Bylinskii,  Boris Braverman,  Florian Huber,  Jesse Amato-Grill,  Alexander Lukin,  Nathan Gemelke,  Alexander Keesling,  Sheng-Tao Wang,  Y. Meurice,  S. -W. Tsai,  arxiv:2401.08087
 
 * [Quantum Simulations of Hadron Dynamics in the Schwinger Model using 112 Qubits](https://arxiv.org/abs/2401.08044),  Roland C. Farrell,  Marc Illa,  Anthony N. Ciavarella,  Martin J. Savage,  arxiv:2401.08044
-
 
 * [Kibble-Zurek mechanism and errors of gapped quantum phases](https://arxiv.org/abs/2401.13625),  Amit Jamadagni,  Javad Kazemi,  Arpan Bhattacharyya,  arxiv:2401.13625
 
@@ -1792,7 +1795,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-42 papers in 2024
+44 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1807,5 +1810,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-872 total (through 2024)
+874 total (through 2024)
 -->
