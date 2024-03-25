@@ -6,7 +6,7 @@
 
 * [Topological Phase Diagram of an Interacting Kitaev Chain: Mean Field versus DMRG Study](https://www.mdpi.com/2410-3896/9/1/20), Giovanni Nunziante, Alfonso Maiellaro, Claudio Guarcello, and Roberta Citro, Journal[Condens. Matter,9,20,https://www.mdpi.com/2410-3896/9/1/20]
 
-* [Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932), X. Mi, A.A. Michailidis, et al., Journal[Science,383,1332-1337,https://doi.org/10.1126/science.adh9932] (2024)
+* [Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932), X. Mi, A.A. Michailidis, et al., Journal[Science,383,1332,https://doi.org/10.1126/science.adh9932] (2024)
 
 * [Non-reciprocal dynamics and non-Hermitian skin effect of repulsively bound pairs](https://arxiv.org/abs/2403.10449),  Pietro Brighi,  Andreas Nunnenkamp,  arxiv:2403.10449
 
