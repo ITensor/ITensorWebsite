@@ -444,7 +444,7 @@
 
 * [Quantics Tensor Cross Interpolation for High-Resolution, Parsimonious Representations of Multivariate Functions in Physics and Beyond](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.056501),  Marc K. Ritter,  Yuriel Núñez Fernández,  Markus Wallerberger,  Jan von Delft,  Hiroshi Shinaoka,  Xavier Waintal,  PhysRev[Lett,132,056501] (2024) [arxiv:2303.11819]
 
-* [Squeezed ensembles and anomalous dynamic roughening in interacting integrable chains](https://arxiv.org/abs/2303.08832),  Guillaume Cecile,  Jacopo De Nardis,  Enej Ilievski,  arxiv:2303.08832
+* [Squeezed ensembles and anomalous dynamic roughening in interacting integrable chains](https://doi.org/10.1103/PhysRevLett.132.130401),  Guillaume Cecile,  Jacopo De Nardis,  Enej Ilievski, PhysRev[Lett,132,130401] [arxiv:2303.08832]
 
 * [Comparing bipartite entropy growth in open-system matrix product simulation methods](https://arxiv.org/abs/2303.09426),  Guillermo Preisser,  David Wellnitz,  Thomas Botzung,  Johannes Schachenmayer,  arxiv:2303.09426
 
