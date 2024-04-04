@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Controlling the dynamics of atomic correlations via the coupling to a dissipative cavity](https://arxiv.org/abs/2403.20096),  Catalin-Mihai Halati,  Ameneh Sheikhan,  Giovanna Morigi,  Corinna Kollath,  arxiv:2403.20096
+
 * [Topological Phase Diagram of an Interacting Kitaev Chain: Mean Field versus DMRG Study](https://www.mdpi.com/2410-3896/9/1/20), Giovanni Nunziante, Alfonso Maiellaro, Claudio Guarcello, and Roberta Citro, Journal[Condens. Matter,9,20,https://www.mdpi.com/2410-3896/9/1/20]
 
 * [Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932), X. Mi, A.A. Michailidis, et al., Journal[Science,383,1332,https://doi.org/10.1126/science.adh9932] (2024)
@@ -1795,7 +1797,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-44 papers in 2024
+45 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1810,5 +1812,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-874 total (through 2024)
+875 total (through 2024)
 -->
