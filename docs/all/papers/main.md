@@ -4,6 +4,16 @@
 
 ## 2024
 
+* [Transmigration of Edge States with Interaction in Su-Schrieffer-Heeger Chain](https://arxiv.org/abs/2404.02259),  Jyoti Bisht,  Somenath Jalal,  Brijesh Kumar,  arxiv:2404.02259
+
+* [Spatiotemporal Quenches for Efficient Critical Ground State Preparation in Two-Dimensional Quantum Systems](https://arxiv.org/abs/2404.02957),  Simon Bernier,  Kartiek Agarwal,  arxiv:2404.02957
+
+* [Quantum simulation of entanglement and hadronization in jet production: lessons from the massive Schwinger model](https://arxiv.org/abs/2404.00087),  Adrien Florio,  David Frenklakh,  Kazuki Ikeda,  Dmitri E. Kharzeev,  Vladimir Korepin,  Shuzhe Shi,  Kwangmin Yu,  arxiv:2404.00087
+
+* [Chiral Spin Textures Driven by Emergent Spin-Orbit Interaction: A Numerical Study](https://arxiv.org/abs/2404.00706),  Shuai Yang,  Zhiyu Dong,  Yan Chen,  arxiv:2404.00706
+
+* [Variational quantum eigensolver with embedded entanglement using a tensor-network ansatz](https://doi.org/10.1103/PhysRevResearch.6.023009), Ryo Watanabe, Keisuke Fujii, and Hiroshi Ueda, PhysRev[Research,6,023009] (2024)
+
 * [Controlling the dynamics of atomic correlations via the coupling to a dissipative cavity](https://arxiv.org/abs/2403.20096),  Catalin-Mihai Halati,  Ameneh Sheikhan,  Giovanna Morigi,  Corinna Kollath,  arxiv:2403.20096
 
 * [Topological Phase Diagram of an Interacting Kitaev Chain: Mean Field versus DMRG Study](https://www.mdpi.com/2410-3896/9/1/20), Giovanni Nunziante, Alfonso Maiellaro, Claudio Guarcello, and Roberta Citro, Journal[Condens. Matter,9,20,https://www.mdpi.com/2410-3896/9/1/20]
@@ -1797,7 +1807,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-45 papers in 2024
+50 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1812,5 +1822,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-875 total (through 2024)
+880 total (through 2024)
 -->
