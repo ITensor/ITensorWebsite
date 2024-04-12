@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Nagaoka Ferromagnetism in $3 \times 3$ Arrays and Beyond](https://arxiv.org/abs/2404.03889v1),  Yan Li,  Keyi Liu,  Garnett W. Bryant,  arxiv:2404.03889
+
 * [Transmigration of Edge States with Interaction in Su-Schrieffer-Heeger Chain](https://arxiv.org/abs/2404.02259),  Jyoti Bisht,  Somenath Jalal,  Brijesh Kumar,  arxiv:2404.02259
 
 * [Spatiotemporal Quenches for Efficient Critical Ground State Preparation in Two-Dimensional Quantum Systems](https://arxiv.org/abs/2404.02957),  Simon Bernier,  Kartiek Agarwal,  arxiv:2404.02957
@@ -1807,7 +1809,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-50 papers in 2024
+51 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1822,5 +1824,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-880 total (through 2024)
+881 total (through 2024)
 -->
