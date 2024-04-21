@@ -10,6 +10,12 @@
 
 * [Quasiparticle cooling algorithms for quantum many-body state preparation](https://arxiv.org/abs/2404.12175),  Jerome Lloyd,  Alexios Michailidis,  Xiao Mi,  Vadim Smelyanskiy,  Dmitry A. Abanin,  arxiv:2404.12175
 
+* [Quantum phase transition and critical behavior between the gapless topological phases](https://arxiv.org/abs/2404.10576),  Hao-Long Zhang,  Han-Ze Li,  Sheng Yang,  Xue-Jia Yu,  arxiv:2404.10576
+
+* [Hilbert space delocalization under random unitary circuits](https://arxiv.org/abs/2404.10725),  Xhek Turkeshi,  Piotr Sierant,  arxiv:2404.10725
+
+* [A Quantum Eigenvalue Solver Based on Tensor Networks](https://arxiv.org/abs/2404.10223),  Oskar Leimkuhler,  K. Birgitta Whaley,  arxiv:2404.10223
+
 * [Quantum computing topological invariants of two-dimensional quantum matter](https://arxiv.org/abs/2404.06048),  Marcel Niedermeier,  Marc Nairn,  Christian Flindt,  Jose L. Lado,  arxiv:2404.06048
 
 * [Nagaoka Ferromagnetism in $3 \times 3$ Arrays and Beyond](https://arxiv.org/abs/2404.03889v1),  Yan Li,  Keyi Liu,  Garnett W. Bryant,  arxiv:2404.03889
@@ -1817,7 +1823,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-55 papers in 2024
+58 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1832,5 +1838,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-885 total (through 2024)
+888 total (through 2024)
 -->
