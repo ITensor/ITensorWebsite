@@ -4,6 +4,12 @@
 
 ## 2024
 
+* [Discovering Factorization Surface of Quantum Spin Chains with Machine Learning](https://arxiv.org/abs/2404.10910),  Nakul Aggarwal,  Keshav Das Agarwal,  Tanoy Kanti Konar,  Leela Ganesh Chandra Lakkaraju,  Aditi Sen De,  arxiv:2404.10910
+
+* [Spin-1 Haldane chains of superconductor-semiconductor hybrids](https://arxiv.org/abs/2404.12207),  Virgil V. Baran,  Jens Paaske,  arxiv:2404.12207
+
+* [Quasiparticle cooling algorithms for quantum many-body state preparation](https://arxiv.org/abs/2404.12175),  Jerome Lloyd,  Alexios Michailidis,  Xiao Mi,  Vadim Smelyanskiy,  Dmitry A. Abanin,  arxiv:2404.12175
+
 * [Quantum computing topological invariants of two-dimensional quantum matter](https://arxiv.org/abs/2404.06048),  Marcel Niedermeier,  Marc Nairn,  Christian Flindt,  Jose L. Lado,  arxiv:2404.06048
 
 * [Nagaoka Ferromagnetism in $3 \times 3$ Arrays and Beyond](https://arxiv.org/abs/2404.03889v1),  Yan Li,  Keyi Liu,  Garnett W. Bryant,  arxiv:2404.03889
@@ -1811,7 +1817,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-52 papers in 2024
+55 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1826,5 +1832,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-882 total (through 2024)
+885 total (through 2024)
 -->
