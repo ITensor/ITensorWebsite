@@ -4,6 +4,12 @@
 
 ## 2024
 
+* [Correlation between two distant quasiparticles in separate superconducting islands mediated by a single spin], Juan Carlos Estrada Saldaña, Alexandros Vekris, Luka Pavešič, Rok Žitko, Kasper Grove-Rasmussen & Jesper Nygård, Journal[Nature Comm.,15,3465,https://www.nature.com/articles/s41467-024-47694-7] (2024)
+
+* [The quantum adiabatic algorithm suppresses the proliferation of errors](https://arxiv.org/abs/2404.15397),  Benjamin F. Schiffer,  Adrian Franco Rubio,  Rahul Trivedi,  J. Ignacio Cirac,  arxiv:2404.15397
+
+* [Optimization of Quantum Systems Emulation via a Variant of the Bandwidth Minimization Problem](https://arxiv.org/abs/2404.15165),  M. Yassine Naghmouchi,  Joseph Vovrosh,  Wesley da Silva Coelho,  Alexandre Dauphin,  arxiv:2404.15165
+
 * [Discovering Factorization Surface of Quantum Spin Chains with Machine Learning](https://arxiv.org/abs/2404.10910),  Nakul Aggarwal,  Keshav Das Agarwal,  Tanoy Kanti Konar,  Leela Ganesh Chandra Lakkaraju,  Aditi Sen De,  arxiv:2404.10910
 
 * [Spin-1 Haldane chains of superconductor-semiconductor hybrids](https://arxiv.org/abs/2404.12207),  Virgil V. Baran,  Jens Paaske,  arxiv:2404.12207
@@ -1823,7 +1829,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-58 papers in 2024
+61 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1838,5 +1844,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-888 total (through 2024)
+891 total (through 2024)
 -->
