@@ -4,7 +4,7 @@
 
 ## 2024
 
-* [Correlation between two distant quasiparticles in separate superconducting islands mediated by a single spin], Juan Carlos Estrada Saldaña, Alexandros Vekris, Luka Pavešič, Rok Žitko, Kasper Grove-Rasmussen & Jesper Nygård, Journal[Nature Comm.,15,3465,https://www.nature.com/articles/s41467-024-47694-7] (2024)
+* [Correlation between two distant quasiparticles in separate superconducting islands mediated by a single spin](https://www.nature.com/articles/s41467-024-47694-7), Juan Carlos Estrada Saldaña, Alexandros Vekris, Luka Pavešič, Rok Žitko, Kasper Grove-Rasmussen & Jesper Nygård, Journal[Nature Comm.,15,3465,https://www.nature.com/articles/s41467-024-47694-7] (2024)
 
 * [The quantum adiabatic algorithm suppresses the proliferation of errors](https://arxiv.org/abs/2404.15397),  Benjamin F. Schiffer,  Adrian Franco Rubio,  Rahul Trivedi,  J. Ignacio Cirac,  arxiv:2404.15397
 
