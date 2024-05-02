@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Non-stabilizerness versus entanglement in matrix product states](https://arxiv.org/abs/2404.18768),  M. Frau,  P. S. Tarabunga,  M. Collura,  M. Dalmonte,  E. Tirrito,  arxiv:2404.18768
+
+* [Two-dimensional correlation propagation dynamics with a cluster discrete phase-space method](https://arxiv.org/abs/2404.18594),  Kazuma Nagao,  Seiji Yunoki,  arxiv:2404.18594
+
 * [Correlation between two distant quasiparticles in separate superconducting islands mediated by a single spin](https://www.nature.com/articles/s41467-024-47694-7), Juan Carlos Estrada Saldaña, Alexandros Vekris, Luka Pavešič, Rok Žitko, Kasper Grove-Rasmussen & Jesper Nygård, Journal[Nature Comm.,15,3465,https://www.nature.com/articles/s41467-024-47694-7] (2024)
 
 * [The quantum adiabatic algorithm suppresses the proliferation of errors](https://arxiv.org/abs/2404.15397),  Benjamin F. Schiffer,  Adrian Franco Rubio,  Rahul Trivedi,  J. Ignacio Cirac,  arxiv:2404.15397
@@ -1829,7 +1833,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-61 papers in 2024
+63 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1844,5 +1848,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-891 total (through 2024)
+893 total (through 2024)
 -->
