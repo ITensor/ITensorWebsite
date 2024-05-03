@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Boundary effect and quantum phases in spin chains](https://arxiv.org/abs/2404.19588),  Jinhyeok Ryu,  Jaeyoon Cho,  arxiv:2404.19588
+
 * [Non-stabilizerness versus entanglement in matrix product states](https://arxiv.org/abs/2404.18768),  M. Frau,  P. S. Tarabunga,  M. Collura,  M. Dalmonte,  E. Tirrito,  arxiv:2404.18768
 
 * [Two-dimensional correlation propagation dynamics with a cluster discrete phase-space method](https://arxiv.org/abs/2404.18594),  Kazuma Nagao,  Seiji Yunoki,  arxiv:2404.18594
@@ -1833,7 +1835,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-63 papers in 2024
+64 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1848,5 +1850,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-893 total (through 2024)
+894 total (through 2024)
 -->
