@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Single-layer tensor network approach for three-dimensional quantum systems](https://arxiv.org/abs/2405.01489),  Illia Lukin,  Andrii Sotnikov,  arxiv:2405.01489
+
 * [Boundary effect and quantum phases in spin chains](https://arxiv.org/abs/2404.19588),  Jinhyeok Ryu,  Jaeyoon Cho,  arxiv:2404.19588
 
 * [Non-stabilizerness versus entanglement in matrix product states](https://arxiv.org/abs/2404.18768),  M. Frau,  P. S. Tarabunga,  M. Collura,  M. Dalmonte,  E. Tirrito,  arxiv:2404.18768
@@ -1835,7 +1837,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-64 papers in 2024
+65 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1850,5 +1852,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-894 total (through 2024)
+895 total (through 2024)
 -->
