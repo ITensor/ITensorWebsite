@@ -4,6 +4,14 @@
 
 ## 2024
 
+* [Fractional quantum anomalous Hall effect in a semimetal](https://arxiv.org/abs/2405.01829),  Wenqi Yang,  Dawei Zhai,  Feng-Ren Fan,  Wang Yao,  arxiv:2405.01829
+
+* [Energy-filtered quantum states and the emergence of non-local correlations](https://arxiv.org/abs/2405.02158),  Gianluca Morettini,  Luca Capizzi,  Maurizio Fagotti,  Leonardo Mazza,  arxiv:2405.02158
+
+* [Anomalous transport in the quantum East-West kinetically constrained model](https://arxiv.org/abs/2405.02102),  Pietro Brighi,  Marko Ljubotina,  arxiv:2405.02102
+
+* [Fermionization and collective excitations of 1D polariton lattices](https://arxiv.org/abs/2405.02251),  Johannes Knörzer,  Rafał Ołdziejewski,  Puneet A. Murthy,  Ivan Amelio,  arxiv:2405.02251
+
 * [Single-layer tensor network approach for three-dimensional quantum systems](https://arxiv.org/abs/2405.01489),  Illia Lukin,  Andrii Sotnikov,  arxiv:2405.01489
 
 * [Boundary effect and quantum phases in spin chains](https://arxiv.org/abs/2404.19588),  Jinhyeok Ryu,  Jaeyoon Cho,  arxiv:2404.19588
@@ -1837,7 +1845,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-65 papers in 2024
+69 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1852,5 +1860,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-895 total (through 2024)
+899 total (through 2024)
 -->
