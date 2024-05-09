@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Using magnetic dynamics to measure the spin gap in a candidate Kitaev material](https://arxiv.org/abs/2405.03212),  Xinyi Jiang,  Qingzheng Qiu,  Cheng Peng,  Hoyoung Jang,  Wenjie Chen,  Xianghong Jin,  Li Yue,  Byungjune Lee,  Sang-Youn Park,  Minseok Kim,  Hyeong-Do Kim,  Xinqiang Cai,  Qizhi Li,  Tao Dong,  Nanlin Wang,  Joshua J. Turner,  Yuan Li,  Yao Wang,  Yingying Peng,  arxiv:2405.03212
+
 * [Fractional quantum anomalous Hall effect in a semimetal](https://arxiv.org/abs/2405.01829),  Wenqi Yang,  Dawei Zhai,  Feng-Ren Fan,  Wang Yao,  arxiv:2405.01829
 
 * [Energy-filtered quantum states and the emergence of non-local correlations](https://arxiv.org/abs/2405.02158),  Gianluca Morettini,  Luca Capizzi,  Maurizio Fagotti,  Leonardo Mazza,  arxiv:2405.02158
@@ -1845,7 +1847,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-69 papers in 2024
+70 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1860,5 +1862,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-899 total (through 2024)
+900 total (through 2024)
 -->
