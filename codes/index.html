@@ -131,18 +131,18 @@
       </div> <!-- end column -->
 
       <div class="column" style="margin-bottom:auto;">
-        <a href="https://github.com/GTorlai/PastaQ.jl">
+        <a href="https://github.com/ITensor/ITensorMPS.jl">
         <div class="card code-info">
           <div class="card-content">
             <p class="title is-5">
-            <img style="vertical-align: middle;" width="130px" src="/img/PastaQ.jpg"/> 
+            ITensorMPS
             </p>
             <p class="subtitle">
-            PastaQ is a package for quantum computing calculations
-            including tomography, optimization, and simulations.
+            Codes for MPS and MPO tensor networks, including algorithms like DMRG, TDVP,
+            and math operations on MPS and MPO.
             </p>
             <p class="developers">
-            <strong>Developers:</strong> Giacomo Torlai, Matt Fishman
+            <strong>Developers:</strong> Matt Fishman, Miles Stoudenmire
             </p>
           </div>
         </div>
@@ -154,26 +154,9 @@
 
       <div class="columns is-vcentered code-columns">
 
-      <div class="column" style="margin-bottom:auto;">
-        <a href="https://github.com/ITensor/ITensors.jl/tree/main/ITensorGPU">
-        <div class="card code-info">
-          <div class="card-content">
-            <p class="title is-5">
-            ITensorGPU
-            </p>
-            <p class="subtitle">
-            Package enabling ITensor code to be run on NVIDIA GPUs using the CUDA.jl Julia library backend.
-            </p>
-            <p class="developers">
-            <strong>Developers:</strong> Katharine Hyatt, Matt Fishman
-            </p>
-          </div>
-        </div>
-        </a>
-      </div> <!-- end column -->
 
       <div class="column" style="margin-bottom:auto;">
-        <a href="https://github.com/ITensor/ITensors.jl/tree/main/ITensorGaussianMPS">
+        <a href="https://github.com/ITensor/ITensorGaussianMPS.jl">
         <div class="card code-info">
           <div class="card-content">
             <p class="title is-5">
@@ -189,11 +172,6 @@
         </div>
         </a>
       </div> <!-- end column -->
-
-      </div> <!-- end columns -->
-
-
-      <div class="columns is-vcentered code-columns">
 
       <div class="column" style="margin-bottom:auto;">
       <a href="https://github.com/ITensor/ITensors.jl/tree/main/ITensorVisualizationBase">
@@ -214,25 +192,6 @@
       </a>
       </div> <!-- end column -->
 
-      <div class="column" style="margin-bottom:auto;">
-      <a href="https://github.com/ITensor/ITensorInfiniteMPS.jl">
-      <div class="card code-info">
-        <div class="card-content">
-          <p class="title is-5">
-          ITensorInfiniteMPS<br/>
-          </p>
-          <p class="subtitle">
-          Package for optimizing infinite matrix product states (iMPS) with the VUMPS algorithm and working with iMPS.
-          </p>
-          <p class="developers">
-          <strong>Developers:</strong> Matt Fishman, Loic Herviou
-          </p>
-        </div>
-      </div>
-      </a>
-      <br/>
-
-      </div> <!-- end column -->
       </div> <!-- end columns -->
 
 
@@ -380,8 +339,50 @@
           </a>
         </div> <!-- end column -->
 
-        <div class="column" style="margin-bottom:auto;">
-        </div> <!-- end column -->
+      <div class="column" style="margin-bottom:auto;">
+        <a href="https://github.com/GTorlai/PastaQ.jl">
+        <div class="card code-info">
+          <div class="card-content">
+            <p class="title is-5">
+            <img style="vertical-align: middle;" width="130px" src="/img/PastaQ.jpg"/> 
+            </p>
+            <p class="subtitle">
+            PastaQ is a package for quantum computing calculations
+            including tomography, optimization, and simulations.
+            </p>
+            <p class="developers">
+            <strong>Developers:</strong> Giacomo Torlai, Matt Fishman
+            </p>
+          </div>
+        </div>
+        </a>
+      </div> <!-- end column -->
+
+      </div> <!-- end columns -->
+
+      <div class="columns is-vcentered code-columns">
+
+      <div class="column" style="margin-bottom:auto;">
+      <a href="https://github.com/ITensor/ITensorInfiniteMPS.jl">
+      <div class="card code-info">
+        <div class="card-content">
+          <p class="title is-5">
+          ITensorInfiniteMPS<br/>
+          </p>
+          <p class="subtitle">
+          Package for optimizing infinite matrix product states (iMPS) with the VUMPS algorithm and working with iMPS.
+          </p>
+          <p class="developers">
+          <strong>Developers:</strong> Matt Fishman, Loic Herviou
+          </p>
+        </div>
+      </div>
+      </a>
+      <br/>
+      </div> <!-- end column -->
+
+      <div class="column" style="margin-bottom:auto;">
+      </div> <!-- end column -->
 
       </div> <!-- end columns -->
 
@@ -510,6 +511,67 @@
     </div> <!-- block -->
     <br/>
 
+    <!--
+
+      Deprecated Codes
+
+    -->
+    <a name="other"></a>
+    <p class="title is-4">Deprecated Codes</p>
+
+    <div class="block">
+
+      <p>
+      Legacy packages used for backward compatibility.
+      </p>
+      <br/>
+
+      <div class="columns is-vcentered code-columns">
+
+        <div class="column" style="margin-bottom:auto;">
+          <a href="https://github.com/ITensor/ITensorGPU.jl">
+          <div class="card code-info">
+            <div class="card-content">
+              <p class="title is-5">
+              ITensorGPU
+              </p>
+              <p class="subtitle">
+              Package previously enabling GPU support for ITensor. Please now use the built-in GPU
+              support enabled automatically through "package extensions". For more information,
+              see the documentation about running ITensor on GPU.
+              </p>
+              <p class="developers">
+              <strong>Developers:</strong> Katharine Hyatt, Matt Fishman
+              </p>
+            </div>
+          </div>
+          </a>
+        </div> <!-- end column -->
+
+        <div class="column" style="margin-bottom:auto;">
+          <a href="https://github.com/ITensor/ITensorTDVP.jl">
+          <div class="card code-info">
+            <div class="card-content">
+              <p class="title is-5">
+              ITensorTDVP
+              </p>
+              <p class="subtitle">
+              Package previously containing experimental TDVP and other MPS codes based on
+              an alternative backend design. These methods are now available through the
+              ITensorMPS package, so please use that going forward.
+              </p>
+              <p class="developers">
+              <strong>Developers:</strong> Matt Fishman, Miles Stoudenmire
+              </p>
+            </div>
+          </div>
+          </a>
+        </div> <!-- end column -->
+
+    </div> <!-- end columns -->
+
+    </div> <!-- block -->
+    <br/>
 
   </div></section>
 
