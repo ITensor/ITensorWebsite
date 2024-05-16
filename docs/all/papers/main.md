@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Hybrid Stabilizer Matrix Product Operator](https://arxiv.org/abs/2405.06045),  Antonio Francesco Mello,  Alessandro Santini,  Mario Collura,  arxiv:2405.06045
+
+* [Finite-size corrections to the energy spectra of gapless one-dimensional systems in the presence of boundaries](https://arxiv.org/abs/2405.06891),  Yifan Liu,  Haruki Shimizu,  Atsushi Ueda,  Masaki Oshikawa,  arxiv:2405.06891
+
 * [Quantum Phases and Transitions in Spin Chains with Non-Invertible Symmetries](https://arxiv.org/abs/2405.05331),  Arkya Chatterjee,  Ömer M. Aksoy,  Xiao-Gang Wen,  arxiv:2405.05331
 
 * [Using magnetic dynamics to measure the spin gap in a candidate Kitaev material](https://arxiv.org/abs/2405.03212),  Xinyi Jiang,  Qingzheng Qiu,  Cheng Peng,  Hoyoung Jang,  Wenjie Chen,  Xianghong Jin,  Li Yue,  Byungjune Lee,  Sang-Youn Park,  Minseok Kim,  Hyeong-Do Kim,  Xinqiang Cai,  Qizhi Li,  Tao Dong,  Nanlin Wang,  Joshua J. Turner,  Yuan Li,  Yao Wang,  Yingying Peng,  arxiv:2405.03212
@@ -1849,7 +1853,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-71 papers in 2024
+73 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1864,5 +1868,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-901 total (through 2024)
+903 total (through 2024)
 -->
