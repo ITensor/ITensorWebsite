@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Constraining tensor networks](https://arxiv.org/abs/2405.09005),  Javier Lopez-Piqueres,  Jing Chen,  arxiv:2405.09005
+
 * [Hybrid Stabilizer Matrix Product Operator](https://arxiv.org/abs/2405.06045),  Antonio Francesco Mello,  Alessandro Santini,  Mario Collura,  arxiv:2405.06045
 
 * [Finite-size corrections to the energy spectra of gapless one-dimensional systems in the presence of boundaries](https://arxiv.org/abs/2405.06891),  Yifan Liu,  Haruki Shimizu,  Atsushi Ueda,  Masaki Oshikawa,  arxiv:2405.06891
@@ -1853,7 +1855,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-73 papers in 2024
+74 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1868,5 +1870,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-903 total (through 2024)
+904 total (through 2024)
 -->
