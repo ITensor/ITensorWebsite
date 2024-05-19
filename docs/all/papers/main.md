@@ -584,7 +584,7 @@
 
 * [Real space thermalization of locally driven quantum magnets](https://arxiv.org/abs/2212.13790),  Ronald Melendrez,  Bhaskar Mukherjee,  Prakash Sharma,  Arijeet Pal,  Hitesh J. Changlani,  arxiv:2212.13790
 
-* [Optimizing one-axis twists for realistic variational Bayesian quantum metrology](https://arxiv.org/abs/2212.12461),  Tyler G. Thurtell,  Akimasa Miyake,  arxiv:2212.12461
+* [Optimizing one-axis twists for realistic variational Bayesian quantum metrology](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.023179),  Tyler G. Thurtell,  Akimasa Miyake, PhysRev[Research,6,023179] [arxiv:2212.12461]
 
 * [Controlled flow of excitations in a ring-shaped network of Rydberg atoms](https://arxiv.org/abs/2212.12490),  Francesco Perciavalle,  Davide Rossini,  Tobias Haug,  Oliver Morsch,  Luigi Amico,  arxiv:2212.12490
 
