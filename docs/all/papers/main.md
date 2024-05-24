@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Learning tensor trains from noisy functions with application to quantum simulation](https://arxiv.org/abs/2405.12730),  Kohtaroh Sakaue,  Hiroshi Shinaoka,  Rihito Sakurai,  arxiv:2405.12730
+
 * [Constraining tensor networks](https://arxiv.org/abs/2405.09005),  Javier Lopez-Piqueres,  Jing Chen,  arxiv:2405.09005
 
 * [Hybrid Stabilizer Matrix Product Operator](https://arxiv.org/abs/2405.06045),  Antonio Francesco Mello,  Alessandro Santini,  Mario Collura,  arxiv:2405.06045
@@ -1855,7 +1857,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-74 papers in 2024
+75 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1870,5 +1872,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-904 total (through 2024)
+905 total (through 2024)
 -->
