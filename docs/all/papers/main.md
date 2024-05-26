@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Quantum Mpemba Effect in Random Circuits](https://arxiv.org/abs/2405.14514),  Xhek Turkeshi,  Pasquale Calabrese,  Andrea De Luca,  arxiv:2405.14514
+
+* [Power-Law-Exponential Interaction Induced Quantum Spiral Phases](https://arxiv.org/abs/2405.14243),  Guoqing Tian,  Ying Wu,  Xin-You Lü,  arxiv:2405.14243
+
 * [Learning tensor trains from noisy functions with application to quantum simulation](https://arxiv.org/abs/2405.12730),  Kohtaroh Sakaue,  Hiroshi Shinaoka,  Rihito Sakurai,  arxiv:2405.12730
 
 * [Constraining tensor networks](https://arxiv.org/abs/2405.09005),  Javier Lopez-Piqueres,  Jing Chen,  arxiv:2405.09005
@@ -1857,7 +1861,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-75 papers in 2024
+77 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1872,5 +1876,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-905 total (through 2024)
+907 total (through 2024)
 -->
