@@ -4,6 +4,16 @@
 
 ## 2024
 
+* [Spectroscopy and complex-time correlations using minimally entangled typical thermal states](https://arxiv.org/abs/2405.18484),  Zhenjiu Wang,  Paul McClarty,  Dobromila Dankova,  Andreas Honecker,  Alexander Wietek,  arxiv:2405.18484
+
+* [Exploring Frustration Effects of Strongly Interacting Bosons via the Hall Response](https://arxiv.org/abs/2405.19030),  Catalin-Mihai Halati,  Thierry Giamarchi,  arxiv:2405.19030
+
+* [Computational Characterization of Symmetry-Protected Topological Phases in Open Quantum Systems](https://arxiv.org/abs/2405.18364),  Riku Masui,  Keisuke Totsuka,  arxiv:2405.18364
+
+* [Non-equilibrium dynamics of long-range interacting Fermions](https://arxiv.org/abs/2405.18204),  Timo Zwettler,  Giulia del Pace,  Filip Marijanovic,  Sambuddha Chattopadhyay,  Tabea Bühler,  Catalin-Mihai Halati,  Luka Skolc,  Luisa Tolle,  Victor Helson,  Gaia Bolognini,  Aurélien Fabre,  Shun Uchino,  Thierry Giamarchi,  Eugene Demler,  Jean-Philippe Brantut,  arxiv:2405.18204
+
+* [Approximately-symmetric neural networks for quantum spin liquids](https://arxiv.org/abs/2405.17541),  Dominik S. Kufel,  Jack Kemp,  Simon M. Linsel,  Chris R. Laumann,  Norman Y. Yao,  arxiv:2405.17541
+
 * [Quantum Mpemba Effect in Random Circuits](https://arxiv.org/abs/2405.14514),  Xhek Turkeshi,  Pasquale Calabrese,  Andrea De Luca,  arxiv:2405.14514
 
 * [Power-Law-Exponential Interaction Induced Quantum Spiral Phases](https://arxiv.org/abs/2405.14243),  Guoqing Tian,  Ying Wu,  Xin-You Lü,  arxiv:2405.14243
@@ -1861,7 +1871,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-77 papers in 2024
+82 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1876,5 +1886,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-907 total (through 2024)
+912 total (through 2024)
 -->
