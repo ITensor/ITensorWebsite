@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Space-time first-order correlations of an open Bose-Hubbard model with incoherent pump and loss](https://arxiv.org/abs/2405.19972),  Martina Zündel,  Leonardo Mazza,  Léonie Canet,  Anna Minguzzi,  arxiv:2405.19972
+
 * [Spectroscopy and complex-time correlations using minimally entangled typical thermal states](https://arxiv.org/abs/2405.18484),  Zhenjiu Wang,  Paul McClarty,  Dobromila Dankova,  Andreas Honecker,  Alexander Wietek,  arxiv:2405.18484
 
 * [Exploring Frustration Effects of Strongly Interacting Bosons via the Hall Response](https://arxiv.org/abs/2405.19030),  Catalin-Mihai Halati,  Thierry Giamarchi,  arxiv:2405.19030
@@ -1871,7 +1873,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-82 papers in 2024
+83 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1886,5 +1888,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-912 total (through 2024)
+913 total (through 2024)
 -->
