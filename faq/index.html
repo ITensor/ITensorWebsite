@@ -87,65 +87,81 @@
 
     <!--
 
-      Citing
+      Frequently Asked Questions (FAQ)
 
     -->
     <a name="citing"></a>
-    <p class="title is-4">Citing ITensor</p>
+    <p class="title is-4">Frequently Asked Questions (FAQ)</p>
 
     <div class="block">
 
       <p>
-      If you publish work using ITensor, please cite the paper:
+      <strong>What is the name of the software: ITensor, iTensor, ITensors?</strong>
       </p>
       <br/>
 
       <p>
-      <i>"The ITensor Software Library for Tensor Network Calculations",</i><br/>
-      Matthew Fishman, Steven R. White, E. Miles Stoudenmire,<br/>
-      <a href="https://scipost.org/10.21468/SciPostPhysCodeb.4">SciPost Phys. Codebases 4</a> (2022)
+      The name of the software is ITensor, with a capital "I", capital "T", and no "s" at the end. 
+      The name stands for "Intelligent Tensor", referring to the "intelligent index system".
       </p>
       <br/>
 
       <p>
-      Also please cite the second DOI using the BibTeX shown below, which refers to the <i>codebase</i>      that includes version number that you used,
-      assuming you used the Julia version. (If you 
-      used the C++ version you can omit this step and just note the C++ version yourself.)
+      Suggested ways to refer to ITensor are <strong>"the ITensor software"</strong> or <strong>"the ITensor library"</strong> or just <strong>"ITensor"</strong>.
       </p>
       <br/>
 
       <p>
-      You can use the following BibTex for LaTeX documents:
-      <pre>
-@article{itensor,
-	title={{The ITensor Software Library for Tensor Network Calculations}},
-	author={Matthew Fishman and Steven R. White and E. Miles Stoudenmire},
-	journal={SciPost Phys. Codebases},
-	pages={4},
-	year={2022},
-	publisher={SciPost},
-	doi={10.21468/SciPostPhysCodeb.4},
-	url={https://scipost.org/10.21468/SciPostPhysCodeb.4}
-}</pre>
-      and additionally to cite the v0.3 release:
-      <pre>
-@article{itensor-r0.3,
-	title={{Codebase release 0.3 for ITensor}},
-	author={Matthew Fishman and Steven R. White and E. Miles Stoudenmire},
-	journal={SciPost Phys. Codebases},
-	pages={4-r0.3},
-	year={2022},
-	publisher={SciPost},
-	doi={10.21468/SciPostPhysCodeb.4-r0.3},
-	url={https://scipost.org/10.21468/SciPostPhysCodeb.4-r0.3}
-}</pre>
-
+      Please <strong>do not</strong> spell it as "iTensor" or "ITensors" or "Itensors" etc.
+      A possible confusion is that our flagship software package is named <code>ITensors.jl</code>. This is because the main type is called <code>ITensor</code> so our module and package had to have a different name, hence <code>ITensors</code>.
       </p>
       <br/>
 
-      
+    </div> <!-- block -->
+    <br/>
 
-    </div>
+    <div class="block">
+
+      <p>
+      <strong>Does ITensor support GPUs (graphics processing units)?</strong>
+      </p>
+      <br/>
+
+      <p>
+      Yes! ITensor has support for various GPU backends such as NVIDIA CUDA (including cuTensor), AMD ROCm, and Apple Metal. 
+      </p>
+      <br/>
+
+      <p>
+      The GPU backends take advantage of Julia's "package extensions" feature, so all you have to do to use CUDA, say, is to put <code>using CUDA</code> at the top of your code. The ITensor CUDA extension will be automatically loaded in the background. Then a few lines of code transfers your initial tensors or tensor networks to GPU and the rest happens automatically. You may also find that using lower-precision types such as <code>Float32</code> gives even higher performance, though use this with care if you need high-precision results and test against reference calculations.
+      </p>
+      <br/>
+
+      <p>
+      For further technical information, see <a href="https://itensor.discourse.group/t/ann-initial-release-of-new-itensor-gpu-backends/1227">this forum post</a> about using GPU backends in ITensor and feel free to ask us questions on the forum. We try to support as many features as we can, but certain vendors may not yet support various algorithms or numerical types. So you may find that e.g. using complex numbers and/or the SVD algorithm may not be available on certain backends.
+      </p>
+      </br>
+
+    </div> <!-- block -->
+    <br/>
+
+    <div class="block">
+
+      <p>
+      <strong>Why do you use Julia? Why have a Julia and C++ version?</strong>
+      </p>
+      <br/>
+
+      <p>
+      ITensor was originally written in C++ around 2010 before Julia was available. C++ was a good choice continues to be an strong language for high-performance computing.
+      </p>
+      <br/>
+
+      <p>
+      We ported ITensor completely to Julia to benefit from Julia's high performance (it is a compiled language), its expressivity (it offers a robust type system as well as a dynamic, generic programming experience), while avoiding the common "two-languge problem" of using a slower interface language with a high-performance back-end language. The choice of Julia has been very successful for us and, while not perfect, we find it delivers high performance and productivity simultaneously.
+      </p>
+      <br/>
+    </div> <!-- block -->
     <br/>
 
   </div></section>
@@ -162,7 +178,7 @@
       &middot; 
       <a href="https://github.com/ITensor/ITensorWebsite">Website Source on Github</a>
       <br/>
-      &copy; 2022 ITensor Collaboration.
+      &copy; 2024 ITensor Collaboration.
     </p>
   </div>
 </footer>
