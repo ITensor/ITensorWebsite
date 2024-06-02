@@ -116,7 +116,7 @@
           <div class="card-content">
             <p class="title is-5">
             <img style="vertical-align: middle;" width="50px" src="/img/ITensorMan_square_alpha.png"/> 
-            ITensors
+            ITensors.jl
             </p>
             <p class="subtitle">
             The core of the ITensor ecosystem. Defines the ITensor type and basic ITensor operations.
@@ -134,10 +134,10 @@
         <div class="card code-info">
           <div class="card-content">
             <p class="title is-5">
-            ITensorMPS
+            ITensorMPS.jl
             </p>
             <p class="subtitle">
-            Codes for MPS and MPO tensor networks, including algorithms like DMRG, TDVP,
+            Types and algorithms for MPS and MPO tensor networks, including DMRG, TDVP,
             gate evolution, and MPS and MPO algebra operations.
             </p>
             <p class="developers">
@@ -159,7 +159,7 @@
         <div class="card code-info">
           <div class="card-content">
             <p class="title is-5">
-            ITensorGaussianMPS<br/>
+            ITensorGaussianMPS.jl<br/>
             </p>
             <p class="subtitle">
             Tools for transforming Gaussian (non-interacting) states of fermions into matrix product states.
@@ -177,7 +177,7 @@
       <div class="card code-info">
         <div class="card-content">
           <p class="title is-5">
-          ITensorVisualizationBase<br/>
+          ITensorVisualizationBase.jl<br/>
           </p>
           <p class="subtitle">
           Tools for visualizing tensor networks with multiple graphical backend options
@@ -282,7 +282,7 @@
           <div class="card code-info">
             <div class="card-content">
               <p class="title is-5">
-              ITensorNetworks<br/>
+              ITensorNetworks.jl<br/>
               </p>
               <p class="subtitle">
               A package with general tools for working with higher-dimensional tensor networks based on ITensor.
@@ -303,7 +303,7 @@
           <div class="card code-info">
             <div class="card-content">
               <p class="title is-5">
-              ITensorInfiniteMPS<br/>
+              ITensorInfiniteMPS.jl<br/>
               </p>
               <p class="subtitle">
               Package for optimizing infinite matrix product states (MPS) with the VUMPS algorithm and other tools for working with infinite MPS.
@@ -326,7 +326,7 @@
           <div class="card code-info">
             <div class="card-content">
               <p class="title is-5">
-              ITensorParallel<br/>
+              ITensorParallel.jl<br/>
               </p>
               <p class="subtitle">
               Shared and distributed memory parallel MPS algorithms, such as DMRG, TDVP, and TEBD.
@@ -344,7 +344,7 @@
           <div class="card code-info">
             <div class="card-content">
               <p class="title is-5">
-              ITensorChemistry<br/>
+              ITensorChemistry.jl<br/>
               </p>
               <p class="subtitle">
               Tools to perform chemistry DMRG and other calculations.
@@ -410,6 +410,86 @@
       <div class="columns is-vcentered code-columns">
 
         <div class="column" style="margin-bottom:auto;">
+          <a href="https://github.com/ITensor/ITensorCorrelators.jl">
+          <div class="card code-info">
+            <div class="card-content">
+              <p class="title is-5">
+              ITensorCorrelators.jl
+              </p>
+              <p class="subtitle">
+              Package for measuring n-point correlators of matrix product states.
+              </p>
+              <p class="developers">
+              <strong>Developers:</strong> Niccolò Baldelli, Matt Fishman
+              </p>
+            </div>
+          </div>
+          </a>
+        </div> <!-- end column -->
+
+      <div class="column" style="margin-bottom:auto;">
+        <a href="https://github.com/ITensor/ITensorMPOConstruction.jl" style="color: #222222">
+        <div class="card code-info">
+          <div class="card-content">
+            <p class="title is-5">
+            ITensorMPOConstruction.jl
+            </p>
+            <p class="subtitle">
+            Fast algorithms for constructing matrix oroduct operators (MPO) from sums of local operators, compatible with ITensorMPS.jl.
+            </p>
+            <p class="developers">
+            <strong>Developers:</strong> Ben Corbett, Matt Fishman
+            </p>
+          </div>
+        </div>
+        </a>
+      </div> <!-- end column -->
+
+      </div> <!-- end columns -->
+
+      <div class="columns is-vcentered code-columns">
+
+        <div class="column" style="margin-bottom:auto;">
+          <a href="https://github.com/ITensor/ITensorAGP.jl">
+          <div class="card code-info">
+            <div class="card-content">
+              <p class="title is-5">
+              ITensorAGP.jl
+              </p>
+              <p class="subtitle">
+              Package that constructs the adiabatic gauge potential (AGP) as a matrix product operator, which can be used to adiabatically evolve matrix product states.
+              </p>
+              <p class="developers">
+              <strong>Developers:</strong> Hyeongjin Kim, Matt Fishman
+              </p>
+            </div>
+          </div>
+          </a>
+        </div> <!-- end column -->
+
+      <div class="column" style="margin-bottom:auto;">
+        <a href="https://github.com/JanReimers/ITensorMPOCompression.jl" style="color: #222222">
+        <div class="card code-info">
+          <div class="card-content">
+            <p class="title is-5">
+            ITensorMPOCompression.jl
+            </p>
+            <p class="subtitle">
+            A package to enable block respecting compression of matrix oroduct operators (MPOs), for use with ITensors.jl
+            </p>
+            <p class="developers">
+            <strong>Developers:</strong> Jan Reimers
+            </p>
+          </div>
+        </div>
+        </a>
+      </div> <!-- end column -->
+
+      </div> <!-- end columns -->
+
+      <div class="columns is-vcentered code-columns">
+
+        <div class="column" style="margin-bottom:auto;">
           <a href="https://github.com/joselado/dmrgpy">
           <div class="card code-info">
             <div class="card-content">
@@ -447,7 +527,7 @@
         </a>
       </div> <!-- end column -->
 
-      </div>
+      </div> <!-- end columns -->
 
     </div>
     <br/>
@@ -475,7 +555,7 @@
           <div class="card code-info">
             <div class="card-content">
               <p class="title is-5">
-              Observers<br/>
+              Observers.jl<br/>
               </p>
               <p class="subtitle">
               Helper class for collecting data within iterative calculations.
@@ -493,7 +573,7 @@
           <div class="card code-info">
             <div class="card-content">
               <p class="title is-5">
-              SerializedElementArrays<br/>
+              SerializedElementArrays.jl<br/>
               </p>
               <p class="subtitle">
               Julia array with elements stored in disk (hard drive) memory.
@@ -515,13 +595,13 @@
           <div class="card code-info">
             <div class="card-content">
               <p class="title is-5">
-              NamedGraphs<br/>
+              NamedGraphs.jl<br/>
               </p>
               <p class="subtitle">
-              Graph types with named or labelled vertices, compatible with the features of the Graphs.jl package.
+              Graph types with named or labelled vertices, built on top of Graphs.jl and offering similar methods.
               </p>
               <p class="developers">
-              <strong>Developers:</strong> Matt Fishman
+              <strong>Developers:</strong> Matt Fishman, Joseph Tindall
               </p>
             </div>
           </div>
@@ -533,7 +613,7 @@
           <div class="card code-info">
             <div class="card-content">
               <p class="title is-5">
-              DataGraphs<br/>
+              DataGraphs.jl<br/>
               </p>
               <p class="subtitle">
               Graph types which can store arbitrary data associated to each edge or vertex.
@@ -573,7 +653,7 @@
           <div class="card code-info">
             <div class="card-content">
               <p class="title is-5">
-              ITensorGPU
+              ITensorGPU.jl
               </p>
               <p class="subtitle">
               Package previously enabling GPU support for ITensor. Please now use the built-in GPU
@@ -592,7 +672,7 @@
           <div class="card code-info">
             <div class="card-content">
               <p class="title is-5">
-              ITensorTDVP
+              ITensorTDVP.jl
               </p>
               <p class="subtitle">
               Package previously containing experimental TDVP and other MPS codes
@@ -626,7 +706,7 @@
       &middot; 
       <a href="https://github.com/ITensor/ITensorWebsite">Website Source on Github</a>
       <br/>
-      &copy; 2022 ITensor Collaboration. 
+      &copy; 2024 ITensor Collaboration. 
     </p>
   </div>
 </footer>
