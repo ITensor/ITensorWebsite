@@ -94,7 +94,6 @@
     <p class="title is-4">Frequently Asked Questions (FAQ)</p>
 
     <div class="block">
-
       <p>
       <a name="software_name"></a>
       <strong>What is the name of the software: ITensor, iTensor, ITensors?</strong>
@@ -122,7 +121,6 @@
     <br/>
 
     <div class="block">
-
       <p>
       <a name="gpu_support"></a>
       <strong>Does ITensor support GPUs (graphics processing units)?</strong>
@@ -135,12 +133,12 @@
       <br/>
 
       <p>
-      The GPU backends take advantage of Julia's "package extensions" feature, so all you have to do to use CUDA, say, is to put <code>using CUDA</code> at the top of your code. The ITensor CUDA extension will be automatically loaded in the background. Then a few lines of code transfers your initial tensors or tensor networks to GPU and the rest happens automatically. You may also find that using lower-precision types such as <code>Float32</code> gives even higher performance, though use this with care if you need high-precision results and test against reference calculations.
+      The GPU backends take advantage of Julia's automatic <i>package extensions</i> feature, so for example to use CUDA, simply add <code>using CUDA</code> to the top of your code. The ITensor CUDA extension will automatically load. A few lines of code transfers your initial tensors or tensor networks to GPU and the rest happens automatically. You may also find that using lower-precision types such as <code>Float32</code> gives even higher performance, though take care if you need high-precision results and test against reference calculations.
       </p>
       <br/>
 
       <p>
-      For further technical information, see <a href="https://itensor.discourse.group/t/ann-initial-release-of-new-itensor-gpu-backends/1227">this forum post</a> about using GPU backends in ITensor and feel free to ask us questions on the forum. We try to support as many features as we can, but certain vendors may not yet support various algorithms or numerical types. So you may find that e.g. using complex numbers and/or the SVD algorithm may not be available on certain backends.
+      For further information, see <a href="https://itensor.github.io/ITensors.jl/dev/RunningOnGPUs.html">this documentation page</a> about using GPU backends in ITensor and feel free to ask us questions on the forum if you encounter issues. We try to support as many features as we can, but certain vendors may not yet support various algorithms or numerical types. Operations that are not provided by the vendor, like certain matrix factorizations, may therefore be performed on CPU, and double-precision arithmetic may not be available on certain backends.
       </p>
       </br>
 
@@ -148,7 +146,6 @@
     <br/>
 
     <div class="block">
-
       <p>
       <a name="julia"></a>
       <strong>Why do you use Julia? Why have a Julia and C++ version?</strong>
