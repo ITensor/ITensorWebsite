@@ -50,6 +50,8 @@
 
 * [Non-stabilizerness versus entanglement in matrix product states](https://arxiv.org/abs/2404.18768),  M. Frau,  P. S. Tarabunga,  M. Collura,  M. Dalmonte,  E. Tirrito,  arxiv:2404.18768
 
+* [Dynamics of spin helices in the diluted one-dimensional $XX$ model](https://arxiv.org/abs/2404.17558),  Darren Pereira,  Erich J. Mueller,  arxiv:2404.17558
+
 * [Two-dimensional correlation propagation dynamics with a cluster discrete phase-space method](https://arxiv.org/abs/2404.18594),  Kazuma Nagao,  Seiji Yunoki,  arxiv:2404.18594
 
 * [Correlation between two distant quasiparticles in separate superconducting islands mediated by a single spin](https://www.nature.com/articles/s41467-024-47694-7), Juan Carlos Estrada Saldaña, Alexandros Vekris, Luka Pavešič, Rok Žitko, Kasper Grove-Rasmussen & Jesper Nygård, Journal[Nature Comm.,15,3465,https://www.nature.com/articles/s41467-024-47694-7] (2024)
@@ -1877,7 +1879,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-85 papers in 2024
+86 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1892,5 +1894,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-915 total (through 2024)
+916 total (through 2024)
 -->
