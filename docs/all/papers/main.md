@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Quantum Magnetic Skyrmions on the Kondo Lattice](https://arxiv.org/abs/2405.20897),  Zhen Zhao,  Emil Östberg,  Ferdi Aryasetiawan,  Claudio Verdozzi,  arxiv:2405.20897
+
+* [Recurrent neural network wave functions for Rydberg atom arrays on kagome lattice](https://arxiv.org/abs/2405.20384),  Mohamed Hibat-Allah,  Ejaaz Merali,  Giacomo Torlai,  Roger G Melko,  Juan Carrasquilla,  arxiv:2405.20384
+
 * [Space-time first-order correlations of an open Bose-Hubbard model with incoherent pump and loss](https://arxiv.org/abs/2405.19972),  Martina Zündel,  Leonardo Mazza,  Léonie Canet,  Anna Minguzzi,  arxiv:2405.19972
 
 * [Spectroscopy and complex-time correlations using minimally entangled typical thermal states](https://arxiv.org/abs/2405.18484),  Zhenjiu Wang,  Paul McClarty,  Dobromila Dankova,  Andreas Honecker,  Alexander Wietek,  arxiv:2405.18484
@@ -548,7 +552,7 @@
 
 * [First-order superradiant phase transition in magnetic cavities: A two-leg ladder model](https://arxiv.org/abs/2302.09901),  Zeno Bacciconi,  Gian Marcello Andolina,  Titas Chanda,  Giuliano Chiriacò,  Marco Schiró,  Marcello Dalmonte,  arxiv:2302.09901
 
-* [Matrix Product Study of Spin Fractionalization in the 1D Kondo Insulator](https://arxiv.org/abs/2302.09701),  Jing Chen,  E. Miles Stoudenmire,  Yashar Komijani,  Piers Coleman,  arxiv:2302.09701
+* [Matrix Product Study of Spin Fractionalization in the 1D Kondo Insulator](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.023227),  Jing Chen,  E. Miles Stoudenmire,  Yashar Komijani,  Piers Coleman,  PhysRev[Research,6,023227] [arxiv:2302.09701]
 
 * [A Scaling Function for the Particle Entanglement Entropy of Fermions](https://arxiv.org/abs/2302.09093),  Harini Radhakrishnan,  Matthias Thamm,  Hatem Barghathi,  Bernd Rosenow,  Adrian Del Maestro,  arxiv:2302.09093
 
@@ -1873,7 +1877,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-83 papers in 2024
+85 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1888,5 +1892,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-913 total (through 2024)
+915 total (through 2024)
 -->
