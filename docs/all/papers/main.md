@@ -4,6 +4,12 @@
 
 ## 2024
 
+* [Transverse Field $γ$-Matrix Spin Chains](https://arxiv.org/abs/2406.04120),  Rui Xian Siew,  Shailesh Chandrasekharan,  Ribhu K. Kaul,  arxiv:2406.04120
+
+* [Gifts from long-range interaction: Emergent gapless topological behaviors in quantum spin chain](https://arxiv.org/abs/2406.01974),  Sheng Yang,  Hai-Qing Lin,  Xue-Jia Yu,  arxiv:2406.01974
+
+* [Pivoting through the chiral-clock family](https://arxiv.org/abs/2406.01680),  Nick G. Jones,  Abhishodh Prakash,  Paul Fendley,  arxiv:2406.01680
+
 * [Quantum Magnetic Skyrmions on the Kondo Lattice](https://arxiv.org/abs/2405.20897),  Zhen Zhao,  Emil Östberg,  Ferdi Aryasetiawan,  Claudio Verdozzi,  arxiv:2405.20897
 
 * [Recurrent neural network wave functions for Rydberg atom arrays on kagome lattice](https://arxiv.org/abs/2405.20384),  Mohamed Hibat-Allah,  Ejaaz Merali,  Giacomo Torlai,  Roger G Melko,  Juan Carrasquilla,  arxiv:2405.20384
@@ -1879,7 +1885,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-86 papers in 2024
+89 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1894,5 +1900,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-916 total (through 2024)
+919 total (through 2024)
 -->
