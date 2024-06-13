@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Emergence of topological states in relaxation dynamics of interacting bosons](https://arxiv.org/abs/2406.04536),  Wang Huang,  Xuchen Yang,  Rui Cao,  Yinghai Wu,  Jianmin Yuan,  Yongqiang Li,  arxiv:2406.04536
+
+* [Ground states of planar dipolar rotor chains with recurrent neural networks](https://pubs.aip.org/aip/jcp/article/160/22/224103/3297300), Tobias Serwatka,  Pierre-Nicholas Roy, Journal[J. Chem. Phys.,160,224103,https://pubs.aip.org/aip/jcp/article/160/22/224103/3297300] (2024)
+
 * [Transverse Field $γ$-Matrix Spin Chains](https://arxiv.org/abs/2406.04120),  Rui Xian Siew,  Shailesh Chandrasekharan,  Ribhu K. Kaul,  arxiv:2406.04120
 
 * [Gifts from long-range interaction: Emergent gapless topological behaviors in quantum spin chain](https://arxiv.org/abs/2406.01974),  Sheng Yang,  Hai-Qing Lin,  Xue-Jia Yu,  arxiv:2406.01974
@@ -1885,7 +1889,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-89 papers in 2024
+91 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1900,5 +1904,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-919 total (through 2024)
+921 total (through 2024)
 -->
