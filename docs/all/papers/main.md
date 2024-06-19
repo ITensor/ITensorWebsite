@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Approximate Contraction of Arbitrary Tensor Networks with a Flexible and Efficient Density Matrix Algorithm](https://arxiv.org/abs/2406.09769),  Linjian Ma,  Matthew Fishman,  Miles Stoudenmire,  Edgar Solomonik,  arxiv:2406.09769
+
 * [Emergence of topological states in relaxation dynamics of interacting bosons](https://arxiv.org/abs/2406.04536),  Wang Huang,  Xuchen Yang,  Rui Cao,  Yinghai Wu,  Jianmin Yuan,  Yongqiang Li,  arxiv:2406.04536
 
 * [Ground states of planar dipolar rotor chains with recurrent neural networks](https://pubs.aip.org/aip/jcp/article/160/22/224103/3297300), Tobias Serwatka,  Pierre-Nicholas Roy, Journal[J. Chem. Phys.,160,224103,https://pubs.aip.org/aip/jcp/article/160/22/224103/3297300] (2024)
@@ -700,7 +702,7 @@
 
 * [Microscopic design of a topologically protected singlet-triplet qubit in an InAsP quantum dot array](https://arxiv.org/abs/2209.10076),  Jacob Manalo,  Daniel Miravet,  Pawel Hawrylak,  arxiv:2209.10076
 
-* [Extracting Off-Diagonal Order from Diagonal Basis Measurements](https://arxiv.org/abs/2209.10565),  Bo Xiao,  Javier Robledo Moreno,  Matthew Fishman,  Dries Sels,  Ehsan Khatami,  Richard Scalettar,  arxiv:2209.10565
+* [Extracting Off-Diagonal Order from Diagonal Basis Measurements](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.L022064),  Bo Xiao,  Javier Robledo Moreno,  Matthew Fishman,  Dries Sels,  Ehsan Khatami,  Richard Scalettar, PhysRev[Research,6,L022064] (2024) [arxiv:2209.10565]
 
 * [Genuine multipartite entanglement in 1D Bose-Hubbard model with frustrated hopping](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.195158),  Sudipto Singha Roy,  Leon Carl,  Philipp Hauke, PhysRev[B,106,195158] [arxiv:2209.08815]
 
@@ -1889,7 +1891,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-91 papers in 2024
+92 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1904,5 +1906,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-921 total (through 2024)
+922 total (through 2024)
 -->
