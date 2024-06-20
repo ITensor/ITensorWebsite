@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [A spin chain with non-Hermitian $\mathscr{PT}-$symmetric boundary couplings: exact solution, dissipative Kondo effect, and phase transitions on the edge](https://arxiv.org/abs/2406.10334),  Pradip Kattel,  Parameshwar R. Pasnoori,  J. H. Pixley,  Natan Andrei,  arxiv:2406.10334
+
+* [Weakly first-order melting of the 1/3 plateau in the Shastry-Sutherland model](https://arxiv.org/abs/2406.10689),  Samuel Nyckees,  Philippe Corboz,  Frédéric Mila,  arxiv:2406.10689
+
 * [Approximate Contraction of Arbitrary Tensor Networks with a Flexible and Efficient Density Matrix Algorithm](https://arxiv.org/abs/2406.09769),  Linjian Ma,  Matthew Fishman,  Miles Stoudenmire,  Edgar Solomonik,  arxiv:2406.09769
 
 * [Emergence of topological states in relaxation dynamics of interacting bosons](https://arxiv.org/abs/2406.04536),  Wang Huang,  Xuchen Yang,  Rui Cao,  Yinghai Wu,  Jianmin Yuan,  Yongqiang Li,  arxiv:2406.04536
@@ -1891,7 +1895,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-92 papers in 2024
+94 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1906,5 +1910,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-922 total (through 2024)
+924 total (through 2024)
 -->
