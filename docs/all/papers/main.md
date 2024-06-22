@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Edge Spin fractionalization in one-dimensional spin-$S$ quantum antiferromagnets](https://arxiv.org/abs/2406.11955),  Pradip Kattel,  Yicheng Tang,  J. H. Pixley,  Natan Andrei,  arxiv:2406.11955
+
 * [A spin chain with non-Hermitian $\mathscr{PT}-$symmetric boundary couplings: exact solution, dissipative Kondo effect, and phase transitions on the edge](https://arxiv.org/abs/2406.10334),  Pradip Kattel,  Parameshwar R. Pasnoori,  J. H. Pixley,  Natan Andrei,  arxiv:2406.10334
 
 * [Weakly first-order melting of the 1/3 plateau in the Shastry-Sutherland model](https://arxiv.org/abs/2406.10689),  Samuel Nyckees,  Philippe Corboz,  Frédéric Mila,  arxiv:2406.10689
@@ -1895,7 +1897,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-94 papers in 2024
+95 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1910,5 +1912,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-924 total (through 2024)
+925 total (through 2024)
 -->
