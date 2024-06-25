@@ -4,9 +4,9 @@
 
 ## 2024
 
-* [Edge Spin fractionalization in one-dimensional spin-$S$ quantum antiferromagnets](https://arxiv.org/abs/2406.11955),  Pradip Kattel,  Yicheng Tang,  J. H. Pixley,  Natan Andrei,  arxiv:2406.11955
+* [Edge Spin fractionalization in one-dimensional spin-S quantum antiferromagnets](https://arxiv.org/abs/2406.11955),  Pradip Kattel,  Yicheng Tang,  J. H. Pixley,  Natan Andrei,  arxiv:2406.11955
 
-* [A spin chain with non-Hermitian $\mathscr{PT}-$symmetric boundary couplings: exact solution, dissipative Kondo effect, and phase transitions on the edge](https://arxiv.org/abs/2406.10334),  Pradip Kattel,  Parameshwar R. Pasnoori,  J. H. Pixley,  Natan Andrei,  arxiv:2406.10334
+* [A spin chain with non-Hermitian PT-symmetric boundary couplings: exact solution, dissipative Kondo effect, and phase transitions on the edge](https://arxiv.org/abs/2406.10334),  Pradip Kattel,  Parameshwar R. Pasnoori,  J. H. Pixley,  Natan Andrei,  arxiv:2406.10334
 
 * [Weakly first-order melting of the 1/3 plateau in the Shastry-Sutherland model](https://arxiv.org/abs/2406.10689),  Samuel Nyckees,  Philippe Corboz,  Frédéric Mila,  arxiv:2406.10689
 
@@ -16,7 +16,7 @@
 
 * [Ground states of planar dipolar rotor chains with recurrent neural networks](https://pubs.aip.org/aip/jcp/article/160/22/224103/3297300), Tobias Serwatka,  Pierre-Nicholas Roy, Journal[J. Chem. Phys.,160,224103,https://pubs.aip.org/aip/jcp/article/160/22/224103/3297300] (2024)
 
-* [Transverse Field $γ$-Matrix Spin Chains](https://arxiv.org/abs/2406.04120),  Rui Xian Siew,  Shailesh Chandrasekharan,  Ribhu K. Kaul,  arxiv:2406.04120
+* [Transverse Field γ-Matrix Spin Chains](https://arxiv.org/abs/2406.04120),  Rui Xian Siew,  Shailesh Chandrasekharan,  Ribhu K. Kaul,  arxiv:2406.04120
 
 * [Gifts from long-range interaction: Emergent gapless topological behaviors in quantum spin chain](https://arxiv.org/abs/2406.01974),  Sheng Yang,  Hai-Qing Lin,  Xue-Jia Yu,  arxiv:2406.01974
 
@@ -68,7 +68,7 @@
 
 * [Non-stabilizerness versus entanglement in matrix product states](https://arxiv.org/abs/2404.18768),  M. Frau,  P. S. Tarabunga,  M. Collura,  M. Dalmonte,  E. Tirrito,  arxiv:2404.18768
 
-* [Dynamics of spin helices in the diluted one-dimensional $XX$ model](https://arxiv.org/abs/2404.17558),  Darren Pereira,  Erich J. Mueller,  arxiv:2404.17558
+* [Dynamics of spin helices in the diluted one-dimensional XX model](https://arxiv.org/abs/2404.17558),  Darren Pereira,  Erich J. Mueller,  arxiv:2404.17558
 
 * [Two-dimensional correlation propagation dynamics with a cluster discrete phase-space method](https://arxiv.org/abs/2404.18594),  Kazuma Nagao,  Seiji Yunoki,  arxiv:2404.18594
 
@@ -92,7 +92,7 @@
 
 * [Quantum computing topological invariants of two-dimensional quantum matter](https://arxiv.org/abs/2404.06048),  Marcel Niedermeier,  Marc Nairn,  Christian Flindt,  Jose L. Lado,  arxiv:2404.06048
 
-* [Nagaoka Ferromagnetism in $3 \times 3$ Arrays and Beyond](https://arxiv.org/abs/2404.03889v1),  Yan Li,  Keyi Liu,  Garnett W. Bryant,  arxiv:2404.03889
+* [Nagaoka Ferromagnetism in 3x3 Arrays and Beyond](https://arxiv.org/abs/2404.03889v1),  Yan Li,  Keyi Liu,  Garnett W. Bryant,  arxiv:2404.03889
 
 * [Transmigration of Edge States with Interaction in Su-Schrieffer-Heeger Chain](https://arxiv.org/abs/2404.02259),  Jyoti Bisht,  Somenath Jalal,  Brijesh Kumar,  arxiv:2404.02259
 
@@ -128,7 +128,7 @@
 
 * [BCS surrogate models for floating superconductor-semiconductor hybrids](https://arxiv.org/abs/2402.18357),  Virgil V. Baran,  Jens Paaske,  arxiv:2402.18357
 
-* [Phase diagram of the one dimensional $t_1-t_2-J$ model: Ferromagnetism, triplet pairing, charge and pair density waves](https://arxiv.org/abs/2402.15927),  Luhang Yang,  Adrian E. Feiguin,  arxiv:2402.15927
+* [Phase diagram of the one dimensional t1-t2-J model: Ferromagnetism, triplet pairing, charge and pair density waves](https://arxiv.org/abs/2402.15927),  Luhang Yang,  Adrian E. Feiguin,  arxiv:2402.15927
 
 * [Tensor network simulations for non-orientable surfaces](https://arxiv.org/abs/2402.15507),  Haruki Shimizu,  Atsushi Ueda,  arxiv:2402.15507
 
