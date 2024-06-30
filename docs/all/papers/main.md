@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [A Novel Phase Diagram for a Spin-1 System Exhibiting a Haldane Phase](https://arxiv.org/abs/2406.19372),  Mohamad Mousa,  Birgit Wehefritz-Kaufmann,  Sabre Kais,  Shawn Cui,  Ralph Kaufmann,  arxiv:2406.19372
+
 * [Edge Spin fractionalization in one-dimensional spin-S quantum antiferromagnets](https://arxiv.org/abs/2406.11955),  Pradip Kattel,  Yicheng Tang,  J. H. Pixley,  Natan Andrei,  arxiv:2406.11955
 
 * [A spin chain with non-Hermitian PT-symmetric boundary couplings: exact solution, dissipative Kondo effect, and phase transitions on the edge](https://arxiv.org/abs/2406.10334),  Pradip Kattel,  Parameshwar R. Pasnoori,  J. H. Pixley,  Natan Andrei,  arxiv:2406.10334
@@ -1897,7 +1899,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-95 papers in 2024
+96 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1912,5 +1914,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-925 total (through 2024)
+926 total (through 2024)
 -->
