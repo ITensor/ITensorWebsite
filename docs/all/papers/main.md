@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Spectrum and low-energy gap in triangular quantum spin liquid NaYbSe$_2$](https://arxiv.org/abs/2406.17773),  A. O. Scheie,  Minseong Lee,  Kevin Wang,  P. Laurell,  E. S. Choi,  D. Pajerowski,  Qingming Zhang,  Jie Ma,  H. D. Zhou,  Sangyun Lee,  S. M. Thomas,  M. O. Ajeesh,  P. F. S. Rosa,  Ao Chen,  Vivien S. Zapf,  M. Heyl,  C. D. Batista,  E. Dagotto,  J. E. Moore,  D. Alan Tennant,  arxiv:2406.17773
+
+* [Experimental observation of repulsively bound magnons](https://www.nature.com/articles/s41586-024-07599-3), Zhe Wang, Catalin-Mihai Halati, Jean-Sébastien Bernier, Alexey Ponomaryov, Denis I. Gorbunov, Sandra Niesen, Oliver Breunig, J. Michael Klopf, Sergei Zvyagin, Thomas Lorenz, Alois Loidl & Corinna Kollath, Nature (2024)
+
 * [A Novel Phase Diagram for a Spin-1 System Exhibiting a Haldane Phase](https://arxiv.org/abs/2406.19372),  Mohamad Mousa,  Birgit Wehefritz-Kaufmann,  Sabre Kais,  Shawn Cui,  Ralph Kaufmann,  arxiv:2406.19372
 
 * [Edge Spin fractionalization in one-dimensional spin-S quantum antiferromagnets](https://arxiv.org/abs/2406.11955),  Pradip Kattel,  Yicheng Tang,  J. H. Pixley,  Natan Andrei,  arxiv:2406.11955
@@ -1899,7 +1903,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-96 papers in 2024
+98 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1914,5 +1918,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-926 total (through 2024)
+928 total (through 2024)
 -->
