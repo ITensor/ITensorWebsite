@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Observation of a non-Hermitian supersonic mode](https://arxiv.org/abs/2406.15557),  Yuxuan Zhang,  Juan Carrasquilla,  Yong Baek Kim,  arxiv:2406.15557
+
 * [Spectrum and low-energy gap in triangular quantum spin liquid NaYbSe$_2$](https://arxiv.org/abs/2406.17773),  A. O. Scheie,  Minseong Lee,  Kevin Wang,  P. Laurell,  E. S. Choi,  D. Pajerowski,  Qingming Zhang,  Jie Ma,  H. D. Zhou,  Sangyun Lee,  S. M. Thomas,  M. O. Ajeesh,  P. F. S. Rosa,  Ao Chen,  Vivien S. Zapf,  M. Heyl,  C. D. Batista,  E. Dagotto,  J. E. Moore,  D. Alan Tennant,  arxiv:2406.17773
 
 * [Experimental observation of repulsively bound magnons](https://www.nature.com/articles/s41586-024-07599-3), Zhe Wang, Catalin-Mihai Halati, Jean-Sébastien Bernier, Alexey Ponomaryov, Denis I. Gorbunov, Sandra Niesen, Oliver Breunig, J. Michael Klopf, Sergei Zvyagin, Thomas Lorenz, Alois Loidl & Corinna Kollath, Nature (2024)
@@ -1903,7 +1905,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-98 papers in 2024
+99 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1918,5 +1920,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-928 total (through 2024)
+929 total (through 2024)
 -->
