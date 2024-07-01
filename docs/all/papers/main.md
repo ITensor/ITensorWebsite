@@ -4,6 +4,16 @@
 
 ## 2024
 
+* [Non-Unitary Quantum Many-Body Dynamics using the Faber Polynomial Method](https://arxiv.org/abs/2406.10135),  Rafael D. Soares,  Marco Schirò,  arxiv:2406.10135
+
+* [Entanglement swapping in critical quantum spin chains](https://arxiv.org/abs/2406.12377),  Masahiro Hoshino,  Masaki Oshikawa,  Yuto Ashida,  arxiv:2406.12377
+
+* [Impurities with a cusp: general theory and 3d Ising](https://arxiv.org/abs/2406.10186),  Gabriel Cuomo,  Yin-Chen He,  Zohar Komargodski,  arxiv:2406.10186
+
+* [Solitons with irrational charge in a one-dimensional quantum ferroelectric](https://arxiv.org/abs/2406.11952),  Sijia Zhao,  Steven A. Kivelson,  arxiv:2406.11952
+
+* [Non-stabilizerness in kinetically-constrained Rydberg atom arrays](https://arxiv.org/abs/2406.14348),  Ryan Smith,  Zlatko Papić,  Andrew Hallam,  arxiv:2406.14348
+
 * [Observation of a non-Hermitian supersonic mode](https://arxiv.org/abs/2406.15557),  Yuxuan Zhang,  Juan Carrasquilla,  Yong Baek Kim,  arxiv:2406.15557
 
 * [Spectrum and low-energy gap in triangular quantum spin liquid NaYbSe$_2$](https://arxiv.org/abs/2406.17773),  A. O. Scheie,  Minseong Lee,  Kevin Wang,  P. Laurell,  E. S. Choi,  D. Pajerowski,  Qingming Zhang,  Jie Ma,  H. D. Zhou,  Sangyun Lee,  S. M. Thomas,  M. O. Ajeesh,  P. F. S. Rosa,  Ao Chen,  Vivien S. Zapf,  M. Heyl,  C. D. Batista,  E. Dagotto,  J. E. Moore,  D. Alan Tennant,  arxiv:2406.17773
@@ -1905,7 +1915,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-99 papers in 2024
+104 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1920,5 +1930,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-929 total (through 2024)
+934 total (through 2024)
 -->
