@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [1D $Z_2$ lattice gauge theory in periodic Gauss law sectors](https://arxiv.org/abs/2406.19565),  Vaibhav Sharma,  Erich J Mueller,  arxiv:2406.19565
+
 * [Non-Unitary Quantum Many-Body Dynamics using the Faber Polynomial Method](https://arxiv.org/abs/2406.10135),  Rafael D. Soares,  Marco Schirò,  arxiv:2406.10135
 
 * [Entanglement swapping in critical quantum spin chains](https://arxiv.org/abs/2406.12377),  Masahiro Hoshino,  Masaki Oshikawa,  Yuto Ashida,  arxiv:2406.12377
@@ -1915,7 +1917,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-104 papers in 2024
+105 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1930,5 +1932,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-934 total (through 2024)
+935 total (through 2024)
 -->
