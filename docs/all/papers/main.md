@@ -4,6 +4,18 @@
 
 ## 2024
 
+* [Quantum Simulation with Gauge Fixing: from Ising Lattice Gauge Theory to Dynamical Flux Model](https://arxiv.org/abs/2407.01422),  Junsen Wang,  Xiangxiang Sun,  Wei Zheng,  arxiv:2407.01422
+
+* [Heteroatomic Andreev molecule in a superconducting island-double quantum dot hybrid](https://arxiv.org/abs/2407.00825),  Olivér Kürtössy,  Mihály Bodócs,  Cătălin Paşcu Moca,  Zoltán Scherübl,  Ella Nikodem,  Thomas Kanne,  Jesper Nygård,  Gergely Zaránd,  Péter Makk,  Szabolcs Csonka,  arxiv:2407.00825
+
+* [Efficient state preparation for the quantum simulation of molecules in first quantization](https://arxiv.org/abs/2407.00249),  William J. Huggins,  Oskar Leimkuhler,  Torin F. Stetina,  K. Birgitta Whaley,  arxiv:2407.00249
+
+* [Many-body effects on high-harmonic generation in Hubbard ladders](https://arxiv.org/abs/2407.01936),  Yuta Murakami,  Thomas Hansen,  Shintaro Takayoshi,  Lars Bojer Madsen,  Philipp Werner,  arxiv:2407.01936
+
+* [Clifford Dressed Time-Dependent Variational Principle](https://arxiv.org/abs/2407.01692),  Antonio Francesco Mello,  Alessandro Santini,  Guglielmo Lami,  Jacopo De Nardis,  Mario Collura,  arxiv:2407.01692
+
+* [Heisenberg Spin-1/2 Antiferromagnetic Molecular Chains](https://arxiv.org/abs/2407.02142),  Kewei Sun,  Nan Cao,  Orlando J. Silveira,  Adolfo O. Fumega,  Fiona Hanindita,  Shingo Ito,  Jose L. Lado,  Peter Liljeroth,  Adam S. Foster,  Shigeki Kawai,  arxiv:2407.02142
+
 * [1D $Z_2$ lattice gauge theory in periodic Gauss law sectors](https://arxiv.org/abs/2406.19565),  Vaibhav Sharma,  Erich J Mueller,  arxiv:2406.19565
 
 * [Non-Unitary Quantum Many-Body Dynamics using the Faber Polynomial Method](https://arxiv.org/abs/2406.10135),  Rafael D. Soares,  Marco Schirò,  arxiv:2406.10135
@@ -1917,7 +1929,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-105 papers in 2024
+111 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1932,5 +1944,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-935 total (through 2024)
+941 total (through 2024)
 -->
