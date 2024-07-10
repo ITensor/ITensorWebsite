@@ -4,6 +4,12 @@
 
 ## 2024
 
+* [Insulating and metallic phases in the one-dimensional Hubbard-Su-Schrieffer-Heeger model: Insights from a backflow-inspired variational wave function](https://arxiv.org/abs/2407.03046),  Davide Piccioni,  Francesco Ferrari,  Michele Fabrizio,  Federico Becca,  arxiv:2407.03046
+
+* [Magic spreading in random quantum circuits](https://arxiv.org/abs/2407.03929),  Xhek Turkeshi,  Emanuele Tirrito,  Piotr Sierant,  arxiv:2407.03929
+
+* [Simulation of Spin Chains with off-diagonal Coupling Using Inchworm Method](https://arxiv.org/abs/2407.04365),  Yixiao Sun,  Geshuo Wang,  Zhenning Cai,  arxiv:2407.04365
+
 * [Quantum Simulation with Gauge Fixing: from Ising Lattice Gauge Theory to Dynamical Flux Model](https://arxiv.org/abs/2407.01422),  Junsen Wang,  Xiangxiang Sun,  Wei Zheng,  arxiv:2407.01422
 
 * [Heteroatomic Andreev molecule in a superconducting island-double quantum dot hybrid](https://arxiv.org/abs/2407.00825),  Olivér Kürtössy,  Mihály Bodócs,  Cătălin Paşcu Moca,  Zoltán Scherübl,  Ella Nikodem,  Thomas Kanne,  Jesper Nygård,  Gergely Zaránd,  Péter Makk,  Szabolcs Csonka,  arxiv:2407.00825
@@ -1929,7 +1935,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-111 papers in 2024
+114 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1944,5 +1950,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-941 total (through 2024)
+944 total (through 2024)
 -->
