@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Quantum Supercriticality in the Ising Model and Rydberg Atom Array](https://arxiv.org/abs/2407.05455),  Junsen Wang,  Enze Lv,  Xinyang Li,  Yuliang Jin,  Wei Li,  arxiv:2407.05455
+
+* [Many-body Liouvillian dynamics with a non-Hermitian tensor-network kernel polynomial algorithm](https://arxiv.org/abs/2407.06282),  Guangze Chen,  Jose L. Lado,  Fei Song,  arxiv:2407.06282
+
 * [Insulating and metallic phases in the one-dimensional Hubbard-Su-Schrieffer-Heeger model: Insights from a backflow-inspired variational wave function](https://arxiv.org/abs/2407.03046),  Davide Piccioni,  Francesco Ferrari,  Michele Fabrizio,  Federico Becca,  arxiv:2407.03046
 
 * [Magic spreading in random quantum circuits](https://arxiv.org/abs/2407.03929),  Xhek Turkeshi,  Emanuele Tirrito,  Piotr Sierant,  arxiv:2407.03929
@@ -1935,7 +1939,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-114 papers in 2024
+116 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1950,5 +1954,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-944 total (through 2024)
+946 total (through 2024)
 -->
