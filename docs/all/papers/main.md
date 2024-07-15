@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Dense QCD2 with matrix product states](https://doi.org/10.1007/JHEP07(2024)106), Hayata, T., Hidaka, Y. & Nishimura, Journal[J. High Energy Phys.,106,2024,https://doi.org/10.1007/JHEP07(2024)106] (2024)
+
 * [Quantum Supercriticality in the Ising Model and Rydberg Atom Array](https://arxiv.org/abs/2407.05455),  Junsen Wang,  Enze Lv,  Xinyang Li,  Yuliang Jin,  Wei Li,  arxiv:2407.05455
 
 * [Many-body Liouvillian dynamics with a non-Hermitian tensor-network kernel polynomial algorithm](https://arxiv.org/abs/2407.06282),  Guangze Chen,  Jose L. Lado,  Fei Song,  arxiv:2407.06282
