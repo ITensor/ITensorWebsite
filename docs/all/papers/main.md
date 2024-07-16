@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Uncovering Emergent Spacetime Supersymmetry with Rydberg Atom Arrays](https://arxiv.org/abs/2407.08194),  Chengshu Li,  Shang Liu,  Hanteng Wang,  Wenjun Zhang,  Zi-Xiang Li,  Hui Zhai,  Yingfei Gu,  arxiv:2407.08194
+
+* [The trade-off between diagonal and off-diagonal elements in the eigenstate thermalization hypothesis](https://arxiv.org/abs/2407.08297),  Zhiqiang Huang,  arxiv:2407.08297
+
 * Dense QCD2 with matrix product states, Hayata, T., Hidaka, Y. & Nishimura, Journal[J. High Energy Phys.,106,2024,https://doi.org/10.1007/JHEP07(2024)106] (2024)
 
 * [Quantum Supercriticality in the Ising Model and Rydberg Atom Array](https://arxiv.org/abs/2407.05455),  Junsen Wang,  Enze Lv,  Xinyang Li,  Yuliang Jin,  Wei Li,  arxiv:2407.05455
@@ -1941,7 +1945,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-116 papers in 2024
+119 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1956,5 +1960,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-946 total (through 2024)
+949 total (through 2024)
 -->
