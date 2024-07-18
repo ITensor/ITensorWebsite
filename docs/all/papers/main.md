@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Diagnosing quantum transport from wave function snapshots](https://arxiv.org/abs/2407.09092),  Devendra Singh Bhakuni,  Roberto Verdel,  Cristiano Muzzi,  Riccardo Andreoni,  Monika Aidelsburger,  Marcello Dalmonte,  arxiv:2407.09092
+
 * [Uncovering Emergent Spacetime Supersymmetry with Rydberg Atom Arrays](https://arxiv.org/abs/2407.08194),  Chengshu Li,  Shang Liu,  Hanteng Wang,  Wenjun Zhang,  Zi-Xiang Li,  Hui Zhai,  Yingfei Gu,  arxiv:2407.08194
 
 * [The trade-off between diagonal and off-diagonal elements in the eigenstate thermalization hypothesis](https://arxiv.org/abs/2407.08297),  Zhiqiang Huang,  arxiv:2407.08297
@@ -1945,7 +1947,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-119 papers in 2024
+120 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1960,5 +1962,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-949 total (through 2024)
+950 total (through 2024)
 -->
