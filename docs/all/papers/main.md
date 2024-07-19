@@ -4,6 +4,16 @@
 
 ## 2024
 
+* [Minimally Entangled Typical Thermal States for Classical and Quantum Simulation of Gauge Theories at Finite Temperature and Density](https://arxiv.org/abs/2407.11949),  I-Chi Chen,  João C. Getelina,  Klée Pollock,  Srimoyee Sen,  Yong-Xin Yao,  Thomas Iadecola,  arxiv:2407.11949
+
+* [Spectral Density Modulation and Universal Markovian Closure of Fermionic Environments](https://arxiv.org/abs/2407.10017),  Davide Ferracin,  Andrea Smirne,  Susana F. Huelga,  Martin B. Plenio,  Dario Tamascelli,  arxiv:2407.10017
+
+* [DMRG study of the theta-dependent mass spectrum in the 2-flavor Schwinger model](https://arxiv.org/abs/2407.11391),  Etsuko Itou,  Akira Matsumoto,  Yuya Tanizaki,  arxiv:2407.11391
+
+* [Approximate inverse measurement channel for shallow shadows](https://arxiv.org/abs/2407.11813),  Riccardo Cioli,  Elisa Ercolessi,  Matteo Ippoliti,  Xhek Turkeshi,  Lorenzo Piroli,  arxiv:2407.11813
+
+* [Quantum Skyrmion Liquid](https://arxiv.org/abs/2407.10637),  Dhiman Bhowmick,  Andreas Haller,  Deepak S. Kathyat,  Thomas L. Schmidt,  Pinaki Sengupta,  arxiv:2407.10637
+
 * [Diagnosing quantum transport from wave function snapshots](https://arxiv.org/abs/2407.09092),  Devendra Singh Bhakuni,  Roberto Verdel,  Cristiano Muzzi,  Riccardo Andreoni,  Monika Aidelsburger,  Marcello Dalmonte,  arxiv:2407.09092
 
 * [Uncovering Emergent Spacetime Supersymmetry with Rydberg Atom Arrays](https://arxiv.org/abs/2407.08194),  Chengshu Li,  Shang Liu,  Hanteng Wang,  Wenjun Zhang,  Zi-Xiang Li,  Hui Zhai,  Yingfei Gu,  arxiv:2407.08194
@@ -1947,7 +1957,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-120 papers in 2024
+125 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1962,5 +1972,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-950 total (through 2024)
+955 total (through 2024)
 -->
