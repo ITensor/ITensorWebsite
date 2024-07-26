@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Ground-State Properties of the t–J Model for the CuO Double-Chain Structure](https://journals.jps.jp/doi/full/10.7566/JPSJ.93.084703), Tatsuya Kaneko, Satoshi Ejima, Koudai Sugimoto , and Kazuhiko Kuroki, Journal[J. Phys. Soc. Jpn.,93,084703,https://journals.jps.jp/doi/full/10.7566/JPSJ.93.084703] (2024)
+
+* [Concurrent VQE for Simulating Excited States of the Schwinger Model](https://arxiv.org/abs/2407.15629),  Yibin Guo,  Takis Angelides,  Karl Jansen,  Stefan Kühn,  arxiv:2407.15629
+
 * [Minimally Entangled Typical Thermal States for Classical and Quantum Simulation of Gauge Theories at Finite Temperature and Density](https://arxiv.org/abs/2407.11949),  I-Chi Chen,  João C. Getelina,  Klée Pollock,  Srimoyee Sen,  Yong-Xin Yao,  Thomas Iadecola,  arxiv:2407.11949
 
 * [Spectral Density Modulation and Universal Markovian Closure of Fermionic Environments](https://arxiv.org/abs/2407.10017),  Davide Ferracin,  Andrea Smirne,  Susana F. Huelga,  Martin B. Plenio,  Dario Tamascelli,  arxiv:2407.10017
@@ -1957,7 +1961,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-125 papers in 2024
+127 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1972,5 +1976,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-955 total (through 2024)
+957 total (through 2024)
 -->
