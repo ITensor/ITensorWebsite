@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Studying the 3d Ising surface CFTs on the fuzzy sphere](https://arxiv.org/abs/2407.15914),  Zheng Zhou,  Yijian Zou,  arxiv:2407.15914
+
 * [Ground-State Properties of the t–J Model for the CuO Double-Chain Structure](https://journals.jps.jp/doi/full/10.7566/JPSJ.93.084703), Tatsuya Kaneko, Satoshi Ejima, Koudai Sugimoto , and Kazuhiko Kuroki, Journal[J. Phys. Soc. Jpn.,93,084703,https://journals.jps.jp/doi/full/10.7566/JPSJ.93.084703] (2024)
 
 * [Concurrent VQE for Simulating Excited States of the Schwinger Model](https://arxiv.org/abs/2407.15629),  Yibin Guo,  Takis Angelides,  Karl Jansen,  Stefan Kühn,  arxiv:2407.15629
@@ -1961,7 +1963,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-127 papers in 2024
+128 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1976,5 +1978,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-957 total (through 2024)
+958 total (through 2024)
 -->
