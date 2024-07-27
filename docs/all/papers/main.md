@@ -286,7 +286,7 @@
 
 * [Heisenberg spin chain with random-sign couplings](https://arxiv.org/abs/2312.13452),  Michele Fava,  Jesper Lykke Jacobsen,  Adam Nahum,  arxiv:2312.13452
 
-* [Enhancing quantum utility: simulating large-scale quantum spin chains on superconducting quantum computers](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033107),  Talal Ahmed Chowdhury,  Kwangmin Yu,  Mahmud Ashraf Shamim,  M. L. Kabir,  Raza Sabbir Sufian,  PhysRev[Research,10,1103] (2024) [arxiv:2312.12427]
+* [Enhancing quantum utility: simulating large-scale quantum spin chains on superconducting quantum computers](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033107),  Talal Ahmed Chowdhury,  Kwangmin Yu,  Mahmud Ashraf Shamim,  M. L. Kabir,  Raza Sabbir Sufian,  PhysRev[Research,10,033107] (2024) [arxiv:2312.12427]
 
 * [The entanglement membrane in exactly solvable lattice models](https://arxiv.org/abs/2312.12509),  Michael A. Rampp,  Suhail A. Rather,  Pieter W. Claeys,  arxiv:2312.12509
 
