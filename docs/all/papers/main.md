@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Thermal pure states for systems with antiunitary symmetries and their tensor network representations](https://arxiv.org/abs/2407.14454),  Yasushi Yoneta,  arxiv:2407.14454
+
+* [Metal-insulator transition of spinless fermions coupled to dispersive optical bosons](https://arxiv.org/abs/2407.14187),  Florian Lange,  Holger Fehske,  arxiv:2407.14187
+
 * [Studying the 3d Ising surface CFTs on the fuzzy sphere](https://arxiv.org/abs/2407.15914),  Zheng Zhou,  Yijian Zou,  arxiv:2407.15914
 
 * [Ground-State Properties of the t–J Model for the CuO Double-Chain Structure](https://journals.jps.jp/doi/full/10.7566/JPSJ.93.084703), Tatsuya Kaneko, Satoshi Ejima, Koudai Sugimoto , and Kazuhiko Kuroki, Journal[J. Phys. Soc. Jpn.,93,084703,https://journals.jps.jp/doi/full/10.7566/JPSJ.93.084703] (2024)
@@ -1963,7 +1967,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-128 papers in 2024
+130 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1978,5 +1982,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-958 total (through 2024)
+960 total (through 2024)
 -->
