@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Scalable spin squeezing from finite-temperature easy-plane magnetism](https://www.nature.com/articles/s41567-024-02562-5), M. Block, B. Ye, B. Roberts, S. Chern, W. Wu, Z. Wang, L. Pollet, E. J. Davis, B. I. Halperin & N. Y. Yao, <i style="color:#CC0000">Nature Physics</i> (2024)
+
+* [Emergent dipole field theory in atomic ladders](https://arxiv.org/abs/2407.21019),  Hernan B. Xavier,  Poetri Sonya Tarabunga,  Marcello Dalmonte,  Rodrigo G. Pereira,  arxiv:2407.21019
+
 * [Thermal pure states for systems with antiunitary symmetries and their tensor network representations](https://arxiv.org/abs/2407.14454),  Yasushi Yoneta,  arxiv:2407.14454
 
 * [Metal-insulator transition of spinless fermions coupled to dispersive optical bosons](https://arxiv.org/abs/2407.14187),  Florian Lange,  Holger Fehske,  arxiv:2407.14187
@@ -1967,7 +1971,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-130 papers in 2024
+132 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1982,5 +1986,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-960 total (through 2024)
+962 total (through 2024)
 -->
