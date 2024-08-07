@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Classical Benchmarks for Variational Quantum Eigensolver Simulations of the Hubbard Model](https://arxiv.org/abs/2408.00836),  Antonios M. Alvertis,  Abid Khan,  Thomas Iadecola,  Peter P. Orth,  Norm Tubman,  arxiv:2408.00836
+
 * [Scalable spin squeezing from finite-temperature easy-plane magnetism](https://www.nature.com/articles/s41567-024-02562-5), M. Block, B. Ye, B. Roberts, S. Chern, W. Wu, Z. Wang, L. Pollet, E. J. Davis, B. I. Halperin & N. Y. Yao, <i style="color:#CC0000">Nature Physics</i> (2024)
 
 * [Emergent dipole field theory in atomic ladders](https://arxiv.org/abs/2407.21019),  Hernan B. Xavier,  Poetri Sonya Tarabunga,  Marcello Dalmonte,  Rodrigo G. Pereira,  arxiv:2407.21019
@@ -1971,7 +1973,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-132 papers in 2024
+133 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1986,5 +1988,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-962 total (through 2024)
+963 total (through 2024)
 -->
