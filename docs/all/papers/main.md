@@ -4,6 +4,16 @@
 
 ## 2024
 
+* [Tensor Network Python (TeNPy) version 1](https://arxiv.org/abs/2408.02010),  Johannes Hauschild,  Jakob Unfried,  Sajant Anand,  Bartholomew Andrews,  Marcus Bintz,  Umberto Borla,  Stefan Divic,  Markus Drescher,  Jan Geiger,  Martin Hefel,  Kévin Hémery,  Wilhelm Kadow,  Jack Kemp,  Nico Kirchner,  Vincent S. Liu,  Gunnar Möller,  Daniel Parker,  Michael Rader,  Anton Romen,  Samuel Scalet,  Leon Schoonderwoerd,  Maximilian Schulz,  Tomohiro Soejima,  Philipp Thoma,  Yantao Wu,  Philip Zechmann,  Ludwig Zweng,  Roger S. K. Mong,  Michael P. Zaletel,  Frank Pollmann,  arxiv:2408.02010
+
+* [Local ergotropy and its fluctuations across a dissipative quantum phase transition](https://arxiv.org/abs/2408.02655),  G. Di Bello,  D. Farina,  D. Jansen,  C. A. Perroni,  V. Cataudella,  G. De Filippis,  arxiv:2408.02655
+
+* [Spectroscopic Feature of Quantum Many-Body Scar States](https://arxiv.org/abs/2408.02186),  Wenjie Wei,  Long Zhang,  arxiv:2408.02186
+
+* [Compact Multi-Threshold Quantum Information Driven Ansatz For Strongly Interactive Lattice Spin Models](https://arxiv.org/abs/2408.02639),  Fabio Tarocco,  Davide Materia,  Leonardo Ratini,  Leonardo Guidoni,  arxiv:2408.02639
+
+* [Topological p-wave Superconductors with Disorder and Interactions](https://arxiv.org/abs/2408.02105),  Frederick Del Pozo,  Loïc Herviou,  Olesia Dmytruk,  Karyn Le Hur,  arxiv:2408.02105
+
 * [Classical Benchmarks for Variational Quantum Eigensolver Simulations of the Hubbard Model](https://arxiv.org/abs/2408.00836),  Antonios M. Alvertis,  Abid Khan,  Thomas Iadecola,  Peter P. Orth,  Norm Tubman,  arxiv:2408.00836
 
 * [Scalable spin squeezing from finite-temperature easy-plane magnetism](https://www.nature.com/articles/s41567-024-02562-5), M. Block, B. Ye, B. Roberts, S. Chern, W. Wu, Z. Wang, L. Pollet, E. J. Davis, B. I. Halperin & N. Y. Yao, <i style="color:#CC0000">Nature Physics</i> (2024)
@@ -1973,7 +1983,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-133 papers in 2024
+138 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1988,5 +1998,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-963 total (through 2024)
+968 total (through 2024)
 -->
