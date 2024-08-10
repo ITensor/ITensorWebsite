@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Detecting Quantum and Classical Phase Transitions via Unsupervised Machine Learning of the Fisher Information Metric](https://arxiv.org/abs/2408.03418),  Victor Kasatkin,  Evgeny Mozgunov,  Nicholas Ezzell,  Daniel Lidar,  arxiv:2408.03418
+
 * [Tensor Network Python (TeNPy) version 1](https://arxiv.org/abs/2408.02010),  Johannes Hauschild,  Jakob Unfried,  Sajant Anand,  Bartholomew Andrews,  Marcus Bintz,  Umberto Borla,  Stefan Divic,  Markus Drescher,  Jan Geiger,  Martin Hefel,  Kévin Hémery,  Wilhelm Kadow,  Jack Kemp,  Nico Kirchner,  Vincent S. Liu,  Gunnar Möller,  Daniel Parker,  Michael Rader,  Anton Romen,  Samuel Scalet,  Leon Schoonderwoerd,  Maximilian Schulz,  Tomohiro Soejima,  Philipp Thoma,  Yantao Wu,  Philip Zechmann,  Ludwig Zweng,  Roger S. K. Mong,  Michael P. Zaletel,  Frank Pollmann,  arxiv:2408.02010
 
 * [Local ergotropy and its fluctuations across a dissipative quantum phase transition](https://arxiv.org/abs/2408.02655),  G. Di Bello,  D. Farina,  D. Jansen,  C. A. Perroni,  V. Cataudella,  G. De Filippis,  arxiv:2408.02655
@@ -1983,7 +1985,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-138 papers in 2024
+139 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -1998,5 +2000,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-968 total (through 2024)
+969 total (through 2024)
 -->
