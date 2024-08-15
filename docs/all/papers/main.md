@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Order by projection in single-band Hubbard model: a DMRG study](https://arxiv.org/abs/2408.05578),  Shuyi Li,  Cheng Peng,  Yue Yu,  B. Sriram Shastry,  Chunjing Jia,  arxiv:2408.05578
+
+* [Tensor-based quantum phase difference estimation for large-scale demonstration](https://arxiv.org/abs/2408.04946),  Shu Kanno,  Kenji Sugisaki,  Hajime Nakamura,  Hiroshi Yamauchi,  Rei Sakuma,  Takao Kobayashi,  Qi Gao,  Naoki Yamamoto,  arxiv:2408.04946
+
 * [Detecting Quantum and Classical Phase Transitions via Unsupervised Machine Learning of the Fisher Information Metric](https://arxiv.org/abs/2408.03418),  Victor Kasatkin,  Evgeny Mozgunov,  Nicholas Ezzell,  Daniel Lidar,  arxiv:2408.03418
 
 * [Tensor Network Python (TeNPy) version 1](https://arxiv.org/abs/2408.02010),  Johannes Hauschild,  Jakob Unfried,  Sajant Anand,  Bartholomew Andrews,  Marcus Bintz,  Umberto Borla,  Stefan Divic,  Markus Drescher,  Jan Geiger,  Martin Hefel,  Kévin Hémery,  Wilhelm Kadow,  Jack Kemp,  Nico Kirchner,  Vincent S. Liu,  Gunnar Möller,  Daniel Parker,  Michael Rader,  Anton Romen,  Samuel Scalet,  Leon Schoonderwoerd,  Maximilian Schulz,  Tomohiro Soejima,  Philipp Thoma,  Yantao Wu,  Philip Zechmann,  Ludwig Zweng,  Roger S. K. Mong,  Michael P. Zaletel,  Frank Pollmann,  arxiv:2408.02010
@@ -1985,7 +1989,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-139 papers in 2024
+141 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2000,5 +2004,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-969 total (through 2024)
+971 total (through 2024)
 -->
