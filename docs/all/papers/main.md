@@ -4,6 +4,22 @@
 
 ## 2024
 
+* [Kondo spectral functions at low-temperatures: A dynamical-exchange-correlation-field perspective](https://arxiv.org/abs/2408.12216),  Zhen Zhao,  arxiv:2408.12216
+
+* [Competing quantum effects in spin crossover chains: spin-orbit coupling, magnetic exchange, and elastic interactions](https://arxiv.org/abs/2408.12043),  Finnian Rist,  Henry L. Nourse,  Ben J. Powell,  arxiv:2408.12043
+
+* [Phase diagram of a spin-1/2 Heisenberg ladder with a chirality-chirality interaction](https://arxiv.org/abs/2408.11731),  Mateo Fontaine,  Shunsuke Furukawa,  arxiv:2408.11731
+
+* [Impurities in a trapped 1D Bose gas of arbitrary interaction strength: localization-delocalization transition and absence of self-localization](https://arxiv.org/abs/2408.11549),  Dennis Breu,  Eric Vidal Marcos,  Martin Will,  Michael Fleischhauer,  arxiv:2408.11549
+
+* [Floquet prethermalization of ${\bf Z}_2$ lattice gauge theory on superconducting qubits](https://arxiv.org/abs/2408.10079),  Tomoya Hayata,  Kazuhiro Seki,  Arata Yamamoto,  arxiv:2408.10079
+
+* [Gapless spin excitations in nanographene-based antiferromagnetic spin-1/2 Heisenberg chains](https://arxiv.org/abs/2408.10045),  Chenxiao Zhao,  Lin Yang,  João C. G. Henriques,  Mar Ferri-Cortés,  Gonçalo Catarina,  Carlo A. Pignedoli,  Ji Ma,  Xinliang Feng,  Pascal Ruffieux,  Joaquín Fernández-Rossier,  Roman Fasel,  arxiv:2408.10045
+
+* [Ground State Magnetic Structure and Magnetic Field Effects in the Layered Honeycomb Antiferromagnet YbOCl](https://arxiv.org/abs/2408.10515),  Zheng Zhang,  Yanzhen Cai,  Jinlong Jiao,  Jing Kang,  Dehong Yu,  Bertrand Roessli,  Anmin Zhang,  Jianting Ji,  Feng Jin,  Jie Ma,  Qingming Zhang,  arxiv:2408.10515
+
+* [The fate of poor man's Majoranas in the long Kitaev chain limit](https://arxiv.org/abs/2408.10030),  Melina Luethi,  Henry F. Legg,  Daniel Loss,  Jelena Klinovaja,  arxiv:2408.10030
+
 * [Order by projection in single-band Hubbard model: a DMRG study](https://arxiv.org/abs/2408.05578),  Shuyi Li,  Cheng Peng,  Yue Yu,  B. Sriram Shastry,  Chunjing Jia,  arxiv:2408.05578
 
 * [Tensor-based quantum phase difference estimation for large-scale demonstration](https://arxiv.org/abs/2408.04946),  Shu Kanno,  Kenji Sugisaki,  Hajime Nakamura,  Hiroshi Yamauchi,  Rei Sakuma,  Takao Kobayashi,  Qi Gao,  Naoki Yamamoto,  arxiv:2408.04946
@@ -1989,7 +2005,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-141 papers in 2024
+149 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2004,5 +2020,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-971 total (through 2024)
+979 total (through 2024)
 -->
