@@ -4,6 +4,16 @@
 
 ## 2024
 
+* [Novel ground states and emergent quantum many-body scars in a two-species Rydberg atom array](https://arxiv.org/abs/2408.15965),  Lei-Yi-Nan Liu,  Shun-Yao Yu,  Shi-Rong Peng,  Jie Sheng,  Su Yi,  Peng Xu,  Shou-Shu Gong,  Tao Shi,  Jian Cui,  arxiv:2408.15965
+
+* [Obstruction to Broken Symmetries in Topological Flat Bands](https://arxiv.org/abs/2408.14533),  Penghao Zhu,  Shi Feng,  Yuan-Ming Lu,  arxiv:2408.14533
+
+* [Fingerprints of supersymmetric spin and charge dynamics observed by inelastic neutron scattering](https://arxiv.org/abs/2408.12626),  B. Wehinger,  F. T. Lisandrini,  N. Kestin,  P. Bouillot,  S. Ward,  D. Biner,  R. Bewley,  K. W. Krämer,  B. Normand,  C. Kollath,  T. Giamarchi,  A. M. Läuchli,  Ch. Rüegg,  arxiv:2408.12626
+
+* [Engineering a Josephson junction chain for the simulation of the clock model](https://arxiv.org/abs/2408.14549),  Matteo M. Wauters,  Lorenzo Maffi,  Michele Burrello,  arxiv:2408.14549
+
+* [Quantum Convolutional Neural Networks are (Effectively) Classically Simulable](https://arxiv.org/abs/2408.12739),  Pablo Bermejo,  Paolo Braccia,  Manuel S. Rudolph,  Zoë Holmes,  Lukasz Cincio,  M. Cerezo,  arxiv:2408.12739
+
 * [Kondo spectral functions at low-temperatures: A dynamical-exchange-correlation-field perspective](https://arxiv.org/abs/2408.12216),  Zhen Zhao,  arxiv:2408.12216
 
 * [Competing quantum effects in spin crossover chains: spin-orbit coupling, magnetic exchange, and elastic interactions](https://arxiv.org/abs/2408.12043),  Finnian Rist,  Henry L. Nourse,  Ben J. Powell,  arxiv:2408.12043
@@ -2005,7 +2015,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-149 papers in 2024
+154 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2020,5 +2030,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-979 total (through 2024)
+984 total (through 2024)
 -->
