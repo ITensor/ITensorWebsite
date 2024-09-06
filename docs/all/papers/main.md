@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Learning out-of-time-ordered correlators with classical kernel methods](https://arxiv.org/abs/2409.01592),  John Tanner,  Jason Pye,  Jingbo Wang,  arxiv:2409.01592
+
+* [Quick design of feasible tensor networks for constrained combinatorial optimization](https://arxiv.org/abs/2409.01699),  Hyakka Nakada,  Kotaro Tanahashi,  Shu Tanaka,  arxiv:2409.01699
+
 * [Novel ground states and emergent quantum many-body scars in a two-species Rydberg atom array](https://arxiv.org/abs/2408.15965),  Lei-Yi-Nan Liu,  Shun-Yao Yu,  Shi-Rong Peng,  Jie Sheng,  Su Yi,  Peng Xu,  Shou-Shu Gong,  Tao Shi,  Jian Cui,  arxiv:2408.15965
 
 * [Obstruction to Broken Symmetries in Topological Flat Bands](https://arxiv.org/abs/2408.14533),  Penghao Zhu,  Shi Feng,  Yuan-Ming Lu,  arxiv:2408.14533
@@ -2015,7 +2019,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-154 papers in 2024
+156 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2030,5 +2034,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-984 total (through 2024)
+986 total (through 2024)
 -->
