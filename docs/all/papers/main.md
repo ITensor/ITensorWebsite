@@ -4,6 +4,12 @@
 
 ## 2024
 
+* [Negative dynamic conductivity of the photoinduced $η$ pairing state](https://arxiv.org/abs/2409.04604),  Satoshi Ejima,  Benedikt Fauseweh,  arxiv:2409.04604
+
+* [Emergent interaction-induced topology in Bose-Hubbard ladders](https://arxiv.org/abs/2409.05109),  David Wellnitz,  Gustavo A. Domínguez-Castro,  Thomas Bilitewski,  Monika Aidelsburger,  Ana Maria Rey,  Luis Santos,  arxiv:2409.05109
+
+* [Bias-Field Digitized Counterdiabatic Quantum Algorithm for Higher-Order Binary Optimization](https://arxiv.org/abs/2409.04477),  Sebastián V. Romero,  Anne-Maria Visuri,  Alejandro Gomez Cadavid,  Enrique Solano,  Narendra N. Hegade,  arxiv:2409.04477
+
 * [Anisotropy-induced spin parity effects](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.L100403), Shuntaro Sumita, Akihiro Tanaka, and Yusuke Kato, PhysRev[B,110,L100403] (2024)
 
 * [Learning out-of-time-ordered correlators with classical kernel methods](https://arxiv.org/abs/2409.01592),  John Tanner,  Jason Pye,  Jingbo Wang,  arxiv:2409.01592
@@ -2021,7 +2027,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-157 papers in 2024
+160 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2036,5 +2042,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-987 total (through 2024)
+990 total (through 2024)
 -->
