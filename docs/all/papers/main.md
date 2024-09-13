@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Deterministic generation of a 20-qubit two-dimensional photonic cluster state](https://arxiv.org/abs/2409.06623),  James O'Sullivan,  Kevin Reuer,  Aleksandr Grigorev,  Xi Dai,  Alonso Hernández-Antón,  Manuel H. Muñoz-Arias,  Christoph Hellings,  Alexander Flasby,  Dante Colao Zanuz,  Jean-Claude Besse,  Alexandre Blais,  Daniel Malz,  Christopher Eichler,  Andreas Wallraff,  arxiv:2409.06623
+
+* [Simulating continuous-space systems with quantum-classical wave functions](https://arxiv.org/abs/2409.06415),  Friederike Metz,  Gabriel Pescia,  Giuseppe Carleo,  arxiv:2409.06415
+
 * [Negative dynamic conductivity of the photoinduced $η$ pairing state](https://arxiv.org/abs/2409.04604),  Satoshi Ejima,  Benedikt Fauseweh,  arxiv:2409.04604
 
 * [Emergent interaction-induced topology in Bose-Hubbard ladders](https://arxiv.org/abs/2409.05109),  David Wellnitz,  Gustavo A. Domínguez-Castro,  Thomas Bilitewski,  Monika Aidelsburger,  Ana Maria Rey,  Luis Santos,  arxiv:2409.05109
@@ -2027,7 +2031,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-160 papers in 2024
+162 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2042,5 +2046,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-990 total (through 2024)
+992 total (through 2024)
 -->
