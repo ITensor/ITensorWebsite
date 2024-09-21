@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Charge and spin properties of a generalized Wigner crystal realized in the moiré WSe$_2$/WS$_2$ heterobilayer](https://arxiv.org/abs/2409.11202),  Andrzej Biborski,  Michał Zegrodnik,  arxiv:2409.11202
+
 * [Spinon spin current](https://arxiv.org/abs/2409.08327),  Ren-Bo Wang,  Naveen Nishad,  Anna Keselman,  Leon Balents,  Oleg A. Starykh,  arxiv:2409.08327
 
 * [The quantum Newman-Moore model in a longitudinal field](https://arxiv.org/abs/2409.09235),  Konstantinos Sfairopoulos,  Juan P. Garrahan,  arxiv:2409.09235
@@ -2037,7 +2039,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-165 papers in 2024
+166 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2052,5 +2054,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-995 total (through 2024)
+996 total (through 2024)
 -->
