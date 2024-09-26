@@ -4,6 +4,14 @@
 
 ## 2024
 
+* [Probing Celestial Energy and Charge Correlations through Real-Time Quantum Simulations: Insights from the Schwinger Model](https://arxiv.org/abs/2409.13816),  João Barata,  Swagato Mukherjee,  arxiv:2409.13816
+
+* [Quantum resources of quantum and classical variational methods](https://arxiv.org/abs/2409.13008),  Thomas Spriggs,  Arash Ahmadi,  Bokai Chen,  Eliska Greplova,  arxiv:2409.13008
+
+* [Structural transition, spontaneous formation of strong singlet dimers and metamagnetism in $S=3/2$ magnetoelastic spin chains](https://arxiv.org/abs/2409.13446),  C. J. Gazza,  A. A. Aligia,  A. O. Dobry,  G. L. Rossini,  D. C. Cabra,  arxiv:2409.13446
+
+* [Efficient computation of cumulant evolution and full counting statistics: application to infinite temperature quantum spin chains](https://arxiv.org/abs/2409.14442),  Angelo Valli,  Cătălin Paşcu Moca,  Miklós Antal Werner,  Márton Kormos,  Žiga Krajnik,  Tomaž Prosen,  Gergely Zaránd,  arxiv:2409.14442
+
 * [Ground states of strongly-correlated materials on quantum computers using ab initio downfolding](https://arxiv.org/abs/2409.12237),  Antonios M. Alvertis,  Abid Khan,  Norm M. Tubman,  arxiv:2409.12237
 
 * [Charge and spin properties of a generalized Wigner crystal realized in the moiré WSe$_2$/WS$_2$ heterobilayer](https://arxiv.org/abs/2409.11202),  Andrzej Biborski,  Michał Zegrodnik,  arxiv:2409.11202
@@ -666,7 +674,7 @@
 
 * [Preparation for quantum simulation of the (1+1)-dimensional O(3) nonlinear sigma model using cold atoms](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.042404), Anthony N. Ciavarella, Stephan Caspar, Hersh Singh, and Martin J. Savage, PhysRev[A,107,042404] (2023)
 
-* [Tensor-Network Simulations of Noisy Quantum Computers](https://arxiv.org/abs/2304.01751),  Marcel Niedermeier,  Jose L. Lado,  Christian Flindt,  arxiv:2304.01751
+* [Simulating the quantum Fourier transform, Grover's algorithm, and the quantum counting algorithm with limited entanglement using tensor networks](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033325),  Marcel Niedermeier,  Jose L. Lado,  Christian Flindt, PhysRev[Research,6,033325] [arxiv:2304.01751]
 
 * [Efficient separation of quantum from classical correlations for mixed states with a fixed charge](https://quantum-journal.org/papers/q-2023-03-20-954/), Christian Carisch, Oded Zilberberg, Journal[Quantum,7,954,https://quantum-journal.org/papers/q-2023-03-20-954/] (2023)
 
@@ -2041,7 +2049,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-167 papers in 2024
+171 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2056,5 +2064,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-997 total (through 2024)
+1001 total (through 2024)
 -->
