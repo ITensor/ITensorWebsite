@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Extracting Dynamical Maps of Non-Markovian Open Quantum Systems](https://arxiv.org/abs/2409.17051),  David J. Strachan,  Archak Purkayastha,  Stephen R. Clark,  arxiv:2409.17051
+
 * [Probing Celestial Energy and Charge Correlations through Real-Time Quantum Simulations: Insights from the Schwinger Model](https://arxiv.org/abs/2409.13816),  João Barata,  Swagato Mukherjee,  arxiv:2409.13816
 
 * [Quantum resources of quantum and classical variational methods](https://arxiv.org/abs/2409.13008),  Thomas Spriggs,  Arash Ahmadi,  Bokai Chen,  Eliska Greplova,  arxiv:2409.13008
@@ -2049,7 +2051,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-171 papers in 2024
+172 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2064,5 +2066,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1001 total (through 2024)
+1005 total (through 2024)
 -->
