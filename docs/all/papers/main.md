@@ -4,6 +4,14 @@
 
 ## 2024
 
+* [Comparison of Matrix Product State and Multiconfiguration Time-Dependent Hartree Methods for Nonadiabatic Dynamics of Exciton Dissociation](https://doi.org/10.1021/acs.jctc.4c00751), Maximilian F. X. Dorfner, Dominik Brey, Irene Burghardt,Frank Ortmann, <i>Journal of Chemical Theory and Computation</i> (2024)
+
+* [Itinerant magnetism in Hubbard models with long-range interactions](https://arxiv.org/abs/2410.00955),  Johannes Dieplinger,  Rhine Samajdar,  R. N. Bhatt,  arxiv:2410.00955
+
+* [Floquet evolution of the q-deformed \texorpdfstring{SU(3)${}_1$}{SU(3)1} Yang-Mills theory on a two-leg ladder](https://arxiv.org/abs/2409.20263),  Tomoya Hayata,  Yoshimasa Hidaka,  arxiv:2409.20263
+
+* [Multi-site gates for state preparation in quantum simulation of the Bose Hubbard Model](https://arxiv.org/abs/2410.00973),  Pranjal Praneel,  Thomas G. Kiely,  Erich J. Mueller,  Andre G. Petukhov,  arxiv:2410.00973
+
 * [Observation of spin squeezing with contact interactions in one- and three-dimensional easy-plane magnets](https://arxiv.org/abs/2409.17398),  Yoo Kyung Lee,  Maxwell Block,  Hanzhen Lin,  Vitaly Fedoseev,  Philip J. D. Crowley,  Norman Y. Yao,  Wolfgang Ketterle,  arxiv:2409.17398
 
 * [Extracting Dynamical Maps of Non-Markovian Open Quantum Systems](https://arxiv.org/abs/2409.17051),  David J. Strachan,  Archak Purkayastha,  Stephen R. Clark,  arxiv:2409.17051
@@ -2053,7 +2061,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-173 papers in 2024
+177 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2068,5 +2076,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1006 total (through 2024)
+1010 total (through 2024)
 -->
