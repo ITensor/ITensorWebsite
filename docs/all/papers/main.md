@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Compressing multivariate functions with tree tensor networks](https://arxiv.org/abs/2410.03572),  Joseph Tindall,  Miles Stoudenmire,  Ryan Levy,  arxiv:2410.03572
+
 * [Comparison of Matrix Product State and Multiconfiguration Time-Dependent Hartree Methods for Nonadiabatic Dynamics of Exciton Dissociation](https://doi.org/10.1021/acs.jctc.4c00751), Maximilian F. X. Dorfner, Dominik Brey, Irene Burghardt,Frank Ortmann, <i>Journal of Chemical Theory and Computation</i> (2024)
 
 * [Itinerant magnetism in Hubbard models with long-range interactions](https://arxiv.org/abs/2410.00955),  Johannes Dieplinger,  Rhine Samajdar,  R. N. Bhatt,  arxiv:2410.00955
@@ -2061,7 +2063,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-177 papers in 2024
+178 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2076,5 +2078,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1010 total (through 2024)
+1011 total (through 2024)
 -->
