@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Ring-exchange physics in a chain of three-level ions](https://arxiv.org/abs/2410.06655),  Sourav Biswas,  E. Rico,  Tobias Grass,  arxiv:2410.06655
+
+* [Universal scaling of quantum caustics in the dynamics of interacting particles](https://arxiv.org/abs/2410.06803),  Monalisa Singh Roy,  Jesse Mumford,  D. H. J. O'Dell,  Emanuele G. Dalla Torre,  arxiv:2410.06803
+
 * [Compressing multivariate functions with tree tensor networks](https://arxiv.org/abs/2410.03572),  Joseph Tindall,  Miles Stoudenmire,  Ryan Levy,  arxiv:2410.03572
 
 * [Comparison of Matrix Product State and Multiconfiguration Time-Dependent Hartree Methods for Nonadiabatic Dynamics of Exciton Dissociation](https://doi.org/10.1021/acs.jctc.4c00751), Maximilian F. X. Dorfner, Dominik Brey, Irene Burghardt,Frank Ortmann, <i>Journal of Chemical Theory and Computation</i> (2024)
@@ -2063,7 +2067,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-178 papers in 2024
+180 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2078,5 +2082,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1011 total (through 2024)
+1013 total (through 2024)
 -->
