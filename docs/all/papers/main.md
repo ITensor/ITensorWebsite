@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Robustness of near-thermal dynamics on digital quantum computers](https://arxiv.org/abs/2410.10794),  Eli Chertkov,  Yi-Hsiang Chen,  Michael Lubasch,  David Hayes,  Michael Foss-Feig,  arxiv:2410.10794
+
 * [Ring-exchange physics in a chain of three-level ions](https://arxiv.org/abs/2410.06655),  Sourav Biswas,  E. Rico,  Tobias Grass,  arxiv:2410.06655
 
 * [Universal scaling of quantum caustics in the dynamics of interacting particles](https://arxiv.org/abs/2410.06803),  Monalisa Singh Roy,  Jesse Mumford,  D. H. J. O'Dell,  Emanuele G. Dalla Torre,  arxiv:2410.06803
@@ -2067,7 +2069,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-180 papers in 2024
+181 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2082,5 +2084,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1013 total (through 2024)
+1014 total (through 2024)
 -->
