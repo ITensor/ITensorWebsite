@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Non-unitarity maximizing unraveling of open quantum dynamics](https://arxiv.org/abs/2410.11690),  Ruben Daraban,  Fabrizio Salas-Ramírez,  Johannes Schachenmayer,  arxiv:2410.11690
+
 * [Robustness of near-thermal dynamics on digital quantum computers](https://arxiv.org/abs/2410.10794),  Eli Chertkov,  Yi-Hsiang Chen,  Michael Lubasch,  David Hayes,  Michael Foss-Feig,  arxiv:2410.10794
 
 * [Ring-exchange physics in a chain of three-level ions](https://arxiv.org/abs/2410.06655),  Sourav Biswas,  E. Rico,  Tobias Grass,  arxiv:2410.06655
@@ -2069,7 +2071,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-181 papers in 2024
+182 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2084,5 +2086,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1014 total (through 2024)
+1015 total (through 2024)
 -->
