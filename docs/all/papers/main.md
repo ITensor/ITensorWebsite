@@ -4,6 +4,14 @@
 
 ## 2024
 
+* [Elucidating Dynamical Behaviors in Kinetically Constrained Models via Energy-Activity Double-Biased Matrix Product State Analysis](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c02197), Yoong Hee Lee, Jay-Hak Lee, and YounJoon Jung, Journal[J. Phys. Chem. Lett., 15, 10777−10785,https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c02197]
+
+* [Path integral Monte Carlo in a discrete variable representation with Gibbs sampling: dipolar planar rotor chain](https://arxiv.org/abs/2410.13633),  Wenxue Zhang,  Muhammad Shaeer Moeed,  Andrew Bright,  Tobias Serwatka,  Estevao De Oliveira,  Pierre-Nicholas Roy,  arxiv:2410.13633
+
+* [Emergent spacetime supersymmetry in an interacting Kitaev chain with explicit supersymmetry](https://arxiv.org/abs/2410.13354),  Urei Miura,  Keisuke Totsuka,  arxiv:2410.13354
+
+* [Instability of steady-state mixed-state symmetry-protected topological order to strong-to-weak spontaneous symmetry breaking](https://arxiv.org/abs/2410.12900),  Jeet Shah,  Christopher Fechisin,  Yu-Xin Wang,  Joseph T. Iosue,  James D. Watson,  Yan-Qi Wang,  Brayden Ware,  Alexey V. Gorshkov,  Cheng-Ju Lin,  arxiv:2410.12900
+
 * [Non-unitarity maximizing unraveling of open quantum dynamics](https://arxiv.org/abs/2410.11690),  Ruben Daraban,  Fabrizio Salas-Ramírez,  Johannes Schachenmayer,  arxiv:2410.11690
 
 * [Robustness of near-thermal dynamics on digital quantum computers](https://arxiv.org/abs/2410.10794),  Eli Chertkov,  Yi-Hsiang Chen,  Michael Lubasch,  David Hayes,  Michael Foss-Feig,  arxiv:2410.10794
@@ -2071,7 +2079,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-182 papers in 2024
+186 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2086,5 +2094,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1015 total (through 2024)
+1019 total (through 2024)
 -->
