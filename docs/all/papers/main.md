@@ -4,6 +4,12 @@
 
 ## 2024
 
+* [Influence of oxygen orbitals and boundary conditions on the pairing behavior in the Emery model for doped ladders](https://arxiv.org/abs/2410.14280),  Gökmen Polat,  Eric Jeckelmann,  arxiv:2410.14280
+
+* [Integrable and critical Haagerup spin chains](https://arxiv.org/abs/2410.16356),  Luke Corcoran,  Marius de Leeuw,  arxiv:2410.16356
+
+* [Quench dynamics of stripes and phase separation in the two-dimensional $t$-$J$ model](https://arxiv.org/abs/2410.16387),  Luke Staszewski,  Alexander Wietek,  arxiv:2410.16387
+
 * [Elucidating Dynamical Behaviors in Kinetically Constrained Models via Energy-Activity Double-Biased Matrix Product State Analysis](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c02197), Yoong Hee Lee, Jay-Hak Lee, and YounJoon Jung, Journal[J. Phys. Chem. Lett.,15,10777,https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c02197]
 
 * [Path integral Monte Carlo in a discrete variable representation with Gibbs sampling: dipolar planar rotor chain](https://arxiv.org/abs/2410.13633),  Wenxue Zhang,  Muhammad Shaeer Moeed,  Andrew Bright,  Tobias Serwatka,  Estevao De Oliveira,  Pierre-Nicholas Roy,  arxiv:2410.13633
@@ -2079,7 +2085,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-186 papers in 2024
+189 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2094,5 +2100,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1019 total (through 2024)
+1022 total (through 2024)
 -->
