@@ -4,7 +4,7 @@
 
 ## 2024
 
-* [Elucidating Dynamical Behaviors in Kinetically Constrained Models via Energy-Activity Double-Biased Matrix Product State Analysis](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c02197), Yoong Hee Lee, Jay-Hak Lee, and YounJoon Jung, Journal[J. Phys. Chem. Lett., 15, 10777−10785,https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c02197]
+* [Elucidating Dynamical Behaviors in Kinetically Constrained Models via Energy-Activity Double-Biased Matrix Product State Analysis](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c02197), Yoong Hee Lee, Jay-Hak Lee, and YounJoon Jung, Journal[J. Phys. Chem. Lett.,15,10777,https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c02197]
 
 * [Path integral Monte Carlo in a discrete variable representation with Gibbs sampling: dipolar planar rotor chain](https://arxiv.org/abs/2410.13633),  Wenxue Zhang,  Muhammad Shaeer Moeed,  Andrew Bright,  Tobias Serwatka,  Estevao De Oliveira,  Pierre-Nicholas Roy,  arxiv:2410.13633
 
