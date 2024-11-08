@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Scalable Quantum Simulations of Scattering in Scalar Field Theory on 120 Qubits](https://arxiv.org/abs/2411.02486),  Nikita A. Zemlevskiy,  arxiv:2411.02486
+
 * [Performance Benchmarking of Quantum Algorithms for Hard Combinatorial Optimization Problems: A Comparative Study of non-FTQC Approaches](https://arxiv.org/abs/2410.22810),  Santaro Kikuura,  Ryoya Igata,  Yuta Shingu,  Shohei Watabe,  arxiv:2410.22810
 
 * [Insulating charge transfer ferromagnetism](https://arxiv.org/abs/2410.22399),  Yixin Zhang,  Yang Zhang,  arxiv:2410.22399
@@ -2091,7 +2093,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-192 papers in 2024
+193 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2106,5 +2108,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1025 total (through 2024)
+1026 total (through 2024)
 -->
