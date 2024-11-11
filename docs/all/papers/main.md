@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Gauge theory and mixed state criticality](https://arxiv.org/abs/2411.04360),  Takamasa Ando,  Shinsei Ryu,  Masataka Watanabe,  arxiv:2411.04360
+
 * [Non-unitary quantum many-body dynamics using the Faber polynomial method](https://scipost.org/SciPostPhys.17.5.128), Rafael Diogo Soares, Marco Schirò, Journal[SciPost Phys,17,5,https://scipost.org/SciPostPhys.17.5.128]
 
 * [Self-congruent point in critical matrix product states: An effective field theory for finite-entanglement scaling](https://arxiv.org/abs/2411.03954),  Jan T. Schneider,  Atsushi Ueda,  Yifan Liu,  Andreas M. Läuchli,  Masaki Oshikawa,  Luca Tagliacozzo,  arxiv:2411.03954
@@ -2103,7 +2105,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-198 papers in 2024
+199 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2118,5 +2120,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1031 total (through 2024)
+1032 total (through 2024)
 -->
