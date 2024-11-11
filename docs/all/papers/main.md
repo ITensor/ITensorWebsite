@@ -4,6 +4,12 @@
 
 ## 2024
 
+* [Non-unitary quantum many-body dynamics using the Faber polynomial method](https://scipost.org/SciPostPhys.17.5.128), Rafael Diogo Soares, Marco Schirò, Journal[SciPost Phys,17,5,https://scipost.org/SciPostPhys.17.5.128]
+
+* [Self-congruent point in critical matrix product states: An effective field theory for finite-entanglement scaling](https://arxiv.org/abs/2411.03954),  Jan T. Schneider,  Atsushi Ueda,  Yifan Liu,  Andreas M. Läuchli,  Masaki Oshikawa,  Luca Tagliacozzo,  arxiv:2411.03954
+
+* [Gauge-Fixing Quantum Density Operators At Scale](https://arxiv.org/abs/2411.03548),  Amit Jamadagni,  Eugene Dumitrescu,  arxiv:2411.03548
+
 * [Neural Network Matrix Product Operator: A Multi-Dimensionally Integrable Machine Learning Potential](https://arxiv.org/abs/2410.23858),  Kentaro Hino,  Yuki Kurashige,  arxiv:2410.23858
 
 * [Dynamical simulations of many-body quantum chaos on a quantum computer](https://arxiv.org/abs/2411.00765),  Laurin E. Fischer,  Matea Leahy,  Andrew Eddins,  Nathan Keenan,  Davide Ferracin,  Matteo A. C. Rossi,  Youngseok Kim,  Andre He,  Francesca Pietracaprina,  Boris Sokolov,  Shane Dooley,  Zoltán Zimborás,  Francesco Tacchino,  Sabrina Maniscalco,  John Goold,  Guillermo García-Pérez,  Ivano Tavernelli,  Abhinav Kandala,  Sergey N. Filippov,  arxiv:2411.00765
@@ -2097,7 +2103,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-195 papers in 2024
+198 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2112,5 +2118,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1028 total (through 2024)
+1031 total (through 2024)
 -->
