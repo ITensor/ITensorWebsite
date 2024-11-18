@@ -4,6 +4,14 @@
 
 ## 2024
 
+* [Quantum real-time evolution of entanglement and hadronization in jet production: Lessons from the massive Schwinger model], Adrien Florio, David Frenklakh, Kazuki Ikeda, Dmitri Kharzeev, Vladimir Korepin, Shuzhe Shi, and Kwangmin Yu, PhysRev[D,110,094029] (2024)
+
+* [Re-anchoring Quantum Monte Carlo with Tensor-Train Sketching](https://arxiv.org/abs/2411.07194),  Ziang Yu,  Shiwei Zhang,  Yuehaw Khoo,  arxiv:2411.07194
+
+* [Improved entanglement entropy estimates from filtered bitstring probabilities](https://arxiv.org/abs/2411.07092),  Avi Kaufman,  James Corona,  Zane Ozzello,  Muhammad Asaduzzaman,  Yannick Meurice,  arxiv:2411.07092
+
+* [Autoregressive neural quantum states of Fermi Hubbard models](https://arxiv.org/abs/2411.07144),  Eduardo Ibarra-García-Padilla,  Hannah Lange,  Roger G Melko,  Richard T Scalettar,  Juan Carrasquilla,  Annabelle Bohrdt,  Ehsan Khatami,  arxiv:2411.07144
+
 * [Quantum real-time evolution using tensor renormalization group methods](https://arxiv.org/abs/2411.05301),  Michael Hite,  Yannick Meurice,  arxiv:2411.05301
 
 * [Gauge theory and mixed state criticality](https://arxiv.org/abs/2411.04360),  Takamasa Ando,  Shinsei Ryu,  Masataka Watanabe,  arxiv:2411.04360
@@ -2107,7 +2115,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-200 papers in 2024
+204 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2122,5 +2130,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1033 total (through 2024)
+1037 total (through 2024)
 -->
