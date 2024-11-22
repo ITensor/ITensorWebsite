@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Stabilizer disentangling of conformal field theories](https://arxiv.org/abs/2411.11720),  Martina Frau,  Poetri Sonya Tarabunga,  Mario Collura,  Emanuele Tirrito,  Marcello Dalmonte,  arxiv:2411.11720
+
 * [Quantum real-time evolution of entanglement and hadronization in jet production: Lessons from the massive Schwinger model], Adrien Florio, David Frenklakh, Kazuki Ikeda, Dmitri Kharzeev, Vladimir Korepin, Shuzhe Shi, and Kwangmin Yu, PhysRev[D,110,094029] (2024)
 
 * [Re-anchoring Quantum Monte Carlo with Tensor-Train Sketching](https://arxiv.org/abs/2411.07194),  Ziang Yu,  Shiwei Zhang,  Yuehaw Khoo,  arxiv:2411.07194
@@ -2115,7 +2117,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-204 papers in 2024
+205 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2130,5 +2132,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1037 total (through 2024)
+1038 total (through 2024)
 -->
