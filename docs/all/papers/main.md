@@ -12,7 +12,7 @@
 
 * [Stabilizer disentangling of conformal field theories](https://arxiv.org/abs/2411.11720),  Martina Frau,  Poetri Sonya Tarabunga,  Mario Collura,  Emanuele Tirrito,  Marcello Dalmonte,  arxiv:2411.11720
 
-* [Quantum real-time evolution of entanglement and hadronization in jet production: Lessons from the massive Schwinger model], Adrien Florio, David Frenklakh, Kazuki Ikeda, Dmitri Kharzeev, Vladimir Korepin, Shuzhe Shi, and Kwangmin Yu, PhysRev[D,110,094029] (2024)
+* [Quantum real-time evolution of entanglement and hadronization in jet production: Lessons from the massive Schwinger model](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.094029), Adrien Florio, David Frenklakh, Kazuki Ikeda, Dmitri Kharzeev, Vladimir Korepin, Shuzhe Shi, and Kwangmin Yu, PhysRev[D,110,094029] (2024)
 
 * [Re-anchoring Quantum Monte Carlo with Tensor-Train Sketching](https://arxiv.org/abs/2411.07194),  Ziang Yu,  Shiwei Zhang,  Yuehaw Khoo,  arxiv:2411.07194
 
