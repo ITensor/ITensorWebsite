@@ -4,6 +4,12 @@
 
 ## 2024
 
+* [Quantum phase transition and composite excitations of antiferromagnetic spin trimer chains in a magnetic field](https://www.nature.com/articles/s41535-024-00705-8), Jun-Qing Cheng, Zhi-Yao Ning, Han-Qing Wu & Dao-Xin Yao, Journal[npj Quantum Materials,9,96,https://www.nature.com/articles/s41535-024-00705-8] (2024) 
+
+* [From quantum enhanced to quantum inspired Monte Carlo](https://arxiv.org/abs/2411.17821),  Johannes Christmann,  Petr Ivashkov,  Mattia Chiurco,  Guglielmo Mazzola,  arxiv:2411.17821
+
+* [Emergent disorder and sub-ballistic dynamics in quantum simulations of the Ising model using Rydberg atom arrays](https://arxiv.org/abs/2411.13643),  Ceren B. Dag,  Hanzhen Ma,  P. Myles Eugenio,  Fang Fang,  Susanne F. Yelin,  arxiv:2411.13643
+
 * [Stabilizer disentangling of conformal field theories](https://arxiv.org/abs/2411.11720),  Martina Frau,  Poetri Sonya Tarabunga,  Mario Collura,  Emanuele Tirrito,  Marcello Dalmonte,  arxiv:2411.11720
 
 * [Quantum real-time evolution of entanglement and hadronization in jet production: Lessons from the massive Schwinger model], Adrien Florio, David Frenklakh, Kazuki Ikeda, Dmitri Kharzeev, Vladimir Korepin, Shuzhe Shi, and Kwangmin Yu, PhysRev[D,110,094029] (2024)
@@ -2117,7 +2123,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-205 papers in 2024
+208 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2132,5 +2138,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1038 total (through 2024)
+1041 total (through 2024)
 -->
