@@ -4,6 +4,8 @@
 
 ## 2024
 
+* [Learning Feedback Mechanisms for Measurement-Based Variational Quantum State Preparation](https://arxiv.org/abs/2411.19914),  Daniel Alcalde Puente,  Matteo Rizzi,  arxiv:2411.19914
+
 * [Forestalled Phase Separation as the Precursor to Stripe Order](https://arxiv.org/abs/2411.15158),  Aritra Sinha,  Alexander Wietek,  arxiv:2411.15158
 
 * [Quantum phase transition and composite excitations of antiferromagnetic spin trimer chains in a magnetic field](https://www.nature.com/articles/s41535-024-00705-8), Jun-Qing Cheng, Zhi-Yao Ning, Han-Qing Wu & Dao-Xin Yao, Journal[npj Quantum Materials,9,96,https://www.nature.com/articles/s41535-024-00705-8] (2024) 
@@ -2125,7 +2127,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-209 papers in 2024
+210 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2140,5 +2142,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1042 total (through 2024)
+1043 total (through 2024)
 -->
