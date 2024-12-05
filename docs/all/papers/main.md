@@ -4,6 +4,12 @@
 
 ## 2024
 
+* [Anomalous enhancement of Neel order in the $S = 1/2$ square lattice Heisenberg model under fictitious magnetic field](https://arxiv.org/abs/2412.01435),  Takayuki Yokoyama,  Yasuhiro Tada,  arxiv:2412.01435
+
+* [Fractionalized Kohn-Sham ansatz for strongly-correlated electrons](https://arxiv.org/abs/2412.01061),  Bo Zhao,  Jingyu Zhao,  Zheng Zhu,  Jian Wu,  Zheng Liu,  arxiv:2412.01061
+
+* [Edge modes and boundary impurities in the anisotropic Heisenberg spin chain](https://arxiv.org/abs/2412.00194),  Pradip Kattel,  Parameshwar R. Pasnoori,  J. H. Pixley,  Natan Andrei,  arxiv:2412.00194
+
 * [Learning Feedback Mechanisms for Measurement-Based Variational Quantum State Preparation](https://arxiv.org/abs/2411.19914),  Daniel Alcalde Puente,  Matteo Rizzi,  arxiv:2411.19914
 
 * [Forestalled Phase Separation as the Precursor to Stripe Order](https://arxiv.org/abs/2411.15158),  Aritra Sinha,  Alexander Wietek,  arxiv:2411.15158
@@ -2127,7 +2133,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-210 papers in 2024
+213 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2142,5 +2148,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1043 total (through 2024)
+1046 total (through 2024)
 -->
