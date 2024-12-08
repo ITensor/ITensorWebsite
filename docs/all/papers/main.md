@@ -4,7 +4,17 @@
 
 ## 2024
 
-* [Anomalous enhancement of Neel order in the $S = 1/2$ square lattice Heisenberg model under fictitious magnetic field](https://arxiv.org/abs/2412.01435),  Takayuki Yokoyama,  Yasuhiro Tada,  arxiv:2412.01435
+* [3-phases Confusion Learning](https://arxiv.org/abs/2412.02458),  Filippo Caleca,  Simone Tibaldi,  Elisa Ercolessi,  arxiv:2412.02458
+
+* [Precision study of the massive Schwinger model near quantum criticality](https://arxiv.org/abs/2412.01902),  Erick Arguello Cruz,  Grigory Tarnopolsky,  Yuan Xin,  arxiv:2412.01902
+
+* [Simulating matrix models with tensor networks](https://arxiv.org/abs/2412.04133),  Enrico M. Brehm,  Yibin Guo,  Karl Jansen,  Enrico Rinaldi,  arxiv:2412.04133
+
+* [Quantum Theory of X-ray Photon Correlation Spectroscopy](https://arxiv.org/abs/2412.03635),  Phum Siriviboon,  Chu-Liang Fu,  Michael Landry,  Ryotaro Okabe,  Denisse Córdova Carrizales,  Yao Wang,  Mingda Li,  arxiv:2412.03635
+
+* [Phase Diagram of the Easy-Axis Triangular-Lattice J1-J2 Model](https://arxiv.org/abs/2412.03648),  Cesar A. Gallegos,  Shengtao Jiang,  Steven R. White,  A. L. Chernyshev,  arxiv:2412.03648
+
+* [Anomalous enhancement of Neel order in the S=1/2 square lattice Heisenberg model under fictitious magnetic field](https://arxiv.org/abs/2412.01435),  Takayuki Yokoyama,  Yasuhiro Tada,  arxiv:2412.01435
 
 * [Fractionalized Kohn-Sham ansatz for strongly-correlated electrons](https://arxiv.org/abs/2412.01061),  Bo Zhao,  Jingyu Zhao,  Zheng Zhu,  Jian Wu,  Zheng Liu,  arxiv:2412.01061
 
@@ -2133,7 +2143,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-213 papers in 2024
+218 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2148,5 +2158,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1046 total (through 2024)
+1051 total (through 2024)
 -->
