@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Interaction-induced phases in the half-filled Bernevig-Hughes-Zhang model in one dimension](https://arxiv.org/abs/2412.05975),  Roberta Favata,  Davide Piccioni,  Alberto Parola,  Federico Becca,  arxiv:2412.05975
+
+* [No-Free-Lunch Theories for Tensor-Network Machine Learning Models](https://arxiv.org/abs/2412.05674),  Jing-Chuan Wu,  Qi Ye,  Dong-Ling Deng,  Li-Wei Yu,  arxiv:2412.05674
+
 * [3-phases Confusion Learning](https://arxiv.org/abs/2412.02458),  Filippo Caleca,  Simone Tibaldi,  Elisa Ercolessi,  arxiv:2412.02458
 
 * [Precision study of the massive Schwinger model near quantum criticality](https://arxiv.org/abs/2412.01902),  Erick Arguello Cruz,  Grigory Tarnopolsky,  Yuan Xin,  arxiv:2412.01902
@@ -2143,7 +2147,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-218 papers in 2024
+220 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2158,5 +2162,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1051 total (through 2024)
+1053 total (through 2024)
 -->
