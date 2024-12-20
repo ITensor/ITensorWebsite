@@ -4,6 +4,10 @@
 
 ## 2024
 
+* [Efficiently measuring $d$-wave pairing and beyond in quantum gas microscopes](https://arxiv.org/abs/2412.13186),  Daniel K. Mark,  Hong-Ye Hu,  Joyce Kwan,  Christian Kokail,  Soonwon Choi,  Susanne F. Yelin,  arxiv:2412.13186
+
+* [Dynamical Aharonov-Bohm cages and tight meson confinement in a $\mathbb{Z}_2$-loop gauge theory](https://arxiv.org/abs/2412.12425),  Enrico C. Domanti,  Alejandro Bermudez,  Luigi Amico,  arxiv:2412.12425
+
 * [Roughening dynamics of interfaces in two-dimensional quantum matter](https://arxiv.org/abs/2412.10145),  Wladislaw Krinitsin,  Niklas Tausendpfund,  Matteo Rizzi,  Markus Heyl,  Markus Schmitt,  arxiv:2412.10145
 
 * [Real-Time Simulation of Asymmetry Generation in Fermion-Bubble Collisions](https://arxiv.org/abs/2412.10365),  Marcela Carena,  Ying-Ying Li,  Tong Ou,  Hersh Singh,  arxiv:2412.10365
@@ -2151,7 +2155,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-222 papers in 2024
+224 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
@@ -2166,5 +2170,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1055 total (through 2024)
+1057 total (through 2024)
 -->
