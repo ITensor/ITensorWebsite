@@ -2,7 +2,61 @@
 
 <i style="font-size:90%; color:#999999">Please send any papers not listed here to support -at- itensor.org</i>
 
+
+## 2025
+
+* [Macroproperties vs. Microstates in the Classical Simulation of Critical Phenomena in Quench Dynamics of 1D Ising Models](https://doi.org/10.1088/1367-2630/ada84f), Anupam Mitra, Tameem Albash, Philip Blocher, Jun Takahasi, Akimasa Miyake, Grant Biedermann, Ivan H. Deutsch, Journal[New J. Phys.,117992,https://doi.org/10.1088/1367-2630/ada84f]
+
+* [Exploring nontrivial topology at quantum criticality in a superconducting processor](https://arxiv.org/abs/2501.04679),  Ziqi Tan,  Ke Wang,  Sheng Yang,  Fanhao Shen,  Feitong Jin,  Xuhao Zhu,  Yujie Ji,  Shibo Xu,  Jiachen Chen,  Yaozu Wu,  Chuanyu Zhang,  Yu Gao,  Ning Wang,  Yiren Zou,  Aosai Zhang,  Tingting Li,  Zehang Bao,  Zitian Zhu,  Jiarun Zhong,  Zhengyi Cui,  Yihang Han,  Yiyang He,  Han Wang,  Jianan Yang,  Yanzhe Wang,  Jiayuan Shen,  Gongyu Liu,  Zixuan Song,  Jinfeng Deng,  Hang Dong,  Pengfei Zhang,  Shao-Kai Jian,  Hekang Li,  Zhen Wang,  Qiujiang Guo,  Chao Song,  Xue-Jia Yu,  H. Wang,  Hai-Qing Lin,  Fei Wu,  arxiv:2501.04679
+
+* [Meson-polariton and string dynamics via cavity coupling in Rydberg atom array](https://arxiv.org/abs/2501.04634),  Zeno Bacciconi,  Hernan B. Xavier,  Matteo Marinelli,  Devendra Singh Bhakuni,  Marcello Dalmonte,  arxiv:2501.04634
+
+* [Field-Induced Ordered Phases in Anisotropic Spin-1/2 Kitaev Chains](https://arxiv.org/abs/2501.03329),  Mandev Bhullar,  Haoting Xu,  Hae-Young Kee,  arxiv:2501.03329
+
+* [String breaking dynamics in Ising chain with local vibrations](https://arxiv.org/abs/2501.00604),  Arindam Mallick,  Maciej Lewenstein,  Jakub Zakrzewski,  Marcin Płodzień,  arxiv:2501.00604
+
+* [Responses for one-dimensional quantum spin systems via tensor networks](https://arxiv.org/abs/2501.01920),  Jiayin Gu,  arxiv:2501.01920
+
+* [Reentrant topological phases and spin density wave induced by 1D moiré potentials](https://arxiv.org/abs/2501.01656),  Guo-Qing Zhang,  Ling-Zhi Tang,  L. F. Quezada,  Shi-Hai Dong,  Dan-Wei Zhang,  arxiv:2501.01656
+
+
 ## 2024
+
+* [Anyonization of bosons](https://arxiv.org/abs/2412.21131),  Sudipta Dhar,  Botao Wang,  Milena Horvath,  Amit Vashisht,  Yi Zeng,  Mikhail B. Zvonarev,  Nathan Goldman,  Yanliang Guo,  Manuele Landini,  Hanns-Christoph Nägerl,  arxiv:2412.21131
+
+* [Entanglement as a topological marker in harmonically confined attractive Fermi-Hubbard chains](https://arxiv.org/abs/2412.20515),  Marina Sanino,  Isaac Carvalho,  Vivian França,  arxiv:2412.20515
+
+* [Entanglement entropy scaling laws from fluctuations of non-conserved quantities](https://arxiv.org/abs/2412.15765),  Szczepan Głodzik,  Kim Pöyhönen,  Ali G. Moghaddam,  Teemu Ojanen,  arxiv:2412.15765
+
+* [Flat Bands and Compact Localised States: A Carrollian roadmap](https://arxiv.org/abs/2412.18965),  Nisa Ara,  Aritra Banerjee,  Rudranil Basu,  Bhagya Krishnan,  arxiv:2412.18965
+
+* [Quantum simulating continuum field theories with large-spin lattice models](https://arxiv.org/abs/2412.15325),  Gabriele Calliari,  Marco Di Liberto,  Hannes Pichler,  Torsten V. Zache,  arxiv:2412.15325
+
+* [Exceptional stationary state in a dephasing many-body open quantum system](https://arxiv.org/abs/2412.13820),  Alice Marché,  Gianluca Morettini,  Leonardo Mazza,  Lorenzo Gotta,  Luca Capizzi,  arxiv:2412.13820
+
+* [A Generic Method for Integrating Lindblad Master Equations](https://arxiv.org/abs/2412.13661),  Jiayin Gu,  Fan Zhang,  arxiv:2412.13661
+
+* [High-resolution nonequilibrium $GW$ calculations based on quantics tensor trains](https://arxiv.org/abs/2412.14032),  Maksymilian Środa,  Ken Inayoshi,  Hiroshi Shinaoka,  Philipp Werner,  arxiv:2412.14032
+
+* [Underscreened Kondo Compensation in a Superconductor](https://arxiv.org/abs/2412.13687),  Anand Manaparambil,  Cătălin Paşcu Moca,  Gergely Zaránd,  Ireneusz Weymann,  arxiv:2412.13687
+
+* [Current Fluctuations in One-Dimensional Diffusion-Reaction Systems via Tensor Networks](https://arxiv.org/abs/2412.14385),  Jiayin Gu,  arxiv:2412.14385
+
+* [Correlations, Spectra and Entaglement Transitions in Ensembles of Matrix Product States](https://arxiv.org/abs/2412.14261),  Hugo Lóio,  Guillaume Cecile,  Sarang Gopalakrishnan,  Guglielmo Lami,  Jacopo De Nardis,  arxiv:2412.14261
+
+* [Taming Landau level mixing in fractional quantum Hall states with deep learning](https://arxiv.org/abs/2412.14795),  Yubing Qian,  Tongzhou Zhao,  Jianxiao Zhang,  Tao Xiang,  Xiang Li,  Ji Chen,  arxiv:2412.14795
+
+* [Efficient optical cat state generation using squeezed few-photon superposition states](https://arxiv.org/abs/2412.14798),  Haoyuan Luo,  Sahand Mahmoodian,  arxiv:2412.14798
+
+* [Density Matrix Renormalization Group Study of Domain Wall Qubits](https://arxiv.org/abs/2412.11585),  Guanxiong Qu,  Ji Zou,  Daniel Loss,  Tomoki Hirosawa,  arxiv:2412.11585
+
+* [Phase diagram of Rydberg atoms in a two-leg rectangular ladder](https://arxiv.org/abs/2412.11201),  Shu-Ao Liao,  Jin Zhang,  Li-Ping Yang,  arxiv:2412.11201
+
+* [Floquet-Thermalization via Instantons near Dynamical Freezing](https://arxiv.org/abs/2412.10498),  Rohit Mukherjee,  Haoyu Guo,  Debanjan Chowdhury,  arxiv:2412.10498
+
+* [Learning interactions between Rydberg atoms](https://arxiv.org/abs/2412.12019),  Olivier Simard,  Anna Dawid,  Joseph Tindall,  Michel Ferrero,  Anirvan M. Sengupta,  Antoine Georges,  arxiv:2412.12019
+
+* [Adiabatic preparation of a number-conserving atomic Majorana phase](https://arxiv.org/abs/2412.15286),  Benjamin Michen,  Tim Pokart,  Jan Carl Budich,  arxiv:2412.15286
 
 * [Efficiently measuring $d$-wave pairing and beyond in quantum gas microscopes](https://arxiv.org/abs/2412.13186),  Daniel K. Mark,  Hong-Ye Hu,  Joyce Kwan,  Christian Kokail,  Soonwon Choi,  Susanne F. Yelin,  arxiv:2412.13186
 
@@ -2155,7 +2209,8 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-224 papers in 2024
+7 papers in 2025
+242 papers in 2024
 210 papers in 2023
 139 papers in 2022
 122 papers in 2021
