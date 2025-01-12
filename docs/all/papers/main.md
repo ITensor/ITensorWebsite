@@ -5,7 +5,7 @@
 
 ## 2025
 
-* [Macroproperties vs. Microstates in the Classical Simulation of Critical Phenomena in Quench Dynamics of 1D Ising Models](https://doi.org/10.1088/1367-2630/ada84f), Anupam Mitra, Tameem Albash, Philip Blocher, Jun Takahasi, Akimasa Miyake, Grant Biedermann, Ivan H. Deutsch, Journal[New J. Phys.,117992,https://doi.org/10.1088/1367-2630/ada84f]
+* [Macroproperties vs. Microstates in the Classical Simulation of Critical Phenomena in Quench Dynamics of 1D Ising Models](https://doi.org/10.1088/1367-2630/ada84f), Anupam Mitra, Tameem Albash, Philip Blocher, Jun Takahasi, Akimasa Miyake, Grant Biedermann, Ivan H. Deutsch, Journal[New Journal of Physics,0,117992,https://doi.org/10.1088/1367-2630/ada84f]
 
 * [Exploring nontrivial topology at quantum criticality in a superconducting processor](https://arxiv.org/abs/2501.04679),  Ziqi Tan,  Ke Wang,  Sheng Yang,  Fanhao Shen,  Feitong Jin,  Xuhao Zhu,  Yujie Ji,  Shibo Xu,  Jiachen Chen,  Yaozu Wu,  Chuanyu Zhang,  Yu Gao,  Ning Wang,  Yiren Zou,  Aosai Zhang,  Tingting Li,  Zehang Bao,  Zitian Zhu,  Jiarun Zhong,  Zhengyi Cui,  Yihang Han,  Yiyang He,  Han Wang,  Jianan Yang,  Yanzhe Wang,  Jiayuan Shen,  Gongyu Liu,  Zixuan Song,  Jinfeng Deng,  Hang Dong,  Pengfei Zhang,  Shao-Kai Jian,  Hekang Li,  Zhen Wang,  Qiujiang Guo,  Chao Song,  Xue-Jia Yu,  H. Wang,  Hai-Qing Lin,  Fei Wu,  arxiv:2501.04679
 
