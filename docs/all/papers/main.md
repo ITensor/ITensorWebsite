@@ -5,6 +5,20 @@
 
 ## 2025
 
+* [Almost Strong Zero Modes at Finite Temperature](https://arxiv.org/abs/2501.11121),  Niklas Tausendpfund,  Aditi Mitra,  Matteo Rizzi,  arxiv:2501.11121
+
+* [Unraveling screening mechanisms in Kondo impurities using an NRG-MPS-based method](https://arxiv.org/abs/2501.10746),  Lidia Stocker,  Oded Zilberberg,  arxiv:2501.10746
+
+* [Meson thermalization with a hot medium in the open Schwinger model](https://arxiv.org/abs/2501.13675),  Takis Angelides,  Yibin Guo,  Karl Jansen,  Stefan Kühn,  Giuseppe Magnifico,  arxiv:2501.13675
+
+* [Tomonaga-Luttinger Liquid Behavior in a Rydberg-encoded Spin Chain](https://arxiv.org/abs/2501.08179),  Gabriel Emperauger,  Mu Qiao,  Cheng Chen,  Filippo Caleca,  Saverio Bocini,  Marcus Bintz,  Guillaume Bornet,  Romain Martin,  Bastien Gély,  Lukas Klein,  Daniel Barredo,  Shubhayu Chatterjee,  Norman Yao,  Fabio Mezzacapo,  Thierry Lahaye,  Tommaso Roscilde,  Antoine Browaeys,  arxiv:2501.08179
+
+* [Partonic distribution functions and amplitudes using tensor network methods](https://arxiv.org/abs/2501.09738),  Zhong-Bo Kang,  Noah Moran,  Peter Nguyen,  Wenyang Qian,  arxiv:2501.09738
+
+* [Transfer learning of many-body electronic correlation entropy from local measurements](https://arxiv.org/abs/2501.09505),  Faluke Aikebaier,  Teemu Ojanen,  Jose L. Lado,  arxiv:2501.09505
+
+* [Chemical master equation parameter exploration using DMRG](https://arxiv.org/abs/2501.09692),  John P. Zima,  Schuyler B. Nicholson,  Todd R. Gingrich,  arxiv:2501.09692
+
 * [Diabatic error and propagation of Majorana zero modes in interacting quantum dots systems](https://arxiv.org/abs/2501.06288),  Bradraj Pandey,  Gaurav Kumar Gupta,  Gonzalo Alvarez,  Satoshi Okamoto,  Elbio Dagotto,  arxiv:2501.06288
 
 * [Macroproperties vs. Microstates in the Classical Simulation of Critical Phenomena in Quench Dynamics of 1D Ising Models](https://doi.org/10.1088/1367-2630/ada84f), Anupam Mitra, Tameem Albash, Philip Blocher, Jun Takahasi, Akimasa Miyake, Grant Biedermann, Ivan H. Deutsch, Journal[New Journal of Physics,0,117992,https://doi.org/10.1088/1367-2630/ada84f]
@@ -2211,7 +2225,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-8 papers in 2025
+15 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2227,5 +2241,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1075 total (through 2024)
+1082 total (through 2024)
 -->
