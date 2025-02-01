@@ -5,6 +5,10 @@
 
 ## 2025
 
+* [Gapless topological behaviors in a long-range quantum spin chain](https://www.nature.com/articles/s42005-025-01947-z), Sheng Yang, Hai-Qing Lin, and Xue-Jia Yu, Journal[Nature Communications Physics,8,27,https://www.nature.com/articles/s42005-025-01947-z]
+
+* [Superdiffusive transport in chaotic quantum systems with nodal interactions](https://arxiv.org/abs/2501.08381),  Yu-Peng Wang,  Jie Ren,  Sarang Gopalakrishnan,  Romain Vasseur,  arxiv:2501.08381
+
 * [Z2 flux binding to higher-spin impurities in the Kitaev spin liquid](https://www.nature.com/articles/s41535-025-00729-8), Masahiro O. Takahashi, Wen-Han Kao, Satoshi Fujimoto, and Natalia B. Perkins, Journal[npj Quantum Materials,10,14,https://www.nature.com/articles/s41535-025-00729-8]
 
 * [Two Channel Kondo behavior in the quantum XX chain with a boundary defect](https://arxiv.org/abs/2501.16415),  Yicheng Tang,  Pradip Kattel,  J. H. Pixley,  Natan Andrei,  arxiv:2501.16415
@@ -2235,7 +2239,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-19 papers in 2025
+22 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2251,5 +2255,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1086 total (through 2024)
+1089 total (through 2024)
 -->
