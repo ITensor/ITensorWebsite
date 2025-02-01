@@ -5,6 +5,16 @@
 
 ## 2025
 
+* [Z2 flux binding to higher-spin impurities in the Kitaev spin liquid](https://www.nature.com/articles/s41535-025-00729-8), Masahiro O. Takahashi, Wen-Han Kao, Satoshi Fujimoto, and Natalia B. Perkins, Journal[npj Quantum Materials,10,14,https://www.nature.com/articles/s41535-025-00729-8]
+
+* [Two Channel Kondo behavior in the quantum XX chain with a boundary defect](https://arxiv.org/abs/2501.16415),  Yicheng Tang,  Pradip Kattel,  J. H. Pixley,  Natan Andrei,  arxiv:2501.16415
+
+* [Carroll at Phase Separation](https://arxiv.org/abs/2501.16426),  Sourav Biswas,  Ashutosh Dubey,  Saikat Mondal,  Aritra Banerjee,  Arijit Kundu,  Arjun Bagchi,  arxiv:2501.16426
+
+* [Bipartite Current Fluctuations in Quantum Wires through Charge Fractionalization](https://arxiv.org/abs/2501.14410),  Magali Korolev,  Karyn Le Hur,  arxiv:2501.14410
+
+* [Microscopic study of 3D Potts phase transition via Fuzzy Sphere Regularization](https://arxiv.org/abs/2501.14320),  Shuai Yang,  Yan-Guang Yue,  Yin Tang,  Chao Han,  W. Zhu,  Yan Chen,  arxiv:2501.14320
+
 * [Almost Strong Zero Modes at Finite Temperature](https://arxiv.org/abs/2501.11121),  Niklas Tausendpfund,  Aditi Mitra,  Matteo Rizzi,  arxiv:2501.11121
 
 * [Unraveling screening mechanisms in Kondo impurities using an NRG-MPS-based method](https://arxiv.org/abs/2501.10746),  Lidia Stocker,  Oded Zilberberg,  arxiv:2501.10746
@@ -2225,7 +2235,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-15 papers in 2025
+19 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2241,5 +2251,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1082 total (through 2024)
+1086 total (through 2024)
 -->
