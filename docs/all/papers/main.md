@@ -5,6 +5,12 @@
 
 ## 2025
 
+* [Tensor-network Toolbox for probing dynamics of non-Abelian Gauge Theories](https://arxiv.org/abs/2501.18301),  Emil Mathew,  Navya Gupta,  Saurabh Kadam,  Jesse Stryker,  Zohreh Davoudi,  Indrakshi Raychowdhury,  arxiv:2501.18301
+
+* [Non-Markovianity of subsystem dynamics in isolated quantum many-body systems](https://arxiv.org/abs/2501.18476),  Aditya Banerjee,  arxiv:2501.18476
+
+* [Realization of Two-dimensional Discrete Time Crystals with Anisotropic Heisenberg Coupling](https://arxiv.org/abs/2501.18036),  Eric D. Switzer,  Niall Robertson,  Nathan Keenan,  Ángel Rodríguez,  Andrea D'Urbano,  Bibek Pokharel,  Talat S. Rahman,  Oles Shtanko,  Sergiy Zhuk,  Nicolás Lorente,  arxiv:2501.18036
+
 * [Gapless topological behaviors in a long-range quantum spin chain](https://www.nature.com/articles/s42005-025-01947-z), Sheng Yang, Hai-Qing Lin, and Xue-Jia Yu, Journal[Nature Communications Physics,8,27,https://www.nature.com/articles/s42005-025-01947-z]
 
 * [Superdiffusive transport in chaotic quantum systems with nodal interactions](https://arxiv.org/abs/2501.08381),  Yu-Peng Wang,  Jie Ren,  Sarang Gopalakrishnan,  Romain Vasseur,  arxiv:2501.08381
@@ -2239,7 +2245,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-22 papers in 2025
+25 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2255,5 +2261,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1089 total (through 2024)
+1092 total (through 2024)
 -->
