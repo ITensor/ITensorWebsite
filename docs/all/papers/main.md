@@ -5,6 +5,12 @@
 
 ## 2025
 
+* [Computing theta-dependent mass spectrum of the 2-flavor Schwinger model in the Hamiltonian formalism](https://arxiv.org/abs/2501.18960),  Akira Matsumoto,  Etsuko Itou,  Yuya Tanizaki,  arxiv:2501.18960
+
+* [Structural Dynamics and Strong Correlations in Dynamical Quantum Optical Lattices](https://arxiv.org/abs/2502.00588),  Adrían U. Ramírez-Barajas,  Santiago F. Caballero-Benitez,  arxiv:2502.00588
+
+* [Binary Bosonic Mixtures with Pair Hopping in Synthetic Dimension: Phase Transitions and Demixing Effects](https://arxiv.org/abs/2502.01125),  Chenrong Liu,  Zhi Lin,  arxiv:2502.01125
+
 * [Tensor-network Toolbox for probing dynamics of non-Abelian Gauge Theories](https://arxiv.org/abs/2501.18301),  Emil Mathew,  Navya Gupta,  Saurabh Kadam,  Jesse Stryker,  Zohreh Davoudi,  Indrakshi Raychowdhury,  arxiv:2501.18301
 
 * [Non-Markovianity of subsystem dynamics in isolated quantum many-body systems](https://arxiv.org/abs/2501.18476),  Aditya Banerjee,  arxiv:2501.18476
@@ -2245,7 +2251,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-25 papers in 2025
+28 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2261,5 +2267,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1092 total (through 2024)
+1095 total (through 2024)
 -->
