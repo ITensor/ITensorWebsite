@@ -5,6 +5,10 @@
 
 ## 2025
 
+* [Anomalous suppression of large-scale density fluctuations in classical and quantum spin liquids](https://doi.org/10.1073/pnas.2416111122), D. Chen, R. Samajdar, Y. Jiao, S. Torquato, Journal[PNAS,122,6,https://doi.org/10.1073/pnas.2416111122]
+
+* [Programming optical-lattice Fermi-Hubbard quantum simulators](https://arxiv.org/abs/2502.05067),  Cristian Tabares,  Christian Kokail,  Peter Zoller,  Daniel González-Cuadra,  Alejandro González-Tudela,  arxiv:2502.05067
+
 * [Computing theta-dependent mass spectrum of the 2-flavor Schwinger model in the Hamiltonian formalism](https://arxiv.org/abs/2501.18960),  Akira Matsumoto,  Etsuko Itou,  Yuya Tanizaki,  arxiv:2501.18960
 
 * [Structural Dynamics and Strong Correlations in Dynamical Quantum Optical Lattices](https://arxiv.org/abs/2502.00588),  Adrían U. Ramírez-Barajas,  Santiago F. Caballero-Benitez,  arxiv:2502.00588
@@ -2251,7 +2255,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-28 papers in 2025
+30 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2267,5 +2271,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1095 total (through 2024)
+1097 total (through 2024)
 -->
