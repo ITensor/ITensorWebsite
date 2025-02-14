@@ -5,6 +5,8 @@
 
 ## 2025
 
+* [Computing Quantum Resources using Tensor Cross Interpolation](https://arxiv.org/abs/2502.06956),  Sven Benjamin Kožić,  Gianpaolo Torre,  arxiv:2502.06956
+
 * [Anomalous suppression of large-scale density fluctuations in classical and quantum spin liquids](https://doi.org/10.1073/pnas.2416111122), D. Chen, R. Samajdar, Y. Jiao, S. Torquato, Journal[PNAS,122,6,https://doi.org/10.1073/pnas.2416111122]
 
 * [Programming optical-lattice Fermi-Hubbard quantum simulators](https://arxiv.org/abs/2502.05067),  Cristian Tabares,  Christian Kokail,  Peter Zoller,  Daniel González-Cuadra,  Alejandro González-Tudela,  arxiv:2502.05067
@@ -2255,7 +2257,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-30 papers in 2025
+31 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2271,5 +2273,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1097 total (through 2024)
+1098 total (through 2024)
 -->
