@@ -5,6 +5,10 @@
 
 ## 2025
 
+* [Lattice Defects in Rydberg Atom Arrays](https://arxiv.org/abs/2502.07886),  Hanteng Wang,  Chengshu Li,  Xingyu Li,  Yingfei Gu,  Shang Liu,  arxiv:2502.07886
+
+* [Probing the many-body localized spin-glass phase through quench dynamics](https://arxiv.org/abs/2502.08192),  Pietro Brighi,  Marko Ljubotina,  Maksym Serbyn,  arxiv:2502.08192
+
 * [Computing Quantum Resources using Tensor Cross Interpolation](https://arxiv.org/abs/2502.06956),  Sven Benjamin Kožić,  Gianpaolo Torre,  arxiv:2502.06956
 
 * [Anomalous suppression of large-scale density fluctuations in classical and quantum spin liquids](https://doi.org/10.1073/pnas.2416111122), D. Chen, R. Samajdar, Y. Jiao, S. Torquato, Journal[PNAS,122,6,https://doi.org/10.1073/pnas.2416111122]
@@ -2257,7 +2261,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-31 papers in 2025
+33 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2273,5 +2277,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1098 total (through 2024)
+1100 total (through 2024)
 -->
