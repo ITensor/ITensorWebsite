@@ -5,6 +5,12 @@
 
 ## 2025
 
+* [Counterflow of lattice polarons in harmonically confined optical lattices](https://arxiv.org/abs/2502.09448),  Felipe Isaule,  Abel Rojo-Francàs,  Luis Morales-Molina,  Bruno Juliá-Díaz,  arxiv:2502.09448
+
+* [The Saga of $α$-RuCl$_3$: Parameters, Models, and Phase Diagrams](https://arxiv.org/abs/2502.08698),  Marius Möller,  P. A. Maksimov,  Shengtao Jiang,  Steven R. White,  Roser Valenti,  A. L. Chernyshev,  arxiv:2502.08698
+
+* [Dynamics of the Bose-Hubbard Model Induced by On-Site or Long-Range Two-Body Losses](https://arxiv.org/abs/2502.09008),  Julien Despres,  Leonardo Mazza,  Marco Schirò,  arxiv:2502.09008
+
 * [Lattice Defects in Rydberg Atom Arrays](https://arxiv.org/abs/2502.07886),  Hanteng Wang,  Chengshu Li,  Xingyu Li,  Yingfei Gu,  Shang Liu,  arxiv:2502.07886
 
 * [Probing the many-body localized spin-glass phase through quench dynamics](https://arxiv.org/abs/2502.08192),  Pietro Brighi,  Marko Ljubotina,  Maksym Serbyn,  arxiv:2502.08192
@@ -2261,7 +2267,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-33 papers in 2025
+36 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2277,5 +2283,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1100 total (through 2024)
+1103 total (through 2024)
 -->
