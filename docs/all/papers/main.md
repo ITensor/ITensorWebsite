@@ -5,6 +5,10 @@
 
 ## 2025
 
+* [Unconventional Transport in a System with a Tower of Quantum Many-Body Scars](https://arxiv.org/abs/2502.10387),  Gianluca Morettini,  Luca Capizzi,  Maurizio Fagotti,  Leonardo Mazza,  arxiv:2502.10387
+
+* [Non-stabilizerness of Neural Quantum States](https://arxiv.org/abs/2502.09725),  Alessandro Sinibaldi,  Antonio Francesco Mello,  Mario Collura,  Giuseppe Carleo,  arxiv:2502.09725
+
 * [Counterflow of lattice polarons in harmonically confined optical lattices](https://arxiv.org/abs/2502.09448),  Felipe Isaule,  Abel Rojo-Francàs,  Luis Morales-Molina,  Bruno Juliá-Díaz,  arxiv:2502.09448
 
 * [The Saga of $α$-RuCl$_3$: Parameters, Models, and Phase Diagrams](https://arxiv.org/abs/2502.08698),  Marius Möller,  P. A. Maksimov,  Shengtao Jiang,  Steven R. White,  Roser Valenti,  A. L. Chernyshev,  arxiv:2502.08698
@@ -2267,7 +2271,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-36 papers in 2025
+38 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2283,5 +2287,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1103 total (through 2024)
+1105 total (through 2024)
 -->
