@@ -636,7 +636,7 @@
 
 * [Many-body entropies and entanglement from polynomially-many local measurements](https://arxiv.org/abs/2311.08108),  Benoît Vermersch,  Marko Ljubotina,  J. Ignacio Cirac,  Peter Zoller,  Maksym Serbyn,  Lorenzo Piroli,  arxiv:2311.08108
 
-* [Mott Transition and Volume Law Entanglement with Neural Quantum States](https://arxiv.org/abs/2311.05749),  Chloé Gauvin-Ndiaye,  Joseph Tindall,  Javier Robledo Moreno,  Antoine Georges,  arxiv:2311.05749
+* [Mott Transition and Volume Law Entanglement with Neural Quantum States](https://doi.org/10.1103/PhysRevLett.134.076502),  Chloé Gauvin-Ndiaye,  Joseph Tindall,  Javier Robledo Moreno,  Antoine Georges,  PhysRev[Lett,134,076502] [arxiv:2311.05749]
 
 * [Six-component pairing instability in the SU(4) t-J chain](https://arxiv.org/abs/2311.06601),  Jia-Cheng He,  Jun-Hao Zhang,  Jie Lou,  Yan Chen,  arxiv:2311.06601
 
