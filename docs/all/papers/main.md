@@ -5,6 +5,8 @@
 
 ## 2025
 
+* [Towards a real-time computation of timelike hadronic vacuum polarization and light-by-light scattering: Schwinger Model tests](https://doi.org/10.1007/JHEP02(2025)118), J Barata, K Ikeda, S Mukherjee, J Raghoonanan, Journal[Journal of High Energy Physics,2025,118,https://doi.org/10.1007/JHEP02(2025)118]
+
 * [Unconventional Transport in a System with a Tower of Quantum Many-Body Scars](https://arxiv.org/abs/2502.10387),  Gianluca Morettini,  Luca Capizzi,  Maurizio Fagotti,  Leonardo Mazza,  arxiv:2502.10387
 
 * [Non-stabilizerness of Neural Quantum States](https://arxiv.org/abs/2502.09725),  Alessandro Sinibaldi,  Antonio Francesco Mello,  Mario Collura,  Giuseppe Carleo,  arxiv:2502.09725
@@ -2271,7 +2273,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-38 papers in 2025
+39 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2287,5 +2289,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1105 total (through 2024)
+1106 total (through 2024)
 -->
