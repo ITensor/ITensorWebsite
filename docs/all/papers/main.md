@@ -5,6 +5,12 @@
 
 ## 2025
 
+* [Yu-Shiba-Rusinov states in color superconducting quark matter](https://arxiv.org/abs/2502.15930),  Virgil V. Baran,  Jens Paaske,  arxiv:2502.15930
+
+* [Digitized counterdiabatic quantum critical dynamics](https://arxiv.org/abs/2502.15100),  Anne-Maria Visuri,  Alejandro Gomez Cadavid,  Balaganchi A. Bhargava,  Sebastián V. Romero,  András Grabarits,  Pranav Chandarana,  Enrique Solano,  Adolfo del Campo,  Narendra N. Hegade,  arxiv:2502.15100
+
+* [Incommensurate gapless ferromagnetism connecting competing symmetry-enriched deconfined quantum phase transitions](https://arxiv.org/abs/2502.14958),  Anthony Rey,  Ömer M. Aksoy,  Daniel P. Arovas,  Claudio Chamon,  Christopher Mudry,  arxiv:2502.14958
+
 * [Towards a real-time computation of timelike hadronic vacuum polarization and light-by-light scattering: Schwinger Model tests](https://doi.org/10.1007/JHEP02(2025)118), J Barata, K Ikeda, S Mukherjee, J Raghoonanan, Journal[Journal of High Energy Physics,2025,118,https://doi.org/10.1007/JHEP02(2025)118]
 
 * [Unconventional Transport in a System with a Tower of Quantum Many-Body Scars](https://arxiv.org/abs/2502.10387),  Gianluca Morettini,  Luca Capizzi,  Maurizio Fagotti,  Leonardo Mazza,  arxiv:2502.10387
@@ -278,7 +284,7 @@
 
 * [Phase diagram of a spin-1/2 Heisenberg ladder with a chirality-chirality interaction](https://arxiv.org/abs/2408.11731),  Mateo Fontaine,  Shunsuke Furukawa,  arxiv:2408.11731
 
-* [Impurities in a trapped 1D Bose gas of arbitrary interaction strength: localization-delocalization transition and absence of self-localization](https://arxiv.org/abs/2408.11549),  Dennis Breu,  Eric Vidal Marcos,  Martin Will,  Michael Fleischhauer,  arxiv:2408.11549
+* [Impurities in a trapped 1D Bose gas of arbitrary interaction strength: localization-delocalization transition and absence of self-localization](https://doi.org/10.1103/PhysRevA.111.023326),  Dennis Breu,  Eric Vidal Marcos,  Martin Will,  Michael Fleischhauer, PhysRev[A,111,023326,https://doi.org/10.1103/PhysRevA.111.023326] [arxiv:2408.11549]
 
 * [Floquet prethermalization of ${\bf Z}_2$ lattice gauge theory on superconducting qubits](https://arxiv.org/abs/2408.10079),  Tomoya Hayata,  Kazuhiro Seki,  Arata Yamamoto,  arxiv:2408.10079
 
@@ -2273,7 +2279,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-39 papers in 2025
+42 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2289,5 +2295,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1106 total (through 2024)
+1109 total (through 2024)
 -->
