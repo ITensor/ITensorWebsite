@@ -284,7 +284,7 @@
 
 * [Phase diagram of a spin-1/2 Heisenberg ladder with a chirality-chirality interaction](https://arxiv.org/abs/2408.11731),  Mateo Fontaine,  Shunsuke Furukawa,  arxiv:2408.11731
 
-* [Impurities in a trapped 1D Bose gas of arbitrary interaction strength: localization-delocalization transition and absence of self-localization](https://doi.org/10.1103/PhysRevA.111.023326),  Dennis Breu,  Eric Vidal Marcos,  Martin Will,  Michael Fleischhauer, PhysRev[A,111,023326,https://doi.org/10.1103/PhysRevA.111.023326] [arxiv:2408.11549]
+* [Impurities in a trapped 1D Bose gas of arbitrary interaction strength: localization-delocalization transition and absence of self-localization](https://doi.org/10.1103/PhysRevA.111.023326),  Dennis Breu,  Eric Vidal Marcos,  Martin Will,  Michael Fleischhauer, PhysRev[A,111,023326] [arxiv:2408.11549]
 
 * [Floquet prethermalization of ${\bf Z}_2$ lattice gauge theory on superconducting qubits](https://arxiv.org/abs/2408.10079),  Tomoya Hayata,  Kazuhiro Seki,  Arata Yamamoto,  arxiv:2408.10079
 
