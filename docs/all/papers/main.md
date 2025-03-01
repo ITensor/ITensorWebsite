@@ -5,6 +5,8 @@
 
 ## 2025
 
+* [Real-time simulation of jet energy loss and entropy production in high-energy scattering with matter](https://arxiv.org/abs/2502.17558),  João Barata,  Enrique Rico,  arxiv:2502.17558
+
 * [Yu-Shiba-Rusinov states in color superconducting quark matter](https://arxiv.org/abs/2502.15930),  Virgil V. Baran,  Jens Paaske,  arxiv:2502.15930
 
 * [Digitized counterdiabatic quantum critical dynamics](https://arxiv.org/abs/2502.15100),  Anne-Maria Visuri,  Alejandro Gomez Cadavid,  Balaganchi A. Bhargava,  Sebastián V. Romero,  András Grabarits,  Pranav Chandarana,  Enrique Solano,  Adolfo del Campo,  Narendra N. Hegade,  arxiv:2502.15100
@@ -2279,7 +2281,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-42 papers in 2025
+43 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2295,5 +2297,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1109 total (through 2024)
+1110 total (through 2024)
 -->
