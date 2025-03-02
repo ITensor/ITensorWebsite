@@ -238,7 +238,7 @@
 
 * [Probing Celestial Energy and Charge Correlations through Real-Time Quantum Simulations: Insights from the Schwinger Model](https://arxiv.org/abs/2409.13816),  João Barata,  Swagato Mukherjee,  arxiv:2409.13816
 
-* [Quantum resources of quantum and classical variational methods](https://arxiv.org/abs/2409.13008),  Thomas Spriggs,  Arash Ahmadi,  Bokai Chen,  Eliska Greplova,  arxiv:2409.13008
+* [Quantum resources of quantum and classical variational methods](https://iopscience.iop.org/article/10.1088/2632-2153/adaca2),  Thomas Spriggs,  Arash Ahmadi,  Bokai Chen,  Eliska Greplova, Journal[Machine Learning Science and Technology,6,015042,https://iopscience.iop.org/article/10.1088/2632-2153/adaca2] [arxiv:2409.13008]
 
 * [Structural transition, spontaneous formation of strong singlet dimers and metamagnetism in $S=3/2$ magnetoelastic spin chains](https://arxiv.org/abs/2409.13446),  C. J. Gazza,  A. A. Aligia,  A. O. Dobry,  G. L. Rossini,  D. C. Cabra,  arxiv:2409.13446
 
