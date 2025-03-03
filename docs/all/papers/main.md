@@ -5,6 +5,10 @@
 
 ## 2025
 
+* [On-surface synthesis of Heisenberg spin-1/2 antiferromagnetic molecular chains](https://www.science.org/doi/full/10.1126/sciadv.ads1641), Kewei Sun et al., Journal[Science Advances,11,9,https://www.science.org/doi/full/10.1126/sciadv.ads1641]
+
+* [Local ergotropy dynamically witnesses many-body localized phases](https://arxiv.org/abs/2502.20002),  Francesco Formicola,  Grazia Di Bello,  Giulio De Filippis,  Vittorio Cataudella,  Donato Farina,  Carmine Antonio Perroni,  arxiv:2502.20002
+
 * [Real-time simulation of jet energy loss and entropy production in high-energy scattering with matter](https://arxiv.org/abs/2502.17558),  João Barata,  Enrique Rico,  arxiv:2502.17558
 
 * [Yu-Shiba-Rusinov states in color superconducting quark matter](https://arxiv.org/abs/2502.15930),  Virgil V. Baran,  Jens Paaske,  arxiv:2502.15930
@@ -2281,7 +2285,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-43 papers in 2025
+45 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2297,5 +2301,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1110 total (through 2024)
+1112 total (through 2024)
 -->
