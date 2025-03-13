@@ -5,6 +5,24 @@
 
 ## 2025
 
+* [Dynamical quantum phase transitions on random networks](https://arxiv.org/abs/2503.04891),  Tomohiro Hashizume,  Felix Herbort,  Joseph Tindall,  Dieter Jaksch,  arxiv:2503.04891
+
+* [Dynamics of disordered quantum systems with two- and three-dimensional tensor networks](https://arxiv.org/abs/2503.05693),  Joseph Tindall,  Antonio Mello,  Matt Fishman,  Miles Stoudenmire,  Dries Sels,  arxiv:2503.05693
+
+* [FuzzifiED -- Julia package for numerics on the fuzzy sphere](https://arxiv.org/abs/2503.00100),  Zheng Zhou,  arxiv:2503.00100
+
+* [Ground State of $\mathrm{SU}\left(3\right)$ spin model on the checkerboard lattice](https://arxiv.org/abs/2503.02805),  Junhao Zhang,  Jie Hou,  Jie Lou,  Yan Chen,  arxiv:2503.02805
+
+* [Deconfined criticality as intrinsically gapless topological state in one dimension](https://arxiv.org/abs/2503.01198),  Sheng Yang,  Fu Xu,  Da-Chuan Lu,  Yi-Zhuang You,  Hai-Qing Lin,  Xue-Jia Yu,  arxiv:2503.01198
+
+* [Universality in the Anticoncentration of Chaotic Quantum Circuits](https://arxiv.org/abs/2503.00119),  Arman Sauliere,  Beatrice Magni,  Guglielmo Lami,  Xhek Turkeshi,  Jacopo De Nardis,  arxiv:2503.00119
+
+* [Fast Scrambling in Hyperbolic Ising Model](https://arxiv.org/abs/2503.00114),  Goksu Can Toga,  Abhishek Samlodia,  Alexander F. Kemper,  arxiv:2503.00114
+
+* [Hebbian learning the local structure of language](https://arxiv.org/abs/2503.02057),  P. Myles Eugenio,  arxiv:2503.02057
+
+* [Integrability and charge transport in asymmetric quantum-circuit geometries](https://arxiv.org/abs/2503.04673),  Chiara Paletta,  Urban Duh,  Balázs Pozsgay,  Lenart Zadnik,  arxiv:2503.04673
+
 * [On-surface synthesis of Heisenberg spin-1/2 antiferromagnetic molecular chains](https://www.science.org/doi/full/10.1126/sciadv.ads1641), Kewei Sun et al., Journal[Science Advances,11,9,https://www.science.org/doi/full/10.1126/sciadv.ads1641]
 
 * [Local ergotropy dynamically witnesses many-body localized phases](https://arxiv.org/abs/2502.20002),  Francesco Formicola,  Grazia Di Bello,  Giulio De Filippis,  Vittorio Cataudella,  Donato Farina,  Carmine Antonio Perroni,  arxiv:2502.20002
@@ -2285,7 +2303,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-45 papers in 2025
+54 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2301,5 +2319,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1112 total (through 2024)
+1121 total (through 2024)
 -->
