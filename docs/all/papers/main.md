@@ -5,6 +5,8 @@
 
 ## 2025
 
+* [Fully numerical Hartree-Fock Calculations with Quantized Tensor Trains](https://arxiv.org/abs/2503.08430),  Paul Haubenwallner,  Matthias Heller,  arxiv:2503.08430
+
 * [Dynamical quantum phase transitions on random networks](https://arxiv.org/abs/2503.04891),  Tomohiro Hashizume,  Felix Herbort,  Joseph Tindall,  Dieter Jaksch,  arxiv:2503.04891
 
 * [Dynamics of disordered quantum systems with two- and three-dimensional tensor networks](https://arxiv.org/abs/2503.05693),  Joseph Tindall,  Antonio Mello,  Matt Fishman,  Miles Stoudenmire,  Dries Sels,  arxiv:2503.05693
@@ -2303,7 +2305,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-54 papers in 2025
+55 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2319,5 +2321,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1121 total (through 2024)
+1122 total (through 2024)
 -->
