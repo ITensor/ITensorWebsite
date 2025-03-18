@@ -5,6 +5,10 @@
 
 ## 2025
 
+* [Mixed-state learnability transitions in monitored noisy quantum dynamics](https://arxiv.org/abs/2503.10308),  Hansveer Singh,  Romain Vasseur,  Andrew C. Potter,  Sarang Gopalakrishnan,  arxiv:2503.10308
+
+* [Universal Properties of Critical Mixed States from Measurement and Feedback](https://arxiv.org/abs/2503.09597),  Zhehao Zhang,  Yijian Zou,  Timothy H. Hsieh,  Sagar Vijay,  arxiv:2503.09597
+
 * [Fully numerical Hartree-Fock Calculations with Quantized Tensor Trains](https://arxiv.org/abs/2503.08430),  Paul Haubenwallner,  Matthias Heller,  arxiv:2503.08430
 
 * [Dynamical quantum phase transitions on random networks](https://arxiv.org/abs/2503.04891),  Tomohiro Hashizume,  Felix Herbort,  Joseph Tindall,  Dieter Jaksch,  arxiv:2503.04891
@@ -314,7 +318,7 @@
 
 * [Floquet prethermalization of ${\bf Z}_2$ lattice gauge theory on superconducting qubits](https://arxiv.org/abs/2408.10079),  Tomoya Hayata,  Kazuhiro Seki,  Arata Yamamoto,  arxiv:2408.10079
 
-* [Gapless spin excitations in nanographene-based antiferromagnetic spin-1/2 Heisenberg chains](https://arxiv.org/abs/2408.10045),  Chenxiao Zhao,  Lin Yang,  João C. G. Henriques,  Mar Ferri-Cortés,  Gonçalo Catarina,  Carlo A. Pignedoli,  Ji Ma,  Xinliang Feng,  Pascal Ruffieux,  Joaquín Fernández-Rossier,  Roman Fasel,  arxiv:2408.10045
+* [Spin excitations in nanographene-based antiferromagnetic spin-1/2 Heisenberg chains](https://doi.org/10.1038/s41563-025-02166-1),  Chenxiao Zhao,  Lin Yang,  João C. G. Henriques,  Mar Ferri-Cortés,  Gonçalo Catarina,  Carlo A. Pignedoli,  Ji Ma,  Xinliang Feng,  Pascal Ruffieux,  Joaquín Fernández-Rossier,  Roman Fasel, <i style="color:#CC0000">Nature Materials</i> [arxiv:2408.10045] (2025)
 
 * [Ground State Magnetic Structure and Magnetic Field Effects in the Layered Honeycomb Antiferromagnet YbOCl](https://arxiv.org/abs/2408.10515),  Zheng Zhang,  Yanzhen Cai,  Jinlong Jiao,  Jing Kang,  Dehong Yu,  Bertrand Roessli,  Anmin Zhang,  Jianting Ji,  Feng Jin,  Jie Ma,  Qingming Zhang,  arxiv:2408.10515
 
@@ -2305,7 +2309,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-55 papers in 2025
+57 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2321,5 +2325,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1122 total (through 2024)
+1124 total (through 2024)
 -->
