@@ -5,6 +5,12 @@
 
 ## 2025
 
+* [Efficient optimization and conceptual barriers in variational finite Projected Entangled-Pair States](https://arxiv.org/abs/2503.12557),  Daniel Alcalde Puente,  Erik Lennart Weerda,  Konrad Schröder,  Matteo Rizzi,  arxiv:2503.12557
+
+* [From Light-Cone to Supersonic Propagation of Correlations by Competing Short- and Long-Range Couplings](https://arxiv.org/abs/2503.13306),  Catalin-Mihai Halati,  Ameneh Sheikhan,  Giovanna Morigi,  Corinna Kollath,  Simon B. Jäger,  arxiv:2503.13306
+
+* [Efficient Truncations of SU($N_c$) Lattice Gauge Theory for Quantum Simulation](https://arxiv.org/abs/2503.11888),  Anthony N. Ciavarella,  I. M. Burbano,  Christian W. Bauer,  arxiv:2503.11888
+
 * [Mixed-state learnability transitions in monitored noisy quantum dynamics](https://arxiv.org/abs/2503.10308),  Hansveer Singh,  Romain Vasseur,  Andrew C. Potter,  Sarang Gopalakrishnan,  arxiv:2503.10308
 
 * [Universal Properties of Critical Mixed States from Measurement and Feedback](https://arxiv.org/abs/2503.09597),  Zhehao Zhang,  Yijian Zou,  Timothy H. Hsieh,  Sagar Vijay,  arxiv:2503.09597
@@ -2309,7 +2315,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-57 papers in 2025
+60 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2325,5 +2331,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1124 total (through 2024)
+1127 total (through 2024)
 -->
