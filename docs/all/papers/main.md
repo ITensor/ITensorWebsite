@@ -5,6 +5,8 @@
 
 ## 2025
 
+* [Quantum Strong-to-Weak Spontaneous Symmetry Breaking in Decohered Critical Spin Chain](https://arxiv.org/abs/2503.14221),  Yuxuan Guo,  Sheng Yang,  Xue-Jia Yu,  arxiv:2503.14221
+
 * [Efficient optimization and conceptual barriers in variational finite Projected Entangled-Pair States](https://arxiv.org/abs/2503.12557),  Daniel Alcalde Puente,  Erik Lennart Weerda,  Konrad Schröder,  Matteo Rizzi,  arxiv:2503.12557
 
 * [From Light-Cone to Supersonic Propagation of Correlations by Competing Short- and Long-Range Couplings](https://arxiv.org/abs/2503.13306),  Catalin-Mihai Halati,  Ameneh Sheikhan,  Giovanna Morigi,  Corinna Kollath,  Simon B. Jäger,  arxiv:2503.13306
@@ -2315,7 +2317,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-60 papers in 2025
+61 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2331,5 +2333,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1127 total (through 2024)
+1128 total (through 2024)
 -->
