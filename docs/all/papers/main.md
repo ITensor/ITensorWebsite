@@ -5,6 +5,10 @@
 
 ## 2025
 
+* [Nonperturbative decay of bipartite discrete time crystals](https://doi.org/10.1103/PhysRevB.111.L100304), Lennart Fernandes, Joseph Tindall, and Dries Sels, PhysRev[B,111,L100304] (2025)
+
+* [State preparation with parallel-sequential circuits](https://arxiv.org/abs/2503.14645),  Zhi-Yuan Wei,  Daniel Malz,  arxiv:2503.14645
+
 * [Quantum Strong-to-Weak Spontaneous Symmetry Breaking in Decohered Critical Spin Chain](https://arxiv.org/abs/2503.14221),  Yuxuan Guo,  Sheng Yang,  Xue-Jia Yu,  arxiv:2503.14221
 
 * [Efficient optimization and conceptual barriers in variational finite Projected Entangled-Pair States](https://arxiv.org/abs/2503.12557),  Daniel Alcalde Puente,  Erik Lennart Weerda,  Konrad Schröder,  Matteo Rizzi,  arxiv:2503.12557
@@ -2317,7 +2321,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-61 papers in 2025
+63 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2333,5 +2337,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1128 total (through 2024)
+1130 total (through 2024)
 -->
