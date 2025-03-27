@@ -5,6 +5,8 @@
 
 ## 2025
 
+* [Emergent supercounterfluid and quantum phase diagram of two-component interacting bosons in one-dimensional optical lattice](https://arxiv.org/abs/2503.18154),  Saisai He,  Yang Liu,  Bin Xi,  Hong-Gang Luo,  Qiang Luo,  Jize Zhao,  arxiv:2503.18154
+
 * [Nonperturbative decay of bipartite discrete time crystals](https://doi.org/10.1103/PhysRevB.111.L100304), Lennart Fernandes, Joseph Tindall, and Dries Sels, PhysRev[B,111,L100304] (2025)
 
 * [State preparation with parallel-sequential circuits](https://arxiv.org/abs/2503.14645),  Zhi-Yuan Wei,  Daniel Malz,  arxiv:2503.14645
@@ -578,7 +580,7 @@
 
 * [Emergent flux in a one-dimensional Bose-Fermi mixture](https://arxiv.org/abs/2402.03875),  Qi Song,  Jie Lou,  Yan Chen,  arxiv:2402.03875
 
-* [Light-induced phase transitions in vanadium dioxide: a tensor network study](https://arxiv.org/abs/2402.01247),  Lin Zhang,  Utso Bhattacharya,  Maria Recasens,  Tobias Grass,  Ravindra W. Chhajlany,  Maciej Lewenstein,  Allan S. Johnson,  arxiv:2402.01247
+* [Tensor network study of the light-induced phase transitions in vanadium dioxide](https://www.nature.com/articles/s41535-025-00751-w),  Lin Zhang,  Utso Bhattacharya,  Maria Recasens,  Tobias Grass,  Ravindra W. Chhajlany,  Maciej Lewenstein,  Allan S. Johnson,  Journal[npj Quantum Materials,10,32,https://www.nature.com/articles/s41535-025-00751-w] [arxiv:2402.01247]
 
 * [Confinement in the Transverse Field Ising model on the Heavy Hex lattice](https://arxiv.org/abs/2402.01558),  Joseph Tindall,  Dries Sels,  arxiv:2402.01558
 
@@ -2321,7 +2323,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-63 papers in 2025
+64 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2337,5 +2339,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1130 total (through 2024)
+1131 total (through 2024)
 -->
