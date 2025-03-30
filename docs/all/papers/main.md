@@ -5,6 +5,10 @@
 
 ## 2025
 
+* [Dynamic scaling and Family-Vicsek universality in $SU(N)$ quantum spin chains](https://arxiv.org/abs/2503.21454),  Cătălin Paşcu Moca,  Balázs Dóra,  Doru Sticlet,  Angelo Valli,  Tomaž Prosen,  Gergely Zaránd,  arxiv:2503.21454
+
+* [BaCo$_2$(AsO$_4$)$_2$: Strong Kitaev, After All](https://arxiv.org/abs/2503.20859),  Pavel A. Maksimov,  Shengtao Jiang,  L. P. Regnault,  A. L. Chernyshev,  arxiv:2503.20859
+
 * [Dynamics of one-dimensional spin models via complex-time evolution of tensor networks](https://arxiv.org/abs/2503.19269),  Jeong Hyeok Cha,  Hyun-Yong Lee,  Heung-Sik Kim,  arxiv:2503.19269
 
 * [Emergent supercounterfluid and quantum phase diagram of two-component interacting bosons in one-dimensional optical lattice](https://arxiv.org/abs/2503.18154),  Saisai He,  Yang Liu,  Bin Xi,  Hong-Gang Luo,  Qiang Luo,  Jize Zhao,  arxiv:2503.18154
@@ -2325,7 +2329,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-65 papers in 2025
+67 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2341,5 +2345,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1132 total (through 2024)
+1134 total (through 2024)
 -->
