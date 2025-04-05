@@ -5,6 +5,8 @@
 
 ## 2025
 
+* [Multicriticality in stochastic dynamics protected by self-duality](https://arxiv.org/abs/2504.01258),  Konstantinos Sfairopoulos,  Luke Causer,  Juan P. Garrahan,  arxiv:2504.01258
+
 * [Charge creation via quantum tunneling in one-dimensional Mott insulators: A numerical study of the extended Hubbard model](https://arxiv.org/abs/2503.22481),  Thomas Hansen,  Lars Bojer Madsen,  Yuta Murakami,  arxiv:2503.22481
 
 * [Dynamic scaling and Family-Vicsek universality in $SU(N)$ quantum spin chains](https://arxiv.org/abs/2503.21454),  Cătălin Paşcu Moca,  Balázs Dóra,  Doru Sticlet,  Angelo Valli,  Tomaž Prosen,  Gergely Zaránd,  arxiv:2503.21454
@@ -2331,7 +2333,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-68 papers in 2025
+69 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2347,5 +2349,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1135 total (through 2024)
+1136 total (through 2024)
 -->
