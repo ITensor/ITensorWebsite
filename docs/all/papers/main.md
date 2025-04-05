@@ -5,6 +5,12 @@
 
 ## 2025
 
+* [Quench dynamics via recursion method and dynamical quantum phase transitions](https://arxiv.org/abs/2503.24362),  Ilya Shirokov,  Viacheslav Hrushev,  Filipp Uskov,  Ivan Dudinets,  Igor Ermakov,  Oleg Lychkovskiy,  arxiv:2503.24362
+
+* [Frustrated Bose ladder with extended range density-density interaction](https://arxiv.org/abs/2504.00705),  Sourav Biswas,  E. Rico,  Tobias Grass,  arxiv:2504.00705
+
+* [Exact Diagonalization, Matrix Product States and Conformal Perturbation Theory Study of a 3D Ising Fuzzy Sphere Model](https://arxiv.org/abs/2504.00842),  Andreas M. Läuchli,  Loïc Herviou,  Patrick H. Wilhelm,  Slava Rychkov,  arxiv:2504.00842
+
 * [Multicriticality in stochastic dynamics protected by self-duality](https://arxiv.org/abs/2504.01258),  Konstantinos Sfairopoulos,  Luke Causer,  Juan P. Garrahan,  arxiv:2504.01258
 
 * [Charge creation via quantum tunneling in one-dimensional Mott insulators: A numerical study of the extended Hubbard model](https://arxiv.org/abs/2503.22481),  Thomas Hansen,  Lars Bojer Madsen,  Yuta Murakami,  arxiv:2503.22481
@@ -2333,7 +2339,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-69 papers in 2025
+72 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2349,5 +2355,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1136 total (through 2024)
+1139 total (through 2024)
 -->
