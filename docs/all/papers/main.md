@@ -5,6 +5,8 @@
 
 ## 2025
 
+* [Finite steady-state current defies non-Hermitian many-body localization](https://arxiv.org/abs/2504.02460),  Pietro Brighi,  Marko Ljubotina,  Federico Roccati,  Federico Balducci,  arxiv:2504.02460
+
 * [Quench dynamics via recursion method and dynamical quantum phase transitions](https://arxiv.org/abs/2503.24362),  Ilya Shirokov,  Viacheslav Hrushev,  Filipp Uskov,  Ivan Dudinets,  Igor Ermakov,  Oleg Lychkovskiy,  arxiv:2503.24362
 
 * [Frustrated Bose ladder with extended range density-density interaction](https://arxiv.org/abs/2504.00705),  Sourav Biswas,  E. Rico,  Tobias Grass,  arxiv:2504.00705
@@ -2339,7 +2341,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-72 papers in 2025
+73 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2355,5 +2357,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1139 total (through 2024)
+1140 total (through 2024)
 -->
