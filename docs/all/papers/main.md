@@ -214,7 +214,7 @@
 
 * [Anomalous enhancement of Neel order in the S=1/2 square lattice Heisenberg model under fictitious magnetic field](https://arxiv.org/abs/2412.01435),  Takayuki Yokoyama,  Yasuhiro Tada,  arxiv:2412.01435
 
-* [Fractionalized Kohn-Sham ansatz for strongly-correlated electrons](https://arxiv.org/abs/2412.01061),  Bo Zhao,  Jingyu Zhao,  Zheng Zhu,  Jian Wu,  Zheng Liu,  arxiv:2412.01061
+* [Fractionalized Kohn-Sham ansatz for strongly-correlated electrons](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.136505),  Bo Zhao,  Jingyu Zhao,  Zheng Zhu,  Jian Wu,  Zheng Liu, PhysRev[Lett,134,136505] [arxiv:2412.01061]
 
 * [Edge modes and boundary impurities in the anisotropic Heisenberg spin chain](https://arxiv.org/abs/2412.00194),  Pradip Kattel,  Parameshwar R. Pasnoori,  J. H. Pixley,  Natan Andrei,  arxiv:2412.00194
 
