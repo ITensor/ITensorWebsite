@@ -5,6 +5,12 @@
 
 ## 2025
 
+* [Observation of a non-Hermitian supersonic mode on a trapped-ion quantum computer](https://www.nature.com/articles/s41467-025-57930-3), Yuxuan Zhang, Juan Carrasquilla,  Yong Baek Kim, Journal[Nature Communications,16,3286,https://www.nature.com/articles/s41467-025-57930-3] (2025)
+
+* [Exotic Doublon-Holon Pairing State in Photodoped Mott Insulators](https://arxiv.org/abs/2504.03324),  Ryota Ueda,  Madhumita Sarkar,  Zala Lenarčič,  Denis Golež,  Kazuhiko Kuroki,  Tatsuya Kaneko,  arxiv:2504.03324
+
+* [Dividing and Conquering the Van Vleck Catastrophe](https://arxiv.org/abs/2504.03465),  Sophia Simon,  Gian-Luca R. Anselmetti,  Raffaele Santagati,  Matthias Degroote,  Nikolaj Moll,  Michael Streif,  Nathan Wiebe,  arxiv:2504.03465
+
 * [Finite steady-state current defies non-Hermitian many-body localization](https://arxiv.org/abs/2504.02460),  Pietro Brighi,  Marko Ljubotina,  Federico Roccati,  Federico Balducci,  arxiv:2504.02460
 
 * [Quench dynamics via recursion method and dynamical quantum phase transitions](https://arxiv.org/abs/2503.24362),  Ilya Shirokov,  Viacheslav Hrushev,  Filipp Uskov,  Ivan Dudinets,  Igor Ermakov,  Oleg Lychkovskiy,  arxiv:2503.24362
@@ -2341,7 +2347,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-73 papers in 2025
+76 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2357,5 +2363,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1140 total (through 2024)
+1143 total (through 2024)
 -->
