@@ -5,6 +5,8 @@
 
 ## 2025
 
+* [Ground-state phase diagram of the SU(3) t-J chain](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.165110), Junhao Zhang, Jie Hou, Jie Lou, and Yan Chen, PhysRev[B,111,165110] (2025)
+
 * [Observation of a non-Hermitian supersonic mode on a trapped-ion quantum computer](https://www.nature.com/articles/s41467-025-57930-3), Yuxuan Zhang, Juan Carrasquilla,  Yong Baek Kim, Journal[Nature Communications,16,3286,https://www.nature.com/articles/s41467-025-57930-3] (2025)
 
 * [Exotic Doublon-Holon Pairing State in Photodoped Mott Insulators](https://arxiv.org/abs/2504.03324),  Ryota Ueda,  Madhumita Sarkar,  Zala Lenarčič,  Denis Golež,  Kazuhiko Kuroki,  Tatsuya Kaneko,  arxiv:2504.03324
@@ -2347,7 +2349,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-76 papers in 2025
+77 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2363,5 +2365,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1143 total (through 2024)
+1144 total (through 2024)
 -->
