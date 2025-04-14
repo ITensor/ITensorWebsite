@@ -5,6 +5,10 @@
 
 ## 2025
 
+* [Efficient mutual magic and magic capacity with matrix product states](https://arxiv.org/abs/2504.07230),  Poetri Sonya Tarabunga,  Tobias Haug,  arxiv:2504.07230
+
+* [Quantifying the Phase Diagram and Hamiltonian of $S=1/2$ Kagome Antiferromagnets: Bridging Theory and Experiment](https://arxiv.org/abs/2504.07387),  Shengtao Jiang,  Arthur C. Campello,  Wei He,  Jiajia Wen,  Daniel M. Pajerowski,  Young S. Lee,  Hong-Chen Jiang,  arxiv:2504.07387
+
 * [Ground-state phase diagram of the SU(3) t-J chain](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.165110), Junhao Zhang, Jie Hou, Jie Lou, and Yan Chen, PhysRev[B,111,165110] (2025)
 
 * [Observation of a non-Hermitian supersonic mode on a trapped-ion quantum computer](https://www.nature.com/articles/s41467-025-57930-3), Yuxuan Zhang, Juan Carrasquilla,  Yong Baek Kim, Journal[Nature Communications,16,3286,https://www.nature.com/articles/s41467-025-57930-3] (2025)
@@ -2349,7 +2353,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-77 papers in 2025
+79 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2365,5 +2369,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1144 total (through 2024)
+1146 total (through 2024)
 -->
