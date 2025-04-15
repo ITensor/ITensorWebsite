@@ -5,6 +5,8 @@
 
 ## 2025
 
+* [Compressing Hamiltonians with ab initio downfolding for simulating strongly-correlated materials on quantum computers](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.044028), Antonios M. Alvertis, Abid Khan, and Norm M. Tubman, PhysRev[Applied,23,044028] (2025)
+
 * [Efficient mutual magic and magic capacity with matrix product states](https://arxiv.org/abs/2504.07230),  Poetri Sonya Tarabunga,  Tobias Haug,  arxiv:2504.07230
 
 * [Quantifying the Phase Diagram and Hamiltonian of $S=1/2$ Kagome Antiferromagnets: Bridging Theory and Experiment](https://arxiv.org/abs/2504.07387),  Shengtao Jiang,  Arthur C. Campello,  Wei He,  Jiajia Wen,  Daniel M. Pajerowski,  Young S. Lee,  Hong-Chen Jiang,  arxiv:2504.07387
@@ -2353,7 +2355,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-79 papers in 2025
+80 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2369,5 +2371,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1146 total (through 2024)
+1147 total (through 2024)
 -->
