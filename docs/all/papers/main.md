@@ -5,6 +5,8 @@
 
 ## 2025
 
+* [Inhomogeneous entanglement structure in monoaxial chiral ferromagnetic quantum spin chain](https://arxiv.org/abs/2504.08273),  Kentaro Nishimura,  Ryosuke Yoshii,  arxiv:2504.08273
+
 * [Compressing Hamiltonians with ab initio downfolding for simulating strongly-correlated materials on quantum computers](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.044028), Antonios M. Alvertis, Abid Khan, and Norm M. Tubman, PhysRev[Applied,23,044028] (2025)
 
 * [Efficient mutual magic and magic capacity with matrix product states](https://arxiv.org/abs/2504.07230),  Poetri Sonya Tarabunga,  Tobias Haug,  arxiv:2504.07230
@@ -2355,7 +2357,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-80 papers in 2025
+81 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2371,5 +2373,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1147 total (through 2024)
+1148 total (through 2024)
 -->
