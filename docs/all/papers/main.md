@@ -5,6 +5,10 @@
 
 ## 2025
 
+* [Cross-talk in superconducting qubit lattices with tunable couplers - comparing transmon and fluxonium architectures](https://arxiv.org/abs/2504.10298),  F. Lange,  L. Heunisch,  H. Fehske,  D. P. DiVincenzo,  M. J. Hartmann,  arxiv:2504.10298
+
+* [Measurement-induced phase transitions in quantum inference problems and quantum hidden Markov models](https://arxiv.org/abs/2504.08888),  Sun Woo P. Kim,  Curt von Keyserlingk,  Austen Lamacraft,  arxiv:2504.08888
+
 * [Inhomogeneous entanglement structure in monoaxial chiral ferromagnetic quantum spin chain](https://arxiv.org/abs/2504.08273),  Kentaro Nishimura,  Ryosuke Yoshii,  arxiv:2504.08273
 
 * [Compressing Hamiltonians with ab initio downfolding for simulating strongly-correlated materials on quantum computers](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.044028), Antonios M. Alvertis, Abid Khan, and Norm M. Tubman, PhysRev[Applied,23,044028] (2025)
@@ -2357,7 +2361,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-81 papers in 2025
+83 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2373,5 +2377,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1148 total (through 2024)
+1150 total (through 2024)
 -->
