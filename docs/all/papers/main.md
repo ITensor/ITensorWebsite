@@ -5,6 +5,16 @@
 
 ## 2025
 
+* [Liouvillean Spectral Transition in Noisy Quantum Many-Body Scars](https://arxiv.org/abs/2504.12291),  Jin-Lou Ma,  Zexian Guo,  Yu Gao,  Zlatko Papić,  Lei Ying,  arxiv:2504.12291
+
+* [Finding periodic orbits in projected quantum many-body dynamics](https://arxiv.org/abs/2504.12472),  Elena Petrova,  Marko Ljubotina,  Gökhan Yalnız,  Maksym Serbyn,  arxiv:2504.12472
+
+* [Heat operator approach to quantum stochastic thermodynamics in the strong-coupling regime](https://arxiv.org/abs/2504.10631),  Sheikh Parvez Mandal,  Mahasweta Pandit,  Khalak Mahadeviya,  Mark T. Mitchison,  Javier Prior,  arxiv:2504.10631
+
+* [A Quantum-Inspired Algorithm for Wave Simulation Using Tensor Networks](https://arxiv.org/abs/2504.11181),  Kevin Lively,  Vittorio Pagni,  Gonzalo Camacho,  arxiv:2504.11181
+
+* [Ground-State-Based Model Reduction with Unitary Circuits](https://arxiv.org/abs/2504.10774),  Shengtao Jiang,  Steven R. White,  arxiv:2504.10774
+
 * [Cross-talk in superconducting qubit lattices with tunable couplers - comparing transmon and fluxonium architectures](https://arxiv.org/abs/2504.10298),  F. Lange,  L. Heunisch,  H. Fehske,  D. P. DiVincenzo,  M. J. Hartmann,  arxiv:2504.10298
 
 * [Measurement-induced phase transitions in quantum inference problems and quantum hidden Markov models](https://arxiv.org/abs/2504.08888),  Sun Woo P. Kim,  Curt von Keyserlingk,  Austen Lamacraft,  arxiv:2504.08888
@@ -2361,7 +2371,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-83 papers in 2025
+88 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2377,5 +2387,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1150 total (through 2024)
+1155 total (through 2024)
 -->
