@@ -5,6 +5,8 @@
 
 ## 2025
 
+* [Realizing string breaking dynamics in a $Z_2$ lattice gauge theory on quantum hardware](https://arxiv.org/abs/2504.13760),  Constantia Alexandrou,  Andreas Athenodorou,  Kostas Blekos,  Georgios Polykratis,  Stefan Kühn,  arxiv:2504.13760
+
 * [Quantum Liang Information Flow Probe of Causality across Critical Points](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.150202), Roopayan Ghosh, Bin Yi, and Sougato Bose, PhysRev[Lett,134,150202] (2025)
 
 * [Liouvillean Spectral Transition in Noisy Quantum Many-Body Scars](https://arxiv.org/abs/2504.12291),  Jin-Lou Ma,  Zexian Guo,  Yu Gao,  Zlatko Papić,  Lei Ying,  arxiv:2504.12291
@@ -2373,7 +2375,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-89 papers in 2025
+90 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2389,5 +2391,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1156 total (through 2024)
+1157 total (through 2024)
 -->
