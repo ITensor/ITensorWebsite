@@ -5,6 +5,12 @@
 
 ## 2025
 
+* [Page curve like dynamics in Interacting Quantum Systems](https://arxiv.org/abs/2504.14675),  Tamoghna Ray,  Abhishek Dhar,  Manas Kulkarni,  arxiv:2504.14675
+
+* [Fine features of entanglement dynamics in quenches across the Ising quantum critical point](https://arxiv.org/abs/2504.15203),  Aditya Banerjee,  arxiv:2504.15203
+
+* [Nontrivial entanglement passively mediated by a quenched magnetic impurity](https://arxiv.org/abs/2504.16308),  Adelina A. Orlandini,  Germán G. Blesio,  Claudio J. Gazza,  Luis O. Manuel,  arxiv:2504.16308
+
 * [Realizing string breaking dynamics in a $Z_2$ lattice gauge theory on quantum hardware](https://arxiv.org/abs/2504.13760),  Constantia Alexandrou,  Andreas Athenodorou,  Kostas Blekos,  Georgios Polykratis,  Stefan Kühn,  arxiv:2504.13760
 
 * [Quantum Liang Information Flow Probe of Causality across Critical Points](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.150202), Roopayan Ghosh, Bin Yi, and Sougato Bose, PhysRev[Lett,134,150202] (2025)
@@ -2375,7 +2381,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-90 papers in 2025
+93 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2391,5 +2397,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1157 total (through 2024)
+1160 total (through 2024)
 -->
