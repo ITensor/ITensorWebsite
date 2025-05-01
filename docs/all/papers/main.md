@@ -5,6 +5,10 @@
 
 ## 2025
 
+* [Efficient witnessing and testing of magic in mixed quantum states](https://arxiv.org/abs/2504.18098),  Tobias Haug,  Poetri Sonya Tarabunga,  arxiv:2504.18098
+
+* [Non-stabilizerness generation in a multi-particle quantum walk](https://arxiv.org/abs/2504.19750),  Cătălin Paşcu Moca,  Doru Sticlet,  Balázs Dóra,  Angelo Valli,  Dominik Szombathy,  Gergely Zaránd,  arxiv:2504.19750
+
 * [Page curve like dynamics in Interacting Quantum Systems](https://arxiv.org/abs/2504.14675),  Tamoghna Ray,  Abhishek Dhar,  Manas Kulkarni,  arxiv:2504.14675
 
 * [Fine features of entanglement dynamics in quenches across the Ising quantum critical point](https://arxiv.org/abs/2504.15203),  Aditya Banerjee,  arxiv:2504.15203
@@ -2381,7 +2385,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-93 papers in 2025
+95 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2397,5 +2401,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1160 total (through 2024)
+1162 total (through 2024)
 -->
