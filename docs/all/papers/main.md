@@ -5,6 +5,8 @@
 
 ## 2025
 
+* [High-temperature partition functions and classical simulability of long-range quantum systems](https://arxiv.org/abs/2504.20901),  Jorge Sánchez-Segovia,  Jan T. Schneider,  Álvaro M. Alhambra,  arxiv:2504.20901
+
 * [Efficient witnessing and testing of magic in mixed quantum states](https://arxiv.org/abs/2504.18098),  Tobias Haug,  Poetri Sonya Tarabunga,  arxiv:2504.18098
 
 * [Non-stabilizerness generation in a multi-particle quantum walk](https://arxiv.org/abs/2504.19750),  Cătălin Paşcu Moca,  Doru Sticlet,  Balázs Dóra,  Angelo Valli,  Dominik Szombathy,  Gergely Zaránd,  arxiv:2504.19750
@@ -2385,7 +2387,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-95 papers in 2025
+96 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2401,5 +2403,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1162 total (through 2024)
+1163 total (through 2024)
 -->
