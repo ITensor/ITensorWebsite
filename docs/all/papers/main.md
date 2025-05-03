@@ -5,6 +5,12 @@
 
 ## 2025
 
+* [Preparation Circuits for Matrix Product States by Classical Variational Disentanglement](https://arxiv.org/abs/2504.21298),  Refik Mansuroglu,  Norbert Schuch,  arxiv:2504.21298
+
+* [Superconductivity and trimers on attractive-$U$ Hubbard ladders](https://arxiv.org/abs/2504.21630),  Ian Pilé,  Evgeni Burovski,  arxiv:2504.21630
+
+* [Anyonization of bosons in one dimension: an effective swap model](https://arxiv.org/abs/2504.21208),  Botao Wang,  Amit Vashisht,  Yanliang Guo,  Sudipta Dhar,  Manuele Landini,  Hanns-Christoph Nägerl,  Nathan Goldman,  arxiv:2504.21208
+
 * [High-temperature partition functions and classical simulability of long-range quantum systems](https://arxiv.org/abs/2504.20901),  Jorge Sánchez-Segovia,  Jan T. Schneider,  Álvaro M. Alhambra,  arxiv:2504.20901
 
 * [Efficient witnessing and testing of magic in mixed quantum states](https://arxiv.org/abs/2504.18098),  Tobias Haug,  Poetri Sonya Tarabunga,  arxiv:2504.18098
@@ -222,7 +228,7 @@
 
 * [Correlations, Spectra and Entaglement Transitions in Ensembles of Matrix Product States](https://arxiv.org/abs/2412.14261),  Hugo Lóio,  Guillaume Cecile,  Sarang Gopalakrishnan,  Guglielmo Lami,  Jacopo De Nardis,  arxiv:2412.14261
 
-* [Taming Landau level mixing in fractional quantum Hall states with deep learning](https://arxiv.org/abs/2412.14795),  Yubing Qian,  Tongzhou Zhao,  Jianxiao Zhang,  Tao Xiang,  Xiang Li,  Ji Chen,  arxiv:2412.14795
+* [Describing Landau Level Mixing in Fractional Quantum Hall States with Deep Learning](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.176503),  Yubing Qian,  Tongzhou Zhao,  Jianxiao Zhang,  Tao Xiang,  Xiang Li,  Ji Chen, PhysRev[Lett,134,176503] [arxiv:2412.14795]
 
 * [Efficient optical cat state generation using squeezed few-photon superposition states](https://arxiv.org/abs/2412.14798),  Haoyuan Luo,  Sahand Mahmoodian,  arxiv:2412.14798
 
@@ -2387,7 +2393,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-96 papers in 2025
+99 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2403,5 +2409,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1163 total (through 2024)
+1166 total (through 2024)
 -->
