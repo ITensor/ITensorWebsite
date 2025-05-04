@@ -2,8 +2,11 @@
 
 <i style="font-size:90%; color:#999999">Please send any papers not listed here to support -at- itensor.org</i>
 
-
 ## 2025
+
+* [Contemporary tensor network approaches to gapless and topological phases in an extended Bose-Hubbard ladder](https://arxiv.org/abs/2505.00106),  Yuma Watanabe,  Ravindra W. Chhajlany,  Maciej Lewenstein,  Tobias Graß,  Utso Bhattacharya,  arxiv:2505.00106
+
+* [Simplified Fermionic Scattering State Preparation for the NISQ Era](https://arxiv.org/abs/2505.00476),  Michael Hite,  arxiv:2505.00476
 
 * [Preparation Circuits for Matrix Product States by Classical Variational Disentanglement](https://arxiv.org/abs/2504.21298),  Refik Mansuroglu,  Norbert Schuch,  arxiv:2504.21298
 
@@ -2393,7 +2396,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-99 papers in 2025
+101 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2409,5 +2412,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1166 total (through 2024)
+1168 total (through 2024)
 -->
