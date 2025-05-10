@@ -4,6 +4,10 @@
 
 ## 2025
 
+* [Symmetry-adapted sample-based quantum diagonalization: Application to lattice model](https://arxiv.org/abs/2505.00914),  Kosuke Nogaki,  Steffen Backes,  Tomonori Shirakawa,  Seiji Yunoki,  Ryotaro Arita,  arxiv:2505.00914
+
+* [Chiral Gravitons on the Lattice](https://arxiv.org/abs/2505.02905),  Hernan B. Xavier,  Zeno Bacciconi,  Titas Chanda,  Dam Thanh Son,  Marcello Dalmonte,  arxiv:2505.02905
+
 * [Contemporary tensor network approaches to gapless and topological phases in an extended Bose-Hubbard ladder](https://arxiv.org/abs/2505.00106),  Yuma Watanabe,  Ravindra W. Chhajlany,  Maciej Lewenstein,  Tobias Graß,  Utso Bhattacharya,  arxiv:2505.00106
 
 * [Simplified Fermionic Scattering State Preparation for the NISQ Era](https://arxiv.org/abs/2505.00476),  Michael Hite,  arxiv:2505.00476
@@ -2396,7 +2400,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-101 papers in 2025
+103 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2412,5 +2416,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1168 total (through 2024)
+1170 total (through 2024)
 -->
