@@ -4,6 +4,10 @@
 
 ## 2025
 
+* [Static and dynamic properties of Kitaev-Heisenberg ferromagnet on a triangular lattice](https://arxiv.org/abs/2505.05204),  Kaushal K. Kesharpu,  Pavel A. Maksimov,  arxiv:2505.05204
+
+* [Two-dimensional $J_1$-$J_2$ clock model: A cornucopia of emergence](https://arxiv.org/abs/2505.05194),  Vishnu Pulloor Kuttanikkad,  Abhishodh Prakash,  Rajesh Narayanan,  Titas Chanda,  arxiv:2505.05194
+
 * [Symmetry-adapted sample-based quantum diagonalization: Application to lattice model](https://arxiv.org/abs/2505.00914),  Kosuke Nogaki,  Steffen Backes,  Tomonori Shirakawa,  Seiji Yunoki,  Ryotaro Arita,  arxiv:2505.00914
 
 * [Chiral Gravitons on the Lattice](https://arxiv.org/abs/2505.02905),  Hernan B. Xavier,  Zeno Bacciconi,  Titas Chanda,  Dam Thanh Son,  Marcello Dalmonte,  arxiv:2505.02905
@@ -2400,7 +2404,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-103 papers in 2025
+105 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2416,5 +2420,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1170 total (through 2024)
+1172 total (through 2024)
 -->
