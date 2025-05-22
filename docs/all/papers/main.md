@@ -4,6 +4,18 @@
 
 ## 2025
 
+* [Autoregressive pairwise Graphical Models efficiently find ground state representations of stoquastic Hamiltonians](https://arxiv.org/abs/2505.06798),  Yuchen Pang,  Abhijith Jayakumar,  Evan McKinney,  Carleton Coffrin,  Marc Vuffray,  Andrey Y. Lokhov,  arxiv:2505.06798
+
+* [Time evolution of the quantum Ising model in two dimensions using Tree Tensor Networks](https://arxiv.org/abs/2505.07612),  Wladislaw Krinitsin,  Niklas Tausendpfund,  Markus Heyl,  Matteo Rizzi,  Markus Schmitt,  arxiv:2505.07612
+
+* [Observation of Near-Critical Kibble-Zurek Scaling in Rydberg Atom Arrays](https://arxiv.org/abs/2505.07930),  Tao Zhang,  Hanteng Wang,  Wenjun Zhang,  Yuqing Wang,  Angrui Du,  Ziqi Li,  Yujia Wu,  Chengshu Li,  Jiazhong Hu,  Hui Zhai,  Wenlan Chen,  arxiv:2505.07930
+
+* [Evidence that the Quantum Approximate Optimization Algorithm Optimizes the Sherrington-Kirkpatrick Model Efficiently in the Average Case](https://arxiv.org/abs/2505.07929),  Sami Boulebnane,  Abid Khan,  Minzhao Liu,  Jeffrey Larson,  Dylan Herman,  Ruslan Shaydulin,  Marco Pistoia,  arxiv:2505.07929
+
+* [One-dimensional extended Hubbard model coupled with an optical cavity](https://arxiv.org/abs/2505.09311),  Taiga Nakamoto,  Kazuaki Takasan,  Naoto Tsuji,  arxiv:2505.09311
+
+* [Vortex and fractional quantum Hall phases in a rotating anisotropic Bose gas](https://arxiv.org/abs/2505.09452),  Umut Tanyeri,  Ahmed Kallushi,  Rıfat Onur Umucalılar,  Ahmet Keleş,  arxiv:2505.09452
+
 * [Static and dynamic properties of Kitaev-Heisenberg ferromagnet on a triangular lattice](https://arxiv.org/abs/2505.05204),  Kaushal K. Kesharpu,  Pavel A. Maksimov,  arxiv:2505.05204
 
 * [Two-dimensional $J_1$-$J_2$ clock model: A cornucopia of emergence](https://arxiv.org/abs/2505.05194),  Vishnu Pulloor Kuttanikkad,  Abhishodh Prakash,  Rajesh Narayanan,  Titas Chanda,  arxiv:2505.05194
@@ -2404,7 +2416,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-105 papers in 2025
+111 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2420,5 +2432,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1172 total (through 2024)
+1178 total (through 2024)
 -->
