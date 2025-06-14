@@ -4,6 +4,28 @@
 
 ## 2025
 
+* [Scaling up the transcorrelated density matrix renormalization group](https://arxiv.org/abs/2506.07441), Benjamin Corbett, Akimasa Miyake, arxiv:2506.07441
+
+* [Disorder and the Robustness of Superconductivity on the Flat Band](https://arxiv.org/abs/2506.07095), Si Min Chan, Benoît Grémaud, G. George Batrouni, arxiv:2506.07095
+
+* [Floquet amorphous topological orders in a one-dimensional Rydberg glass](https://www.nature.com/articles/s42005-025-02164-4), Peng He, Jing-Xin Liu, Hong Wu, Z. D. Wang, Journal[Nature Communications Physics,8,237,https://www.nature.com/articles/s42005-025-02164-4] (2025)
+
+* [Tensor network method for real-space topology in quasicrystal Chern mosaics](https://arxiv.org/abs/2506.05230), Tiago V. C. Antão, Yitao Sun, Adolfo O. Fumega, Jose L. Lado, arxiv:2506.05230
+
+* [Towards Quantum Simulation of Meson Scattering in a Z2 Lattice Gauge Theory](https://arxiv.org/abs/2505.21240), Yahui Chai, Yibin Guo, Stefan Kühn, arxiv:2505.21240
+
+* [Topological Phases, Criticality, and Mixed State Order in a Hubbard Quantum Simulator](https://arxiv.org/abs/2505.17009), Lin Su, Rahul Sahay, Michal Szurek, Alexander Douglas, Ognjen Markovic, Ceren B. Dag, Ruben Verresen, Markus Greiner, arxiv:2505.17009
+
+* [Probing Quantum Spin Systems with Kolmogorov-Arnold Neural Network Quantum States](https://arxiv.org/abs/2506.01891), Mahmud Ashraf Shamim, Eric Reinhardt, Talal Ahmed Chowdhury, Sergei Gleyzer, Paulo T Araujo, arxiv:2506.01891
+
+* [Identification of gapless phases by squaring a twist operator](https://arxiv.org/abs/2506.02496), Hang Su, Yuan Yao, Akira Furusaki, arxiv:2506.02496
+
+* [Controlling quantum phases with electric fields in one-dimensional Hubbard systems](https://arxiv.org/abs/2505.15449),  D. Arisa,  R. M. Dos Santos,  Isaac M. Carvalho,  Vivian V. França,  arxiv:2505.15449
+
+* [Unraveling superradiance: entanglement and mutual information in collective decay](https://arxiv.org/abs/2505.13401),  Xin H. H. Zhang,  Daniel Malz,  Peter Rabl,  arxiv:2505.13401
+
+* [Tricritical Kibble-Zurek Scaling in Rydberg Atom Ladders](https://arxiv.org/abs/2505.12979), Hanteng Wang, Xingyu Li, Chengshu Li, arxiv:2505.12979
+
 * [Autoregressive pairwise Graphical Models efficiently find ground state representations of stoquastic Hamiltonians](https://arxiv.org/abs/2505.06798),  Yuchen Pang,  Abhijith Jayakumar,  Evan McKinney,  Carleton Coffrin,  Marc Vuffray,  Andrey Y. Lokhov,  arxiv:2505.06798
 
 * [Time evolution of the quantum Ising model in two dimensions using Tree Tensor Networks](https://arxiv.org/abs/2505.07612),  Wladislaw Krinitsin,  Niklas Tausendpfund,  Markus Heyl,  Matteo Rizzi,  Markus Schmitt,  arxiv:2505.07612
@@ -451,7 +473,7 @@
 
 * [Scalable spin squeezing from finite-temperature easy-plane magnetism](https://www.nature.com/articles/s41567-024-02562-5), M. Block, B. Ye, B. Roberts, S. Chern, W. Wu, Z. Wang, L. Pollet, E. J. Davis, B. I. Halperin & N. Y. Yao, <i style="color:#CC0000">Nature Physics</i> (2024)
 
-* [Emergent dipole field theory in atomic ladders](https://arxiv.org/abs/2407.21019),  Hernan B. Xavier,  Poetri Sonya Tarabunga,  Marcello Dalmonte,  Rodrigo G. Pereira,  arxiv:2407.21019
+* [Emergent dipole field theory in atomic ladders](https://scipost.org/SciPostPhys.18.6.184),  Hernan B. Xavier,  Poetri Sonya Tarabunga,  Marcello Dalmonte,  Rodrigo G. Pereira, Journal[SciPost Physics,18,184,https://scipost.org/SciPostPhys.18.6.184] [arxiv:2407.21019]
 
 * [Thermal pure states for systems with antiunitary symmetries and their tensor network representations](https://arxiv.org/abs/2407.14454),  Yasushi Yoneta,  arxiv:2407.14454
 
@@ -2416,7 +2438,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-111 papers in 2025
+122 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2432,5 +2454,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1178 total (through 2024)
+1189 total (through 2024)
 -->
