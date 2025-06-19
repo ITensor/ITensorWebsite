@@ -4,6 +4,8 @@
 
 ## 2025
 
+* [Quantum Fisher information from tensor network integration of Lyapunov equation](https://arxiv.org/abs/2506.11330),  Gabriela Wójtowicz,  Susana F. Huelga,  Marek M. Rams,  Martin B. Plenio,  arxiv:2506.11330
+
 * [Scaling up the transcorrelated density matrix renormalization group](https://arxiv.org/abs/2506.07441), Benjamin Corbett, Akimasa Miyake, arxiv:2506.07441
 
 * [Disorder and the Robustness of Superconductivity on the Flat Band](https://arxiv.org/abs/2506.07095), Si Min Chan, Benoît Grémaud, G. George Batrouni, arxiv:2506.07095
@@ -2438,7 +2440,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-122 papers in 2025
+123 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2454,5 +2456,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1189 total (through 2024)
+1190 total (through 2024)
 -->
