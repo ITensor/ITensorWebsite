@@ -4,6 +4,18 @@
 
 ## 2025
 
+* [Free real scalar CFT on fuzzy sphere: spectrum, algebra and wavefunction ansatz](https://arxiv.org/abs/2506.14904), Yin-Chen He, arxiv:2506.14904
+
+* [Thermalization from quantum entanglement: jet simulations in the massive Schwinger model](https://arxiv.org/abs/2506.14983), Adrien Florio, David Frenklakh, Sebastian Grieninger, Dmitri E. Kharzeev, Andrea Palermo, Shuzhe Shi, arxiv:2506.14983
+
+* [Path Integral Monte Carlo in the Angular Momentum Basis for a Chain of Planar Rotors](https://arxiv.org/abs/2506.14977), Estêvão de Oliveira, Muhammad Shaeer Moeed, Pierre-Nicholas Roy, arxiv:2506.14977
+
+* [Multi-entropy and the Dihedral Measures at Quantum Critical Points](https://arxiv.org/abs/2506.10396), Jonathan Harper, Ali Mollabashi, Tadashi Takayanagi, Kenya Tasuki, arxiv:2506.10396
+
+* [Emergent Quasiparticles and Field-Tuned RIXS Spectra in a Trimerized Spin-1/2 Chain](https://arxiv.org/abs/2505.23208), Subhajyoti Pal, Pradeep Thakur, Ashis Kumar Nandy, Anamitra Mukherjee, arxiv:2505.23208
+
+* [Interpretable Scaling Behavior in Sparse Subnetwork Representations of Quantum States](https://arxiv.org/abs/2505.22734), Brandon Barton, Juan Carrasquilla, Christopher Roth, Agnes Valenti, arxiv:2505.22734
+
 * [Quantum Fisher information from tensor network integration of Lyapunov equation](https://arxiv.org/abs/2506.11330),  Gabriela Wójtowicz,  Susana F. Huelga,  Marek M. Rams,  Martin B. Plenio,  arxiv:2506.11330
 
 * [Scaling up the transcorrelated density matrix renormalization group](https://arxiv.org/abs/2506.07441), Benjamin Corbett, Akimasa Miyake, arxiv:2506.07441
@@ -2440,7 +2452,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-123 papers in 2025
+129 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2456,5 +2468,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1190 total (through 2024)
+1196 total (through 2024)
 -->
