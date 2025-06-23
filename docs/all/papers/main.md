@@ -305,7 +305,7 @@
 
 * [Dynamical Aharonov-Bohm cages and tight meson confinement in a $\mathbb{Z}_2$-loop gauge theory](https://arxiv.org/abs/2412.12425),  Enrico C. Domanti,  Alejandro Bermudez,  Luigi Amico,  arxiv:2412.12425
 
-* [Roughening dynamics of interfaces in two-dimensional quantum matter](https://arxiv.org/abs/2412.10145),  Wladislaw Krinitsin,  Niklas Tausendpfund,  Matteo Rizzi,  Markus Heyl,  Markus Schmitt,  arxiv:2412.10145
+* [Roughening dynamics of interfaces in two-dimensional quantum matter](https://journals.aps.org/prl/abstract/10.1103/9bsk-x9rw),  Wladislaw Krinitsin,  Niklas Tausendpfund,  Matteo Rizzi,  Markus Heyl,  Markus Schmitt,  PhysRev[Lett,134,240402] [arxiv:2412.10145]
 
 * [Real-Time Simulation of Asymmetry Generation in Fermion-Bubble Collisions](https://arxiv.org/abs/2412.10365),  Marcela Carena,  Ying-Ying Li,  Tong Ou,  Hersh Singh,  arxiv:2412.10365
 
