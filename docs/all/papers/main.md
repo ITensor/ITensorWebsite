@@ -4,6 +4,18 @@
 
 ## 2025
 
+* [The Software Landscape for the Density Matrix Renormalization Group](https://arxiv.org/abs/2506.12629), Per Sehlstedt, Jan Brandejs, Paolo Bientinesi, Lars Karlsson, arxiv:2506.12629
+
+* [Probing Hilbert space fragmentation using controlled dephasing](https://arxiv.org/abs/2506.13856), Dominik Vuina, Robin Schäfer, David M. Long, Anushya Chandran, arxiv:2506.13856
+
+* [Antiferromagnetism and Tightly Bound Cooper Pairs Induced by Kinetic Frustration](https://arxiv.org/abs/2506.16464), Yixin Zhang, Cristian Batista, Yang Zhang, arxiv:2506.16464
+
+* [Stability of thermal equilibrium in long-range quantum systems](https://arxiv.org/abs/2506.16451), Tim Möbus, Jorge Sánchez-Segovia, Álvaro M. Alhambra, Ángela Capel, arxiv:2506.16451
+
+* [Topological crystals and soliton lattices in a Gross-Neveu model with Hilbert-space fragmentation](https://arxiv.org/abs/2506.18675), Sergio Cerezo-Roquebrún, Simon Hands, Alejandro Bermudez, arxiv:2506.18675
+
+* [Quantum Utility-Scale Error Mitigation for Quantum Quench Dynamics in Heisenberg Spin Chains](https://arxiv.org/abs/2506.20125), Seokwon Choi, Talal Ahmed Chowdhury, Kwangmin Yu, arxiv:2506.20125
+
 * [Free real scalar CFT on fuzzy sphere: spectrum, algebra and wavefunction ansatz](https://arxiv.org/abs/2506.14904), Yin-Chen He, arxiv:2506.14904
 
 * [Thermalization from quantum entanglement: jet simulations in the massive Schwinger model](https://arxiv.org/abs/2506.14983), Adrien Florio, David Frenklakh, Sebastian Grieninger, Dmitri E. Kharzeev, Andrea Palermo, Shuzhe Shi, arxiv:2506.14983
@@ -599,7 +611,7 @@
 
 * [Learning tensor trains from noisy functions with application to quantum simulation](https://arxiv.org/abs/2405.12730),  Kohtaroh Sakaue,  Hiroshi Shinaoka,  Rihito Sakurai,  arxiv:2405.12730
 
-* [Constraining tensor networks](https://arxiv.org/abs/2405.09005),  Javier Lopez-Piqueres,  Jing Chen,  arxiv:2405.09005
+* [Constraining tensor networks](https://scipost.org/SciPostPhys.18.6.192),  Javier Lopez-Piqueres,  Jing Chen,  Journal[SciPost Physics,18,192,https://scipost.org/SciPostPhys.18.6.192] [arxiv:2405.09005]
 
 * [Hybrid Stabilizer Matrix Product Operator](https://arxiv.org/abs/2405.06045),  Antonio Francesco Mello,  Alessandro Santini,  Mario Collura,  arxiv:2405.06045
 
@@ -2452,7 +2464,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-129 papers in 2025
+135 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2468,5 +2480,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1196 total (through 2024)
+1202 total (through 2024)
 -->
