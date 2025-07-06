@@ -4,6 +4,14 @@
 
 ## 2025
 
+* [Imprints of information scrambling on eigenstates of a quantum chaotic system](https://arxiv.org/abs/2507.02853), Bikram Pain, Ratul Thakur, Sthitadhi Roy, arxiv:2507.02853
+
+* [Many-Body Simulations of the Fast Flavor Instability](https://arxiv.org/abs/2507.02040), Zoha Laraib, Sherwood Richers, arxiv:2507.02040
+
+* [The covariance matrix spectrum of correlated charge insulators reveals hidden connections to Coupled Cluster, Matrix Product, and Rokhsar-Kivelson states](https://arxiv.org/abs/2507.02625), Izak Snyman, Serge Florens, arxiv:2507.02625
+
+* [Revealing emergent many-body phenomena by analyzing large-scale space-time records of monitored quantum systems](https://arxiv.org/abs/2507.00944), Marcel Cech, Cecilia De Fazio, María Cea, Mari Carmen Bañuls, Igor Lesanovsky, Federico Carollo, arxiv:2507.00944
+
 * [The Software Landscape for the Density Matrix Renormalization Group](https://arxiv.org/abs/2506.12629), Per Sehlstedt, Jan Brandejs, Paolo Bientinesi, Lars Karlsson, arxiv:2506.12629
 
 * [Probing Hilbert space fragmentation using controlled dephasing](https://arxiv.org/abs/2506.13856), Dominik Vuina, Robin Schäfer, David M. Long, Anushya Chandran, arxiv:2506.13856
@@ -2464,7 +2472,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-135 papers in 2025
+142 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2480,5 +2488,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1202 total (through 2024)
+1206 total (through 2024)
 -->
