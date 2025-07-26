@@ -4,6 +4,42 @@
 
 ## 2025
 
+* ["Odd" Toric Code in a tilted field: Higgs-confinement multicriticality, spontaneous self-duality symmetry breaking, and valence bond solids](https://arxiv.org/abs/2507.16523), Umberto Borla, Ayush De, Snir Gazit, arxiv:2507.16523
+
+* [Revisiting boundary-driven method for transport: Finite-size effects and the role of system-bath coupling](https://arxiv.org/abs/2507.16528), Mariel Kempa, Markus Kraft, Sourav Nandy, Jacek Herbrych, Jiaozi Wang, Jochen Gemmer, Robin Steinigeweg, arxiv:2507.16528
+
+* [Beyond fragmented dopant dynamics in quantum spin lattices: Robust localization and sub-diffusion](https://arxiv.org/abs/2507.16042), Mingru Yang, Sajant Anand, Kristian Knakkergaard Nielsen, arxiv:2507.16042
+
+* [Simulating and Sampling from Quantum Circuits with 2D Tensor Networks](https://arxiv.org/abs/2507.11424), Manuel S. Rudolph, Joseph Tindall, arxiv:2507.11424
+
+* [Stabilizer Rényi Entropy Encodes Fusion Rules of Topological Defects and Boundaries](https://arxiv.org/abs/2507.10656), Masahiro Hoshino, Yuto Ashida, arxiv:2507.10656
+
+* [Quantum phase transition driven by competing intralayer and interlayer hopping of Ni-d3z2−r2 orbitals in bilayer nickelates](https://arxiv.org/abs/2507.11169), Xiaoyu Zhu, Wei Qin, Ping Cui, Zhenyu Zhang, arxiv:2507.11169
+
+* [k-Contextuality as a Heuristic for Memory Separations in Learning](https://arxiv.org/abs/2507.11604), Mariesa H. Teo, Willers Yang, James Sud, Teague Tomesh, Frederic T. Chong, Eric R. Anschuetz, arxiv:2507.11604
+
+* [Learning mixed quantum states in large-scale experiments](https://arxiv.org/abs/2507.12550), Matteo Votto, Marko Ljubotina, Cécilia Lancien, J. Ignacio Cirac, Peter Zoller, Maksym Serbyn, Lorenzo Piroli, Benoît Vermersch, arxiv:2507.12550
+
+* [Discrete solitons in Rydberg atom chains](https://arxiv.org/abs/2507.13196), Aron Kerschbaumer, Jean-Yves Desaules, Marko Ljubotina, Maksym Serbyn, arxiv:2507.13196
+
+* [Emergent Symmetry and Phase Transitions on the Domain Wall of Z2 Topological Orders](https://arxiv.org/abs/2507.12193), Hong-Hao Song, Chen Peng, Rui-Zhen Huang, Long Zhang, arxiv:2507.12193
+
+* [Fractal Path Strategies for Efficient 2D DMRG Simulations](https://arxiv.org/abs/2507.11820), Oliver R. Bellwood, Heitor P. Casagrande, William J. Munro, arxiv:2507.11820
+
+* [Single-site diagonal quantities capture off-diagonal long-range order](https://arxiv.org/abs/2507.10328), M. Sanino, I. D'Amico, V. V. França, I. M. Carvalho, arxiv:2507.10328
+
+* [Solving the Gross-Pitaevskii equation on multiple different scales using the quantics tensor train representation](https://arxiv.org/abs/2507.04262), Marcel Niedermeier, Adrien Moulinas, Thibaud Louvet, Jose L. Lado, Xavier Waintal, arxiv:2507.04262
+
+* [Mapping phase diagrams of quantum spin systems through semidefinite-programming relaxations](https://arxiv.org/abs/2507.03137), David Jansen, Donato Farina, Luke Mortimer, Timothy Heightman, Andreas Leitherer, Pere Mujal, Jie Wang, Antonio Acín, arxiv:2507.03137
+
+* [Moiré-assisted charge instability in ultrathin RuO2](https://arxiv.org/abs/2507.05047), Philipp Keßler, Andreas Feuerpfeil, Armando Consiglio, Hendrik Hohmann, Ronny Thomale, Jonas Erhardt, Bing Liu, Vedran Jovic, Ralph Claessen, Patrick Härtl, Matteo Dürrnagel, Simon Moser, arxiv:2507.05047
+
+* [Instability of the Haldane Phase: Roles of Charge Fluctuations and Hund's Coupling](https://arxiv.org/abs/2507.05089), Satoshi Nishimoto, arxiv:2507.05089
+
+* [Irrational CFTs from coupled anyon chains with non-invertible symmetries?](https://arxiv.org/abs/2507.14280), António Antunes, Junchen Rong, arxiv:2507.14280
+
+* [Exploring near critical lattice gauge simulators with Rydberg atoms facilities](https://arxiv.org/abs/2507.14128), Avi Kaufman, James Corona, Zane Ozzello, Blake Senseman, Muhammad Asaduzzaman, Yannick Meurice, arxiv:2507.14128
+
 * [Imprints of information scrambling on eigenstates of a quantum chaotic system](https://arxiv.org/abs/2507.02853), Bikram Pain, Ratul Thakur, Sthitadhi Roy, arxiv:2507.02853
 
 * [Many-Body Simulations of the Fast Flavor Instability](https://arxiv.org/abs/2507.02040), Zoha Laraib, Sherwood Richers, arxiv:2507.02040
@@ -2472,7 +2508,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-142 papers in 2025
+157 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2488,5 +2524,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1206 total (through 2024)
+1221 total (through 2024)
 -->

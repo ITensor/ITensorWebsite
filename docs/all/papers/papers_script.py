@@ -20,6 +20,9 @@ for n in range(1,len(sys.argv)):
 for line in lines:
     eprint = line.rstrip()
     search = arxiv.Search(id_list=[line])
+    for paper in search.results():
+        print("title = ",paper.title)
+    exit(0)
     paper = next(search.results())
     title = paper.title
     authors = ""
