@@ -4,6 +4,10 @@
 
 ## 2025
 
+* [Static and Dynamical Characterization of Ground State Phases Induced by Frustration and Magnetic Field in the Spin-1 Orthogonal Dimer Chain](https://arxiv.org/abs/2507.21771), Ernest Ong, Dhiman Bhowmick, Sharoz Schezwen, Pinaki Sengupta, arxiv:2507.21771
+
+* [Barren-plateau free variational quantum simulation of Z2 lattice gauge theories](https://arxiv.org/abs/2507.19203), Fariha Azad, Matteo Inajetovic, Stefan Kühn, Anna Pappa, arxiv:2507.19203
+
 * ["Odd" Toric Code in a tilted field: Higgs-confinement multicriticality, spontaneous self-duality symmetry breaking, and valence bond solids](https://arxiv.org/abs/2507.16523), Umberto Borla, Ayush De, Snir Gazit, arxiv:2507.16523
 
 * [Revisiting boundary-driven method for transport: Finite-size effects and the role of system-bath coupling](https://arxiv.org/abs/2507.16528), Mariel Kempa, Markus Kraft, Sourav Nandy, Jacek Herbrych, Jiaozi Wang, Jochen Gemmer, Robin Steinigeweg, arxiv:2507.16528
@@ -2508,7 +2512,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-157 papers in 2025
+159 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2524,5 +2528,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1221 total (through 2024)
+1223 total (through 2024)
 -->
