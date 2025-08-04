@@ -4,6 +4,12 @@
 
 ## 2025
 
+* [Quantum Krylov Subspace Diagonalization via Time Reversal Symmetries](https://arxiv.org/abs/2507.22559), Nicola Mariella, Enrique Rico, Adam Byrne, Sergiy Zhuk, arxiv:2507.22559
+
+* [The multiconfigurational ground state of a diradicaloid characterized at the atomic scale](https://arxiv.org/abs/2507.22598), Elia Turco, Lara Tejerina, Gonçalo Catarina, Andres Ortega-Guerrero, Nils Krane, Leo Gross, Michal Juríček, Shantanu Mishra, arxiv:2507.22598
+
+* [What is the topological dual of the XXZ spin Chain?](https://arxiv.org/abs/2507.22119), Yicheng Tang, Pradip Kattel, Natan Andrei, arxiv:2507.22119
+
 * [Static and Dynamical Characterization of Ground State Phases Induced by Frustration and Magnetic Field in the Spin-1 Orthogonal Dimer Chain](https://arxiv.org/abs/2507.21771), Ernest Ong, Dhiman Bhowmick, Sharoz Schezwen, Pinaki Sengupta, arxiv:2507.21771
 
 * [Barren-plateau free variational quantum simulation of Z2 lattice gauge theories](https://arxiv.org/abs/2507.19203), Fariha Azad, Matteo Inajetovic, Stefan Kühn, Anna Pappa, arxiv:2507.19203
@@ -2512,7 +2518,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-159 papers in 2025
+165 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2528,5 +2534,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1223 total (through 2024)
+1226 total (through 2024)
 -->
