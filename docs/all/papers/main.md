@@ -485,7 +485,7 @@
 
 * [Charge and spin properties of a generalized Wigner crystal realized in the moiré WSe$_2$/WS$_2$ heterobilayer](https://arxiv.org/abs/2409.11202),  Andrzej Biborski,  Michał Zegrodnik,  arxiv:2409.11202
 
-* [Spinon spin current](https://arxiv.org/abs/2409.08327),  Ren-Bo Wang,  Naveen Nishad,  Anna Keselman,  Leon Balents,  Oleg A. Starykh,  arxiv:2409.08327
+* [Spin Seebeck effect of interacting spinons](https://journals.aps.org/prb/abstract/10.1103/ncdj-9f2t),  Ren-Bo Wang,  Naveen Nishad,  Anna Keselman,  Leon Balents,  Oleg A. Starykh, PhysRev[B,112,L060402] [arxiv:2409.08327]
 
 * [The quantum Newman-Moore model in a longitudinal field](https://arxiv.org/abs/2409.09235),  Konstantinos Sfairopoulos,  Juan P. Garrahan,  arxiv:2409.09235
 
