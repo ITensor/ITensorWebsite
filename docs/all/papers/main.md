@@ -196,7 +196,7 @@
 
 * [Dynamic scaling and Family-Vicsek universality in $SU(N)$ quantum spin chains](https://arxiv.org/abs/2503.21454),  Cătălin Paşcu Moca,  Balázs Dóra,  Doru Sticlet,  Angelo Valli,  Tomaž Prosen,  Gergely Zaránd,  arxiv:2503.21454
 
-* [BaCo$_2$(AsO$_4$)$_2$: Strong Kitaev, After All](https://arxiv.org/abs/2503.20859),  Pavel A. Maksimov,  Shengtao Jiang,  L. P. Regnault,  A. L. Chernyshev,  arxiv:2503.20859
+* [Strong Kitaev Interaction in BaCo$_2$(AsO$_4$)$_2$](https://journals.aps.org/prl/abstract/10.1103/k1gq-k8m7),  Pavel A. Maksimov,  Shengtao Jiang,  L. P. Regnault,  A. L. Chernyshev, PhysRev[Lett,135,066703] [arxiv:2503.20859] (2025)
 
 * [Dynamics of one-dimensional spin models via complex-time evolution of tensor networks](https://arxiv.org/abs/2503.19269),  Jeong Hyeok Cha,  Hyun-Yong Lee,  Heung-Sik Kim,  arxiv:2503.19269
 
