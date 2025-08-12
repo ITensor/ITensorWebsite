@@ -4,6 +4,14 @@
 
 ## 2025
 
+* [On Random Displacements in Critical Rydberg Atom Arrays](https://arxiv.org/abs/2508.05381), Xingyu Li, Shuyan Zhou, Xue Chen, Chengshu Li, Hanteng Wang, arxiv:2508.05381
+
+* [Quantum criticality and emergent orders in the spin-1 bilinear-biquadratic-Kitaev chain](https://arxiv.org/abs/2508.05216), Zhiling Wei, Zhengzhong Du, Xiaodong Cao, Wen-Long You, Yi Lu, arxiv:2508.05216
+
+* [Measurement-Induced Entanglement in Conformal Field Theory](https://arxiv.org/abs/2508.02788), Kabir Khanna, Romain Vasseur, arxiv:2508.02788
+
+* [New computational methods in lattice gauge theory -- quantum computation and tensor networks](https://arxiv.org/abs/2508.03126), Etsuko Itou, arxiv:2508.03126
+
 * [Quantum Krylov Subspace Diagonalization via Time Reversal Symmetries](https://arxiv.org/abs/2507.22559), Nicola Mariella, Enrique Rico, Adam Byrne, Sergiy Zhuk, arxiv:2507.22559
 
 * [The multiconfigurational ground state of a diradicaloid characterized at the atomic scale](https://arxiv.org/abs/2507.22598), Elia Turco, Lara Tejerina, Gonçalo Catarina, Andres Ortega-Guerrero, Nils Krane, Leo Gross, Michal Juríček, Shantanu Mishra, arxiv:2507.22598
@@ -2518,7 +2526,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-165 papers in 2025
+169 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2534,5 +2542,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1226 total (through 2024)
+1230 total (through 2024)
 -->
