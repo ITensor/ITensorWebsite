@@ -4,6 +4,10 @@
 
 ## 2025
 
+* [MPS-JuliQAOA: User-friendly, Scalable MPS-based Simulation for Quantum Optimization](https://arxiv.org/abs/2508.05883), Sean Feeney, Reuben Tate, John Golden, Stephan Eidenbenz, arxiv:2508.05883
+
+* [Quantum criticality and nonequilibrium dynamics on a Lieb lattice of Rydberg atoms](https://arxiv.org/abs/2508.05737), Mark R. Hirsbrunner, Milan Kornjača, Rhine Samajdar, Siva Darbha, Majd Hamdan, Jan Balewski, Ermal Rrapaj, Sheng-Tao Wang, Daan Camps, Fangli Liu, Pedro L. S. Lopes, Katherine Klymko, arxiv:2508.05737
+
 * [On Random Displacements in Critical Rydberg Atom Arrays](https://arxiv.org/abs/2508.05381), Xingyu Li, Shuyan Zhou, Xue Chen, Chengshu Li, Hanteng Wang, arxiv:2508.05381
 
 * [Quantum criticality and emergent orders in the spin-1 bilinear-biquadratic-Kitaev chain](https://arxiv.org/abs/2508.05216), Zhiling Wei, Zhengzhong Du, Xiaodong Cao, Wen-Long You, Yi Lu, arxiv:2508.05216
@@ -2526,7 +2530,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-169 papers in 2025
+171 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2542,5 +2546,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1230 total (through 2024)
+1232 total (through 2024)
 -->
