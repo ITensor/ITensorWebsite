@@ -286,7 +286,7 @@
 
 * [Computing theta-dependent mass spectrum of the 2-flavor Schwinger model in the Hamiltonian formalism](https://arxiv.org/abs/2501.18960),  Akira Matsumoto,  Etsuko Itou,  Yuya Tanizaki,  arxiv:2501.18960
 
-* [Structural Dynamics and Strong Correlations in Dynamical Quantum Optical Lattices](https://arxiv.org/abs/2502.00588),  Adrían U. Ramírez-Barajas,  Santiago F. Caballero-Benitez,  arxiv:2502.00588
+* [Structural Dynamics and Strong Correlations in Dynamical Quantum Optical Lattices](https://journals.aps.org/prl/abstract/10.1103/gvm2-b46t),  Adrían U. Ramírez-Barajas,  Santiago F. Caballero-Benitez, PhysRev[Lett,135,120602] [arxiv:2502.00588]
 
 * [Binary Bosonic Mixtures with Pair Hopping in Synthetic Dimension: Phase Transitions and Demixing Effects](https://arxiv.org/abs/2502.01125),  Chenrong Liu,  Zhi Lin,  arxiv:2502.01125
 
