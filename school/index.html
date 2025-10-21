@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/img/favicon.ico"/>
+    <title>ITensor</title>
+    <link rel="stylesheet" href="/css/mystyles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+    .developers { position:absolute; bottom:20px; }
+    .code-info { height: 250px; }
+    .code-columns { margin-bottom: auto; margin-left: 10px; margin-right: 10px; }
+    @media (min-width: 769px) and (max-width: 1023px ) {
+    .code-info { height: 280px; }
+    }
+    @media (max-width: 768px ) {
+    .code-info { height: 275px; }
+    }
+    </style>
+  </head>
+  <body>
+
+  <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item">
+      <a href="/" class="navbar-item has-text-weight-bold">ITensor</a>
+    </a>
+
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start">
+
+      <div onclick="" class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Documentation
+        </a>
+
+        <div class="navbar-dropdown">
+          <a href="https://docs.itensor.org" class="navbar-item">
+            Julia (Recommended)
+          </a>
+          <a href="/docs.cgi" class="navbar-item">
+            C++
+          </a>
+          <a href="https://www.scipost.org/SciPostPhysCodeb.4" class="navbar-item">
+            ITensor Paper
+          </a>
+        </div>
+      </div>
+
+      <a href="/news/" class="navbar-item">
+        News
+      </a>
+
+      <a href="/codes/" class="navbar-item">
+        Codes
+      </a>
+
+      <a href="https://itensor.discourse.group" class="navbar-item">
+        Discuss
+      </a>
+
+      <div onclick="" class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          About
+        </a>
+
+        <div class="navbar-dropdown">
+          <a href="/about/" class="navbar-item">
+            About ITensor
+          </a>
+          <a href="/citing/" class="navbar-item">
+            Citing ITensor
+          </a>
+          <a href="/faq/" class="navbar-item">
+            Frequently Asked Questions (FAQ)
+          </a>
+          <a href="http://itensor.org/docs.cgi?page=papers" class="navbar-item">
+            Papers Using ITensor
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+  </nav>
+
+  <section class="section"><div class="container is-max-desktop">
+
+    <!--
+
+      Top Banner
+
+    -->
+    <a name="codes-julia"></a>
+    <p class="title is-4">ITensor CCQ School 2025</p>
+
+    <div class="block">
+
+    <p>
+    Resources for the ITensor CCQ School, October 27-29, 2025.
+    </p>
+    </br></br>
+
+    <a name="tutorial"></a>
+    <p class="title is-5">Hands-on Tutorial Codes</p>
+    <div class="block">
+      <div class="columns is-vcentered">
+        <div class="column has-text-left">
+          <p>
+          <a href="https://github.com/ITensor/ITensorCCQSchool/tree/main/Tutorials">Tutorials Github</a>
+        </div>
+      </div>
+    </div>
+    <br/>
+
+    <a name="slides"></a>
+    <p class="title is-5">Lecture Outline and Slides</p>
+    <div class="block">
+      <div class="columns is-vcentered">
+        <div class="column has-text-left">
+          <p>
+          <ul>
+            <li>Monday, October 27.
+              <ul>
+              <li>Talk 1: [9:00am-9:45am] Tensor Networks, MPS and MPO, DMRG. </li>
+              <li>Talk 2: [10:00am-10:45am] ITensors.jl and running DMRG. </li>
+              <li>Hands On: [11:00am-12:30pm] Setup. DMRG and applications. </li>
+              </ul>
+            </li>
+            <li>Tuesday, October 28.
+              <ul>
+              <li>Talk 1: [9:00am-9:45am] Time evolution and measurement. </li>
+              <li>Talk 2: [10:00am-10:45am] ITensors.jl under the hood. </li>
+              <li>Hands On: [11:00am-12:30pm] Dynamics. </li>
+              </ul>
+            </li>
+            <li>Wednesday, October 29.
+              <ul>
+              <li>Talk 1: [9:00am-9:45am] Continuum Functions (quantics tensor trains). </li>
+              <li>Talk 2: [10:00am-10:45am] Tensor Networks Beyond One Dimension. </li>
+              <li>Hands On: [11:00am-12:30pm] TCI. BP for classical systems. </li>
+              </ul>
+            </li>
+          </ul>
+          </p>
+        </div>
+      </div>
+    </div>
+    <br/>
+
+    </div> <!-- block -->
+    <br/>
+
+  </div></section>
+
+  <br/>
+  <br/>
+  <br/>
+  <footer class="footer">
+  <div class="content has-text-centered">
+    <p>
+      <a href="https://github.com/ITensor/ITensors.jl">ITensor Source on Github</a>
+      &middot; 
+      <a href="https://twitter.com/itensorlib">Twitter @ITensorLib</a>
+      &middot; 
+      <a href="https://github.com/ITensor/ITensorWebsite">Website Source on Github</a>
+      <br/>
+      &copy; 2024 ITensor Collaboration. 
+    </p>
+  </div>
+</footer>
+
+
+  </body>
+
+<script>
+$(document).ready(function() {
+
+  // Check for click events on the navbar burger icon
+  $(".navbar-burger").click(function() {
+
+      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+      $(".navbar-burger").toggleClass("is-active");
+      $(".navbar-menu").toggleClass("is-active");
+
+  });
+});
+</script>
+
+
+
+</html>
