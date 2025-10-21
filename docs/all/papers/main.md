@@ -4,6 +4,18 @@
 
 ## 2025
 
+* [Implementation of Enhanced Multivariance Products Representation for Multiway Arrays](https://doi.org/10.22059/jac.2025.394087.1228), Cosar Gozukirmizi, Journal[Journal of Algorithms and Computation,58,96-111,https://doi.org/10.22059/jac.2025.394087.1228] (2025)
+
+* [Edge Reconstruction in a Quantum Spin Hall Insulator](https://arxiv.org/abs/2508.10726), Rahul Soni, Matthias Thamm, Gonzalo Alvarez, Bernd Rosenow, Adrian Del Maestro, arxiv:2508.10726
+
+* [Semi-Dirac spin liquids and frustrated quantum magnetism on the trellis lattice](https://arxiv.org/abs/2509.02663), Sourin Chatterjee, Atanu Maity, Janik Potten, Tobias Müller, Andreas Feuerpfeil, Ronny Thomale, Karlo Penc, Harald O. Jeschke, Rhine Samajdar, Yasir Iqbal, arxiv:2509.02663
+
+* [Excitonic description of singlet fission beyond dimer model : a matrix product state approach](https://arxiv.org/abs/2509.03966), Supriyo Santra, Amartya Bose, Debashree Ghosh, arxiv:2509.03966
+
+* [The ITransverse.jl library for transverse tensor network contractions](https://arxiv.org/abs/2509.03699), Stefano Carignano, arxiv:2509.03699
+
+* [Dissipationless dynamics of spin supersolid states in a spin-1/2 triangular antiferromagnet with impurities](https://arxiv.org/abs/2509.03489), Yixuan Huang, Yuan Gao, Wei Li, Seiji Yunoki, Sadamichi Maekawa, arxiv:2509.03489
+
 * [MPS-JuliQAOA: User-friendly, Scalable MPS-based Simulation for Quantum Optimization](https://arxiv.org/abs/2508.05883), Sean Feeney, Reuben Tate, John Golden, Stephan Eidenbenz, arxiv:2508.05883
 
 * [Quantum criticality and nonequilibrium dynamics on a Lieb lattice of Rydberg atoms](https://arxiv.org/abs/2508.05737), Mark R. Hirsbrunner, Milan Kornjača, Rhine Samajdar, Siva Darbha, Majd Hamdan, Jan Balewski, Ermal Rrapaj, Sheng-Tao Wang, Daan Camps, Fangli Liu, Pedro L. S. Lopes, Katherine Klymko, arxiv:2508.05737
