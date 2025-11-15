@@ -2,6 +2,7 @@
 
 <i style="font-size:90%; color:#999999">Please send any papers not listed here to support -at- itensor.org</i>
 
+
 ## 2025
 
 * [Hadronic scattering in (1+1)D SU(2) lattice gauge theory from tensor networks](https://arxiv.org/abs/2511.01801), João Barata, Juan Hormaza, Zhong-Bo Kang, Wenyang Qian, arxiv:2511.01801
