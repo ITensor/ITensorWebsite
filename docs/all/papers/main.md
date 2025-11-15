@@ -4,9 +4,23 @@
 
 ## 2025
 
+* [Hadronic scattering in (1+1)D SU(2) lattice gauge theory from tensor networks](https://arxiv.org/abs/2511.01801), João Barata, Juan Hormaza, Zhong-Bo Kang, Wenyang Qian, arxiv:2511.01801
+
+* [Superconductivity of bilayer two-orbital Hubbard model for La$_{3}$Ni$_{2}$O$_{7}$ under high pressure](https://arxiv.org/abs/2511.00154), Wei-Yang Chen, Cui-Qun Chen, Meng Wang, Shou-Shu Gong, Dao-Xin Yao, arxiv:2511.00154
+
+* [Quantum Hall correlations in tilted extended Bose-Hubbard chains](https://arxiv.org/abs/2510.27685), Hrushikesh Sable, Subrata Das, Vito W. Scarola, arxiv:2510.27685
+
+* [Room-Temperature Quantum Simulation with Atomically Thin Nuclear Spin Layers in Diamond](https://arxiv.org/abs/2510.27374), Philipp J. Vetter, Christoph Findler, Antonio Verdú, Matthias Kost, Rémi Blinder, Jens Fuhrmann, Christian Osterkamp, Johannes Lang, Martin B. Plenio, Javier Prior, Fedor Jelezko, arxiv:2510.27374
+
+* [Superdiffusion and anomalous fluctuations in chiral integrable dynamics](https://arxiv.org/abs/2510.26897), Cristiano Muzzi, Devendra Singh Bhakuni, Marcello Dalmonte, Lenart Zadnik, Hernan B. Xavier, arxiv:2510.26897
+
+* [A Comprehensive Stress Test of Truncated Hilbert Space Bases against Green's function Monte Carlo in U(1) Lattice Gauge Theory](https://arxiv.org/abs/2510.27611), Timo Jakobs, Marco Garofalo, Tobias Hartung, Karl Jansen, Paul Ludwig, Johann Ostmeyer, Simone Romiti, Carsten Urbach, arxiv:2510.27611
+
 * [Implementation of Enhanced Multivariance Products Representation for Multiway Arrays](https://doi.org/10.22059/jac.2025.394087.1228), Cosar Gozukirmizi, Journal[Journal of Algorithms and Computation,58,96-111,https://doi.org/10.22059/jac.2025.394087.1228] (2025)
 
 * [Edge Reconstruction in a Quantum Spin Hall Insulator](https://arxiv.org/abs/2508.10726), Rahul Soni, Matthias Thamm, Gonzalo Alvarez, Bernd Rosenow, Adrian Del Maestro, arxiv:2508.10726
+
+* [Scalable accuracy gains from postselection in quantum error correcting codes](https://arxiv.org/abs/2510.05222), Hongkun Chen, Daohong Xu, Grace M. Sommers, David A. Huse, Jeff D. Thompson, Sarang Gopalakrishnan, arxiv:2510.05222
 
 * [Semi-Dirac spin liquids and frustrated quantum magnetism on the trellis lattice](https://arxiv.org/abs/2509.02663), Sourin Chatterjee, Atanu Maity, Janik Potten, Tobias Müller, Andreas Feuerpfeil, Ronny Thomale, Karlo Penc, Harald O. Jeschke, Rhine Samajdar, Yasir Iqbal, arxiv:2509.02663
 
@@ -2542,7 +2556,7 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 
 
 <!--
-171 papers in 2025
+181 papers in 2025
 242 papers in 2024
 210 papers in 2023
 139 papers in 2022
@@ -2558,5 +2572,5 @@ Pavel A. Volkov, Snir Gazit, J. H. Pixley, arxiv:1910.03589
 2 in 2012
 3 in 2009-2011
 --------------
-1232 total (through 2024)
+1242 total (through 2024)
 -->
