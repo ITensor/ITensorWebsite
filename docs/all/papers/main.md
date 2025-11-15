@@ -16,7 +16,7 @@
 
 * [A Comprehensive Stress Test of Truncated Hilbert Space Bases against Green's function Monte Carlo in U(1) Lattice Gauge Theory](https://arxiv.org/abs/2510.27611), Timo Jakobs, Marco Garofalo, Tobias Hartung, Karl Jansen, Paul Ludwig, Johann Ostmeyer, Simone Romiti, Carsten Urbach, arxiv:2510.27611
 
-* [Implementation of Enhanced Multivariance Products Representation for Multiway Arrays](https://doi.org/10.22059/jac.2025.394087.1228), Cosar Gozukirmizi, Journal[J. of Algorithms and Computation,58,96-111,https://doi.org/10.22059/jac.2025.394087.1228] (2025)
+* [Implementation of Enhanced Multivariance Products Representation for Multiway Arrays](https://doi.org/10.22059/jac.2025.394087.1228), Cosar Gozukirmizi, Journal[J. of Algorithms and Computation,58,96,https://doi.org/10.22059/jac.2025.394087.1228] (2025)
 
 * [Edge Reconstruction in a Quantum Spin Hall Insulator](https://arxiv.org/abs/2508.10726), Rahul Soni, Matthias Thamm, Gonzalo Alvarez, Bernd Rosenow, Adrian Del Maestro, arxiv:2508.10726
 
