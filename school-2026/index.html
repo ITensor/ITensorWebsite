@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/img/favicon.ico"/>
+    <title>ITensor School 2026</title>
+    <link rel="stylesheet" href="/css/mystyles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+    /* Page-specific tweaks; colors come from the site theme ($it-blue, $it-gold) */
+    .hero.is-primary .subtitle { margin-top: 0.5rem; }
+    .info-box { height: 100%; }
+    .info-box .heading { color: #4F7CB8; font-weight: 700; letter-spacing: 1px; }
+    .agenda-day { margin-bottom: 2.5rem; }
+    .agenda-day .day-title { border-bottom: 3px solid #F7CC56; padding-bottom: 0.4rem; margin-bottom: 1rem; }
+    .agenda td { vertical-align: middle; }
+    .agenda .time { white-space: nowrap; font-variant-numeric: tabular-nums; width: 9.5rem; color: #4a4a4a; }
+    .agenda .kind { width: 7.5rem; }
+    .agenda tr.break td { background-color: #f8f8f8; color: #7a7a7a; }
+    .agenda .details { font-size: 0.85em; color: #7a7a7a; }
+    /* Session colors: lecture = ITensor blue, hands-on = red, posters = gold, talk = green */
+    .tag.is-lecture { background-color: #4F7CB8; color: #fff; }
+    .tag.is-handson { background-color: #C8312B; color: #fff; }
+    .tag.is-poster  { background-color: #F7CC56; color: #363636; }
+    .tag.is-talk    { background-color: #5B8C2A; color: #fff; }
+    .tag.is-break   { background-color: #ececec; color: #7a7a7a; }
+    .agenda .lecture { color: #4F7CB8; font-weight: 700; }
+    .agenda .handson { color: #C8312B; font-weight: 700; }
+    .agenda .poster  { color: #B8901F; font-weight: 700; }
+    .agenda .talk    { color: #5B8C2A; font-weight: 700; }
+    .legend .tag { margin-right: 0.4rem; }
+    .photo-thumb { border: 1px solid black; background-color: white; padding: 4px; margin: 4px; }
+    </style>
+  </head>
+  <body>
+
+  <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item">
+      <a href="/" class="navbar-item has-text-weight-bold">ITensor</a>
+    </a>
+
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start">
+
+      <div onclick="" class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Documentation
+        </a>
+
+        <div class="navbar-dropdown">
+          <a href="https://docs.itensor.org" class="navbar-item">
+            Julia (Recommended)
+          </a>
+          <a href="/docs.cgi" class="navbar-item">
+            C++
+          </a>
+          <a href="https://www.scipost.org/SciPostPhysCodeb.4" class="navbar-item">
+            ITensor Paper
+          </a>
+        </div>
+      </div>
+
+      <a href="/news/" class="navbar-item">
+        News
+      </a>
+
+      <a href="/codes/" class="navbar-item">
+        Codes
+      </a>
+
+      <a href="https://itensor.discourse.group" class="navbar-item">
+        Discuss
+      </a>
+
+      <div onclick="" class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          About
+        </a>
+
+        <div class="navbar-dropdown">
+          <a href="/about/" class="navbar-item">
+            About ITensor
+          </a>
+          <a href="/citing/" class="navbar-item">
+            Citing ITensor
+          </a>
+          <a href="/faq/" class="navbar-item">
+            Frequently Asked Questions (FAQ)
+          </a>
+          <a href="http://itensor.org/docs.cgi?page=papers" class="navbar-item">
+            Papers Using ITensor
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+  </nav>
+
+  <!--
+
+    Top Banner
+
+  -->
+  <section class="hero is-small is-primary">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <p class="title">
+        ITensor School 2026
+      </p>
+      <p>
+      <!--<img style="height:100px;" src="/img/ITensorMan_square_alpha.png"/>-->
+        <img style="height:100px;" src="/school-2026/ITensorSchoolImage.png"/>
+      </p>
+      <p class="subtitle">
+        Two days of lectures and hands-on coding with ITensors.jl and ITensorMPS.jl
+        <br/>
+        September 21&ndash;22, 2026 &middot; Flatiron Institute, New York
+      </p>
+    </div>
+  </div>
+  </section>
+
+  <!--
+
+    Key Information
+
+  -->
+  <section class="section"><div class="container is-max-desktop">
+
+    <div class="columns">
+      <div class="column">
+        <div class="box info-box">
+          <p class="heading">When</p>
+          <p class="content">
+            Monday, September 21 &amp; Tuesday, September 22, 2026<br/>
+            9:00 am &ndash; 5:30 pm each day
+          </p>
+        </div>
+      </div>
+      <div class="column">
+        <div class="box info-box">
+          <p class="heading">Where</p>
+          <p class="content">
+            Flatiron Institute, 2nd Floor Auditorium<br/>
+            162 Fifth Avenue, New York, NY
+          </p>
+        </div>
+      </div>
+      <div class="column">
+        <div class="box info-box">
+          <p class="heading">Before You Arrive</p>
+          <p class="content">
+            <a href="https://github.com/ITensor/ITensorSchool-2026/tree/main/Tutorials/Day1#installation-instructions">Install Julia and the tutorials</a>
+            on your laptop, then browse the
+            <a href="https://github.com/ITensor/ITensorSchool-2026/tree/main/Tutorials">tutorial codes on Github</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <p class="content">
+    The ITensor School is a hands-on introduction to tensor network methods and the ITensor software,
+    taught by the ITensor developers. Lectures cover matrix product states and DMRG, time evolution,
+    the internals of ITensors.jl, quantics tensor trains and learning with MPS, and tensor networks
+    beyond one dimension. Each lecture block is followed by a hands-on session where you run and
+    modify real ITensor code, and participants introduce their own research in short poster intros.
+    </p>
+
+  </div></section>
+
+  <!--
+
+    Agenda
+
+  -->
+  <section class="section" style="padding-top: 0;"><div class="container is-max-desktop">
+
+    <h2 class="title is-3 has-text-weight-bold">Agenda</h2>
+    <p class="content">
+      Lectures are 45 minutes plus 15 minutes for questions. Slides will be linked from each
+      lecture as the school proceeds.
+    </p>
+    <p class="content legend">
+      <span class="tag is-lecture">Lecture</span>
+      <span class="tag is-handson">Hands-On</span>
+      <span class="tag is-poster">Posters</span>
+      <span class="tag is-talk">Talk</span>
+      <span class="tag is-break">Break</span>
+    </p>
+
+    <!-- To add slides to a lecture, append inside the session cell:
+         <span class="details">[<a href="Slides/01_MPS_and_DMRG.pdf">Slides</a>]</span> -->
+
+    <div class="agenda-day">
+      <h3 class="title is-4 day-title">Monday, September 21</h3>
+      <div class="table-container">
+      <table class="table is-fullwidth is-hoverable agenda">
+        <tbody>
+          <tr>
+            <td class="time">9:00 &ndash; 9:30 am</td>
+            <td class="kind"></td>
+            <td>Welcome &amp; Introduction</td>
+          </tr>
+          <tr>
+            <td class="time">9:30 &ndash; 10:30 am</td>
+            <td class="kind"><span class="tag is-lecture">Lecture</span></td>
+            <td><span class="lecture">Tensor Networks, MPS and MPO, DMRG</span> <span class="details">(with demos)</span></td>
+          </tr>
+          <tr>
+            <td class="time">10:30 &ndash; 11:30 am</td>
+            <td class="kind"><span class="tag is-lecture">Lecture</span></td>
+            <td><span class="lecture">ITensors.jl and Running DMRG</span></td>
+          </tr>
+          <tr class="break">
+            <td class="time">11:30 am &ndash; 12:00 pm</td>
+            <td class="kind"><span class="tag is-break">Break</span></td>
+            <td>Coffee Break</td>
+          </tr>
+          <tr>
+            <td class="time">12:00 &ndash; 1:00 pm</td>
+            <td class="kind"><span class="tag is-handson">Hands-On</span></td>
+            <td><span class="handson">Hands-On Session #1</span></td>
+          </tr>
+          <tr class="break">
+            <td class="time">1:00 &ndash; 2:00 pm</td>
+            <td class="kind"><span class="tag is-break">Break</span></td>
+            <td>Lunch &amp; Discussion Time</td>
+          </tr>
+          <tr>
+            <td class="time">2:00 &ndash; 2:30 pm</td>
+            <td class="kind"><span class="tag is-poster">Posters</span></td>
+            <td><span class="poster">Poster Intros #1</span></td>
+          </tr>
+          <tr>
+            <td class="time">2:30 &ndash; 2:50 pm</td>
+            <td class="kind"><span class="tag is-talk">Talk</span></td>
+            <td><span class="talk">Lukas Devos</span></td>
+          </tr>
+          <tr class="break">
+            <td class="time">2:50 &ndash; 3:00 pm</td>
+            <td class="kind"><span class="tag is-break">Break</span></td>
+            <td>Break</td>
+          </tr>
+          <tr>
+            <td class="time">3:00 &ndash; 4:00 pm</td>
+            <td class="kind"><span class="tag is-lecture">Lecture</span></td>
+            <td><span class="lecture">Time Evolution and Measurement</span></td>
+          </tr>
+          <tr>
+            <td class="time">4:00 &ndash; 5:30 pm</td>
+            <td class="kind"><span class="tag is-handson">Hands-On</span></td>
+            <td><span class="handson">Hands-On Session #2</span></td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
+    </div>
+
+    <div class="agenda-day">
+      <h3 class="title is-4 day-title">Tuesday, September 22</h3>
+      <div class="table-container">
+      <table class="table is-fullwidth is-hoverable agenda">
+        <tbody>
+          <tr>
+            <td class="time">9:00 &ndash; 9:30 am</td>
+            <td class="kind"><span class="tag is-poster">Posters</span></td>
+            <td><span class="poster">Poster Intros #2</span></td>
+          </tr>
+          <tr>
+            <td class="time">9:30 &ndash; 10:30 am</td>
+            <td class="kind"><span class="tag is-lecture">Lecture</span></td>
+            <td><span class="lecture">ITensors.jl Under the Hood</span> <span class="details">(tensors, decompositions, etc.)</span></td>
+          </tr>
+          <tr>
+            <td class="time">10:30 &ndash; 11:30 am</td>
+            <td class="kind"><span class="tag is-lecture">Lecture</span></td>
+            <td><span class="lecture">Continuum Functions (QTT) and Learning MPS</span></td>
+          </tr>
+          <tr class="break">
+            <td class="time">11:30 am &ndash; 12:00 pm</td>
+            <td class="kind"><span class="tag is-break">Break</span></td>
+            <td>Coffee Break</td>
+          </tr>
+          <tr>
+            <td class="time">12:00 &ndash; 1:00 pm</td>
+            <td class="kind"><span class="tag is-handson">Hands-On</span></td>
+            <td><span class="handson">Hands-On Session #3</span></td>
+          </tr>
+          <tr class="break">
+            <td class="time">1:00 &ndash; 2:00 pm</td>
+            <td class="kind"><span class="tag is-break">Break</span></td>
+            <td>Lunch &amp; Discussion Time</td>
+          </tr>
+          <tr>
+            <td class="time">2:00 &ndash; 2:20 pm</td>
+            <td class="kind"><span class="tag is-talk">Talk</span></td>
+            <td><span class="talk">Jack Dunham</span></td>
+          </tr>
+          <tr class="break">
+            <td class="time">2:20 &ndash; 2:30 pm</td>
+            <td class="kind"><span class="tag is-break">Break</span></td>
+            <td>Break</td>
+          </tr>
+          <tr>
+            <td class="time">2:30 &ndash; 3:30 pm</td>
+            <td class="kind"><span class="tag is-lecture">Lecture</span></td>
+            <td><span class="lecture">Tensor Networks Beyond One Dimension</span></td>
+          </tr>
+          <tr>
+            <td class="time">3:30 &ndash; 5:00 pm</td>
+            <td class="kind"><span class="tag is-handson">Hands-On</span></td>
+            <td><span class="handson">Hands-On Session #4</span></td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
+    </div>
+
+  </div></section>
+
+  <!--
+
+    Hands-On Materials
+
+  -->
+  <section class="section" style="padding-top: 0;"><div class="container is-max-desktop">
+
+    <h2 class="title is-3 has-text-weight-bold">Hands-On Tutorial Codes</h2>
+    <p class="content">
+      All hands-on sessions use the tutorial codes in the
+      <a href="https://github.com/ITensor/ITensorSchool-2026/tree/main/Tutorials">ITensorSchool-2026 Github repository</a>.
+      Please follow the
+      <a href="https://github.com/ITensor/ITensorSchool-2026/tree/main/Tutorials/Day1#installation-instructions">installation instructions</a>
+      before the school begins so you are ready to code on day one.
+    </p>
+
+  </div></section>
+
+  <!--
+
+    Previous School
+
+  -->
+  <section class="section" style="padding-top: 0;"><div class="container is-max-desktop">
+
+    <h2 class="title is-3 has-text-weight-bold">Previous Schools</h2>
+    <p class="content">
+      Slides and photos from the <a href="/school-2025/">ITensor CCQ School 2025</a> are available online.
+    </p>
+    <div class="columns is-vcentered">
+      <div class="column has-text-centered">
+        <a href="/school-2025/"><img class="photo-thumb" width="300px" src="/school-2025/Photos/Classroom.jpeg"/></a>
+      </div>
+      <div class="column has-text-centered">
+        <a href="/school-2025/"><img class="photo-thumb" width="300px" src="/school-2025/Photos/HandsOn.jpeg"/></a>
+      </div>
+    </div>
+
+  </div></section>
+
+  <br/>
+  <br/>
+  <footer class="footer">
+  <div class="content has-text-centered">
+    <p>
+      <a href="https://github.com/ITensor/ITensors.jl">ITensor Source on Github</a>
+      &middot; 
+      <a href="https://twitter.com/itensorlib">Twitter @ITensorLib</a>
+      &middot; 
+      <a href="https://github.com/ITensor/ITensorWebsite">Website Source on Github</a>
+      <br/>
+      &copy; 2026 ITensor Collaboration. 
+    </p>
+  </div>
+</footer>
+
+
+  </body>
+
+<script>
+$(document).ready(function() {
+
+  // Check for click events on the navbar burger icon
+  $(".navbar-burger").click(function() {
+
+      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+      $(".navbar-burger").toggleClass("is-active");
+      $(".navbar-menu").toggleClass("is-active");
+
+  });
+});
+</script>
+
+
+
+</html>
